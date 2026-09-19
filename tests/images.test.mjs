@@ -8,11 +8,30 @@ import os from 'node:os';
 import {validateStore} from '../scripts/catalog.mjs';
 import {auditImages} from '../scripts/audit-images.mjs';
 const base=JSON.parse(await readFile('data/store.json','utf8'));
+test('las referencias sin foto no afirman una identificación fotográfica',()=>{
+  for(const p of base.products.filter(p=>!p.image)) {
+    assert.doesNotMatch(p.description,/identificada en foto real|Imagen correspondiente a la familia/i,p.slug);
+  }
+});
 const bytes=Buffer.from([255,216,255,224,1,2,3,4]);
 const hash=createHash('sha256').update(bytes).digest('hex');
 const product={...base.products[0],image:'/assets/photos/test.jpg'};
 const proof={name:product.name,image:product.image,evidence:'Fixture de prueba, no inventario real',sha256:hash};
 const fixture=()=>({...base,products:[{...product}],verifiedImages:[{...proof}]});
+test('imágenes oficiales comparten capacidad, pero nunca otro modelo ni una fuente falsa',()=>{
+  const first=base.verifiedImages.find(v=>v.name==='iPhone 15 128 GB');
+  const second=base.verifiedImages.find(v=>v.name==='iPhone 15 256 GB');
+  assert.equal(first.image,second.image);
+  assert.doesNotThrow(()=>validateStore({...base,verifiedImages:[first,second],products:[]}));
+  for(const change of [{name:'iPhone 15 Pro 256 GB'},{sourceUrl:'https://example.com/fake'},{sourceImageUrl:'https://cdsassets.apple.com.evil.test/fake.png'}]) {
+    assert.throws(()=>validateStore({...base,verifiedImages:[first,{...second,...change}],products:[]}));
+  }
+});
+test('cada variante con ruta compartida conserva su propia huella verificada',async()=>{
+  const store=structuredClone(base);
+  store.verifiedImages.find(v=>v.name==='iPhone 15 128 GB').sha256='0'.repeat(64);
+  await assert.rejects(()=>auditImages(store),/modificada/);
+});
 async function directory(){const root=await mkdtemp(path.join(os.tmpdir(),'fox-image-test-'));await mkdir(path.join(root,'assets/photos'),{recursive:true});await writeFile(path.join(root,'assets/photos/test.jpg'),bytes);return root;}
 
 test('auditoría verifica el catálogo actual y conserva los pendientes',async()=>{
