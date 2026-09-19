@@ -8375,7 +8375,7 @@
       "platform": "PS2",
       "condition": "Usado",
       "format": "Físico",
-      "price": 125000,
+      "price": 89000,
       "availability": "inquiry",
       "conditionNotes": "Referencia en condición usada para consulta. Solicita fotos reales de la unidad y confirma su estado y funcionamiento.",
       "includes": "Confirma disco de juego, caja, manual y cualquier disco adicional. La portada no acredita contenidos incluidos.",
@@ -8383,11 +8383,15 @@
       "image": "/assets/photos/classic-god-of-war-ii-ps2.jpg",
       "classicGame": true,
       "marketSource": {
-        "kind": "owner-authorized-estimate",
+        "kind": "public-listing-reference",
         "reviewedAt": "2026-09-19",
-        "baseCOP": 139900,
+        "baseCOP": 99900,
         "discountFromReference": 0.1,
-        "note": "Precio comercial estimado para juego físico usado, autorizado por el propietario. No es una cotización verificada ni una afirmación de ser 10% inferior al mercado. Costos y existencias no confirmados."
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/god-of-war-ps2-original",
+        "listingTitle": "God Of War 2 Playstation 2 Ps2 Original",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
       }
     },
     {
@@ -8399,7 +8403,7 @@
       "platform": "PS2",
       "condition": "Usado",
       "format": "Físico",
-      "price": 89000,
+      "price": 45000,
       "availability": "inquiry",
       "conditionNotes": "Referencia en condición usada para consulta. Solicita fotos reales de la unidad y confirma su estado y funcionamiento.",
       "includes": "Confirma disco de juego, caja, manual y cualquier disco adicional. La portada no acredita contenidos incluidos.",
@@ -8407,11 +8411,15 @@
       "image": "/assets/photos/classic-gran-turismo-4-ps2.jpg",
       "classicGame": true,
       "marketSource": {
-        "kind": "owner-authorized-estimate",
+        "kind": "public-listing-reference",
         "reviewedAt": "2026-09-19",
-        "baseCOP": 99900,
+        "baseCOP": 50000,
         "discountFromReference": 0.1,
-        "note": "Precio comercial estimado para juego físico usado, autorizado por el propietario. No es una cotización verificada ni una afirmación de ser 10% inferior al mercado. Costos y existencias no confirmados."
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/franquicia-gran-turismo/gran-turismo-4/usado/",
+        "listingTitle": "Videojuego Gran Turismo 4 Para Play Station 2",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
       }
     },
     {
@@ -8519,7 +8527,7 @@
       "platform": "Xbox 360",
       "condition": "Usado",
       "format": "Físico",
-      "price": 62000,
+      "price": 49000,
       "availability": "inquiry",
       "conditionNotes": "Referencia en condición usada para consulta. Solicita fotos reales de la unidad y confirma su estado y funcionamiento.",
       "includes": "Confirma disco de juego, caja, manual y cualquier disco adicional. La portada no acredita contenidos incluidos.",
@@ -8527,11 +8535,15 @@
       "image": "/assets/photos/classic-halo-3-xbox-360.jpg",
       "classicGame": true,
       "marketSource": {
-        "kind": "owner-authorized-estimate",
+        "kind": "public-listing-reference",
         "reviewedAt": "2026-09-19",
-        "baseCOP": 69900,
+        "baseCOP": 55000,
         "discountFromReference": 0.1,
-        "note": "Precio comercial estimado para juego físico usado, autorizado por el propietario. No es una cotización verificada ni una afirmación de ser 10% inferior al mercado. Costos y existencias no confirmados."
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/franquicia-halo/usado/es-linea/",
+        "listingTitle": "Juego Halo 3 Xbox 360 Physical Media | Microsoft Bungie",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
       }
     },
     {
@@ -8543,7 +8555,7 @@
       "platform": "Xbox 360",
       "condition": "Usado",
       "format": "Físico",
-      "price": 62000,
+      "price": 43000,
       "availability": "inquiry",
       "conditionNotes": "Referencia en condición usada para consulta. Solicita fotos reales de la unidad y confirma su estado y funcionamiento.",
       "includes": "Confirma disco de juego, caja, manual y cualquier disco adicional. La portada no acredita contenidos incluidos.",
@@ -8551,11 +8563,15 @@
       "image": "/assets/photos/classic-gears-of-war-3-xbox-360.png",
       "classicGame": true,
       "marketSource": {
-        "kind": "owner-authorized-estimate",
+        "kind": "public-listing-reference",
         "reviewedAt": "2026-09-19",
-        "baseCOP": 69900,
+        "baseCOP": 48000,
         "discountFromReference": 0.1,
-        "note": "Precio comercial estimado para juego físico usado, autorizado por el propietario. No es una cotización verificada ni una afirmación de ser 10% inferior al mercado. Costos y existencias no confirmados."
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/gears-of-war-3/usado/",
+        "listingTitle": "Gears Of War 3 Xbox 360",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
       }
     },
     {

@@ -1,40 +1,50 @@
 {
   "reviewedAt": "2026-09-19",
-  "notice": "Portadas de referencia del título y plataforma, no fotografías de existencias. Precios comerciales estimados autorizados; no cotizaciones de mercado comprobadas. Todos los productos continúan con disponibilidad por confirmar.",
+  "notice": "Portadas de referencia, no fotografías de existencias. Los registros con public-listing-reference usan anuncios públicos indexados; los demás conservan estimaciones comerciales autorizadas. Consulta la fuente individual de cada precio. Disponibilidad pendiente de confirmar.",
   "records": [
     {
       "slug": "god-of-war-ii-ps2-usado",
       "name": "God of War II · PS2",
       "platform": "PS2",
       "condition": "Usado",
-      "price": 125000,
+      "price": 89000,
       "marketSource": {
-        "kind": "owner-authorized-estimate",
+        "kind": "public-listing-reference",
         "reviewedAt": "2026-09-19",
-        "baseCOP": 139900,
+        "baseCOP": 99900,
         "discountFromReference": 0.1,
-        "note": "Precio comercial estimado para juego físico usado, autorizado por el propietario. No es una cotización verificada ni una afirmación de ser 10% inferior al mercado. Costos y existencias no confirmados."
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/god-of-war-ps2-original",
+        "listingTitle": "God Of War 2 Playstation 2 Ps2 Original",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
       },
       "image": "/assets/photos/classic-god-of-war-ii-ps2.jpg",
       "sourceUrl": "https://en.wikipedia.org/wiki/God_of_War_II",
-      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/25/God_of_War_II_cover.jpg/250px-God_of_War_II_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/25/God_of_War_II_cover.jpg/250px-God_of_War_II_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "previousPrice": 125000
     },
     {
       "slug": "gran-turismo-4-ps2-usado",
       "name": "Gran Turismo 4 · PS2",
       "platform": "PS2",
       "condition": "Usado",
-      "price": 89000,
+      "price": 45000,
       "marketSource": {
-        "kind": "owner-authorized-estimate",
+        "kind": "public-listing-reference",
         "reviewedAt": "2026-09-19",
-        "baseCOP": 99900,
+        "baseCOP": 50000,
         "discountFromReference": 0.1,
-        "note": "Precio comercial estimado para juego físico usado, autorizado por el propietario. No es una cotización verificada ni una afirmación de ser 10% inferior al mercado. Costos y existencias no confirmados."
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/franquicia-gran-turismo/gran-turismo-4/usado/",
+        "listingTitle": "Videojuego Gran Turismo 4 Para Play Station 2",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
       },
       "image": "/assets/photos/classic-gran-turismo-4-ps2.jpg",
       "sourceUrl": "https://en.wikipedia.org/wiki/Gran_Turismo_4",
-      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/06/Gran_Turismo_4.jpg/250px-Gran_Turismo_4.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/06/Gran_Turismo_4.jpg/250px-Gran_Turismo_4.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "previousPrice": 89000
     },
     {
       "slug": "shadow-of-the-colossus-ps2-usado",
@@ -109,34 +119,44 @@
       "name": "Halo 3 · Xbox 360",
       "platform": "Xbox 360",
       "condition": "Usado",
-      "price": 62000,
+      "price": 49000,
       "marketSource": {
-        "kind": "owner-authorized-estimate",
+        "kind": "public-listing-reference",
         "reviewedAt": "2026-09-19",
-        "baseCOP": 69900,
+        "baseCOP": 55000,
         "discountFromReference": 0.1,
-        "note": "Precio comercial estimado para juego físico usado, autorizado por el propietario. No es una cotización verificada ni una afirmación de ser 10% inferior al mercado. Costos y existencias no confirmados."
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/franquicia-halo/usado/es-linea/",
+        "listingTitle": "Juego Halo 3 Xbox 360 Physical Media | Microsoft Bungie",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
       },
       "image": "/assets/photos/classic-halo-3-xbox-360.jpg",
       "sourceUrl": "https://en.wikipedia.org/wiki/Halo_3",
-      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b4/Halo_3_final_boxshot.JPG/250px-Halo_3_final_boxshot.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b4/Halo_3_final_boxshot.JPG/250px-Halo_3_final_boxshot.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "previousPrice": 62000
     },
     {
       "slug": "gears-of-war-3-xbox-360-usado",
       "name": "Gears of War 3 · Xbox 360",
       "platform": "Xbox 360",
       "condition": "Usado",
-      "price": 62000,
+      "price": 43000,
       "marketSource": {
-        "kind": "owner-authorized-estimate",
+        "kind": "public-listing-reference",
         "reviewedAt": "2026-09-19",
-        "baseCOP": 69900,
+        "baseCOP": 48000,
         "discountFromReference": 0.1,
-        "note": "Precio comercial estimado para juego físico usado, autorizado por el propietario. No es una cotización verificada ni una afirmación de ser 10% inferior al mercado. Costos y existencias no confirmados."
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/gears-of-war-3/usado/",
+        "listingTitle": "Gears Of War 3 Xbox 360",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
       },
       "image": "/assets/photos/classic-gears-of-war-3-xbox-360.png",
       "sourceUrl": "https://en.wikipedia.org/wiki/Gears_of_War_3",
-      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/dc/Gears_of_War_3_box_artwork.png/250px-Gears_of_War_3_box_artwork.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/dc/Gears_of_War_3_box_artwork.png/250px-Gears_of_War_3_box_artwork.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "previousPrice": 62000
     },
     {
       "slug": "forza-motorsport-4-xbox-360-usado",
