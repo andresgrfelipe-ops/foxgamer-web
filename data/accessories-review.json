@@ -157,5 +157,42 @@
     "https://www.logitechg.com/en-us/shop/p/g923-trueforce-sim-racing-wheel",
     "https://www.thrustmaster.com/en-us/products/t300rs-gt-edition/",
     "https://www.playstation.com/es-co/ps-vr2/"
-  ]
+  ],
+  "expansion": {
+    "reviewedAt": "2026-09-19T18:43:57.126Z",
+    "currency": "COP",
+    "method": "10% por debajo de la oferta nueva del mismo modelo y color/capacidad, redondeado hacia abajo a 1.000 COP. Disponibilidad del proveedor no equivale a stock FOX GAMER.",
+    "products": [
+      {
+        "slug": "playstation-portal-midnight-black-nuevo",
+        "name": "PlayStation Portal Midnight Black",
+        "image": "/assets/photos/img_2288.webp",
+        "sourceUrl": "https://gamer4ever.com.co/products/accesorio-control-ps5-portatil-portal-remote-player-sony-negra-midnight-playstation",
+        "referencePrice": 1369900,
+        "sourceAvailable": true,
+        "condition": "Nuevo",
+        "price": 1232000
+      },
+      {
+        "slug": "sony-pulse-elite-blanco-nuevo",
+        "name": "Audífonos Sony PULSE Elite blancos",
+        "image": "/assets/photos/img_2293.webp",
+        "sourceUrl": "https://www.alkomprar.com/audifonos-diadema-playstation-ps5-inalambricos-bluetooth/p/711719598268",
+        "referencePrice": 548900,
+        "sourceAvailable": true,
+        "condition": "Nuevo",
+        "price": 494000
+      },
+      {
+        "slug": "meta-quest-3s-256gb-nuevo",
+        "name": "Meta Quest 3S 256 GB",
+        "image": "/assets/photos/img_2289.webp",
+        "sourceUrl": "https://sigmatiendas.com/es-co/products/realidad-virtual-meta-quest-3s-256-gb",
+        "referencePrice": 2481000,
+        "sourceAvailable": true,
+        "condition": "Nuevo",
+        "price": 2232000
+      }
+    ]
+  }
 }

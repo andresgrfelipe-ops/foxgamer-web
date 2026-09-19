@@ -8615,6 +8615,54 @@
         "discountFromReference": 0.1,
         "note": "Precio comercial estimado para juego físico usado, autorizado por el propietario. No es una cotización verificada ni una afirmación de ser 10% inferior al mercado. Costos y existencias no confirmados."
       }
+    },
+    {
+      "slug": "playstation-portal-midnight-black-nuevo",
+      "name": "PlayStation Portal Midnight Black",
+      "description": "Reproductor remoto PlayStation Portal en color negro Midnight Black. Juega a títulos compatibles de tu PS5 mediante Uso a distancia con conexión Wi-Fi. Confirma contenido de la unidad y disponibilidad.",
+      "category": "accesorios",
+      "brand": "Sony",
+      "condition": "Nuevo",
+      "price": 1232000,
+      "availability": "inquiry",
+      "conditionNotes": "Oferta para producto nuevo; confirma existencia y garantía antes de comprar.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/img_2288.webp",
+      "importedCatalog": false,
+      "compatibility": "Uso a distancia con PS5 y conexión Wi-Fi. Requiere consola PS5 y juegos compatibles; la consola se vende por separado."
+    },
+    {
+      "slug": "sony-pulse-elite-blanco-nuevo",
+      "name": "Audífonos Sony PULSE Elite blancos",
+      "description": "Audífonos inalámbricos Sony PULSE Elite en color blanco. Una opción para acompañar tus partidas y conversaciones. Confirma adaptador, contenido de la caja y disponibilidad antes de comprar.",
+      "category": "accesorios",
+      "brand": "Sony",
+      "condition": "Nuevo",
+      "price": 494000,
+      "availability": "inquiry",
+      "conditionNotes": "Oferta para producto nuevo; confirma existencia y garantía antes de comprar.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/img_2293.webp",
+      "importedCatalog": false,
+      "compatibility": "PS5 y PC/Mac mediante PlayStation Link; dispositivos móviles compatibles mediante Bluetooth. Confirma los adaptadores incluidos."
+    },
+    {
+      "slug": "meta-quest-3s-256gb-nuevo",
+      "name": "Meta Quest 3S 256 GB",
+      "description": "Visor Meta Quest 3S con 256 GB de almacenamiento. Explora juegos y experiencias compatibles de realidad virtual y mixta. Confirma contenido de la unidad y disponibilidad; los juegos se consultan por separado.",
+      "category": "accesorios",
+      "brand": "Meta",
+      "condition": "Nuevo",
+      "price": 2232000,
+      "availability": "inquiry",
+      "conditionNotes": "Oferta para producto nuevo; confirma existencia y garantía antes de comprar.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/img_2289.webp",
+      "importedCatalog": false,
+      "compatibility": "Aplicaciones y juegos compatibles con Meta Quest 3S. Confirma los requisitos de cuenta y conexión de cada experiencia."
     }
   ],
   "gallery": [
@@ -8745,7 +8793,7 @@
       "source": "IMG_2373.jpg"
     },
     {
-      "title": "Audífonos Pulse Elite",
+      "title": "Audífonos Sony PULSE Elite blancos",
       "category": "accesorios",
       "image": "/assets/photos/img_2293.webp",
       "large": "/assets/photos/img_2293-large.webp",
@@ -8759,7 +8807,7 @@
       "source": "IMG_2291.jpg"
     },
     {
-      "title": "PlayStation Portal",
+      "title": "PlayStation Portal Midnight Black",
       "category": "accesorios",
       "image": "/assets/photos/img_2288.webp",
       "large": "/assets/photos/img_2288-large.webp",
@@ -8787,14 +8835,14 @@
       "source": "IMG_2460.jpg"
     },
     {
-      "title": "PlayStation Portal",
+      "title": "PlayStation Portal Midnight Black",
       "category": "accesorios",
       "image": "/assets/photos/img_2288.webp",
       "large": "/assets/photos/img_2288-large.webp",
       "source": "IMG_2288.JPG"
     },
     {
-      "title": "Producto por identificar · IMG_2289.JPG",
+      "title": "Meta Quest 3S 256 GB",
       "category": "accesorios",
       "image": "/assets/photos/img_2289.webp",
       "large": "/assets/photos/img_2289-large.webp",
@@ -8822,7 +8870,7 @@
       "source": "IMG_2292.JPG"
     },
     {
-      "title": "Diademas",
+      "title": "Audífonos Sony PULSE Elite blancos",
       "category": "accesorios",
       "image": "/assets/photos/img_2293.webp",
       "large": "/assets/photos/img_2293-large.webp",
@@ -11123,6 +11171,33 @@
       "reviewedAt": "2026-09-19",
       "evidence": "Fotografía original revisada visualmente: cajas Sony DualSense para PS5. Se presentan como selección de colores, sin asegurar color ni estado de una unidad concreta.",
       "sha256": "d2639f71a4ad761a724a306ba4e163e85c0f4decab7d146f6f02dd1f503abc5f"
+    },
+    {
+      "name": "PlayStation Portal Midnight Black",
+      "image": "/assets/photos/img_2288.webp",
+      "kind": "original-photo",
+      "sourceUrl": "https://wa.me/c/573237267448",
+      "reviewedAt": "2026-09-19",
+      "evidence": "Caja original fotografiada en la tienda: PlayStation Portal, reproductor negro y referencia PS5 visibles.",
+      "sha256": "6c8f970dbd76563d77d6913fa9a7cb38464ac4ecfddfd7a6b1962d4ed71473b3"
+    },
+    {
+      "name": "Audífonos Sony PULSE Elite blancos",
+      "image": "/assets/photos/img_2293.webp",
+      "kind": "original-photo",
+      "sourceUrl": "https://wa.me/c/573237267448",
+      "reviewedAt": "2026-09-19",
+      "evidence": "Caja original fotografiada en la tienda: Sony PULSE Elite y diadema blanca identificables; no corresponde al PULSE 3D.",
+      "sha256": "d8dae261437476dad275357326b193a84f88a91558cb946e6f80fa1bc01b1168"
+    },
+    {
+      "name": "Meta Quest 3S 256 GB",
+      "image": "/assets/photos/img_2289.webp",
+      "kind": "original-photo",
+      "sourceUrl": "https://wa.me/c/573237267448",
+      "reviewedAt": "2026-09-19",
+      "evidence": "Caja original fotografiada en la tienda: se leen Meta Quest 3S y 256 GB; no es Quest 3 ni la versión de 128 GB.",
+      "sha256": "7b62679eccfbff71bfb99b8746d0c73c30caf26760cb0522feb0225d394d9bd7"
     }
   ],
   "accessoryGallery": [
@@ -11133,6 +11208,7 @@
     "/assets/photos/img_2288.webp",
     "/assets/photos/img_2459.webp",
     "/assets/photos/img_2295.webp",
-    "/assets/photos/img_2460.webp"
+    "/assets/photos/img_2460.webp",
+    "/assets/photos/img_2289.webp"
   ]
 }
