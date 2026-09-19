@@ -77,3 +77,13 @@ Fuente comercial: data/store.json. Plantillas: scripts/build.mjs. Validación: s
 verifiedImages registra coincidencias exactas revisadas visualmente. Una imagen sin evidencia impide el build. Las fotos pendientes usan image: null; no se sustituyen por fotos de familias parecidas. La foto identifica el modelo, no acredita estado, existencias ni accesorios de la unidad. No ejecutar los antiguos scripts de importación/asignación como parte del build: contienen asignaciones por familia o rotación, precios calculados y datos históricos. El validador bloqueará imágenes fuera del registro.
 
 Ejecutar npm run audit:images, npm run build y npm test. reports/image-review.json conserva por slug la imagen retirada y reports/pending-photos.md enumera referencias pendientes. Los HTML antiguos sin producto actual se regeneran como páginas de consulta no indexables, conservando las URLs. No editar manualmente HTML generado.
+
+## Fase 2: navegación y catálogo
+
+El catálogo conserva todo su HTML para navegar sin JavaScript. Con JavaScript muestra lotes de 24 resultados, búsqueda por palabras (incluye PS4/PS5), condición, disponibilidad y orden; el botón Cargar más mantiene el foco en los nuevos resultados. Los filtros quedan en la URL y se conservan al cambiar de categoría. Las fichas enlazan únicamente variantes con el mismo nombre, marca y categoría. El enlace WhatsApp identifica producto, condición y ficha; nunca procesa un pago.
+
+assets/catalog-model.js contiene las reglas de búsqueda/orden. assets/app.js las conecta con la interfaz. scripts/storefront.mjs genera catálogo y fichas; assets/storefront.css adapta su presentación.
+
+La auditoría se ejecuta también ANTES de escribir HTML en cada build. verifiedImages exige evidencia, ruta raster local y sha256: cambiar el archivo después de verificarlo bloquea el build. También se detectan copias idénticas asignadas a nombres diferentes. Esta comprobación protege la revisión humana; no sustituye identificar visualmente el modelo. Los registros sin foto mantienen image: null. No se añaden disponibilidad, opiniones, garantía ni datos comerciales para completar SEO.
+
+Referencias de implementación: [navegación con disclosure (W3C)](https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/examples/disclosure-navigation/) y [BreadcrumbList (Google)](https://developers.google.com/search/docs/appearance/structured-data/breadcrumb).

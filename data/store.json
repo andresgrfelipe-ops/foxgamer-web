@@ -7795,27 +7795,32 @@
     {
       "name": "ROG Ally",
       "image": "/assets/photos/rog-ally-real.jpg",
-      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad.",
+      "sha256": "2b0286b4e1d0cecd04220a11d3682c8bc0a225dfefbc51d45d9715360ab1cd07"
     },
     {
       "name": "PlayStation 5 edición limitada Spider-Man 2",
       "image": "/assets/photos/ps5-spiderman2-real.jpg",
-      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad.",
+      "sha256": "ec8b74729a2f79c0d3b7e335b186679a9d030fccecc789a7f7faeaf47e5cbc4a"
     },
     {
       "name": "Nintendo Switch OLED",
       "image": "/assets/photos/img_2450.webp",
-      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad.",
+      "sha256": "1ce2b3e4f1a22a5ac4251c80c162fce2fe447e239cd2a1eb73bbeda9051eeabe"
     },
     {
       "name": "Nintendo Switch 2",
       "image": "/assets/photos/img_6489.webp",
-      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad.",
+      "sha256": "23c4b96c20f09e1866ef30b3debd4621e27f5592d1b23dad92c1e0b360eaed55"
     },
     {
       "name": "Marvel’s Spider-Man 2 · PS5",
       "image": "/assets/photos/img_6203.webp",
-      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad.",
+      "sha256": "33523e0b026911ee8b993c296d61526bcfed8756ab6f5e92972d895f2da129ff"
     }
   ]
 }
