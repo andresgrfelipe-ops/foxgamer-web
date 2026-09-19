@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {mkdtemp, mkdir, writeFile, readFile, readdir} from 'node:fs/promises';
 import path from 'node:path';
+import os from 'node:os';
 import {execFileSync} from 'node:child_process';
 import {validateStore,whatsappURL,escapeHTML} from '../scripts/catalog.mjs';
 const base=JSON.parse(await readFile('data/store.json','utf8'));
@@ -20,8 +21,8 @@ test('WhatsApp exige un número y escapa el mensaje',()=>{
  assert.equal(escapeHTML('<img onerror="x">'),'&lt;img onerror=&quot;x&quot;&gt;');
 });
 test('build completo con las tres condiciones y disponibilidad real',async()=>{
- await mkdir('../test-runs',{recursive:true});
- const tmp=await mkdtemp(path.resolve('../test-runs/catalog-'));
+ const tmp=await mkdtemp(path.join(os.tmpdir(),'fox-catalog-'));
+ await mkdir(path.join(tmp,'productos'));
  await mkdir(path.join(tmp,'data'));
  const fixture={...base,whatsapp:'573000000000',products:[
  product,
@@ -63,4 +64,22 @@ test('todas las rutas internas y anclas públicas existen',async()=>{
    if(hash)assert.ok(content.includes('id="'+hash+'"'),'Missing '+href+' in '+page);
   }
  }
+});
+
+test('ninguna fotografía se publica sin correspondencia exacta documentada',()=>{
+ assert.doesNotThrow(()=>validateStore(base));
+ assert.throws(()=>validateStore({...base,products:[{...product,image:'/assets/photos/img_2452.webp'}]}),/verificación exacta/);
+ const verified=base.products.find(p=>p.image);
+ assert.throws(()=>validateStore({...base,products:[{...verified,name:'Otro modelo'}]}),/verificación exacta/);
+});
+test('pendientes visibles y consultas con referencia, condición y ficha',async()=>{
+ const html=await readFile('index.html','utf8');
+ assert.ok(html.includes('Imagen próximamente'));
+ assert.ok(html.indexOf('id="productos"')<html.indexOf('id="gallery-title"'));
+ const p=base.products.find(p=>!p.image);
+ const detail=await readFile('productos/'+p.slug+'/index.html','utf8');
+ const schema=JSON.parse(detail.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);
+ assert.ok(!schema.image);
+ assert.ok(!detail.includes('class="product-visual"><img'));
+ assert.ok(html.includes(encodeURIComponent(p.name+' ('+p.condition+'). '+base.url+'/productos/'+p.slug+'/')));
 });

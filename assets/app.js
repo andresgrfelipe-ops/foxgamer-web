@@ -11,7 +11,9 @@ if(form){
  const grid=document.querySelector('#product-grid'),items=[...grid.querySelectorAll('[data-product]')];
  const empty=document.querySelector('#empty-state'),count=document.querySelector('#result-count');
  const defaultCategory=category.value;
- const normalize=text=>text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('es').trim();
+ const searchIndex=new Map(items.map((item,index)=>[item,{text:normalize(item.dataset.name),index}]));
+ let lastSort='featured';
+ function normalize(text){return text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('es').trim();}
  function apply(){
   const query=normalize(search.value);
   const sorted=[...items].sort((a,b)=>{
@@ -22,14 +24,15 @@ if(form){
     if(b.dataset.price==='')return -1;
     return (Number(a.dataset.price)-Number(b.dataset.price))*(sort.value==='price-desc'?-1:1);
    }
-   return items.indexOf(a)-items.indexOf(b);
+   return searchIndex.get(a).index-searchIndex.get(b).index;
   });
   let visible=0;
   sorted.forEach(item=>{
-   item.hidden=!(normalize(item.dataset.name).includes(query)&&(!category.value||category.value===item.dataset.category)&&(!condition.value||condition.value===item.dataset.condition));
+   item.hidden=!(query.split(/\s+/).every(term=>searchIndex.get(item).text.includes(term))&&(!category.value||category.value===item.dataset.category)&&(!condition.value||condition.value===item.dataset.condition));
    if(!item.hidden)visible++;
-   grid.append(item);
+   if(sort.value!==lastSort)grid.append(item);
   });
+  lastSort=sort.value;
   count.textContent=visible+' '+(visible===1?'producto':'productos');
   empty.hidden=visible>0;
   const params=new URLSearchParams();
@@ -50,7 +53,8 @@ if(form){
   apply();
  }
  form.addEventListener('submit',event=>{event.preventDefault();apply();});
- search.addEventListener('input',apply);
+ let debounce;
+ search.addEventListener('input',()=>{clearTimeout(debounce);debounce=setTimeout(apply,120);});
  [category,condition,sort].forEach(el=>el.addEventListener('change',()=>{
   // A category page contains only its own products. Navigate before switching categories.
   if(el===category&&defaultCategory&&category.value!==defaultCategory){
@@ -65,3 +69,10 @@ if(form){
  window.addEventListener('popstate',restore);
  restore();
 }
+
+// A failed request must never be replaced by another product's photograph.
+document.querySelectorAll('.product-image img,.product-visual img').forEach(img=>{
+ const fallback=()=>{const label=document.createElement('span');label.className='image-placeholder';label.textContent='Imagen próximamente';img.replaceWith(label);};
+ img.addEventListener('error',fallback,{once:true});
+ if(img.complete && img.naturalWidth===0)fallback();
+});
