@@ -12,7 +12,7 @@
   return matches.sort((a,b)=>{
    if(sort==='name')return a.title.localeCompare(b.title,'es')||a.platform.localeCompare(b.platform);
    if(sort==='price-asc'||sort==='price-desc'){if(!a.variant||!b.variant)return Number(!a.variant)-Number(!b.variant);return (a.variant.price-b.variant.price)*(sort==='price-desc'?-1:1)||a.title.localeCompare(b.title,'es');}
-   return Number(!a.variant)-Number(!b.variant)||(a.rank??9999)-(b.rank??9999)||a.title.localeCompare(b.title,'es')||a.platform.localeCompare(b.platform);
+   return Number(!a.variant)-Number(!b.variant)||Number(!a.cover)-Number(!b.cover)||(a.rank??9999)-(b.rank??9999)||a.title.localeCompare(b.title,'es')||a.platform.localeCompare(b.platform);
   });
  }
  root.FoxGameDirectory={normalize,mergeEntries,selectEntries};
