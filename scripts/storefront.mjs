@@ -1,4 +1,5 @@
 import {escapeHTML as e, priceLabel, whatsappURL, CONDITIONS} from './catalog.mjs';
+import {gameDirectory} from './games-directory.mjs';
 
 export const jsonLD = data => '<script type="application/ld+json">' + JSON.stringify(data).replace(/</g, '\\u003c') + '</script>';
 const icon = name => '<svg aria-hidden="true"><use href="/assets/icons.svg#' + name + '"></use></svg>';
@@ -8,7 +9,8 @@ const placeholder = '<span class="image-placeholder"><span aria-hidden="true">�
 
 export function createStorefront(store) {
   const officialImage = p => store.verifiedImages?.some(v => v.name === p.name && v.image === p.image && v.kind === 'manufacturer');
-  const imageClass = p => officialImage(p) ? ' manufacturer-image' : '';
+  const referenceImage = p => store.verifiedImages?.some(v => v.name === p.name && v.image === p.image && v.kind === 'reference-photo');
+  const imageClass = p => officialImage(p) || referenceImage(p) ? ' manufacturer-image' : '';
   const productURL = p => store.url + '/productos/' + p.slug + '/';
   const message = p => 'Hola FOX GAMER, quiero consultar ' + p.name + ' (' + p.condition + '). ' + productURL(p)
     + ' Quiero confirmar disponibilidad, precio final, accesorios y envío.';
@@ -22,7 +24,7 @@ export function createStorefront(store) {
   function card(p) {
     return `<article class="product-card" data-product data-title="${e(p.name)}" data-name="${e([p.name,p.brand,p.category].join(' '))}" data-category="${p.category}" data-condition="${e(p.condition)}" data-availability="${p.availability}" data-price="${p.price ?? ''}">
       <a href="/productos/${p.slug}/"><div class="product-image${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="640" height="480" loading="lazy" decoding="async">` : placeholder}${badge(p.condition)}</div>
-      ${officialImage(p) ? '<span class="reference-caption">Imagen de referencia · Apple</span>' : ''}
+      ${officialImage(p) ? '<span class="reference-caption">Imagen de referencia · Apple</span>' : referenceImage(p) ? '<span class="reference-caption">Fotografía de referencia del modelo</span>' : ''}
       <div class="product-info"><span class="eyebrow">${e(p.brand || p.category)}</span><h3>${e(p.name)}</h3><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p><strong class="card-price">${priceLabel(p)}</strong><span class="detail-link">Ver detalles ${icon('arrow')}</span></div></a>
       ${productContact(p, 'Consultar', 'button secondary card-contact')}</article>`;
   }
@@ -32,7 +34,7 @@ export function createStorefront(store) {
     const products = store.products.filter(p => !category || p.category === category).sort((a,b) =>
       (featuredOrder[a.name] ?? 100) - (featuredOrder[b.name] ?? 100) || a.name.localeCompare(b.name, 'es') || conditionOrder[a.condition] - conditionOrder[b.condition]);
     const categoryName = store.categories.find(c => c.slug === category)?.name;
-    return `<section class="section wrap" id="productos" aria-labelledby="catalog-title">
+    return `${category === 'videojuegos' ? gameDirectory(store) : ''}<section class="section wrap" id="productos" aria-labelledby="catalog-title">
       <div class="section-top"><div><p class="eyebrow">ELIGE TU PRÓXIMO EQUIPO</p><h2 id="catalog-title">${category ? 'Catálogo de ' + e(categoryName) : 'Encuentra lo que buscas'}</h2></div><span class="catalog-note">Precios en COP<br>Confirma cada unidad antes de comprar</span></div>
       <form class="filters" role="search" aria-label="Filtrar catálogo" action="#productos">
         <label class="search-label">Buscar por modelo o referencia<span>${icon('search')}<input id="search" name="q" type="search" placeholder="Prueba PS5, iPhone o Nintendo…" maxlength="100" autocomplete="off" enterkeyhint="search" aria-controls="product-grid"></span></label>
