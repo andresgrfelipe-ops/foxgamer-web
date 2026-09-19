@@ -7,6 +7,8 @@ const badge = condition => '<span class="badge" data-condition="' + e(condition)
 const placeholder = '<span class="image-placeholder"><span aria-hidden="true">—</span><strong>Imagen próximamente</strong><small>Consulta la fotografía de esta referencia</small></span>';
 
 export function createStorefront(store) {
+  const officialImage = p => store.verifiedImages?.some(v => v.name === p.name && v.image === p.image && v.kind === 'manufacturer');
+  const imageClass = p => officialImage(p) ? ' manufacturer-image' : '';
   const productURL = p => store.url + '/productos/' + p.slug + '/';
   const message = p => 'Hola FOX GAMER, quiero consultar ' + p.name + ' (' + p.condition + '). ' + productURL(p)
     + ' Quiero confirmar disponibilidad, precio final, accesorios y envío.';
@@ -19,7 +21,8 @@ export function createStorefront(store) {
   };
   function card(p) {
     return `<article class="product-card" data-product data-title="${e(p.name)}" data-name="${e([p.name,p.brand,p.category].join(' '))}" data-category="${p.category}" data-condition="${e(p.condition)}" data-availability="${p.availability}" data-price="${p.price ?? ''}">
-      <a href="/productos/${p.slug}/"><div class="product-image">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="640" height="480" loading="lazy" decoding="async">` : placeholder}${badge(p.condition)}</div>
+      <a href="/productos/${p.slug}/"><div class="product-image${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="640" height="480" loading="lazy" decoding="async">` : placeholder}${badge(p.condition)}</div>
+      ${officialImage(p) ? '<span class="reference-caption">Imagen de referencia · Apple</span>' : ''}
       <div class="product-info"><span class="eyebrow">${e(p.brand || p.category)}</span><h3>${e(p.name)}</h3><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p><strong class="card-price">${priceLabel(p)}</strong><span class="detail-link">Ver detalles ${icon('arrow')}</span></div></a>
       ${productContact(p, 'Consultar', 'button secondary card-contact')}</article>`;
   }
@@ -63,7 +66,7 @@ export function createStorefront(store) {
       availability: p.availability === 'inquiry' ? undefined : 'https://schema.org/' + (p.availability === 'available' ? 'InStock' : 'OutOfStock'),
       itemCondition: 'https://schema.org/' + (p.condition === 'Nuevo' ? 'NewCondition' : 'UsedCondition')};
     const body = `<section class="wrap section product-section"><nav class="breadcrumbs" aria-label="Ruta de navegación"><a href="/">Inicio</a><span aria-hidden="true">/</span><a href="/categorias/${c.slug}/">${e(c.name)}</a><span aria-hidden="true">/</span><span aria-current="page">${e(p.name)} · ${e(p.condition)}</span></nav>
-      <div class="product-detail"><div class="product-media"><div class="product-visual">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="800" height="600" fetchpriority="high" decoding="async">` : placeholder}</div><p class="small photo-disclaimer">${p.image ? 'Fotografía del modelo. Confirma las fotos, accesorios y estado de la unidad que vas a comprar.' : 'Esta referencia aún no tiene una fotografía verificada. Solicítala antes de comprar.'}</p></div>
+      <div class="product-detail"><div class="product-media"><div class="product-visual${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="800" height="600" fetchpriority="high" decoding="async">` : placeholder}</div><p class="small photo-disclaimer">${officialImage(p) ? 'Imagen de referencia del fabricante. Confirma color, accesorios y fotografías del estado de la unidad que vas a comprar.' : p.image ? 'Fotografía del modelo. Confirma las fotos, accesorios y estado de la unidad que vas a comprar.' : 'Esta referencia aún no tiene una fotografía verificada. Solicítala antes de comprar.'}</p></div>
       <div class="product-summary">${badge(p.condition)}<p class="eyebrow">${e(p.brand || c.name)}</p><h1>${e(p.name)}</h1><p class="product-description">${e(p.description)}</p>
       ${variantNav}<div class="purchase-panel"><p class="product-price">${priceLabel(p)}</p><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p>${p.availability === 'soldout' ? '<p>Esta unidad no está disponible para compra.</p>' : productContact(p, 'Consultar este producto')}
       <p class="small">Confirma el precio final, la garantía y el costo de envío antes de pagar. La consulta se abre en WhatsApp; no realiza un pago.</p></div>
