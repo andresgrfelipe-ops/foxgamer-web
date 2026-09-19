@@ -6,7 +6,7 @@ const store=JSON.parse(fs.readFileSync('data/store.json'));
 test('galería de accesorios visible: solo enlaza foto y precio del modelo verificado',()=>{
  const html=storeGallery(store,'accesorios');
  assert.match(html,/<details class="gallery-disclosure" open>/);
- assert.equal((html.match(/<figure /g)||[]).length,9);
+ assert.equal((html.match(/<figure /g)||[]).length,25);
  assert.match(html,/productos\/sony-pulse-elite-blanco-nuevo/);
  assert.match(html,/494\.000/);
  assert(!html.includes('IMG_2293'));
