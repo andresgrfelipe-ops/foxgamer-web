@@ -1,7 +1,8 @@
 import {escapeHTML as e,whatsappURL} from './catalog.mjs';
+import {gameGallery} from './game-gallery.mjs';
 export function gameDirectory(store){
  const url=whatsappURL(store.whatsapp,'Hola FOX GAMER, quiero consultar un juego. ¿Me ayudas a confirmar título, plataforma, formato, precio y disponibilidad?');
- return `<section class="wrap section games-directory" id="juegos" data-whatsapp="${e(store.whatsapp)}" aria-labelledby="games-title">
+ return `${gameGallery(store)}<details class="wrap directory-disclosure"><summary>Buscar otros títulos y clásicos · PS3, PS2 y Xbox 360</summary><section class="wrap section games-directory" id="directorio-juegos" data-whatsapp="${e(store.whatsapp)}" aria-labelledby="games-title">
  <p class="eyebrow">DE LOS CLÁSICOS A LA NUEVA GENERACIÓN</p><h2 id="games-title">Encuentra tu próximo juego</h2>
  <p class="muted">Busca títulos de PS5, PS4, PS3, PS2 y Xbox 360. Consulta con FOX GAMER la disponibilidad, el formato, la región y el precio de cada juego.</p>
  <form id="games-search" class="games-search" role="search" aria-label="Buscar juegos por plataforma">
@@ -15,5 +16,5 @@ export function gameDirectory(store){
  <p><a class="text-link" href="${e(url)}" target="_blank" rel="noopener noreferrer">¿No encuentras tu juego? Consultar por WhatsApp</a></p>
  <details><summary>Fuentes del directorio</summary><p class="small">Títulos y plataformas recopilados de las listas de Wikipedia, consultadas el 19/09/2026. Pueden existir omisiones o diferencias regionales. Listas bajo CC BY-SA 4.0.</p><div id="games-sources"></div></details>
  <noscript><p>Activa JavaScript para buscar en el directorio o consulta un título por WhatsApp. Más abajo encontrarás las fichas de la tienda.</p></noscript>
- </section><link rel="stylesheet" href="/assets/game-directory.css"><script src="/assets/game-directory.js" defer></script>`;
+ </section></details><link rel="stylesheet" href="/assets/game-directory.css"><script src="/assets/game-directory.js" defer></script>`;
 }
