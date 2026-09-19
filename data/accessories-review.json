@@ -1,0 +1,161 @@
+{
+  "reviewedAt": "2026-09-19T18:24:22.918Z",
+  "imageModels": [
+    {
+      "name": "PlayStation VR2",
+      "sourceUrl": "https://www.playstation.com/es-co/ps-vr2/"
+    },
+    {
+      "name": "Volante Logitech G29 con pedales",
+      "sourceUrl": "https://gamer4ever.com.co/products/accesorio-ps3-ps4-timon-y-pedal-g29-logitech"
+    },
+    {
+      "name": "Volante Logitech G920 con pedales",
+      "sourceUrl": "https://gamer4ever.com.co/products/accesoriotimonypedallogitechg920logitech"
+    },
+    {
+      "name": "Volante Thrustmaster T300 RS GT",
+      "sourceUrl": "https://www.thrustmaster.com/en-us/products/t300rs-gt-edition/"
+    },
+    {
+      "name": "Control Sony DualSense para PS5",
+      "sourceUrl": "https://wa.me/c/573237267448"
+    }
+  ],
+  "pricing": {
+    "sourceUrl": "https://sigmatiendas.com/es-co/products/logitech-g920-driving-force-racing-volante-y-pedales-de-piso-real-force-feedback-paddle-shifters-de-acero-inoxidable",
+    "sourceTitle": "Volante Gamer Logitech G920 Driving Force Racing Xbox, PC y Mac con Force Feedback y Pedales",
+    "currency": "COP",
+    "referencePrice": 1064000,
+    "available": true,
+    "changes": [
+      {
+        "slug": "volante-logitech-g-con-pedales-nevo",
+        "condition": "Nuevo",
+        "before": 1200000,
+        "after": 957000,
+        "method": "10% por debajo de oferta nueva disponible, redondeado hacia abajo a 1.000 COP."
+      },
+      {
+        "slug": "volante-logitech-g-con-pedales-exhibicio-n",
+        "condition": "Exhibición",
+        "before": 1050000,
+        "after": 957000,
+        "method": "Tope comercial al nuevo precio de la unidad nueva, para evitar cobrar más por una unidad usada o de exhibición. No es una comparación con una oferta de igual condición."
+      },
+      {
+        "slug": "volante-logitech-g-con-pedales-sado",
+        "condition": "Usado",
+        "before": 1000000,
+        "after": 957000,
+        "method": "Tope comercial al nuevo precio de la unidad nueva, para evitar cobrar más por una unidad usada o de exhibición. No es una comparación con una oferta de igual condición."
+      }
+    ]
+  },
+  "protectedCatalog": [
+    {
+      "slug": "vr2-nuevo",
+      "price": 1400000,
+      "condition": "Nuevo",
+      "availability": "available"
+    },
+    {
+      "slug": "vr2-exhibicion",
+      "price": 1250000,
+      "condition": "Exhibición",
+      "availability": "available"
+    },
+    {
+      "slug": "vr2-usado",
+      "price": 1200000,
+      "condition": "Usado",
+      "availability": "available"
+    },
+    {
+      "slug": "g29-nuevo",
+      "price": 1200000,
+      "condition": "Nuevo",
+      "availability": "available"
+    },
+    {
+      "slug": "g29-exhibicion",
+      "price": 1050000,
+      "condition": "Exhibición",
+      "availability": "available"
+    },
+    {
+      "slug": "g29-usado",
+      "price": 1000000,
+      "condition": "Usado",
+      "availability": "available"
+    },
+    {
+      "slug": "monitores-nuevo",
+      "price": 850000,
+      "condition": "Nuevo",
+      "availability": "available"
+    },
+    {
+      "slug": "monitores-exhibicion",
+      "price": 700000,
+      "condition": "Exhibición",
+      "availability": "available"
+    },
+    {
+      "slug": "monitores-usado",
+      "price": 650000,
+      "condition": "Usado",
+      "availability": "available"
+    },
+    {
+      "slug": "diademas-nuevo",
+      "price": 450000,
+      "condition": "Nuevo",
+      "availability": "available"
+    },
+    {
+      "slug": "diademas-exhibicion",
+      "price": 300000,
+      "condition": "Exhibición",
+      "availability": "available"
+    },
+    {
+      "slug": "diademas-usado",
+      "price": 250000,
+      "condition": "Usado",
+      "availability": "available"
+    },
+    {
+      "slug": "controles-ps5-nuevo",
+      "price": 320000,
+      "condition": "Nuevo",
+      "availability": "available"
+    },
+    {
+      "slug": "controles-ps5-exhibicion",
+      "price": 170000,
+      "condition": "Exhibición",
+      "availability": "available"
+    },
+    {
+      "slug": "controles-ps5-usado",
+      "price": 120000,
+      "condition": "Usado",
+      "availability": "available"
+    }
+  ],
+  "pending": [
+    "Monitores: marca y modelo",
+    "Diademas: marca y modelo de la ficha genérica",
+    "G923: versión PlayStation o Xbox",
+    "Soporte: marca y modelo",
+    "Playseat Challenger: confirmar modelo exacto",
+    "Kit VR2 + juego: confirmar juego y contenido"
+  ],
+  "compatibilitySources": [
+    "https://www.logitechg.com/en-us/products/driving/driving-force-racing-wheel.html",
+    "https://www.logitechg.com/en-us/shop/p/g923-trueforce-sim-racing-wheel",
+    "https://www.thrustmaster.com/en-us/products/t300rs-gt-edition/",
+    "https://www.playstation.com/es-co/ps-vr2/"
+  ]
+}

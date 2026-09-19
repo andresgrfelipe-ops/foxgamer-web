@@ -304,8 +304,8 @@
     },
     {
       "slug": "vr2-nuevo",
-      "name": "VR2",
-      "description": "PlayStation VR2 con precio de catálogo FOX GAMER. Consulta disponibilidad y detalles de la unidad por WhatsApp.",
+      "name": "PlayStation VR2",
+      "description": "Visor PlayStation VR2. Comprueba los juegos compatibles y confirma los accesorios incluidos en la unidad.",
       "category": "accesorios",
       "brand": "PlayStation",
       "condition": "Nuevo",
@@ -314,13 +314,14 @@
       "conditionNotes": "Producto nuevo según el catálogo de FOX GAMER.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/accessory-psvr2.jpg",
+      "importedCatalog": true,
+      "compatibility": "PS5 con juegos compatibles con PS VR2. El uso en PC requiere adaptador y requisitos adicionales; confirma tu equipo antes de comprar."
     },
     {
       "slug": "vr2-exhibicion",
-      "name": "VR2",
-      "description": "PlayStation VR2 con precio de catálogo FOX GAMER. Consulta disponibilidad y detalles de la unidad por WhatsApp.",
+      "name": "PlayStation VR2",
+      "description": "Visor PlayStation VR2. Comprueba los juegos compatibles y confirma los accesorios incluidos en la unidad.",
       "category": "accesorios",
       "brand": "PlayStation",
       "condition": "Exhibición",
@@ -329,13 +330,14 @@
       "conditionNotes": "Unidad de exhibición; revisa señales de exposición antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/accessory-psvr2.jpg",
+      "importedCatalog": true,
+      "compatibility": "PS5 con juegos compatibles con PS VR2. El uso en PC requiere adaptador y requisitos adicionales; confirma tu equipo antes de comprar."
     },
     {
       "slug": "vr2-usado",
-      "name": "VR2",
-      "description": "PlayStation VR2 con precio de catálogo FOX GAMER. Consulta disponibilidad y detalles de la unidad por WhatsApp.",
+      "name": "PlayStation VR2",
+      "description": "Visor PlayStation VR2. Comprueba los juegos compatibles y confirma los accesorios incluidos en la unidad.",
       "category": "accesorios",
       "brand": "PlayStation",
       "condition": "Usado",
@@ -344,13 +346,14 @@
       "conditionNotes": "Unidad usada; revisa el estado específico antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/accessory-psvr2.jpg",
+      "importedCatalog": true,
+      "compatibility": "PS5 con juegos compatibles con PS VR2. El uso en PC requiere adaptador y requisitos adicionales; confirma tu equipo antes de comprar."
     },
     {
       "slug": "g29-nuevo",
-      "name": "G29",
-      "description": "Logitech G29 con precio de catálogo FOX GAMER. Consulta disponibilidad y detalles de la unidad por WhatsApp.",
+      "name": "Volante Logitech G29 con pedales",
+      "description": "Volante Logitech G29 para juegos de conducción compatibles. Consulta el estado del volante y los pedales; confirma por separado si incluye palanca de cambios.",
       "category": "accesorios",
       "brand": "Logitech",
       "condition": "Nuevo",
@@ -359,13 +362,14 @@
       "conditionNotes": "Producto nuevo según el catálogo de FOX GAMER.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/accessory-g29.jpg",
+      "importedCatalog": true,
+      "compatibility": "PlayStation y PC, en juegos compatibles. El G29 no es la versión para Xbox."
     },
     {
       "slug": "g29-exhibicion",
-      "name": "G29",
-      "description": "Logitech G29 con precio de catálogo FOX GAMER. Consulta disponibilidad y detalles de la unidad por WhatsApp.",
+      "name": "Volante Logitech G29 con pedales",
+      "description": "Volante Logitech G29 para juegos de conducción compatibles. Consulta el estado del volante y los pedales; confirma por separado si incluye palanca de cambios.",
       "category": "accesorios",
       "brand": "Logitech",
       "condition": "Exhibición",
@@ -374,13 +378,14 @@
       "conditionNotes": "Unidad de exhibición; revisa señales de exposición antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/accessory-g29.jpg",
+      "importedCatalog": true,
+      "compatibility": "PlayStation y PC, en juegos compatibles. El G29 no es la versión para Xbox."
     },
     {
       "slug": "g29-usado",
-      "name": "G29",
-      "description": "Logitech G29 con precio de catálogo FOX GAMER. Consulta disponibilidad y detalles de la unidad por WhatsApp.",
+      "name": "Volante Logitech G29 con pedales",
+      "description": "Volante Logitech G29 para juegos de conducción compatibles. Consulta el estado del volante y los pedales; confirma por separado si incluye palanca de cambios.",
       "category": "accesorios",
       "brand": "Logitech",
       "condition": "Usado",
@@ -389,8 +394,9 @@
       "conditionNotes": "Unidad usada; revisa el estado específico antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/accessory-g29.jpg",
+      "importedCatalog": true,
+      "compatibility": "PlayStation y PC, en juegos compatibles. El G29 no es la versión para Xbox."
     },
     {
       "slug": "monitores-nuevo",
@@ -484,48 +490,51 @@
     },
     {
       "slug": "controles-ps5-nuevo",
-      "name": "Controles Ps5",
-      "description": "Controles PS5 con precio de catálogo FOX GAMER. Consulta disponibilidad y detalles de la unidad por WhatsApp.",
+      "name": "Control Sony DualSense para PS5",
+      "description": "Control Sony DualSense para PS5 fotografiado en FOX GAMER. La imagen muestra distintos colores; confirma el color, estado y accesorios de tu unidad antes de comprar.",
       "category": "accesorios",
-      "brand": "Controles",
+      "brand": "Sony",
       "condition": "Nuevo",
       "price": 320000,
       "availability": "available",
       "conditionNotes": "Producto nuevo según el catálogo de FOX GAMER.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/img_2369.webp",
+      "importedCatalog": true,
+      "compatibility": "PS5. Confirma compatibilidad y funciones disponibles si lo usarás con otro dispositivo."
     },
     {
       "slug": "controles-ps5-exhibicion",
-      "name": "Controles Ps5",
-      "description": "Controles PS5 con precio de catálogo FOX GAMER. Consulta disponibilidad y detalles de la unidad por WhatsApp.",
+      "name": "Control Sony DualSense para PS5",
+      "description": "Control Sony DualSense para PS5 fotografiado en FOX GAMER. La imagen muestra distintos colores; confirma el color, estado y accesorios de tu unidad antes de comprar.",
       "category": "accesorios",
-      "brand": "Controles",
+      "brand": "Sony",
       "condition": "Exhibición",
       "price": 170000,
       "availability": "available",
       "conditionNotes": "Unidad de exhibición; revisa señales de exposición antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/img_2369.webp",
+      "importedCatalog": true,
+      "compatibility": "PS5. Confirma compatibilidad y funciones disponibles si lo usarás con otro dispositivo."
     },
     {
       "slug": "controles-ps5-usado",
-      "name": "Controles Ps5",
-      "description": "Controles PS5 con precio de catálogo FOX GAMER. Consulta disponibilidad y detalles de la unidad por WhatsApp.",
+      "name": "Control Sony DualSense para PS5",
+      "description": "Control Sony DualSense para PS5 fotografiado en FOX GAMER. La imagen muestra distintos colores; confirma el color, estado y accesorios de tu unidad antes de comprar.",
       "category": "accesorios",
-      "brand": "Controles",
+      "brand": "Sony",
       "condition": "Usado",
       "price": 120000,
       "availability": "available",
       "conditionNotes": "Unidad usada; revisa el estado específico antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/img_2369.webp",
+      "importedCatalog": true,
+      "compatibility": "PS5. Confirma compatibilidad y funciones disponibles si lo usarás con otro dispositivo."
     },
     {
       "slug": "iphone-17-256gb-nuevo",
@@ -3695,7 +3704,7 @@
     {
       "slug": "simlador-de-carreras-logitech-g-nevo",
       "name": "Simulador de carreras Logitech G923",
-      "description": "Volante con pedales para simulación de carreras en PlayStation, Xbox y PC. Confirma compatibilidad, contenido y disponibilidad por WhatsApp.",
+      "description": "Volante Logitech G923. Existen versiones para PlayStation/PC y para Xbox/PC; confirma la versión exacta que necesitas antes de comprar.",
       "category": "accesorios",
       "brand": "Logitech",
       "condition": "Nuevo",
@@ -3705,12 +3714,13 @@
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
       "image": null,
-      "importedCatalog": false
+      "importedCatalog": false,
+      "compatibility": "Depende de la versión del volante: PlayStation/PC o Xbox/PC. No se presenta como compatible con ambas consolas."
     },
     {
       "slug": "simlador-de-carreras-logitech-g-exhibicio-n",
       "name": "Simulador de carreras Logitech G923",
-      "description": "Volante con pedales para simulación de carreras en PlayStation, Xbox y PC. Confirma compatibilidad, contenido y disponibilidad por WhatsApp.",
+      "description": "Volante Logitech G923. Existen versiones para PlayStation/PC y para Xbox/PC; confirma la versión exacta que necesitas antes de comprar.",
       "category": "accesorios",
       "brand": "Logitech",
       "condition": "Exhibición",
@@ -3720,12 +3730,13 @@
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
       "image": null,
-      "importedCatalog": false
+      "importedCatalog": false,
+      "compatibility": "Depende de la versión del volante: PlayStation/PC o Xbox/PC. No se presenta como compatible con ambas consolas."
     },
     {
       "slug": "simlador-de-carreras-logitech-g-sado",
       "name": "Simulador de carreras Logitech G923",
-      "description": "Volante con pedales para simulación de carreras en PlayStation, Xbox y PC. Confirma compatibilidad, contenido y disponibilidad por WhatsApp.",
+      "description": "Volante Logitech G923. Existen versiones para PlayStation/PC y para Xbox/PC; confirma la versión exacta que necesitas antes de comprar.",
       "category": "accesorios",
       "brand": "Logitech",
       "condition": "Usado",
@@ -3735,57 +3746,61 @@
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
       "image": null,
-      "importedCatalog": false
+      "importedCatalog": false,
+      "compatibility": "Depende de la versión del volante: PlayStation/PC o Xbox/PC. No se presenta como compatible con ambas consolas."
     },
     {
       "slug": "volante-logitech-g-con-pedales-nevo",
       "name": "Volante Logitech G920 con pedales",
-      "description": "Volante y pedales para Xbox y PC. Confirma compatibilidad, estado y disponibilidad por WhatsApp.",
+      "description": "Volante Logitech G920 con pedales para juegos de conducción compatibles. Confirma estado, contenido de la unidad y si incluye palanca de cambios.",
       "category": "accesorios",
       "brand": "Logitech",
       "condition": "Nuevo",
-      "price": 1200000,
+      "price": 957000,
       "availability": "inquiry",
       "conditionNotes": "Producto nuevo; confirma garantía y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/accessory-g920.png",
+      "importedCatalog": false,
+      "compatibility": "Xbox y PC, en juegos compatibles. El G920 no es la versión para PlayStation."
     },
     {
       "slug": "volante-logitech-g-con-pedales-exhibicio-n",
       "name": "Volante Logitech G920 con pedales",
-      "description": "Volante y pedales para Xbox y PC. Confirma compatibilidad, estado y disponibilidad por WhatsApp.",
+      "description": "Volante Logitech G920 con pedales para juegos de conducción compatibles. Confirma estado, contenido de la unidad y si incluye palanca de cambios.",
       "category": "accesorios",
       "brand": "Logitech",
       "condition": "Exhibición",
-      "price": 1050000,
+      "price": 957000,
       "availability": "inquiry",
       "conditionNotes": "Unidad de exhibición; confirma detalles estéticos y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/accessory-g920.png",
+      "importedCatalog": false,
+      "compatibility": "Xbox y PC, en juegos compatibles. El G920 no es la versión para PlayStation."
     },
     {
       "slug": "volante-logitech-g-con-pedales-sado",
       "name": "Volante Logitech G920 con pedales",
-      "description": "Volante y pedales para Xbox y PC. Confirma compatibilidad, estado y disponibilidad por WhatsApp.",
+      "description": "Volante Logitech G920 con pedales para juegos de conducción compatibles. Confirma estado, contenido de la unidad y si incluye palanca de cambios.",
       "category": "accesorios",
       "brand": "Logitech",
       "condition": "Usado",
-      "price": 1000000,
+      "price": 957000,
       "availability": "inquiry",
       "conditionNotes": "Producto usado; confirma estado, accesorios y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/accessory-g920.png",
+      "importedCatalog": false,
+      "compatibility": "Xbox y PC, en juegos compatibles. El G920 no es la versión para PlayStation."
     },
     {
       "slug": "volante-thrstmaster-t-rs-gt-nevo",
       "name": "Volante Thrustmaster T300 RS GT",
-      "description": "Set de simulación con volante y pedales para PlayStation y PC. Confirma edición, accesorios y disponibilidad por WhatsApp.",
+      "description": "Volante Thrustmaster T300 RS GT Edition. La referencia del fabricante corresponde al set con pedales T3PA-GT; confirma el contenido y estado de la unidad que vas a comprar.",
       "category": "accesorios",
       "brand": "Thrustmaster",
       "condition": "Nuevo",
@@ -3794,13 +3809,14 @@
       "conditionNotes": "Producto nuevo; confirma garantía y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/accessory-t300rs-gt.webp",
+      "importedCatalog": false,
+      "compatibility": "PS5, PS4, PS3 y PC, según el juego compatible y los requisitos del fabricante."
     },
     {
       "slug": "volante-thrstmaster-t-rs-gt-exhibicio-n",
       "name": "Volante Thrustmaster T300 RS GT",
-      "description": "Set de simulación con volante y pedales para PlayStation y PC. Confirma edición, accesorios y disponibilidad por WhatsApp.",
+      "description": "Volante Thrustmaster T300 RS GT Edition. La referencia del fabricante corresponde al set con pedales T3PA-GT; confirma el contenido y estado de la unidad que vas a comprar.",
       "category": "accesorios",
       "brand": "Thrustmaster",
       "condition": "Exhibición",
@@ -3809,13 +3825,14 @@
       "conditionNotes": "Unidad de exhibición; confirma detalles estéticos y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/accessory-t300rs-gt.webp",
+      "importedCatalog": false,
+      "compatibility": "PS5, PS4, PS3 y PC, según el juego compatible y los requisitos del fabricante."
     },
     {
       "slug": "volante-thrstmaster-t-rs-gt-sado",
       "name": "Volante Thrustmaster T300 RS GT",
-      "description": "Set de simulación con volante y pedales para PlayStation y PC. Confirma edición, accesorios y disponibilidad por WhatsApp.",
+      "description": "Volante Thrustmaster T300 RS GT Edition. La referencia del fabricante corresponde al set con pedales T3PA-GT; confirma el contenido y estado de la unidad que vas a comprar.",
       "category": "accesorios",
       "brand": "Thrustmaster",
       "condition": "Usado",
@@ -3824,8 +3841,9 @@
       "conditionNotes": "Producto usado; confirma estado, accesorios y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/accessory-t300rs-gt.webp",
+      "importedCatalog": false,
+      "compatibility": "PS5, PS4, PS3 y PC, según el juego compatible y los requisitos del fabricante."
     },
     {
       "slug": "soporte-para-volante-y-pedales-nevo",
@@ -11056,6 +11074,65 @@
       "reviewedAt": "2026-09-19",
       "evidence": "Portada del juego Forza Motorsport 4 de Xbox 360. Inspección visual y correspondencia con la ficha de la edición original. No es una foto del inventario de FOX GAMER; no acredita región ni estado de una unidad disponible.",
       "sha256": "95b2665df87e678c7bbf13c2033db25f7b5fd1af6e4e517540a1d051e61e0422"
+    },
+    {
+      "name": "PlayStation VR2",
+      "image": "/assets/photos/accessory-psvr2.jpg",
+      "kind": "reference-photo",
+      "sourceUrl": "https://www.playstation.com/es-co/ps-vr2/",
+      "sourceImageUrl": "https://gmedia.playstation.com/is/image/SIEPDC/PSVR2-thumbnail-01-en-22feb22",
+      "reviewedAt": "2026-09-19",
+      "evidence": "Imagen revisada visualmente y contrastada con el modelo exacto PlayStation VR2. Referencia del modelo; no acredita accesorios incluidos ni estado de la unidad FOX GAMER.",
+      "sha256": "68ca3bd4c0d61bb55f932ff756cadd4e08cec0c60777eb40e64fb178b370d278"
+    },
+    {
+      "name": "Volante Logitech G29 con pedales",
+      "image": "/assets/photos/accessory-g29.jpg",
+      "kind": "reference-photo",
+      "sourceUrl": "https://gamer4ever.com.co/products/accesorio-ps3-ps4-timon-y-pedal-g29-logitech",
+      "sourceImageUrl": "https://cdn.shopify.com/s/files/1/0222/9685/4608/files/97855112774.webp?v=1747150284",
+      "reviewedAt": "2026-09-19",
+      "evidence": "Imagen revisada visualmente y contrastada con el modelo exacto Volante Logitech G29 con pedales. Referencia del modelo; no acredita accesorios incluidos ni estado de la unidad FOX GAMER.",
+      "sha256": "df12da8083d8d0a6b4fb02015bea369e27556e2b649182d1e21e1a214321a3a6"
+    },
+    {
+      "name": "Volante Logitech G920 con pedales",
+      "image": "/assets/photos/accessory-g920.png",
+      "kind": "reference-photo",
+      "sourceUrl": "https://gamer4ever.com.co/products/accesoriotimonypedallogitechg920logitech",
+      "sourceImageUrl": "https://cdn.shopify.com/s/files/1/0222/9685/4608/products/097855114709.png?v=1702584419",
+      "reviewedAt": "2026-09-19",
+      "evidence": "Imagen revisada visualmente y contrastada con el modelo exacto Volante Logitech G920 con pedales. Referencia del modelo; no acredita accesorios incluidos ni estado de la unidad FOX GAMER.",
+      "sha256": "c1b3cc76bdf576518dcdd60abffbeaf542693aea43ed253263a3542ed43e87f9"
+    },
+    {
+      "name": "Volante Thrustmaster T300 RS GT",
+      "image": "/assets/photos/accessory-t300rs-gt.webp",
+      "kind": "reference-photo",
+      "sourceUrl": "https://www.thrustmaster.com/en-us/products/t300rs-gt-edition/",
+      "sourceImageUrl": "https://www.thrustmaster.com/wp-content/uploads/2023/03/T300RSGT-800x800-1-768x768-1.webp",
+      "reviewedAt": "2026-09-19",
+      "evidence": "Imagen revisada visualmente y contrastada con el modelo exacto Volante Thrustmaster T300 RS GT. Referencia del modelo; no acredita accesorios incluidos ni estado de la unidad FOX GAMER.",
+      "sha256": "8f7486221840407dd3bc470d5c0a5bf9d4ba4a797b7726cc34060fa9f9057557"
+    },
+    {
+      "name": "Control Sony DualSense para PS5",
+      "image": "/assets/photos/img_2369.webp",
+      "kind": "original-photo",
+      "sourceUrl": "https://wa.me/c/573237267448",
+      "reviewedAt": "2026-09-19",
+      "evidence": "Fotografía original revisada visualmente: cajas Sony DualSense para PS5. Se presentan como selección de colores, sin asegurar color ni estado de una unidad concreta.",
+      "sha256": "d2639f71a4ad761a724a306ba4e163e85c0f4decab7d146f6f02dd1f503abc5f"
     }
+  ],
+  "accessoryGallery": [
+    "/assets/photos/img_2369.webp",
+    "/assets/photos/img_2373.webp",
+    "/assets/photos/img_2293.webp",
+    "/assets/photos/img_2291.webp",
+    "/assets/photos/img_2288.webp",
+    "/assets/photos/img_2459.webp",
+    "/assets/photos/img_2295.webp",
+    "/assets/photos/img_2460.webp"
   ]
 }
