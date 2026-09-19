@@ -4,6 +4,14 @@ import {readFile} from 'node:fs/promises';
 import {createStorefront} from '../scripts/storefront.mjs';
 const store=JSON.parse(await readFile('data/store.json','utf8'));
 const ui=createStorefront(store);
+test('las imágenes de Apple se presentan como referencias del fabricante',()=>{
+  const p=store.products.find(p=>p.name==='iPhone 15 128 GB');
+  const body=ui.productDetail(p).body;
+  assert.match(body,/Imagen de referencia del fabricante/);
+  assert.match(body,/manufacturer-image/);
+  assert.doesNotMatch(body,/Imagen próximamente/);
+  assert.match(ui.catalog(p.category),/Imagen de referencia · Apple/);
+});
 const schemas=html=>[...html.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/gs)].map(m=>JSON.parse(m[1]));
 
 test('fichas: precio, disponibilidad, imágenes y breadcrumbs fieles a las 450 variantes',()=>{
