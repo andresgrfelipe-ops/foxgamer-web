@@ -1,14 +1,14 @@
 {
   "reviewedAt": "2026-09-19",
   "currency": "COP",
-  "policy": "Precio competitivo: 5% por debajo de la oferta comparable disponible más baja entre las tiendas consultadas, redondeado hacia abajo a 1.000 COP. Referencias reconsultadas el 19/09/2026. No equivale a un mínimo de todo el mercado ni garantiza ventas o margen; FOX GAMER no ha facilitado costos de adquisición. Se conservan modelo, condición, disponibilidad, imágenes, incluidos y garantía. No se extrapolan precios a variantes sin evidencia; su cotización continúa pendiente.",
+  "policy": "Precio competitivo: 10% por debajo de la oferta comparable disponible más baja entre las tiendas consultadas, redondeado hacia abajo a 1.000 COP. Referencias reconsultadas el 19/09/2026. No equivale a un mínimo de todo el mercado ni garantiza ventas o margen; FOX GAMER no ha facilitado costos de adquisición. Se conservan modelo, condición, disponibilidad, imágenes, incluidos y garantía. No se extrapolan precios a variantes sin evidencia; su cotización continúa pendiente.",
   "records": [
     {
       "slug": "iphone-17-256gb-nuevo",
       "name": "iPhone 17 256 GB",
       "condition": "Nuevo",
       "previousPrice": 3135000,
-      "price": 3039000,
+      "price": 2879000,
       "reference": 3199990,
       "sources": [
         {
@@ -39,7 +39,7 @@
       "name": "iPhone 15 128 GB",
       "condition": "Nuevo",
       "previousPrice": 2400000,
-      "price": 2327000,
+      "price": 2204000,
       "reference": 2449990,
       "sources": [
         {
@@ -70,7 +70,7 @@
       "name": "iPhone 15 256 GB",
       "condition": "Nuevo",
       "previousPrice": 2939000,
-      "price": 2849000,
+      "price": 2699000,
       "reference": 2999990,
       "sources": [
         {
@@ -94,7 +94,7 @@
       "name": "iPhone 16 128 GB",
       "condition": "Nuevo",
       "previousPrice": 2694000,
-      "price": 2612000,
+      "price": 2474000,
       "reference": 2749990,
       "sources": [
         {
@@ -125,7 +125,7 @@
       "name": "iPhone 16e 128 GB",
       "condition": "Nuevo",
       "previousPrice": 2645000,
-      "price": 2564000,
+      "price": 2429000,
       "reference": 2699990,
       "sources": [
         {
@@ -149,7 +149,7 @@
       "name": "iPhone 13 512 GB",
       "condition": "Nuevo",
       "previousPrice": 2449000,
-      "price": 2374000,
+      "price": 2249000,
       "reference": 2499990,
       "sources": [
         {
@@ -166,7 +166,7 @@
       "name": "iPhone 16 Pro Max 256 GB",
       "condition": "Nuevo",
       "previousPrice": 6339000,
-      "price": 6145000,
+      "price": 5822000,
       "reference": 6469000,
       "sources": [
         {
@@ -183,7 +183,7 @@
       "name": "iPhone 17 Pro Max 512 GB",
       "condition": "Nuevo",
       "previousPrice": 6251000,
-      "price": 6060000,
+      "price": 5741000,
       "reference": 6379000,
       "sources": [
         {
@@ -207,7 +207,7 @@
       "name": "iPhone 17 Pro Max 1 TB",
       "condition": "Nuevo",
       "previousPrice": 6271000,
-      "price": 6079000,
+      "price": 5759000,
       "reference": 6399990,
       "sources": [
         {
@@ -231,7 +231,7 @@
       "name": "iPhone 17 Pro Max 2 TB",
       "condition": "Nuevo",
       "previousPrice": 8819000,
-      "price": 8549000,
+      "price": 8099000,
       "reference": 8999990,
       "sources": [
         {
@@ -248,7 +248,7 @@
       "name": "iPhone 18 Pro 256 GB",
       "condition": "Nuevo",
       "previousPrice": 5585000,
-      "price": 5414000,
+      "price": 5129000,
       "reference": 5699000,
       "sources": [
         {
@@ -272,7 +272,7 @@
       "name": "iPhone 18 Pro Max 512 GB",
       "condition": "Nuevo",
       "previousPrice": 7006000,
-      "price": 6791000,
+      "price": 6434000,
       "reference": 7149000,
       "sources": [
         {
@@ -289,7 +289,7 @@
       "name": "iPad 11 pulgadas A16 128 GB",
       "condition": "Nuevo",
       "previousPrice": 1567000,
-      "price": 1519000,
+      "price": 1439000,
       "reference": 1599990,
       "sources": [
         {
@@ -320,7 +320,7 @@
       "name": "iPad Air 13 pulgadas M3 256 GB",
       "condition": "Nuevo",
       "previousPrice": 4899000,
-      "price": 4749000,
+      "price": 4499000,
       "reference": 4999000,
       "sources": [
         {
@@ -337,7 +337,7 @@
       "name": "iPad Pro 13 pulgadas M5 512 GB",
       "condition": "Nuevo",
       "previousPrice": 5144000,
-      "price": 4987000,
+      "price": 4724000,
       "reference": 5249990,
       "sources": [
         {
@@ -368,7 +368,7 @@
       "name": "AirPods 4",
       "condition": "Nuevo",
       "previousPrice": 440000,
-      "price": 426000,
+      "price": 404000,
       "reference": 449000,
       "sources": [
         {
@@ -399,7 +399,7 @@
       "name": "AirPods Pro 2 USB-C",
       "condition": "Nuevo",
       "previousPrice": 1253000,
-      "price": 1215000,
+      "price": 1151000,
       "reference": 1279000,
       "sources": [
         {
@@ -416,7 +416,7 @@
       "name": "AirPods Max USB-C",
       "condition": "Nuevo",
       "previousPrice": 1959000,
-      "price": 1899000,
+      "price": 1799000,
       "reference": 1999000,
       "sources": [
         {
@@ -433,7 +433,7 @@
       "name": "AirPods Max 2 USB-C",
       "condition": "Nuevo",
       "previousPrice": 1861000,
-      "price": 1804000,
+      "price": 1709000,
       "reference": 1899990,
       "sources": [
         {
@@ -464,7 +464,7 @@
       "name": "Apple Pencil Pro",
       "condition": "Nuevo",
       "previousPrice": 636000,
-      "price": 617000,
+      "price": 584000,
       "reference": 649990,
       "sources": [
         {
@@ -495,7 +495,7 @@
       "name": "Apple Watch SE 3 GPS 40 mm",
       "condition": "Nuevo",
       "previousPrice": 1077000,
-      "price": 1044000,
+      "price": 989000,
       "reference": 1099000,
       "sources": [
         {
@@ -519,7 +519,7 @@
       "name": "Apple Watch Series 11 GPS Cellular 46 mm",
       "condition": "Nuevo",
       "previousPrice": 2008000,
-      "price": 1946000,
+      "price": 1844000,
       "reference": 2049000,
       "sources": [
         {
@@ -536,7 +536,7 @@
       "name": "iPhone 17 256 GB",
       "condition": "Exhibición",
       "previousPrice": 2547000,
-      "price": 2469000,
+      "price": 2339000,
       "reference": 2599990,
       "sources": [
         {
@@ -553,7 +553,7 @@
       "name": "iPhone 13 mini 128 GB",
       "condition": "Exhibición",
       "previousPrice": 832000,
-      "price": 807000,
+      "price": 764000,
       "reference": 849990,
       "sources": [
         {
@@ -570,7 +570,7 @@
       "name": "iPhone 15 Plus 128 GB",
       "condition": "Exhibición",
       "previousPrice": 2057000,
-      "price": 1994000,
+      "price": 1889000,
       "reference": 2099990,
       "sources": [
         {
@@ -587,7 +587,7 @@
       "name": "iPhone 11 Pro 64 GB",
       "condition": "Exhibición",
       "previousPrice": 1273000,
-      "price": 1234000,
+      "price": 1169000,
       "reference": 1299990,
       "sources": [
         {
@@ -604,7 +604,7 @@
       "name": "iPhone 14 Pro 256 GB",
       "condition": "Exhibición",
       "previousPrice": 1910000,
-      "price": 1852000,
+      "price": 1754000,
       "reference": 1949990,
       "sources": [
         {
@@ -621,7 +621,7 @@
       "name": "iPhone 12 Pro Max 128 GB",
       "condition": "Exhibición",
       "previousPrice": 1567000,
-      "price": 1519000,
+      "price": 1439000,
       "reference": 1599990,
       "sources": [
         {
@@ -638,7 +638,7 @@
       "name": "iPhone 14 Pro Max 256 GB",
       "condition": "Exhibición",
       "previousPrice": 2204000,
-      "price": 2137000,
+      "price": 2024000,
       "reference": 2249990,
       "sources": [
         {
@@ -655,7 +655,7 @@
       "name": "iPhone 13 Pro 128 GB",
       "condition": "Exhibición",
       "previousPrice": 1616000,
-      "price": 1567000,
+      "price": 1484000,
       "reference": 1649990,
       "sources": [
         {
@@ -672,7 +672,7 @@
       "name": "iPhone 14 128 GB",
       "condition": "Exhibición",
       "previousPrice": 1293000,
-      "price": 1253000,
+      "price": 1187000,
       "reference": 1319990,
       "sources": [
         {
@@ -689,7 +689,7 @@
       "name": "iPhone 12 Pro 128 GB",
       "condition": "Exhibición",
       "previousPrice": 1126000,
-      "price": 1092000,
+      "price": 1034000,
       "reference": 1149990,
       "sources": [
         {
@@ -706,7 +706,7 @@
       "name": "iPhone 13 Pro Max 128 GB",
       "condition": "Exhibición",
       "previousPrice": 1763000,
-      "price": 1709000,
+      "price": 1619000,
       "reference": 1799990,
       "sources": [
         {
@@ -723,7 +723,7 @@
       "name": "iPhone 16 Pro Max 256 GB",
       "condition": "Exhibición",
       "previousPrice": 3067000,
-      "price": 2973000,
+      "price": 2816000,
       "reference": 3129990,
       "sources": [
         {
@@ -740,7 +740,7 @@
       "name": "iPhone 15 Pro 256 GB",
       "condition": "Exhibición",
       "previousPrice": 2351000,
-      "price": 2279000,
+      "price": 2159000,
       "reference": 2399990,
       "sources": [
         {
@@ -757,7 +757,7 @@
       "name": "iPhone 15 Pro Max 256 GB",
       "condition": "Exhibición",
       "previousPrice": 2498000,
-      "price": 2422000,
+      "price": 2294000,
       "reference": 2549990,
       "sources": [
         {
@@ -774,7 +774,7 @@
       "name": "iPhone 13 128 GB",
       "condition": "Exhibición",
       "previousPrice": 1117000,
-      "price": 1082000,
+      "price": 1025000,
       "reference": 1139990,
       "sources": [
         {
@@ -791,7 +791,7 @@
       "name": "iPhone 15 128 GB",
       "condition": "Exhibición",
       "previousPrice": 1763000,
-      "price": 1709000,
+      "price": 1619000,
       "reference": 1799990,
       "sources": [
         {
@@ -808,7 +808,7 @@
       "name": "iPhone 16 128 GB",
       "condition": "Exhibición",
       "previousPrice": 2244000,
-      "price": 2175000,
+      "price": 2060000,
       "reference": 2289990,
       "sources": [
         {
@@ -825,7 +825,7 @@
       "name": "iPhone 16 Pro Max 256 GB",
       "condition": "Usado",
       "previousPrice": 2792000,
-      "price": 2707000,
+      "price": 2564000,
       "reference": 2849990,
       "sources": [
         {
@@ -849,7 +849,7 @@
       "name": "iPhone 13 512 GB",
       "condition": "Usado",
       "previousPrice": 1861000,
-      "price": 1804000,
+      "price": 1709000,
       "reference": 1899900,
       "sources": [
         {
@@ -866,7 +866,7 @@
       "name": "iPhone 16e 128 GB",
       "condition": "Usado",
       "previousPrice": 2155000,
-      "price": 2089000,
+      "price": 1979000,
       "reference": 2199900,
       "sources": [
         {
@@ -883,7 +883,7 @@
       "name": "iPhone 15 128 GB",
       "condition": "Usado",
       "previousPrice": 2253000,
-      "price": 2184000,
+      "price": 2069000,
       "reference": 2299900,
       "sources": [
         {
@@ -900,7 +900,7 @@
       "name": "iPhone 11 64 GB",
       "condition": "Usado",
       "previousPrice": 710000,
-      "price": 688000,
+      "price": 652000,
       "reference": 724900,
       "sources": [
         {
@@ -917,7 +917,7 @@
       "name": "iPhone 12 128 GB",
       "condition": "Usado",
       "previousPrice": 1053000,
-      "price": 1021000,
+      "price": 967000,
       "reference": 1074900,
       "sources": [
         {
@@ -934,7 +934,7 @@
       "name": "iPhone 13 128 GB",
       "condition": "Usado",
       "previousPrice": 1126000,
-      "price": 1092000,
+      "price": 1034000,
       "reference": 1149900,
       "sources": [
         {
@@ -951,7 +951,7 @@
       "name": "iPhone 14 128 GB",
       "condition": "Usado",
       "previousPrice": 1567000,
-      "price": 1519000,
+      "price": 1439000,
       "reference": 1599900,
       "sources": [
         {
@@ -968,7 +968,7 @@
       "name": "iPhone 15 Pro 256 GB",
       "condition": "Usado",
       "previousPrice": 2841000,
-      "price": 2754000,
+      "price": 2609000,
       "reference": 2899900,
       "sources": [
         {
@@ -985,7 +985,7 @@
       "name": "iPhone 11 Pro 64 GB",
       "condition": "Usado",
       "previousPrice": 1126000,
-      "price": 1092000,
+      "price": 1034000,
       "reference": 1149900,
       "sources": [
         {
@@ -1002,7 +1002,7 @@
       "name": "iPhone 12 Pro 128 GB",
       "condition": "Usado",
       "previousPrice": 1126000,
-      "price": 1092000,
+      "price": 1034000,
       "reference": 1149900,
       "sources": [
         {
@@ -1019,7 +1019,7 @@
       "name": "iPhone 12 Pro Max 128 GB",
       "condition": "Usado",
       "previousPrice": 1665000,
-      "price": 1614000,
+      "price": 1529000,
       "reference": 1699900,
       "sources": [
         {
@@ -1036,7 +1036,7 @@
       "name": "iPhone 13 Pro 128 GB",
       "condition": "Usado",
       "previousPrice": 1959000,
-      "price": 1899000,
+      "price": 1799000,
       "reference": 1999900,
       "sources": [
         {
@@ -1053,7 +1053,7 @@
       "name": "iPhone 13 Pro Max 128 GB",
       "condition": "Usado",
       "previousPrice": 2057000,
-      "price": 1994000,
+      "price": 1889000,
       "reference": 2099900,
       "sources": [
         {
@@ -1070,7 +1070,7 @@
       "name": "iPhone 14 Plus 128 GB",
       "condition": "Usado",
       "previousPrice": 1665000,
-      "price": 1614000,
+      "price": 1529000,
       "reference": 1699900,
       "sources": [
         {
@@ -1087,7 +1087,7 @@
       "name": "iPhone 15 Plus 128 GB",
       "condition": "Usado",
       "previousPrice": 2155000,
-      "price": 2089000,
+      "price": 1979000,
       "reference": 2199900,
       "sources": [
         {
@@ -1104,7 +1104,7 @@
       "name": "iPhone 15 Pro Max 256 GB",
       "condition": "Usado",
       "previousPrice": 3233000,
-      "price": 3134000,
+      "price": 2969000,
       "reference": 3299900,
       "sources": [
         {
@@ -1121,7 +1121,7 @@
       "name": "iPad Air 5.ª generación 64 GB",
       "condition": "Usado",
       "previousPrice": 1469000,
-      "price": 1424000,
+      "price": 1349000,
       "reference": 1499990,
       "sources": [
         {
@@ -1145,7 +1145,7 @@
       "name": "MacBook Air 13 pulgadas M5 512 GB",
       "condition": "Nuevo",
       "previousPrice": 4703000,
-      "price": 4559000,
+      "price": 4319000,
       "reference": 4799990,
       "sources": [
         {
@@ -1176,7 +1176,7 @@
       "name": "MacBook Air 15 pulgadas M5 512 GB",
       "condition": "Nuevo",
       "previousPrice": 7917000,
-      "price": 7675000,
+      "price": 7271000,
       "reference": 8079000,
       "sources": [
         {
@@ -1200,7 +1200,7 @@
       "name": "MacBook Pro 14 pulgadas M5 1 TB",
       "condition": "Nuevo",
       "previousPrice": 6663000,
-      "price": 6459000,
+      "price": 6119000,
       "reference": 6799990,
       "sources": [
         {
@@ -1231,7 +1231,7 @@
       "name": "MacBook Neo A18 Pro 8 GB 512 GB",
       "condition": "Nuevo",
       "previousPrice": 4144000,
-      "price": 4017000,
+      "price": 3806000,
       "reference": 4229000,
       "sources": [
         {
@@ -2633,5 +2633,6 @@
     }
   ],
   "previousPolicy": "2% por debajo de la oferta comparable disponible más baja, redondeado a 1.000 COP.",
-  "sourcesRecheckedAt": "2026-09-19T12:46:39.381Z"
+  "sourcesRecheckedAt": "2026-09-19T12:46:39.381Z",
+  "userRequestedDiscountPercent": 10
 }
