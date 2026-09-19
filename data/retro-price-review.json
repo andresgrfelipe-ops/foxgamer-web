@@ -1,0 +1,90 @@
+{
+  "reviewedAt": "2026-09-19",
+  "ownerConfirmation": "Discos originales; se conserva la condición usada de las fichas.",
+  "changes": [
+    {
+      "slug": "god-of-war-ii-ps2-usado",
+      "name": "God of War II · PS2",
+      "previousPrice": 125000,
+      "price": 89000,
+      "reference": {
+        "kind": "public-listing-reference",
+        "reviewedAt": "2026-09-19",
+        "baseCOP": 99900,
+        "discountFromReference": 0.1,
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/god-of-war-ps2-original",
+        "listingTitle": "God Of War 2 Playstation 2 Ps2 Original",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
+      }
+    },
+    {
+      "slug": "gran-turismo-4-ps2-usado",
+      "name": "Gran Turismo 4 · PS2",
+      "previousPrice": 89000,
+      "price": 45000,
+      "reference": {
+        "kind": "public-listing-reference",
+        "reviewedAt": "2026-09-19",
+        "baseCOP": 50000,
+        "discountFromReference": 0.1,
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/franquicia-gran-turismo/gran-turismo-4/usado/",
+        "listingTitle": "Videojuego Gran Turismo 4 Para Play Station 2",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
+      }
+    },
+    {
+      "slug": "halo-3-xbox-360-usado",
+      "name": "Halo 3 · Xbox 360",
+      "previousPrice": 62000,
+      "price": 49000,
+      "reference": {
+        "kind": "public-listing-reference",
+        "reviewedAt": "2026-09-19",
+        "baseCOP": 55000,
+        "discountFromReference": 0.1,
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/franquicia-halo/usado/es-linea/",
+        "listingTitle": "Juego Halo 3 Xbox 360 Physical Media | Microsoft Bungie",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
+      }
+    },
+    {
+      "slug": "gears-of-war-3-xbox-360-usado",
+      "name": "Gears of War 3 · Xbox 360",
+      "previousPrice": 62000,
+      "price": 43000,
+      "reference": {
+        "kind": "public-listing-reference",
+        "reviewedAt": "2026-09-19",
+        "baseCOP": 48000,
+        "discountFromReference": 0.1,
+        "rounding": "floor-to-1000-COP",
+        "sourceUrl": "https://listado.mercadolibre.com.co/consolas-videojuegos/videojuegos/gears-of-war-3/usado/",
+        "listingTitle": "Gears Of War 3 Xbox 360",
+        "condition": "Usado",
+        "note": "Referencia de anuncio público indexado de Mercado Libre Colombia para el mismo título y plataforma en disco usado. El propietario confirmó discos originales. No es venta cerrada ni cotización confirmada al pagar; región, caja, manual, estado, envío, costos y margen no verificados. Precio comercial autorizado: referencia menos 10%, redondeada hacia abajo a miles."
+      }
+    }
+  ],
+  "retained": [
+    {
+      "slug": "forza-motorsport-4-xbox-360-usado",
+      "price": 80000,
+      "reason": "Ya es inferior a 89.000 menos 10% (80.100), referencia pública consultada.",
+      "referenceCOP": 89000,
+      "sourceUrl": "https://listado.mercadolibre.com.co/forza-motorsport-4-usado"
+    },
+    {
+      "slug": "shadow-of-the-colossus-ps2-usado",
+      "price": 143000,
+      "reason": "Se conserva sin aumento; solo se encontró una referencia local original usada a 189.999, insuficiente para establecer un rango de mercado.",
+      "referenceCOP": 189999,
+      "sourceUrl": "https://listado.mercadolibre.com.co/juegos-de-ps2-originales-usados"
+    }
+  ]
+}
