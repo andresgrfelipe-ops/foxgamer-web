@@ -1,0 +1,1674 @@
+{
+  "reviewedAt": "2026-09-19",
+  "pricingPolicy": "Se conserva todo precio existente. Referencia de juego físico nuevo menos 10%, redondeada hacia abajo al millar. Condiciones Usado y Exhibición: ajustes comerciales adicionales del 20% y 10%. Las bases sin referencia exacta son estimaciones autorizadas; no se afirma ser el mínimo del mercado.",
+  "records": [
+    {
+      "slug": "fc-25-ps5-nuevo",
+      "previousName": "EA Sports FC 25 · PS5",
+      "name": "EA Sports FC 26 · PS5",
+      "condition": "Nuevo",
+      "price": 260000,
+      "image": "/assets/photos/img_6192.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-ea-sports-fc-26-fisico-nuevo",
+        "title": "PS5 - EA Sports FC 26 - Fisico - Nuevo",
+        "priceCOP": 289900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "fc-25-ps5-exhibicion",
+      "previousName": "EA Sports FC 25 · PS5",
+      "name": "EA Sports FC 26 · PS5",
+      "condition": "Exhibición",
+      "price": 234000,
+      "image": "/assets/photos/img_6192.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-ea-sports-fc-26-fisico-nuevo",
+        "title": "PS5 - EA Sports FC 26 - Fisico - Nuevo",
+        "priceCOP": 289900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "fc-25-ps5-usado",
+      "previousName": "EA Sports FC 25 · PS5",
+      "name": "EA Sports FC 26 · PS5",
+      "condition": "Usado",
+      "price": 208000,
+      "image": "/assets/photos/img_6192.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-ea-sports-fc-26-fisico-nuevo",
+        "title": "PS5 - EA Sports FC 26 - Fisico - Nuevo",
+        "priceCOP": 289900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "black-myth-wukong-nuevo",
+      "previousName": "Black Myth: Wukong · PS5",
+      "name": "Black Myth: Wukong · PS5",
+      "condition": "Nuevo",
+      "price": 305000,
+      "image": "/assets/photos/img_6193.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-black-myth-wukong-fisico-nuevo",
+        "title": "PS5 - Black Myth Wukong - Fisico - Nuevo",
+        "priceCOP": 339900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "black-myth-wukong-exhibicion",
+      "previousName": "Black Myth: Wukong · PS5",
+      "name": "Black Myth: Wukong · PS5",
+      "condition": "Exhibición",
+      "price": 274000,
+      "image": "/assets/photos/img_6193.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-black-myth-wukong-fisico-nuevo",
+        "title": "PS5 - Black Myth Wukong - Fisico - Nuevo",
+        "priceCOP": 339900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "black-myth-wukong-usado",
+      "previousName": "Black Myth: Wukong · PS5",
+      "name": "Black Myth: Wukong · PS5",
+      "condition": "Usado",
+      "price": 244000,
+      "image": "/assets/photos/img_6193.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-black-myth-wukong-fisico-nuevo",
+        "title": "PS5 - Black Myth Wukong - Fisico - Nuevo",
+        "priceCOP": 339900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "ghost-of-tsushima-nuevo",
+      "previousName": "Ghost of Tsushima · PS5",
+      "name": "Ghost of Yōtei · PS5",
+      "condition": "Nuevo",
+      "price": 269000,
+      "image": "/assets/photos/img_6194.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 299900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "ghost-of-tsushima-exhibicion",
+      "previousName": "Ghost of Tsushima · PS5",
+      "name": "Ghost of Yōtei · PS5",
+      "condition": "Exhibición",
+      "price": 242000,
+      "image": "/assets/photos/img_6194.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 299900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "ghost-of-tsushima-usado",
+      "previousName": "Ghost of Tsushima · PS5",
+      "name": "Ghost of Yōtei · PS5",
+      "condition": "Usado",
+      "price": 215000,
+      "image": "/assets/photos/img_6194.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 299900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "the-crew-motorfest-nuevo",
+      "previousName": "The Crew Motorfest · PS5",
+      "name": "The Crew Motorfest · PS5",
+      "condition": "Nuevo",
+      "price": 206000,
+      "image": "/assets/photos/img_6195.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 229900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "the-crew-motorfest-exhibicion",
+      "previousName": "The Crew Motorfest · PS5",
+      "name": "The Crew Motorfest · PS5",
+      "condition": "Exhibición",
+      "price": 185000,
+      "image": "/assets/photos/img_6195.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 229900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "the-crew-motorfest-usado",
+      "previousName": "The Crew Motorfest · PS5",
+      "name": "The Crew Motorfest · PS5",
+      "condition": "Usado",
+      "price": 164000,
+      "image": "/assets/photos/img_6195.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 229900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "metal-gear-solid-delta-nuevo",
+      "previousName": "Metal Gear Solid Delta · PS5",
+      "name": "Metal Gear Solid Δ: Snake Eater · PS5",
+      "condition": "Nuevo",
+      "price": 269000,
+      "image": "/assets/photos/img_6196.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 299900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "metal-gear-solid-delta-exhibicion",
+      "previousName": "Metal Gear Solid Delta · PS5",
+      "name": "Metal Gear Solid Δ: Snake Eater · PS5",
+      "condition": "Exhibición",
+      "price": 242000,
+      "image": "/assets/photos/img_6196.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 299900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "metal-gear-solid-delta-usado",
+      "previousName": "Metal Gear Solid Delta · PS5",
+      "name": "Metal Gear Solid Δ: Snake Eater · PS5",
+      "condition": "Usado",
+      "price": 215000,
+      "image": "/assets/photos/img_6196.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 299900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "resident-evil-3-nuevo",
+      "previousName": "Resident Evil 3 · PS5",
+      "name": "Resident Evil 3 · PS5",
+      "condition": "Nuevo",
+      "price": 116000,
+      "image": "/assets/photos/img_6197.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-3-fisico-nuevo",
+        "title": "PS5 - Resident Evil 3  - Fisico - Nuevo",
+        "priceCOP": 129900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "resident-evil-3-exhibicion",
+      "previousName": "Resident Evil 3 · PS5",
+      "name": "Resident Evil 3 · PS5",
+      "condition": "Exhibición",
+      "price": 104000,
+      "image": "/assets/photos/img_6197.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-3-fisico-nuevo",
+        "title": "PS5 - Resident Evil 3  - Fisico - Nuevo",
+        "priceCOP": 129900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "resident-evil-3-usado",
+      "previousName": "Resident Evil 3 · PS5",
+      "name": "Resident Evil 3 · PS5",
+      "condition": "Usado",
+      "price": 92000,
+      "image": "/assets/photos/img_6197.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-3-fisico-nuevo",
+        "title": "PS5 - Resident Evil 3  - Fisico - Nuevo",
+        "priceCOP": 129900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "resident-evil-4-nuevo",
+      "previousName": "Resident Evil 4 · PS5",
+      "name": "Resident Evil 4 · PS5",
+      "condition": "Nuevo",
+      "price": 152000,
+      "image": "/assets/photos/img_6198.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-4-remake-fisico-nuevo",
+        "title": "PS5 - Resident Evil 4 Remake - Fisico - Nuevo",
+        "priceCOP": 169900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "resident-evil-4-exhibicion",
+      "previousName": "Resident Evil 4 · PS5",
+      "name": "Resident Evil 4 · PS5",
+      "condition": "Exhibición",
+      "price": 136000,
+      "image": "/assets/photos/img_6198.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-4-remake-fisico-nuevo",
+        "title": "PS5 - Resident Evil 4 Remake - Fisico - Nuevo",
+        "priceCOP": 169900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "resident-evil-4-usado",
+      "previousName": "Resident Evil 4 · PS5",
+      "name": "Resident Evil 4 · PS5",
+      "condition": "Usado",
+      "price": 121000,
+      "image": "/assets/photos/img_6198.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-4-remake-fisico-nuevo",
+        "title": "PS5 - Resident Evil 4 Remake - Fisico - Nuevo",
+        "priceCOP": 169900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "elden-ring-nuevo",
+      "previousName": "Elden Ring · PS5",
+      "name": "Elden Ring: Shadow of the Erdtree Edition · PS5",
+      "condition": "Nuevo",
+      "price": 359000,
+      "image": "/assets/photos/img_6199.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-elden-ring-shadow-of-the-erdtree-edition-fisico-nuevo",
+        "title": "PS5 - Elden Ring Shadow of the Erdtree Edition - Fisico - Nuevo",
+        "priceCOP": 399900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "elden-ring-exhibicion",
+      "previousName": "Elden Ring · PS5",
+      "name": "Elden Ring: Shadow of the Erdtree Edition · PS5",
+      "condition": "Exhibición",
+      "price": 323000,
+      "image": "/assets/photos/img_6199.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-elden-ring-shadow-of-the-erdtree-edition-fisico-nuevo",
+        "title": "PS5 - Elden Ring Shadow of the Erdtree Edition - Fisico - Nuevo",
+        "priceCOP": 399900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "elden-ring-usado",
+      "previousName": "Elden Ring · PS5",
+      "name": "Elden Ring: Shadow of the Erdtree Edition · PS5",
+      "condition": "Usado",
+      "price": 287000,
+      "image": "/assets/photos/img_6199.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-elden-ring-shadow-of-the-erdtree-edition-fisico-nuevo",
+        "title": "PS5 - Elden Ring Shadow of the Erdtree Edition - Fisico - Nuevo",
+        "priceCOP": 399900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "the-last-of-us-part-i-nuevo",
+      "previousName": "The Last of Us Part I · PS5",
+      "name": "The Last of Us Part I · PS5",
+      "condition": "Nuevo",
+      "price": 281000,
+      "image": "/assets/photos/img_6200.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-the-last-of-us-part-i-remastered-fisico-nuevo",
+        "title": "PS5 - The Last of Us Part I Remastered - Fisico - Nuevo",
+        "priceCOP": 312900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-part-i-exhibicion",
+      "previousName": "The Last of Us Part I · PS5",
+      "name": "The Last of Us Part I · PS5",
+      "condition": "Exhibición",
+      "price": 252000,
+      "image": "/assets/photos/img_6200.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-the-last-of-us-part-i-remastered-fisico-nuevo",
+        "title": "PS5 - The Last of Us Part I Remastered - Fisico - Nuevo",
+        "priceCOP": 312900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-part-i-usado",
+      "previousName": "The Last of Us Part I · PS5",
+      "name": "The Last of Us Part I · PS5",
+      "condition": "Usado",
+      "price": 224000,
+      "image": "/assets/photos/img_6200.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-the-last-of-us-part-i-remastered-fisico-nuevo",
+        "title": "PS5 - The Last of Us Part I Remastered - Fisico - Nuevo",
+        "priceCOP": 312900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-part-ii-nuevo",
+      "previousName": "The Last of Us Part II · PS5",
+      "name": "The Last of Us Part II Remastered · PS5",
+      "condition": "Nuevo",
+      "price": 195000,
+      "image": "/assets/photos/img_6201.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-last-of-us-parte-ii-remasterizado-fisico-nuevo",
+        "title": "PS5 - The Last of Us Parte II Remasterizado - Fisico - Nuevo",
+        "priceCOP": 216900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-part-ii-exhibicion",
+      "previousName": "The Last of Us Part II · PS5",
+      "name": "The Last of Us Part II Remastered · PS5",
+      "condition": "Exhibición",
+      "price": 175000,
+      "image": "/assets/photos/img_6201.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-last-of-us-parte-ii-remasterizado-fisico-nuevo",
+        "title": "PS5 - The Last of Us Parte II Remasterizado - Fisico - Nuevo",
+        "priceCOP": 216900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-part-ii-usado",
+      "previousName": "The Last of Us Part II · PS5",
+      "name": "The Last of Us Part II Remastered · PS5",
+      "condition": "Usado",
+      "price": 156000,
+      "image": "/assets/photos/img_6201.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-last-of-us-parte-ii-remasterizado-fisico-nuevo",
+        "title": "PS5 - The Last of Us Parte II Remasterizado - Fisico - Nuevo",
+        "priceCOP": 216900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "uncharted-nuevo",
+      "previousName": "Uncharted · PS5",
+      "name": "Uncharted: Legacy of Thieves Collection · PS5",
+      "condition": "Nuevo",
+      "price": 296000,
+      "image": "/assets/photos/img_6202.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-uncharted-legacy-of-thieves-fisico-nuevo",
+        "title": "PS5 - Uncharted Legacy Of Thieves - Fisico - Nuevo",
+        "priceCOP": 329900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "uncharted-exhibicion",
+      "previousName": "Uncharted · PS5",
+      "name": "Uncharted: Legacy of Thieves Collection · PS5",
+      "condition": "Exhibición",
+      "price": 266000,
+      "image": "/assets/photos/img_6202.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-uncharted-legacy-of-thieves-fisico-nuevo",
+        "title": "PS5 - Uncharted Legacy Of Thieves - Fisico - Nuevo",
+        "priceCOP": 329900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "uncharted-usado",
+      "previousName": "Uncharted · PS5",
+      "name": "Uncharted: Legacy of Thieves Collection · PS5",
+      "condition": "Usado",
+      "price": 236000,
+      "image": "/assets/photos/img_6202.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-uncharted-legacy-of-thieves-fisico-nuevo",
+        "title": "PS5 - Uncharted Legacy Of Thieves - Fisico - Nuevo",
+        "priceCOP": 329900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "spider-man-2-nuevo",
+      "previousName": "Marvel’s Spider-Man 2 · PS5",
+      "name": "Marvel’s Spider-Man 2 · PS5",
+      "condition": "Nuevo",
+      "price": 224000,
+      "image": "/assets/photos/img_6203.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 249900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "spider-man-2-exhibicion",
+      "previousName": "Marvel’s Spider-Man 2 · PS5",
+      "name": "Marvel’s Spider-Man 2 · PS5",
+      "condition": "Exhibición",
+      "price": 201000,
+      "image": "/assets/photos/img_6203.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 249900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "spider-man-2-usado",
+      "previousName": "Marvel’s Spider-Man 2 · PS5",
+      "name": "Marvel’s Spider-Man 2 · PS5",
+      "condition": "Usado",
+      "price": 179000,
+      "image": "/assets/photos/img_6203.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 249900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "gta-v-nuevo",
+      "previousName": "Grand Theft Auto V · PS5",
+      "name": "Grand Theft Auto V · PS5",
+      "condition": "Nuevo",
+      "price": 116000,
+      "image": "/assets/photos/img_6204.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-grand-theft-auto-v-fisico-nuevo",
+        "title": "PS5 - Grand Theft Auto V  - Fisico - Nuevo",
+        "priceCOP": 129900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "gta-v-exhibicion",
+      "previousName": "Grand Theft Auto V · PS5",
+      "name": "Grand Theft Auto V · PS5",
+      "condition": "Exhibición",
+      "price": 104000,
+      "image": "/assets/photos/img_6204.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-grand-theft-auto-v-fisico-nuevo",
+        "title": "PS5 - Grand Theft Auto V  - Fisico - Nuevo",
+        "priceCOP": 129900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "gta-v-usado",
+      "previousName": "Grand Theft Auto V · PS5",
+      "name": "Grand Theft Auto V · PS5",
+      "condition": "Usado",
+      "price": 92000,
+      "image": "/assets/photos/img_6204.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-grand-theft-auto-v-fisico-nuevo",
+        "title": "PS5 - Grand Theft Auto V  - Fisico - Nuevo",
+        "priceCOP": 129900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "ufc-5-nuevo",
+      "previousName": "EA Sports UFC 5 · PS5",
+      "name": "EA Sports UFC 5 · PS5",
+      "condition": "Nuevo",
+      "price": 179000,
+      "image": "/assets/photos/img_6205.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 199900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "ufc-5-exhibicion",
+      "previousName": "EA Sports UFC 5 · PS5",
+      "name": "EA Sports UFC 5 · PS5",
+      "condition": "Exhibición",
+      "price": 161000,
+      "image": "/assets/photos/img_6205.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 199900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "ufc-5-usado",
+      "previousName": "EA Sports UFC 5 · PS5",
+      "name": "EA Sports UFC 5 · PS5",
+      "condition": "Usado",
+      "price": 143000,
+      "image": "/assets/photos/img_6205.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 199900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "mafia-nuevo",
+      "previousName": "Mafia · PS5",
+      "name": "Mafia: The Old Country · PS5",
+      "condition": "Nuevo",
+      "price": 242000,
+      "image": "/assets/photos/img_6206.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-mafia-the-old-country-nuevo",
+        "title": "PS5 - Mafia The Old Country - Nuevo",
+        "priceCOP": 269900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "mafia-exhibicion",
+      "previousName": "Mafia · PS5",
+      "name": "Mafia: The Old Country · PS5",
+      "condition": "Exhibición",
+      "price": 217000,
+      "image": "/assets/photos/img_6206.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-mafia-the-old-country-nuevo",
+        "title": "PS5 - Mafia The Old Country - Nuevo",
+        "priceCOP": 269900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "mafia-usado",
+      "previousName": "Mafia · PS5",
+      "name": "Mafia: The Old Country · PS5",
+      "condition": "Usado",
+      "price": 193000,
+      "image": "/assets/photos/img_6206.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-mafia-the-old-country-nuevo",
+        "title": "PS5 - Mafia The Old Country - Nuevo",
+        "priceCOP": 269900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "call-of-duty-black-ops-7-nuevo",
+      "previousName": "Call of Duty Black Ops 7 · PS5",
+      "name": "Call of Duty: Black Ops 7 · PS5",
+      "condition": "Nuevo",
+      "price": 296000,
+      "image": "/assets/photos/img_6207.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-call-of-duty%C2%AE-black-ops-7-nuevo",
+        "title": "PS5 - Call of Duty®: Black Ops 7 - Nuevo",
+        "priceCOP": 329900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "call-of-duty-black-ops-7-exhibicion",
+      "previousName": "Call of Duty Black Ops 7 · PS5",
+      "name": "Call of Duty: Black Ops 7 · PS5",
+      "condition": "Exhibición",
+      "price": 266000,
+      "image": "/assets/photos/img_6207.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-call-of-duty%C2%AE-black-ops-7-nuevo",
+        "title": "PS5 - Call of Duty®: Black Ops 7 - Nuevo",
+        "priceCOP": 329900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "call-of-duty-black-ops-7-usado",
+      "previousName": "Call of Duty Black Ops 7 · PS5",
+      "name": "Call of Duty: Black Ops 7 · PS5",
+      "condition": "Usado",
+      "price": 236000,
+      "image": "/assets/photos/img_6207.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-call-of-duty%C2%AE-black-ops-7-nuevo",
+        "title": "PS5 - Call of Duty®: Black Ops 7 - Nuevo",
+        "priceCOP": 329900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "dragon-ball-sparking-zero-nuevo",
+      "previousName": "Dragon Ball Sparking! ZERO · PS5",
+      "name": "Dragon Ball: Sparking! ZERO · PS5",
+      "condition": "Nuevo",
+      "price": 314000,
+      "image": "/assets/photos/img_6208.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-dragon-ball-sparking-zero-nuevo",
+        "title": "PS5 - Dragon Ball: Sparking! Zero - Nuevo",
+        "priceCOP": 349900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "dragon-ball-sparking-zero-exhibicion",
+      "previousName": "Dragon Ball Sparking! ZERO · PS5",
+      "name": "Dragon Ball: Sparking! ZERO · PS5",
+      "condition": "Exhibición",
+      "price": 282000,
+      "image": "/assets/photos/img_6208.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-dragon-ball-sparking-zero-nuevo",
+        "title": "PS5 - Dragon Ball: Sparking! Zero - Nuevo",
+        "priceCOP": 349900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "dragon-ball-sparking-zero-usado",
+      "previousName": "Dragon Ball Sparking! ZERO · PS5",
+      "name": "Dragon Ball: Sparking! ZERO · PS5",
+      "condition": "Usado",
+      "price": 251000,
+      "image": "/assets/photos/img_6208.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-dragon-ball-sparking-zero-nuevo",
+        "title": "PS5 - Dragon Ball: Sparking! Zero - Nuevo",
+        "priceCOP": 349900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "silent-hill-f-nuevo",
+      "previousName": "Silent Hill f · PS5",
+      "name": "Silent Hill f · PS5",
+      "condition": "Nuevo",
+      "price": 239000,
+      "image": "/assets/photos/img_6209.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-silent-hill-f-nuevo",
+        "title": "PS5 - Silent Hill f - Nuevo",
+        "priceCOP": 265900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "silent-hill-f-exhibicion",
+      "previousName": "Silent Hill f · PS5",
+      "name": "Silent Hill f · PS5",
+      "condition": "Exhibición",
+      "price": 215000,
+      "image": "/assets/photos/img_6209.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-silent-hill-f-nuevo",
+        "title": "PS5 - Silent Hill f - Nuevo",
+        "priceCOP": 265900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "silent-hill-f-usado",
+      "previousName": "Silent Hill f · PS5",
+      "name": "Silent Hill f · PS5",
+      "condition": "Usado",
+      "price": 191000,
+      "image": "/assets/photos/img_6209.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-silent-hill-f-nuevo",
+        "title": "PS5 - Silent Hill f - Nuevo",
+        "priceCOP": 265900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "little-nightmares-iii-nuevo",
+      "previousName": "Little Nightmares III · PS5",
+      "name": "Little Nightmares III · PS5",
+      "condition": "Nuevo",
+      "price": 179000,
+      "image": "/assets/photos/img_6210.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 199900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "little-nightmares-iii-exhibicion",
+      "previousName": "Little Nightmares III · PS5",
+      "name": "Little Nightmares III · PS5",
+      "condition": "Exhibición",
+      "price": 161000,
+      "image": "/assets/photos/img_6210.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 199900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "little-nightmares-iii-usado",
+      "previousName": "Little Nightmares III · PS5",
+      "name": "Little Nightmares III · PS5",
+      "condition": "Usado",
+      "price": 143000,
+      "image": "/assets/photos/img_6210.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 199900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "resident-evil-4-ps4-nuevo",
+      "previousName": "Resident Evil 4 · PS4",
+      "name": "Resident Evil Requiem · PS5",
+      "condition": "Nuevo",
+      "price": 323000,
+      "image": "/assets/photos/img_6268.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-requiem-fisico-nuevo",
+        "title": "PS5 - Resident Evil: Requiem - Fisico - Nuevo",
+        "priceCOP": 359900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "resident-evil-4-ps4-exhibicion",
+      "previousName": "Resident Evil 4 · PS4",
+      "name": "Resident Evil Requiem · PS5",
+      "condition": "Exhibición",
+      "price": 290000,
+      "image": "/assets/photos/img_6268.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-requiem-fisico-nuevo",
+        "title": "PS5 - Resident Evil: Requiem - Fisico - Nuevo",
+        "priceCOP": 359900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "resident-evil-4-ps4-usado",
+      "previousName": "Resident Evil 4 · PS4",
+      "name": "Resident Evil Requiem · PS5",
+      "condition": "Usado",
+      "price": 258000,
+      "image": "/assets/photos/img_6268.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-requiem-fisico-nuevo",
+        "title": "PS5 - Resident Evil: Requiem - Fisico - Nuevo",
+        "priceCOP": 359900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "resident-evil-4-ps4-2-nuevo",
+      "previousName": "Resident Evil 4 · PS4 (unidad 2)",
+      "name": "Resident Evil Requiem · PS5",
+      "condition": "Nuevo",
+      "price": 323000,
+      "image": "/assets/photos/img_6269.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-requiem-fisico-nuevo",
+        "title": "PS5 - Resident Evil: Requiem - Fisico - Nuevo",
+        "priceCOP": 359900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "resident-evil-4-ps4-2-exhibicion",
+      "previousName": "Resident Evil 4 · PS4 (unidad 2)",
+      "name": "Resident Evil Requiem · PS5",
+      "condition": "Exhibición",
+      "price": 290000,
+      "image": "/assets/photos/img_6269.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-requiem-fisico-nuevo",
+        "title": "PS5 - Resident Evil: Requiem - Fisico - Nuevo",
+        "priceCOP": 359900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "resident-evil-4-ps4-2-usado",
+      "previousName": "Resident Evil 4 · PS4 (unidad 2)",
+      "name": "Resident Evil Requiem · PS5",
+      "condition": "Usado",
+      "price": 258000,
+      "image": "/assets/photos/img_6269.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps5-resident-evil-requiem-fisico-nuevo",
+        "title": "PS5 - Resident Evil: Requiem - Fisico - Nuevo",
+        "priceCOP": 359900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "fc-25-ps4-nuevo",
+      "previousName": "EA Sports FC 25 · PS4",
+      "name": "EA Sports FC 26 · PS4",
+      "condition": "Nuevo",
+      "price": 206000,
+      "image": "/assets/photos/img_6492.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-ea-sports-fc-26-fisico-nuevo",
+        "title": "PS4 - EA Sports FC 26 - Fisico - Nuevo",
+        "priceCOP": 229900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "fc-25-ps4-exhibicion",
+      "previousName": "EA Sports FC 25 · PS4",
+      "name": "EA Sports FC 26 · PS4",
+      "condition": "Exhibición",
+      "price": 185000,
+      "image": "/assets/photos/img_6492.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-ea-sports-fc-26-fisico-nuevo",
+        "title": "PS4 - EA Sports FC 26 - Fisico - Nuevo",
+        "priceCOP": 229900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "fc-25-ps4-usado",
+      "previousName": "EA Sports FC 25 · PS4",
+      "name": "EA Sports FC 26 · PS4",
+      "condition": "Usado",
+      "price": 164000,
+      "image": "/assets/photos/img_6492.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-ea-sports-fc-26-fisico-nuevo",
+        "title": "PS4 - EA Sports FC 26 - Fisico - Nuevo",
+        "priceCOP": 229900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "call-of-duty-ps4-nuevo",
+      "previousName": "Call of Duty · PS4",
+      "name": "Call of Duty: Modern Warfare Remastered · PS4",
+      "condition": "Nuevo",
+      "price": 134000,
+      "image": "/assets/photos/img_6493.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 149900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "call-of-duty-ps4-exhibicion",
+      "previousName": "Call of Duty · PS4",
+      "name": "Call of Duty: Modern Warfare Remastered · PS4",
+      "condition": "Exhibición",
+      "price": 120000,
+      "image": "/assets/photos/img_6493.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 149900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "call-of-duty-ps4-usado",
+      "previousName": "Call of Duty · PS4",
+      "name": "Call of Duty: Modern Warfare Remastered · PS4",
+      "condition": "Usado",
+      "price": 107000,
+      "image": "/assets/photos/img_6493.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 149900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "mud-runner-nuevo",
+      "previousName": "MudRunner · PS4",
+      "name": "MudRunner: American Wilds Edition · PS4",
+      "condition": "Nuevo",
+      "price": 107000,
+      "image": "/assets/photos/img_6494.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 119900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "mud-runner-exhibicion",
+      "previousName": "MudRunner · PS4",
+      "name": "MudRunner: American Wilds Edition · PS4",
+      "condition": "Exhibición",
+      "price": 96000,
+      "image": "/assets/photos/img_6494.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 119900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "mud-runner-usado",
+      "previousName": "MudRunner · PS4",
+      "name": "MudRunner: American Wilds Edition · PS4",
+      "condition": "Usado",
+      "price": 85000,
+      "image": "/assets/photos/img_6494.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 119900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "mafia-ps4-nuevo",
+      "previousName": "Mafia · PS4",
+      "name": "Mafia: Trilogy · PS4",
+      "condition": "Nuevo",
+      "price": 197000,
+      "image": "/assets/photos/img_6495.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 219900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "mafia-ps4-exhibicion",
+      "previousName": "Mafia · PS4",
+      "name": "Mafia: Trilogy · PS4",
+      "condition": "Exhibición",
+      "price": 177000,
+      "image": "/assets/photos/img_6495.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 219900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "mafia-ps4-usado",
+      "previousName": "Mafia · PS4",
+      "name": "Mafia: Trilogy · PS4",
+      "condition": "Usado",
+      "price": 157000,
+      "image": "/assets/photos/img_6495.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 219900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "fc-25-ps4-2-nuevo",
+      "previousName": "EA Sports FC 25 · PS4 (unidad 2)",
+      "name": "EA Sports FC 25 · PS4",
+      "condition": "Nuevo",
+      "price": 242000,
+      "image": "/assets/photos/img_6496.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-ea-sports-fc-25-fisico-nuevo-copia",
+        "title": "PS4 - EA Sports FC 25 - Fisico - Nuevo",
+        "priceCOP": 269900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "fc-25-ps4-2-exhibicion",
+      "previousName": "EA Sports FC 25 · PS4 (unidad 2)",
+      "name": "EA Sports FC 25 · PS4",
+      "condition": "Exhibición",
+      "price": 217000,
+      "image": "/assets/photos/img_6496.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-ea-sports-fc-25-fisico-nuevo-copia",
+        "title": "PS4 - EA Sports FC 25 - Fisico - Nuevo",
+        "priceCOP": 269900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "fc-25-ps4-2-usado",
+      "previousName": "EA Sports FC 25 · PS4 (unidad 2)",
+      "name": "EA Sports FC 25 · PS4",
+      "condition": "Usado",
+      "price": 193000,
+      "image": "/assets/photos/img_6496.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-ea-sports-fc-25-fisico-nuevo-copia",
+        "title": "PS4 - EA Sports FC 25 - Fisico - Nuevo",
+        "priceCOP": 269900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "efootball-nuevo",
+      "previousName": "eFootball · PS4",
+      "name": "The Crew 2 · PS4",
+      "condition": "Nuevo",
+      "price": 116000,
+      "image": "/assets/photos/img_6497.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 129900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "efootball-exhibicion",
+      "previousName": "eFootball · PS4",
+      "name": "The Crew 2 · PS4",
+      "condition": "Exhibición",
+      "price": 104000,
+      "image": "/assets/photos/img_6497.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 129900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "efootball-usado",
+      "previousName": "eFootball · PS4",
+      "name": "The Crew 2 · PS4",
+      "condition": "Usado",
+      "price": 92000,
+      "image": "/assets/photos/img_6497.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 129900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "pes-nuevo",
+      "previousName": "PES · PS4",
+      "name": "PES 2018 · PS4",
+      "condition": "Nuevo",
+      "price": 89000,
+      "image": "/assets/photos/img_6498.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 99900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "pes-exhibicion",
+      "previousName": "PES · PS4",
+      "name": "PES 2018 · PS4",
+      "condition": "Exhibición",
+      "price": 80000,
+      "image": "/assets/photos/img_6498.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 99900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "pes-usado",
+      "previousName": "PES · PS4",
+      "name": "PES 2018 · PS4",
+      "condition": "Usado",
+      "price": 71000,
+      "image": "/assets/photos/img_6498.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 99900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "crash-team-racing-nuevo",
+      "previousName": "Crash Team Racing · PS4",
+      "name": "Crash Bandicoot N. Sane Trilogy · PS4",
+      "condition": "Nuevo",
+      "price": 161000,
+      "image": "/assets/photos/img_6499.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-crash_bandicoot_n-sane_trilogy-nuevo",
+        "title": "PS4 - Crash Bandicoot N-Sane Trilogy Colección  - Fisico - Nuevo",
+        "priceCOP": 179900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "crash-team-racing-exhibicion",
+      "previousName": "Crash Team Racing · PS4",
+      "name": "Crash Bandicoot N. Sane Trilogy · PS4",
+      "condition": "Exhibición",
+      "price": 144000,
+      "image": "/assets/photos/img_6499.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-crash_bandicoot_n-sane_trilogy-nuevo",
+        "title": "PS4 - Crash Bandicoot N-Sane Trilogy Colección  - Fisico - Nuevo",
+        "priceCOP": 179900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "crash-team-racing-usado",
+      "previousName": "Crash Team Racing · PS4",
+      "name": "Crash Bandicoot N. Sane Trilogy · PS4",
+      "condition": "Usado",
+      "price": 128000,
+      "image": "/assets/photos/img_6499.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-crash_bandicoot_n-sane_trilogy-nuevo",
+        "title": "PS4 - Crash Bandicoot N-Sane Trilogy Colección  - Fisico - Nuevo",
+        "priceCOP": 179900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "hello-neighbor-nuevo",
+      "previousName": "Hello Neighbor · PS4",
+      "name": "Hello Neighbor 2 · PS4",
+      "condition": "Nuevo",
+      "price": 125000,
+      "image": "/assets/photos/img_6500.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 139900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "hello-neighbor-exhibicion",
+      "previousName": "Hello Neighbor · PS4",
+      "name": "Hello Neighbor 2 · PS4",
+      "condition": "Exhibición",
+      "price": 112000,
+      "image": "/assets/photos/img_6500.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 139900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "hello-neighbor-usado",
+      "previousName": "Hello Neighbor · PS4",
+      "name": "Hello Neighbor 2 · PS4",
+      "condition": "Usado",
+      "price": 100000,
+      "image": "/assets/photos/img_6500.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 139900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "the-crew-motorfest-ps4-nuevo",
+      "previousName": "The Crew Motorfest · PS4",
+      "name": "The Crew Motorfest · PS4",
+      "condition": "Nuevo",
+      "price": 170000,
+      "image": "/assets/photos/img_6501.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 189900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "the-crew-motorfest-ps4-exhibicion",
+      "previousName": "The Crew Motorfest · PS4",
+      "name": "The Crew Motorfest · PS4",
+      "condition": "Exhibición",
+      "price": 153000,
+      "image": "/assets/photos/img_6501.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 189900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "the-crew-motorfest-ps4-usado",
+      "previousName": "The Crew Motorfest · PS4",
+      "name": "The Crew Motorfest · PS4",
+      "condition": "Usado",
+      "price": 136000,
+      "image": "/assets/photos/img_6501.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 189900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "minecraft-ps4-nuevo",
+      "previousName": "Minecraft · PS4",
+      "name": "Minecraft · PS4",
+      "condition": "Nuevo",
+      "price": 152000,
+      "image": "/assets/photos/img_6502.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-minecraft-nuevo",
+        "title": "PS4 - Minecraft Starter Colecction  - Fisico - Nuevo",
+        "priceCOP": 169900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "minecraft-ps4-exhibicion",
+      "previousName": "Minecraft · PS4",
+      "name": "Minecraft · PS4",
+      "condition": "Exhibición",
+      "price": 136000,
+      "image": "/assets/photos/img_6502.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-minecraft-nuevo",
+        "title": "PS4 - Minecraft Starter Colecction  - Fisico - Nuevo",
+        "priceCOP": 169900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "minecraft-ps4-usado",
+      "previousName": "Minecraft · PS4",
+      "name": "Minecraft · PS4",
+      "condition": "Usado",
+      "price": 121000,
+      "image": "/assets/photos/img_6502.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-minecraft-nuevo",
+        "title": "PS4 - Minecraft Starter Colecction  - Fisico - Nuevo",
+        "priceCOP": 169900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "battlefield-v-nuevo",
+      "previousName": "Battlefield V · PS4",
+      "name": "Battlefield V · PS4",
+      "condition": "Nuevo",
+      "price": 107000,
+      "image": "/assets/photos/img_6503.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-battlefield-v-plus-firestorm-battle-royale-fisico-nuevo",
+        "title": "PS4 - Battlefield V (plus Firestorm Battle Royale)  - Fisico - Nuevo",
+        "priceCOP": 119900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "battlefield-v-exhibicion",
+      "previousName": "Battlefield V · PS4",
+      "name": "Battlefield V · PS4",
+      "condition": "Exhibición",
+      "price": 96000,
+      "image": "/assets/photos/img_6503.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-battlefield-v-plus-firestorm-battle-royale-fisico-nuevo",
+        "title": "PS4 - Battlefield V (plus Firestorm Battle Royale)  - Fisico - Nuevo",
+        "priceCOP": 119900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "battlefield-v-usado",
+      "previousName": "Battlefield V · PS4",
+      "name": "Battlefield V · PS4",
+      "condition": "Usado",
+      "price": 85000,
+      "image": "/assets/photos/img_6503.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-battlefield-v-plus-firestorm-battle-royale-fisico-nuevo",
+        "title": "PS4 - Battlefield V (plus Firestorm Battle Royale)  - Fisico - Nuevo",
+        "priceCOP": 119900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "need-for-speed-nuevo",
+      "previousName": "Need for Speed · PS4",
+      "name": "Need for Speed Heat · PS4",
+      "condition": "Nuevo",
+      "price": 116000,
+      "image": "/assets/photos/img_6509.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-need_for_speed_heat-nuevo",
+        "title": "PS4 - Need For Speed Heat  - Fisico - Nuevo",
+        "priceCOP": 129900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "need-for-speed-exhibicion",
+      "previousName": "Need for Speed · PS4",
+      "name": "Need for Speed Heat · PS4",
+      "condition": "Exhibición",
+      "price": 104000,
+      "image": "/assets/photos/img_6509.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-need_for_speed_heat-nuevo",
+        "title": "PS4 - Need For Speed Heat  - Fisico - Nuevo",
+        "priceCOP": 129900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "need-for-speed-usado",
+      "previousName": "Need for Speed · PS4",
+      "name": "Need for Speed Heat · PS4",
+      "condition": "Usado",
+      "price": 92000,
+      "image": "/assets/photos/img_6509.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-need_for_speed_heat-nuevo",
+        "title": "PS4 - Need For Speed Heat  - Fisico - Nuevo",
+        "priceCOP": 129900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "gran-turismo-7-nuevo",
+      "previousName": "Gran Turismo 7 · PS4",
+      "name": "Gran Turismo 7 · PS4",
+      "condition": "Nuevo",
+      "price": 104000,
+      "image": "/assets/photos/img_6510.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://www.mercadolibre.com.co/gran-turismo-7-fisico-estandar-ps4/p/MCO19031842",
+        "title": "Gran Turismo 7 Físico Estándar PS4",
+        "priceCOP": 116301
+      }
+    },
+    {
+      "slug": "gran-turismo-7-exhibicion",
+      "previousName": "Gran Turismo 7 · PS4",
+      "name": "Gran Turismo 7 · PS4",
+      "condition": "Exhibición",
+      "price": 93000,
+      "image": "/assets/photos/img_6510.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://www.mercadolibre.com.co/gran-turismo-7-fisico-estandar-ps4/p/MCO19031842",
+        "title": "Gran Turismo 7 Físico Estándar PS4",
+        "priceCOP": 116301
+      }
+    },
+    {
+      "slug": "gran-turismo-7-usado",
+      "previousName": "Gran Turismo 7 · PS4",
+      "name": "Gran Turismo 7 · PS4",
+      "condition": "Usado",
+      "price": 83000,
+      "image": "/assets/photos/img_6510.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://www.mercadolibre.com.co/gran-turismo-7-fisico-estandar-ps4/p/MCO19031842",
+        "title": "Gran Turismo 7 Físico Estándar PS4",
+        "priceCOP": 116301
+      }
+    },
+    {
+      "slug": "the-last-of-us-ps4-nuevo",
+      "previousName": "The Last of Us · PS4",
+      "name": "The Last of Us Remastered · PS4",
+      "condition": "Nuevo",
+      "price": 89000,
+      "image": "/assets/photos/img_6511.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-the_last_of_us_remastered-nuevo",
+        "title": "PS4 - The Last Of Us Remastered HITS - Fisico - Nuevo",
+        "priceCOP": 99900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-ps4-exhibicion",
+      "previousName": "The Last of Us · PS4",
+      "name": "The Last of Us Remastered · PS4",
+      "condition": "Exhibición",
+      "price": 80000,
+      "image": "/assets/photos/img_6511.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-the_last_of_us_remastered-nuevo",
+        "title": "PS4 - The Last Of Us Remastered HITS - Fisico - Nuevo",
+        "priceCOP": 99900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-ps4-usado",
+      "previousName": "The Last of Us · PS4",
+      "name": "The Last of Us Remastered · PS4",
+      "condition": "Usado",
+      "price": 71000,
+      "image": "/assets/photos/img_6511.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-the_last_of_us_remastered-nuevo",
+        "title": "PS4 - The Last Of Us Remastered HITS - Fisico - Nuevo",
+        "priceCOP": 99900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-part-ii-ps4-nuevo",
+      "previousName": "The Last of Us Part II · PS4",
+      "name": "The Last of Us Part II · PS4",
+      "condition": "Nuevo",
+      "price": 188000,
+      "image": "/assets/photos/img_6512.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-the-last-of-us-part-ii",
+        "title": "PS4 - The Last Of Us Part II - Fisico - Nuevo",
+        "priceCOP": 209900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-part-ii-ps4-exhibicion",
+      "previousName": "The Last of Us Part II · PS4",
+      "name": "The Last of Us Part II · PS4",
+      "condition": "Exhibición",
+      "price": 169000,
+      "image": "/assets/photos/img_6512.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-the-last-of-us-part-ii",
+        "title": "PS4 - The Last Of Us Part II - Fisico - Nuevo",
+        "priceCOP": 209900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "the-last-of-us-part-ii-ps4-usado",
+      "previousName": "The Last of Us Part II · PS4",
+      "name": "The Last of Us Part II · PS4",
+      "condition": "Usado",
+      "price": 150000,
+      "image": "/assets/photos/img_6512.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-the-last-of-us-part-ii",
+        "title": "PS4 - The Last Of Us Part II - Fisico - Nuevo",
+        "priceCOP": 209900,
+        "retailerInStock": true
+      }
+    },
+    {
+      "slug": "eafc-ps4-nuevo",
+      "previousName": "EA Sports FC · PS4",
+      "name": "eFootball PES 2021 Season Update · PS4",
+      "condition": "Nuevo",
+      "price": 143000,
+      "image": "/assets/photos/img_6513.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 159900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "eafc-ps4-exhibicion",
+      "previousName": "EA Sports FC · PS4",
+      "name": "eFootball PES 2021 Season Update · PS4",
+      "condition": "Exhibición",
+      "price": 128000,
+      "image": "/assets/photos/img_6513.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 159900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "eafc-ps4-usado",
+      "previousName": "EA Sports FC · PS4",
+      "name": "eFootball PES 2021 Season Update · PS4",
+      "condition": "Usado",
+      "price": 114000,
+      "image": "/assets/photos/img_6513.webp",
+      "source": {
+        "kind": "owner-authorized-estimate",
+        "baseCOP": 159900,
+        "note": "Base comercial estimada, no cotización verificada de este título. Autorización del propietario para fijar un precio razonable."
+      }
+    },
+    {
+      "slug": "cuphead-switch-nuevo",
+      "previousName": "Cuphead · Nintendo Switch",
+      "name": "Cuphead · PS4",
+      "condition": "Nuevo",
+      "price": 134000,
+      "image": "/assets/photos/img_6491.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-cuphead-fisico-nuevo",
+        "title": "PS4 - Cuphead  - Fisico - Nuevo",
+        "priceCOP": 149900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "cuphead-switch-exhibicion",
+      "previousName": "Cuphead · Nintendo Switch",
+      "name": "Cuphead · PS4",
+      "condition": "Exhibición",
+      "price": 120000,
+      "image": "/assets/photos/img_6491.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-cuphead-fisico-nuevo",
+        "title": "PS4 - Cuphead  - Fisico - Nuevo",
+        "priceCOP": 149900,
+        "retailerInStock": false
+      }
+    },
+    {
+      "slug": "cuphead-switch-usado",
+      "previousName": "Cuphead · Nintendo Switch",
+      "name": "Cuphead · PS4",
+      "condition": "Usado",
+      "price": 107000,
+      "image": "/assets/photos/img_6491.webp",
+      "source": {
+        "kind": "retailer-listing",
+        "url": "https://gamer4ever.com.co/products/ps4-cuphead-fisico-nuevo",
+        "title": "PS4 - Cuphead  - Fisico - Nuevo",
+        "priceCOP": 149900,
+        "retailerInStock": false
+      }
+    }
+  ]
+}
