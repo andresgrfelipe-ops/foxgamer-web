@@ -1,7 +1,7 @@
 {
   "reviewedAt": "2026-09-19",
   "currency": "COP",
-  "policy": "Precio competitivo: 10% por debajo de la oferta comparable disponible más baja entre las tiendas consultadas, redondeado hacia abajo a 1.000 COP. Referencias reconsultadas el 19/09/2026. No equivale a un mínimo de todo el mercado ni garantiza ventas o margen; FOX GAMER no ha facilitado costos de adquisición. Se conservan modelo, condición, disponibilidad, imágenes, incluidos y garantía. No se extrapolan precios a variantes sin evidencia; su cotización continúa pendiente.",
+  "policy": "Precios Apple autorizados por el propietario: ofertas comparables verificadas menos 10%, o estimaciones comerciales para completar variantes sin oferta comparable. Ajuste estimado por condición: Nuevo 1, Exhibición 0.85, Usado 0.70. Redondeo inferior a 1.000 COP. Las estimaciones no acreditan un descuento frente al mercado ni garantizan margen. No cambia ningún precio fuera de Apple.",
   "records": [
     {
       "slug": "iphone-17-256gb-nuevo",
@@ -31,6 +31,15 @@
           "variant": "SALVIA / $3.099.990",
           "price": 3199990,
           "url": "https://www.celudmovil.com.co/products/iphone-17-256gb-nuevo-sim-fisica?variant=51075788210468"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 17 Nuevo Esim",
+          "variant": "Capacidad: 256GB, Color: Blanco",
+          "price": 3290000,
+          "url": "https://micelu.co/producto/iphone-17-nuevo-esim/?attribute_pa_capacidad=256gb&attribute_pa_color=blanco",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 180222
         }
       ]
     },
@@ -62,6 +71,15 @@
           "variant": "AZUL",
           "price": 2449990,
           "url": "https://www.celudmovil.com.co/products/iphone-15-128gb-sim-fisica-nuevo?variant=50990647247140"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 15 (Sim Fisica) Nuevo",
+          "variant": "Capacidad: 128GB, Color: Azul",
+          "price": 2500000,
+          "url": "https://micelu.co/producto/iphone-15-nuevo-sumas/?attribute_pa_capacidad=128gb&attribute_pa_color=azul",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 177755
         }
       ]
     },
@@ -117,6 +135,15 @@
           "variant": "ULTRAMARINE / $2.649.990",
           "price": 2749990,
           "url": "https://www.celudmovil.com.co/products/iphone-16-128gb-nuevo-sim-fisica?variant=49882219741476"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 16 (SIM FISICA) Nuevo",
+          "variant": "Capacidad: 128, Color: Negro",
+          "price": 2820000,
+          "url": "https://micelu.co/producto/iphone-16-nuevo/?attribute_pa_capacidad=128&attribute_pa_color=negro",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 184163
         }
       ]
     },
@@ -182,9 +209,9 @@
       "slug": "iphone-17-pro-max-512-gb-nuevo",
       "name": "iPhone 17 Pro Max 512 GB",
       "condition": "Nuevo",
-      "previousPrice": 6251000,
-      "price": 5741000,
-      "reference": 6379000,
+      "previousPrice": 5741000,
+      "price": 4950000,
+      "reference": 5500000,
       "sources": [
         {
           "retailer": "mac",
@@ -199,6 +226,15 @@
           "variant": "Default Title",
           "price": 6399000,
           "url": "https://co.tiendasishop.com/products/iphone-17-pro-mfyu4lz-a?variant=48887563485492"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 17 Pro Max Nuevo Esim",
+          "variant": "Color: Silver, Capacidad: 512GB",
+          "price": 5500000,
+          "url": "https://micelu.co/producto/iphone-17-pro-max/?attribute_pa_color=silver&attribute_pa_capacidad=512gb",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 170663
         }
       ]
     },
@@ -206,9 +242,9 @@
       "slug": "apple-ref-1-nuevo",
       "name": "iPhone 17 Pro Max 1 TB",
       "condition": "Nuevo",
-      "previousPrice": 6271000,
-      "price": 5759000,
-      "reference": 6399990,
+      "previousPrice": 5759000,
+      "price": 5417000,
+      "reference": 6019000,
       "sources": [
         {
           "retailer": "ishop",
@@ -223,6 +259,15 @@
           "variant": "NARANJA CÓSMICO",
           "price": 6399990,
           "url": "https://www.celudmovil.com.co/products/iphone-17-pro-max-1tera-nuevo-sim-virtual?variant=51109624774948"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 17 Pro Max Nuevo Esim",
+          "variant": "Color: Silver, Capacidad: 1TB",
+          "price": 6019000,
+          "url": "https://micelu.co/producto/iphone-17-pro-max/?attribute_pa_color=silver&attribute_pa_capacidad=1tb",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 170657
         }
       ]
     },
@@ -841,6 +886,15 @@
           "variant": "BLACK TITANIUM / $2.799.990",
           "price": 2849990,
           "url": "https://www.celudmovil.com.co/products/iphone-16-pro-max-256gb-sim-virtual-usado?variant=56286132044068"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 16 Pro Max Seminuevo",
+          "variant": "capacidad: 256GB, Color: Titanio Natural",
+          "price": 3360000,
+          "url": "https://micelu.co/producto/iphone-16-pro-max-semi-nuevo/?attribute_capacidad=256GB&attribute_pa_color=titanio-natural",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 182672
         }
       ]
     },
@@ -882,9 +936,9 @@
       "slug": "apple-family-308-usado",
       "name": "iPhone 15 128 GB",
       "condition": "Usado",
-      "previousPrice": 2253000,
-      "price": 2069000,
-      "reference": 2299900,
+      "previousPrice": 2069000,
+      "price": 1476000,
+      "reference": 1640000,
       "sources": [
         {
           "retailer": "clever",
@@ -892,6 +946,15 @@
           "variant": "Semi Nuevo / 128GB / BLUE",
           "price": 2299900,
           "url": "https://www.clevercel.co/products/iphone-15?variant=43020823789602"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 15 Seminuevo",
+          "variant": "Capacidad: 128GB, Color: Negro",
+          "price": 1640000,
+          "url": "https://micelu.co/producto/iphone-15-seminuevo/?attribute_pa_capacidad=128gb&attribute_pa_color=negro",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 180230
         }
       ]
     },
@@ -943,6 +1006,15 @@
           "variant": "Semi Nuevo / 128GB / MIDNIGHT",
           "price": 1149900,
           "url": "https://www.clevercel.co/products/iphone-13?variant=40902625853474"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 13 Seminuevo",
+          "variant": "Capacidad: 128GB, Color: Azul",
+          "price": 1220000,
+          "url": "https://micelu.co/producto/iphone-13-seminuevo-sumas/?attribute_pa_capacidad=128gb&attribute_pa_color=azul",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 178142
         }
       ]
     },
@@ -950,9 +1022,9 @@
       "slug": "apple-legacy-411-usado",
       "name": "iPhone 14 128 GB",
       "condition": "Usado",
-      "previousPrice": 1567000,
-      "price": 1439000,
-      "reference": 1599900,
+      "previousPrice": 1439000,
+      "price": 1350000,
+      "reference": 1500000,
       "sources": [
         {
           "retailer": "clever",
@@ -960,6 +1032,15 @@
           "variant": "Semi Nuevo / 128GB / MIDNIGHT",
           "price": 1599900,
           "url": "https://www.clevercel.co/products/iphone-14?variant=41177135218722"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 14 Seminuevo",
+          "variant": "Capacidad: 128GB, Color: Rojo",
+          "price": 1500000,
+          "url": "https://micelu.co/producto/iphone-14-3/?attribute_pa_capacidad=128gb&attribute_pa_color=rojo",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 151775
         }
       ]
     },
@@ -967,9 +1048,9 @@
       "slug": "apple-legacy-417-usado",
       "name": "iPhone 15 Pro 256 GB",
       "condition": "Usado",
-      "previousPrice": 2841000,
-      "price": 2609000,
-      "reference": 2899900,
+      "previousPrice": 2609000,
+      "price": 2187000,
+      "reference": 2430000,
       "sources": [
         {
           "retailer": "clever",
@@ -977,6 +1058,15 @@
           "variant": "Semi Nuevo / 256GB / BLUE TITANIUM",
           "price": 2899900,
           "url": "https://www.clevercel.co/products/iphone-15-pro?variant=43020825690146"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 15 Pro Seminuevo",
+          "variant": "Capacidad: 256GB, Color: Azul",
+          "price": 2430000,
+          "url": "https://micelu.co/producto/iphone-15-pro-seminuevo/?attribute_pa_capacidad=256gb&attribute_pa_color=azul",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 180239
         }
       ]
     },
@@ -1011,6 +1101,15 @@
           "variant": "Semi Nuevo / 128GB / PACIFIC BLUE",
           "price": 1149900,
           "url": "https://www.clevercel.co/products/iphone-12-pro?variant=40902714753058"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 12 Pro Seminuevo",
+          "variant": "Capacidad: 128GB, Color: Azul",
+          "price": 1280000,
+          "url": "https://micelu.co/producto/iphone-12-pro-2/?attribute_pa_capacidad=128gb&attribute_pa_color=azul",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 151945
         }
       ]
     },
@@ -1035,9 +1134,9 @@
       "slug": "iphone-ref-544-usado",
       "name": "iPhone 13 Pro 128 GB",
       "condition": "Usado",
-      "previousPrice": 1959000,
-      "price": 1799000,
-      "reference": 1999900,
+      "previousPrice": 1799000,
+      "price": 1476000,
+      "reference": 1640000,
       "sources": [
         {
           "retailer": "clever",
@@ -1045,6 +1144,15 @@
           "variant": "Semi Nuevo / 128GB / GOLD",
           "price": 1999900,
           "url": "https://www.clevercel.co/products/iphone-13-pro?variant=41062221840418"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 13 Pro Seminuevo",
+          "variant": "Capacidad: 128GB, Color: Verde",
+          "price": 1640000,
+          "url": "https://micelu.co/producto/iphone-13-pro-2/?attribute_pa_capacidad=128gb&attribute_pa_color=verde",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 177444
         }
       ]
     },
@@ -1052,9 +1160,9 @@
       "slug": "iphone-ref-547-usado",
       "name": "iPhone 13 Pro Max 128 GB",
       "condition": "Usado",
-      "previousPrice": 2057000,
-      "price": 1889000,
-      "reference": 2099900,
+      "previousPrice": 1889000,
+      "price": 1647000,
+      "reference": 1830000,
       "sources": [
         {
           "retailer": "clever",
@@ -1062,6 +1170,15 @@
           "variant": "Semi Nuevo / 128GB / GRAPHITE",
           "price": 2099900,
           "url": "https://www.clevercel.co/products/iphone-13-pro-max?variant=40818020745250"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 13 Pro Max Seminuevo",
+          "variant": "Capacidad: 128GB, Color: Negro",
+          "price": 1830000,
+          "url": "https://micelu.co/producto/iphone-13-pro-max-2/?attribute_pa_capacidad=128gb&attribute_pa_color=negro",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 151803
         }
       ]
     },
@@ -1086,9 +1203,9 @@
       "slug": "iphone-ref-556-usado",
       "name": "iPhone 15 Plus 128 GB",
       "condition": "Usado",
-      "previousPrice": 2155000,
-      "price": 1979000,
-      "reference": 2199900,
+      "previousPrice": 1979000,
+      "price": 1701000,
+      "reference": 1890000,
       "sources": [
         {
           "retailer": "clever",
@@ -1096,6 +1213,15 @@
           "variant": "Semi Nuevo / 128GB / BLACK",
           "price": 2199900,
           "url": "https://www.clevercel.co/products/iphone-15-plus?variant=43020824543266"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 15 Plus Seminuevo",
+          "variant": "Capacidad: 128GB, Color: Negro",
+          "price": 1890000,
+          "url": "https://micelu.co/producto/iphone-15-plus-seminuevo/?attribute_pa_capacidad=128gb&attribute_pa_color=negro",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 180235
         }
       ]
     },
@@ -1103,9 +1229,9 @@
       "slug": "iphone-ref-559-usado",
       "name": "iPhone 15 Pro Max 256 GB",
       "condition": "Usado",
-      "previousPrice": 3233000,
-      "price": 2969000,
-      "reference": 3299900,
+      "previousPrice": 2969000,
+      "price": 2295000,
+      "reference": 2550000,
       "sources": [
         {
           "retailer": "clever",
@@ -1113,6 +1239,15 @@
           "variant": "Semi Nuevo / 256GB / BLUE TITANIUM",
           "price": 3299900,
           "url": "https://www.clevercel.co/products/iphone-15-pro-max?variant=43020826640418"
+        },
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 15 Pro Max Seminuevo",
+          "variant": "Capacidad: 256GB, Color: Negro titanio",
+          "price": 2550000,
+          "url": "https://micelu.co/producto/iphone-15-pro-max-seminuevo/?attribute_pa_capacidad=256gb&attribute_pa_color=negro-titanio",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 180136
         }
       ]
     },
@@ -1144,9 +1279,9 @@
       "slug": "macbook-air-m5-13-512gb-nuevo",
       "name": "MacBook Air 13 pulgadas M5 512 GB",
       "condition": "Nuevo",
-      "previousPrice": 4703000,
-      "price": 4319000,
-      "reference": 4799990,
+      "previousPrice": 4319000,
+      "price": 4050000,
+      "reference": 4500000,
       "sources": [
         {
           "retailer": "mac",
@@ -1168,6 +1303,15 @@
           "variant": "SKYBLUE / $4.599.990",
           "price": 4799990,
           "url": "https://www.celudmovil.com.co/products/macbook-air-m5-13-256gb-nueva-16ram-preventa?variant=54646728818980"
+        },
+        {
+          "retailer": "Enjoy",
+          "title": "Apple MacBook Air 13&#8243; &#8211; M5 Built for Apple Intelligence &#8211; 16GB RAM &#8211; 512GB SSD",
+          "variant": "Color: Sky Blue",
+          "price": 4500000,
+          "url": "https://enjoyvideogames.com.co/product/apple-macbook-air-13-m5-built-for-apple-intelligence-16gb-ram-512gb-ssd/?attribute_pa_color=sky-blue",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 67447
         }
       ]
     },
@@ -1175,9 +1319,9 @@
       "slug": "apple-family-324-nuevo",
       "name": "MacBook Air 15 pulgadas M5 512 GB",
       "condition": "Nuevo",
-      "previousPrice": 7917000,
-      "price": 7271000,
-      "reference": 8079000,
+      "previousPrice": 7271000,
+      "price": 4824000,
+      "reference": 5360000,
       "sources": [
         {
           "retailer": "mac",
@@ -1192,6 +1336,15 @@
           "variant": "Default Title",
           "price": 8079000,
           "url": "https://co.tiendasishop.com/products/macbook-air-de-15-pulgadas-mdv94e-a?variant=49055065211188"
+        },
+        {
+          "retailer": "Enjoy",
+          "title": "Apple MacBook Air 15&#8243; &#8211; M5 Built for Apple Intelligence &#8211; 16GB RAM &#8211; 512GB SSD",
+          "variant": "Color: Starlight",
+          "price": 5360000,
+          "url": "https://enjoyvideogames.com.co/product/apple-macbook-air-15-m5-built-for-apple-intelligence-16gb-ram-512gb-ssd/?attribute_pa_color=starlight",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 67459
         }
       ]
     },
@@ -1230,9 +1383,9 @@
       "slug": "apple-mercado-206-nuevo",
       "name": "MacBook Neo A18 Pro 8 GB 512 GB",
       "condition": "Nuevo",
-      "previousPrice": 4144000,
-      "price": 3806000,
-      "reference": 4229000,
+      "previousPrice": 3806000,
+      "price": 2655000,
+      "reference": 2950000,
       "sources": [
         {
           "retailer": "mac",
@@ -1247,1392 +1400,2505 @@
           "variant": "Default Title",
           "price": 4229000,
           "url": "https://co.tiendasishop.com/products/13-inch-macbook-neo-mhfg4e-a?variant=49055703236916"
+        },
+        {
+          "retailer": "Enjoy",
+          "title": "Apple MacBook Neo 13&#8243; &#8211; A18 Pro chip &#8211; 8GB RAM &#8211; 512GB SSD",
+          "variant": "Color: Indigo",
+          "price": 2950000,
+          "url": "https://enjoyvideogames.com.co/product/apple-macbook-neo-13-a18-pro-chip-8gb-ram-512gb-ssd/?attribute_pa_color=indigo",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 65666
         }
       ]
-    }
-  ],
-  "deferred": [
+    },
     {
       "slug": "iphone-17-256gb-usado",
       "name": "iPhone 17 256 GB",
       "condition": "Usado",
-      "previousPrice": 2899990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "ipad-air-m3-13-256gb-exhibicion",
-      "name": "iPad Air 13 pulgadas M3 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": 4749000,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "ipad-air-m3-13-256gb-usado",
-      "name": "iPad Air 13 pulgadas M3 256 GB",
-      "condition": "Usado",
-      "previousPrice": 4699000,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "macbook-air-m5-13-512gb-exhibicion",
-      "name": "MacBook Air 13 pulgadas M5 512 GB",
-      "condition": "Exhibición",
-      "previousPrice": 6479010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "macbook-air-m5-13-512gb-usado",
-      "name": "MacBook Air 13 pulgadas M5 512 GB",
-      "condition": "Usado",
-      "previousPrice": 6429010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-15-256-gb-exhibicion",
-      "name": "iPhone 15 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": 2849990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
+      "previousPrice": null,
+      "price": 2808000,
+      "reference": 3120000,
+      "sources": [
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 17 Seminuevo eSIM",
+          "variant": "Color: Azul, Capacidad: 256GB",
+          "price": 3120000,
+          "url": "https://micelu.co/producto/iphone-17-seminuevo-esim/?attribute_pa_color=azul&attribute_pa_capacidad=256gb",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 189599
+        }
+      ]
     },
     {
       "slug": "iphone-15-256-gb-usado",
       "name": "iPhone 15 256 GB",
       "condition": "Usado",
-      "previousPrice": 2799990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-17-pro-max-512-gb-exhibicion",
-      "name": "iPhone 17 Pro Max 512 GB",
-      "condition": "Exhibición",
-      "previousPrice": 6899990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-17-pro-max-512-gb-usado",
-      "name": "iPhone 17 Pro Max 512 GB",
-      "condition": "Usado",
-      "previousPrice": 6849990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-2-exhibicion",
-      "name": "iPhone 17 Pro Max 1 TB",
-      "condition": "Exhibición",
-      "previousPrice": 6249990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-3-usado",
-      "name": "iPhone 17 Pro Max 1 TB",
-      "condition": "Usado",
-      "previousPrice": 6199990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-5-exhibicion",
-      "name": "iPhone 17 Pro Max 2 TB",
-      "condition": "Exhibición",
-      "previousPrice": 8849990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-6-usado",
-      "name": "iPhone 17 Pro Max 2 TB",
-      "condition": "Usado",
-      "previousPrice": 8799990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-8-exhibicion",
-      "name": "iPhone 18 Pro 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": 5479990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-9-usado",
-      "name": "iPhone 18 Pro 256 GB",
-      "condition": "Usado",
-      "previousPrice": 5429990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-11-exhibicion",
-      "name": "iPhone 18 Pro Max 512 GB",
-      "condition": "Exhibición",
-      "previousPrice": 6899990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-12-usado",
-      "name": "iPhone 18 Pro Max 512 GB",
-      "condition": "Usado",
-      "previousPrice": 6849990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-14-exhibicion",
-      "name": "iPad Pro 13 pulgadas M5 512 GB",
-      "condition": "Exhibición",
-      "previousPrice": 5099990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-15-usado",
-      "name": "iPad Pro 13 pulgadas M5 512 GB",
-      "condition": "Usado",
-      "previousPrice": 5049990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-17-exhibicion",
-      "name": "MacBook Pro 14 pulgadas M5 1 TB",
-      "condition": "Exhibición",
-      "previousPrice": 6649990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-18-usado",
-      "name": "MacBook Pro 14 pulgadas M5 1 TB",
-      "condition": "Usado",
-      "previousPrice": 6599990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-19-nuevo",
-      "name": "AirPods 5 con estuche inalámbrico",
-      "condition": "Nuevo",
-      "previousPrice": 649990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-20-exhibicion",
-      "name": "AirPods 5 con estuche inalámbrico",
-      "condition": "Exhibición",
-      "previousPrice": 499990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-21-usado",
-      "name": "AirPods 5 con estuche inalámbrico",
-      "condition": "Usado",
-      "previousPrice": 449990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-23-exhibicion",
-      "name": "AirPods Max 2 USB-C",
-      "condition": "Exhibición",
-      "previousPrice": 1749990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-24-usado",
-      "name": "AirPods Max 2 USB-C",
-      "condition": "Usado",
-      "previousPrice": 1699990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-101-exhibicion",
-      "name": "iPhone 13 512 GB",
-      "condition": "Exhibición",
-      "previousPrice": 1849990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-103-nuevo",
-      "name": "iPhone 15 Pro Max 256 GB CPO",
-      "condition": "Nuevo",
-      "previousPrice": 2999990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-104-exhibicion",
-      "name": "iPhone 15 Pro Max 256 GB CPO",
-      "condition": "Exhibición",
-      "previousPrice": 2849990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-105-usado",
-      "name": "iPhone 15 Pro Max 256 GB CPO",
-      "condition": "Usado",
-      "previousPrice": 2799990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-106-nuevo",
-      "name": "iPhone 16 Pro Max 256 GB CPO",
-      "condition": "Nuevo",
-      "previousPrice": 2849990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-107-exhibicion",
-      "name": "iPhone 16 Pro Max 256 GB CPO",
-      "condition": "Exhibición",
-      "previousPrice": 2699990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-108-usado",
-      "name": "iPhone 16 Pro Max 256 GB CPO",
-      "condition": "Usado",
-      "previousPrice": 2649990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-109-nuevo",
-      "name": "iPad Air 5.ª generación 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": 1499990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-110-exhibicion",
-      "name": "iPad Air 5.ª generación 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": 1349990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-112-nuevo",
-      "name": "MacBook Air M1 13 pulgadas 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": 1599990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-113-exhibicion",
-      "name": "MacBook Air M1 13 pulgadas 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": 1449990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-114-usado",
-      "name": "MacBook Air M1 13 pulgadas 256 GB",
-      "condition": "Usado",
-      "previousPrice": 1399990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-115-nuevo",
-      "name": "Apple Watch Series 11",
-      "condition": "Nuevo",
-      "previousPrice": 2299010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-116-exhibicion",
-      "name": "Apple Watch Series 11",
-      "condition": "Exhibición",
-      "previousPrice": 2149010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-117-usado",
-      "name": "Apple Watch Series 11",
-      "condition": "Usado",
-      "previousPrice": 2099010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-119-exhibicion",
-      "name": "AirPods 4",
-      "condition": "Exhibición",
-      "previousPrice": 539010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-120-usado",
-      "name": "AirPods 4",
-      "condition": "Usado",
-      "previousPrice": 489010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-121-nuevo",
-      "name": "iPhone 17 Pro Max 512 GB Exhibición Premium",
-      "condition": "Nuevo",
-      "previousPrice": 4229990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-122-exhibicion",
-      "name": "iPhone 17 Pro Max 512 GB Exhibición Premium",
-      "condition": "Exhibición",
-      "previousPrice": 4079990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-ref-123-usado",
-      "name": "iPhone 17 Pro Max 512 GB Exhibición Premium",
-      "condition": "Usado",
-      "previousPrice": 4029990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-mercado-201-exhibicion",
-      "name": "Apple Watch SE 3 GPS 40 mm",
-      "condition": "Exhibición",
-      "previousPrice": 1549010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-mercado-202-usado",
-      "name": "Apple Watch SE 3 GPS 40 mm",
-      "condition": "Usado",
-      "previousPrice": 1499010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-mercado-204-exhibicion",
-      "name": "Apple Watch Series 11 GPS Cellular 46 mm",
-      "condition": "Exhibición",
-      "previousPrice": 2549010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-mercado-205-usado",
-      "name": "Apple Watch Series 11 GPS Cellular 46 mm",
-      "condition": "Usado",
-      "previousPrice": 2499010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-mercado-207-exhibicion",
-      "name": "MacBook Neo A18 Pro 8 GB 512 GB",
-      "condition": "Exhibición",
-      "previousPrice": 3829010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-mercado-208-usado",
-      "name": "MacBook Neo A18 Pro 8 GB 512 GB",
-      "condition": "Usado",
-      "previousPrice": 3779010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
+      "previousPrice": null,
+      "price": 1755000,
+      "reference": 1950000,
+      "sources": [
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 15 Seminuevo",
+          "variant": "Capacidad: 256GB, Color: Negro",
+          "price": 1950000,
+          "url": "https://micelu.co/producto/iphone-15-seminuevo/?attribute_pa_capacidad=256gb&attribute_pa_color=negro",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 180233
+        }
+      ]
     },
     {
       "slug": "apple-family-302-usado",
       "name": "iPhone 16 128 GB",
       "condition": "Usado",
-      "previousPrice": 4059010,
-      "reason": "La referencia de seminuevo superaba el precio nuevo comparable; requiere revisar estado y garantía."
-    },
-    {
-      "slug": "apple-family-304-exhibicion",
-      "name": "iPhone 16e 128 GB",
-      "condition": "Exhibición",
-      "previousPrice": 2849010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-310-exhibicion",
-      "name": "iPad 11 pulgadas A16 128 GB",
-      "condition": "Exhibición",
-      "previousPrice": 1629010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-311-usado",
-      "name": "iPad 11 pulgadas A16 128 GB",
-      "condition": "Usado",
-      "previousPrice": 1579010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-312-nuevo",
-      "name": "iPad Air 11 pulgadas M3 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": 3799010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-313-exhibicion",
-      "name": "iPad Air 11 pulgadas M3 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": 3649010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-314-usado",
-      "name": "iPad Air 11 pulgadas M3 256 GB",
-      "condition": "Usado",
-      "previousPrice": 3599010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-315-nuevo",
-      "name": "iPad Air 13 pulgadas M3 256 GB Cellular",
-      "condition": "Nuevo",
-      "previousPrice": 4899010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-316-exhibicion",
-      "name": "iPad Air 13 pulgadas M3 256 GB Cellular",
-      "condition": "Exhibición",
-      "previousPrice": 4749010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-317-usado",
-      "name": "iPad Air 13 pulgadas M3 256 GB Cellular",
-      "condition": "Usado",
-      "previousPrice": 4699010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-318-nuevo",
-      "name": "iPad Pro 11 pulgadas M4 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": 4499010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-319-exhibicion",
-      "name": "iPad Pro 11 pulgadas M4 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": 4349010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-320-usado",
-      "name": "iPad Pro 11 pulgadas M4 256 GB",
-      "condition": "Usado",
-      "previousPrice": 4299010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-321-nuevo",
-      "name": "MacBook Air 13 pulgadas M4 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": 4999010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-322-exhibicion",
-      "name": "MacBook Air 13 pulgadas M4 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": 4849010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-323-usado",
-      "name": "MacBook Air 13 pulgadas M4 256 GB",
-      "condition": "Usado",
-      "previousPrice": 4799010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-325-exhibicion",
-      "name": "MacBook Air 15 pulgadas M5 512 GB",
-      "condition": "Exhibición",
-      "previousPrice": 7779010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-326-usado",
-      "name": "MacBook Air 15 pulgadas M5 512 GB",
-      "condition": "Usado",
-      "previousPrice": 7729010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-327-nuevo",
-      "name": "Mac mini M4 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": 2999010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-328-exhibicion",
-      "name": "Mac mini M4 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": 2849010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-329-usado",
-      "name": "Mac mini M4 256 GB",
-      "condition": "Usado",
-      "previousPrice": 2799010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-331-exhibicion",
-      "name": "AirPods Pro 2 USB-C",
-      "condition": "Exhibición",
-      "previousPrice": 949010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-332-usado",
-      "name": "AirPods Pro 2 USB-C",
-      "condition": "Usado",
-      "previousPrice": 899010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-334-exhibicion",
-      "name": "AirPods Max USB-C",
-      "condition": "Exhibición",
-      "previousPrice": 1749990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-335-usado",
-      "name": "AirPods Max USB-C",
-      "condition": "Usado",
-      "previousPrice": 1699990,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-337-exhibicion",
-      "name": "Apple Pencil Pro",
-      "condition": "Exhibición",
-      "previousPrice": 549010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-338-usado",
-      "name": "Apple Pencil Pro",
-      "condition": "Usado",
-      "previousPrice": 499010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-339-nuevo",
-      "name": "Magic Keyboard iPad Air",
-      "condition": "Nuevo",
-      "previousPrice": 1299010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-340-exhibicion",
-      "name": "Magic Keyboard iPad Air",
-      "condition": "Exhibición",
-      "previousPrice": 1149010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-family-341-usado",
-      "name": "Magic Keyboard iPad Air",
-      "condition": "Usado",
-      "previousPrice": 1099010,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-400-nuevo",
-      "name": "iPhone 11 64 GB",
-      "condition": "Nuevo",
       "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-401-exhibicion",
-      "name": "iPhone 11 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-403-nuevo",
-      "name": "iPhone 12 128 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-404-exhibicion",
-      "name": "iPhone 12 128 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
+      "price": 2151000,
+      "reference": 2390000,
+      "sources": [
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 16 Seminuevo",
+          "variant": "Capacidad: 128, Color: Azul",
+          "price": 2390000,
+          "url": "https://micelu.co/producto/iphone-16-nuevo-copia/?attribute_pa_capacidad=128&attribute_pa_color=azul",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 166774
+        }
+      ]
     },
     {
       "slug": "apple-legacy-406-nuevo",
       "name": "iPhone 13 128 GB",
       "condition": "Nuevo",
       "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-409-nuevo",
-      "name": "iPhone 14 128 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-412-nuevo",
-      "name": "iPhone 14 Pro 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
+      "price": 1710000,
+      "reference": 1900000,
+      "sources": [
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 13 Nuevo",
+          "variant": "Capacidad: 128GB, Color: Blanco",
+          "price": 1900000,
+          "url": "https://micelu.co/producto/iphone-13-nuevo-2/?attribute_pa_capacidad=128gb&attribute_pa_color=blanco",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 172037
+        }
+      ]
     },
     {
       "slug": "apple-legacy-414-usado",
       "name": "iPhone 14 Pro 256 GB",
       "condition": "Usado",
       "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-415-nuevo",
-      "name": "iPhone 15 Pro 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-418-nuevo",
-      "name": "iPad 9.ª generación 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-419-exhibicion",
-      "name": "iPad 9.ª generación 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-420-usado",
-      "name": "iPad 9.ª generación 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-421-nuevo",
-      "name": "iPad 10.ª generación 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-422-exhibicion",
-      "name": "iPad 10.ª generación 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-423-usado",
-      "name": "iPad 10.ª generación 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-424-nuevo",
-      "name": "iPad mini 6.ª generación 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-425-exhibicion",
-      "name": "iPad mini 6.ª generación 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-426-usado",
-      "name": "iPad mini 6.ª generación 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-427-nuevo",
-      "name": "iPad Air 4.ª generación 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-428-exhibicion",
-      "name": "iPad Air 4.ª generación 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-429-usado",
-      "name": "iPad Air 4.ª generación 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-430-nuevo",
-      "name": "iPad Pro 11 pulgadas 3.ª generación",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-431-exhibicion",
-      "name": "iPad Pro 11 pulgadas 3.ª generación",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-432-usado",
-      "name": "iPad Pro 11 pulgadas 3.ª generación",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-433-nuevo",
-      "name": "iPad Pro 12.9 pulgadas 5.ª generación",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-434-exhibicion",
-      "name": "iPad Pro 12.9 pulgadas 5.ª generación",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-435-usado",
-      "name": "iPad Pro 12.9 pulgadas 5.ª generación",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-436-nuevo",
-      "name": "MacBook Air Intel 13 pulgadas 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-437-exhibicion",
-      "name": "MacBook Air Intel 13 pulgadas 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-438-usado",
-      "name": "MacBook Air Intel 13 pulgadas 256 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-439-nuevo",
-      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-440-exhibicion",
-      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-441-usado",
-      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-442-nuevo",
-      "name": "MacBook Pro M1 14 pulgadas 512 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-443-exhibicion",
-      "name": "MacBook Pro M1 14 pulgadas 512 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-444-usado",
-      "name": "MacBook Pro M1 14 pulgadas 512 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-445-nuevo",
-      "name": "iMac 24 pulgadas M1 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-446-exhibicion",
-      "name": "iMac 24 pulgadas M1 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-447-usado",
-      "name": "iMac 24 pulgadas M1 256 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-448-nuevo",
-      "name": "Mac mini M1 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-449-exhibicion",
-      "name": "Mac mini M1 256 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-450-usado",
-      "name": "Mac mini M1 256 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-451-nuevo",
-      "name": "Apple Watch Series 6 GPS",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-452-exhibicion",
-      "name": "Apple Watch Series 6 GPS",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-453-usado",
-      "name": "Apple Watch Series 6 GPS",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-454-nuevo",
-      "name": "Apple Watch Series 7 GPS",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-455-exhibicion",
-      "name": "Apple Watch Series 7 GPS",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-456-usado",
-      "name": "Apple Watch Series 7 GPS",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-457-nuevo",
-      "name": "Apple Watch Series 8 GPS",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-458-exhibicion",
-      "name": "Apple Watch Series 8 GPS",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-459-usado",
-      "name": "Apple Watch Series 8 GPS",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-460-nuevo",
-      "name": "Apple Watch SE 2 GPS",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-461-exhibicion",
-      "name": "Apple Watch SE 2 GPS",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-462-usado",
-      "name": "Apple Watch SE 2 GPS",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-463-nuevo",
-      "name": "AirPods 2.ª generación",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-464-exhibicion",
-      "name": "AirPods 2.ª generación",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-465-usado",
-      "name": "AirPods 2.ª generación",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-466-nuevo",
-      "name": "AirPods 3.ª generación",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-467-exhibicion",
-      "name": "AirPods 3.ª generación",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-468-usado",
-      "name": "AirPods 3.ª generación",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-469-nuevo",
-      "name": "AirPods Pro 1.ª generación",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-470-exhibicion",
-      "name": "AirPods Pro 1.ª generación",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-471-usado",
-      "name": "AirPods Pro 1.ª generación",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-472-nuevo",
-      "name": "AirPods Max Lightning",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-473-exhibicion",
-      "name": "AirPods Max Lightning",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-474-usado",
-      "name": "AirPods Max Lightning",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-475-nuevo",
-      "name": "Apple TV 4K 2.ª generación",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-476-exhibicion",
-      "name": "Apple TV 4K 2.ª generación",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-477-usado",
-      "name": "Apple TV 4K 2.ª generación",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-478-nuevo",
-      "name": "Apple TV 4K 3.ª generación",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-479-exhibicion",
-      "name": "Apple TV 4K 3.ª generación",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "apple-legacy-480-usado",
-      "name": "Apple TV 4K 3.ª generación",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-500-nuevo",
-      "name": "iPhone 7 32 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-501-exhibicion",
-      "name": "iPhone 7 32 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-502-usado",
-      "name": "iPhone 7 32 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-503-nuevo",
-      "name": "iPhone 7 Plus 128 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-504-exhibicion",
-      "name": "iPhone 7 Plus 128 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-505-usado",
-      "name": "iPhone 7 Plus 128 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-506-nuevo",
-      "name": "iPhone 8 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-507-exhibicion",
-      "name": "iPhone 8 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-508-usado",
-      "name": "iPhone 8 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-509-nuevo",
-      "name": "iPhone 8 Plus 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-510-exhibicion",
-      "name": "iPhone 8 Plus 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-511-usado",
-      "name": "iPhone 8 Plus 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-512-nuevo",
-      "name": "iPhone X 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-513-exhibicion",
-      "name": "iPhone X 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-514-usado",
-      "name": "iPhone X 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-515-nuevo",
-      "name": "iPhone XR 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-516-exhibicion",
-      "name": "iPhone XR 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-517-usado",
-      "name": "iPhone XR 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-518-nuevo",
-      "name": "iPhone XS 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-519-exhibicion",
-      "name": "iPhone XS 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-520-usado",
-      "name": "iPhone XS 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-521-nuevo",
-      "name": "iPhone XS Max 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-522-exhibicion",
-      "name": "iPhone XS Max 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-523-usado",
-      "name": "iPhone XS Max 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-524-nuevo",
-      "name": "iPhone 11 Pro 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-527-nuevo",
-      "name": "iPhone 11 Pro Max 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-528-exhibicion",
-      "name": "iPhone 11 Pro Max 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-529-usado",
-      "name": "iPhone 11 Pro Max 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-530-nuevo",
-      "name": "iPhone 12 mini 64 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-531-exhibicion",
-      "name": "iPhone 12 mini 64 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-532-usado",
-      "name": "iPhone 12 mini 64 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-533-nuevo",
-      "name": "iPhone 12 Pro 128 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-536-nuevo",
-      "name": "iPhone 12 Pro Max 128 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-539-nuevo",
-      "name": "iPhone 13 mini 128 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-541-usado",
-      "name": "iPhone 13 mini 128 GB",
-      "condition": "Usado",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-542-nuevo",
-      "name": "iPhone 13 Pro 128 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-545-nuevo",
-      "name": "iPhone 13 Pro Max 128 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-548-nuevo",
-      "name": "iPhone 14 Plus 128 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-549-exhibicion",
-      "name": "iPhone 14 Plus 128 GB",
-      "condition": "Exhibición",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
-    },
-    {
-      "slug": "iphone-ref-551-nuevo",
-      "name": "iPhone 14 Pro Max 256 GB",
-      "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
+      "price": 1782000,
+      "reference": 1980000,
+      "sources": [
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 14 Pro Seminuevo",
+          "variant": "Capacidad: 256GB, Color: Morado",
+          "price": 1980000,
+          "url": "https://micelu.co/producto/iphone-14-pro-2/?attribute_pa_capacidad=256gb&attribute_pa_color=morado",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 184061
+        }
+      ]
     },
     {
       "slug": "iphone-ref-553-usado",
       "name": "iPhone 14 Pro Max 256 GB",
       "condition": "Usado",
       "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
+      "price": 2088000,
+      "reference": 2320000,
+      "sources": [
+        {
+          "retailer": "MiCelu",
+          "title": "iPhone 14 Pro Max Seminuevo",
+          "variant": "Capacidad: 256GB, Color: Negro",
+          "price": 2320000,
+          "url": "https://micelu.co/producto/iphone-14-pro-max-2/?attribute_pa_capacidad=256gb&attribute_pa_color=negro",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 151687
+        }
+      ]
+    },
+    {
+      "slug": "apple-ref-112-nuevo",
+      "name": "MacBook Air M1 13 pulgadas 256 GB",
+      "condition": "Nuevo",
+      "previousPrice": null,
+      "price": 2340000,
+      "reference": 2600000,
+      "sources": [
+        {
+          "retailer": "MiCelu",
+          "title": "MacBook Air 13″ Chip M1 Nuevo",
+          "variant": "Capacidad: 256GB, Color: Gris",
+          "price": 2600000,
+          "url": "https://micelu.co/producto/macbook-air-13%e2%80%b3-chip-m1-nuevo/?attribute_pa_capacidad=256gb&attribute_pa_color=gris",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 185809
+        }
+      ]
+    },
+    {
+      "slug": "apple-family-338-usado",
+      "name": "Apple Pencil Pro",
+      "condition": "Usado",
+      "previousPrice": null,
+      "price": 441000,
+      "reference": 490000,
+      "sources": [
+        {
+          "retailer": "MiCelu",
+          "title": "Apple Pencil Pro Seminuevo",
+          "variant": "Apple Pencil Pro Seminuevo",
+          "price": 490000,
+          "url": "https://micelu.co/producto/apple-pencil-pro-seminuevo/",
+          "conditionEvidence": "Seminuevo: referencia para Usado; no transfiere garantía ni certificación.",
+          "sourceProductId": 179519
+        }
+      ]
+    },
+    {
+      "slug": "apple-legacy-420-usado",
+      "name": "iPad 9.ª generación 64 GB",
+      "condition": "Usado",
+      "previousPrice": null,
+      "price": 832000,
+      "reference": 924900,
+      "sources": [
+        {
+          "retailer": "Clevercel",
+          "title": "iPad 10.2 9na Gen",
+          "variant": "Semi Nuevo / 64GB / SPACE GRAY",
+          "price": 924900,
+          "url": "https://www.clevercel.co/products/ipad-10-2-9na-gen?variant=41706129096738",
+          "conditionEvidence": "Equipo con uso previo; grado Semi Nuevo. No transfiere garantía de terceros."
+        }
+      ]
+    },
+    {
+      "slug": "apple-legacy-423-usado",
+      "name": "iPad 10.ª generación 64 GB",
+      "condition": "Usado",
+      "previousPrice": null,
+      "price": 1034000,
+      "reference": 1149900,
+      "sources": [
+        {
+          "retailer": "Clevercel",
+          "title": "iPad 10.9 10ma Gen",
+          "variant": "Como Nuevo / 64GB / BLUE",
+          "price": 1149900,
+          "url": "https://www.clevercel.co/products/ipad-10-9-10ma-gen?variant=41707105910818",
+          "conditionEvidence": "Equipo con uso previo; grado Como Nuevo. No transfiere garantía de terceros."
+        }
+      ]
+    },
+    {
+      "slug": "apple-legacy-429-usado",
+      "name": "iPad Air 4.ª generación 64 GB",
+      "condition": "Usado",
+      "previousPrice": null,
+      "price": 1574000,
+      "reference": 1749900,
+      "sources": [
+        {
+          "retailer": "Clevercel",
+          "title": "iPad Air 4ta Gen",
+          "variant": "Semi Nuevo / 64GB / SPACE GRAY",
+          "price": 1749900,
+          "url": "https://www.clevercel.co/products/ipad-air-4ta-gen?variant=40461910278178",
+          "conditionEvidence": "Equipo con uso previo; grado Semi Nuevo. No transfiere garantía de terceros."
+        }
+      ]
+    },
+    {
+      "slug": "iphone-ref-529-usado",
+      "name": "iPhone 11 Pro Max 64 GB",
+      "condition": "Usado",
+      "previousPrice": null,
+      "price": 1034000,
+      "reference": 1149900,
+      "sources": [
+        {
+          "retailer": "Clevercel",
+          "title": "iPhone 11 Pro Max",
+          "variant": "Como Nuevo / 64GB / MIDNIGHT GREEN",
+          "price": 1149900,
+          "url": "https://www.clevercel.co/products/iphone-11-pro-max?variant=40902678478882",
+          "conditionEvidence": "Equipo con uso previo; grado Como Nuevo. No transfiere garantía de terceros."
+        }
+      ]
+    },
+    {
+      "slug": "apple-legacy-424-nuevo",
+      "name": "iPad mini 6.ª generación 64 GB",
+      "condition": "Nuevo",
+      "previousPrice": null,
+      "price": 2834000,
+      "reference": 3149000,
+      "sources": [
+        {
+          "retailer": "Mac Center",
+          "title": "iPad mini Wi-Fi 64 GB - Rosa (6.ª generación)",
+          "variant": "Default Title",
+          "price": 3149000,
+          "url": "https://mac-center.com/products/ipad-mini-wi-fi-mlwl3lz-a?variant=46355128123542"
+        }
+      ]
+    },
+    {
+      "slug": "apple-family-312-nuevo",
+      "name": "iPad Air 11 pulgadas M3 256 GB",
+      "condition": "Nuevo",
+      "previousPrice": null,
+      "price": 3827000,
+      "reference": 4253200,
+      "sources": [
+        {
+          "retailer": "Tecnoprocesos Colombia",
+          "title": "iPad Air de 11 pulgadas, chip M3, 256gb, Wi-fi, Blanco Estelar",
+          "variant": "iPad Air de 11 pulgadas, chip M3, 256gb, Wi-fi, Blanco Estelar",
+          "price": 4253200,
+          "url": "https://tecnoprocesoscolombia.com/product/mca44cl-a/",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 4544
+        }
+      ]
+    },
+    {
+      "slug": "apple-family-315-nuevo",
+      "name": "iPad Air 13 pulgadas M3 256 GB Cellular",
+      "condition": "Nuevo",
+      "previousPrice": null,
+      "price": 5658000,
+      "reference": 6287400,
+      "sources": [
+        {
+          "retailer": "Tecnoprocesos Colombia",
+          "title": "iPad Air de 13 pulgadas, chip M3, 256gb, Wi-fi + Cellular, Gris espacial",
+          "variant": "iPad Air de 13 pulgadas, chip M3, 256gb, Wi-fi + Cellular, Gris espacial",
+          "price": 6287400,
+          "url": "https://tecnoprocesoscolombia.com/product/mcj54cl-a/",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 2742
+        }
+      ]
+    },
+    {
+      "slug": "apple-family-327-nuevo",
+      "name": "Mac mini M4 256 GB",
+      "condition": "Nuevo",
+      "previousPrice": null,
+      "price": 3132000,
+      "reference": 3480000,
+      "sources": [
+        {
+          "retailer": "Tecnoprocesos Colombia",
+          "title": "Mac mini con Chip M4, 16 GB, 256 GB, Wi-Fi + Ethernet",
+          "variant": "Mac mini con Chip M4, 16 GB, 256 GB, Wi-Fi + Ethernet",
+          "price": 3480000,
+          "url": "https://tecnoprocesoscolombia.com/product/mu9d3lz-a/",
+          "conditionEvidence": "Nuevo según ficha del vendedor",
+          "sourceProductId": 4586
+        }
+      ]
+    }
+  ],
+  "deferred": [],
+  "previousPolicy": "2% por debajo de la oferta comparable disponible más baja, redondeado a 1.000 COP.",
+  "sourcesRecheckedAt": "2026-09-19T12:46:39.381Z",
+  "userRequestedDiscountPercent": 10,
+  "expandedAt": "2026-09-19T13:01:09.760Z",
+  "protectedCatalog": "Todos los precios y campos de consolas, accesorios y videojuegos quedan intactos. Solo se revisa Apple.",
+  "additionalSources": [
+    "MiCelu",
+    "Enjoy",
+    "Tecnoprocesos Colombia"
+  ],
+  "reviewLimitations": [
+    "77 variantes tienen referencias comparables verificadas; 181 tienen precios comerciales estimados autorizados por el propietario.",
+    "Configuraciones ambiguas deben confirmarse antes de vender. No se afirma stock, certificación ni garantía de terceros.",
+    "No se conocen costos de adquisición: no se puede comprobar el margen."
+  ],
+  "estimates": [
+    {
+      "slug": "ipad-air-m3-13-256gb-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 256 GB",
+      "condition": "Exhibición",
+      "price": 3824000,
+      "baseCondition": "Nuevo",
+      "baseValue": 4998889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "ipad-air-m3-13-256gb-nuevo"
+    },
+    {
+      "slug": "ipad-air-m3-13-256gb-usado",
+      "name": "iPad Air 13 pulgadas M3 256 GB",
+      "condition": "Usado",
+      "price": 3149000,
+      "baseCondition": "Nuevo",
+      "baseValue": 4998889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "ipad-air-m3-13-256gb-nuevo"
+    },
+    {
+      "slug": "macbook-air-m5-13-512gb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M5 512 GB",
+      "condition": "Exhibición",
+      "price": 3442000,
+      "baseCondition": "Nuevo",
+      "baseValue": 4500000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "macbook-air-m5-13-512gb-nuevo"
+    },
+    {
+      "slug": "macbook-air-m5-13-512gb-usado",
+      "name": "MacBook Air 13 pulgadas M5 512 GB",
+      "condition": "Usado",
+      "price": 2835000,
+      "baseCondition": "Nuevo",
+      "baseValue": 4500000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "macbook-air-m5-13-512gb-nuevo"
+    },
+    {
+      "slug": "iphone-15-256-gb-exhibicion",
+      "name": "iPhone 15 256 GB",
+      "condition": "Exhibición",
+      "price": 2294000,
+      "baseCondition": "Nuevo",
+      "baseValue": 2998889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-15-256-gb-nuevo"
+    },
+    {
+      "slug": "iphone-17-pro-max-512-gb-exhibicion",
+      "name": "iPhone 17 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "price": 4207000,
+      "baseCondition": "Nuevo",
+      "baseValue": 5500000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-17-pro-max-512-gb-nuevo"
+    },
+    {
+      "slug": "iphone-17-pro-max-512-gb-usado",
+      "name": "iPhone 17 Pro Max 512 GB",
+      "condition": "Usado",
+      "price": 3464000,
+      "baseCondition": "Nuevo",
+      "baseValue": 5500000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-17-pro-max-512-gb-nuevo"
+    },
+    {
+      "slug": "apple-ref-2-exhibicion",
+      "name": "iPhone 17 Pro Max 1 TB",
+      "condition": "Exhibición",
+      "price": 4604000,
+      "baseCondition": "Nuevo",
+      "baseValue": 6018889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-1-nuevo"
+    },
+    {
+      "slug": "apple-ref-3-usado",
+      "name": "iPhone 17 Pro Max 1 TB",
+      "condition": "Usado",
+      "price": 3791000,
+      "baseCondition": "Nuevo",
+      "baseValue": 6018889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-1-nuevo"
+    },
+    {
+      "slug": "apple-ref-5-exhibicion",
+      "name": "iPhone 17 Pro Max 2 TB",
+      "condition": "Exhibición",
+      "price": 6884000,
+      "baseCondition": "Nuevo",
+      "baseValue": 8998889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-4-nuevo"
+    },
+    {
+      "slug": "apple-ref-6-usado",
+      "name": "iPhone 17 Pro Max 2 TB",
+      "condition": "Usado",
+      "price": 5669000,
+      "baseCondition": "Nuevo",
+      "baseValue": 8998889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-4-nuevo"
+    },
+    {
+      "slug": "apple-ref-8-exhibicion",
+      "name": "iPhone 18 Pro 256 GB",
+      "condition": "Exhibición",
+      "price": 4359000,
+      "baseCondition": "Nuevo",
+      "baseValue": 5698889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-7-nuevo"
+    },
+    {
+      "slug": "apple-ref-9-usado",
+      "name": "iPhone 18 Pro 256 GB",
+      "condition": "Usado",
+      "price": 3590000,
+      "baseCondition": "Nuevo",
+      "baseValue": 5698889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-7-nuevo"
+    },
+    {
+      "slug": "apple-ref-11-exhibicion",
+      "name": "iPhone 18 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "price": 5468000,
+      "baseCondition": "Nuevo",
+      "baseValue": 7148889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-10-nuevo"
+    },
+    {
+      "slug": "apple-ref-12-usado",
+      "name": "iPhone 18 Pro Max 512 GB",
+      "condition": "Usado",
+      "price": 4503000,
+      "baseCondition": "Nuevo",
+      "baseValue": 7148889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-10-nuevo"
+    },
+    {
+      "slug": "apple-ref-14-exhibicion",
+      "name": "iPad Pro 13 pulgadas M5 512 GB",
+      "condition": "Exhibición",
+      "price": 4015000,
+      "baseCondition": "Nuevo",
+      "baseValue": 5248889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-13-nuevo"
+    },
+    {
+      "slug": "apple-ref-15-usado",
+      "name": "iPad Pro 13 pulgadas M5 512 GB",
+      "condition": "Usado",
+      "price": 3306000,
+      "baseCondition": "Nuevo",
+      "baseValue": 5248889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-13-nuevo"
+    },
+    {
+      "slug": "apple-ref-17-exhibicion",
+      "name": "MacBook Pro 14 pulgadas M5 1 TB",
+      "condition": "Exhibición",
+      "price": 5201000,
+      "baseCondition": "Nuevo",
+      "baseValue": 6798889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-16-nuevo"
+    },
+    {
+      "slug": "apple-ref-18-usado",
+      "name": "MacBook Pro 14 pulgadas M5 1 TB",
+      "condition": "Usado",
+      "price": 4283000,
+      "baseCondition": "Nuevo",
+      "baseValue": 6798889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-16-nuevo"
+    },
+    {
+      "slug": "apple-ref-19-nuevo",
+      "name": "AirPods 5 con estuche inalámbrico",
+      "condition": "Nuevo",
+      "price": 585000,
+      "baseCondition": "Nuevo",
+      "baseValue": 650000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-20-exhibicion",
+      "name": "AirPods 5 con estuche inalámbrico",
+      "condition": "Exhibición",
+      "price": 497000,
+      "baseCondition": "Nuevo",
+      "baseValue": 650000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-21-usado",
+      "name": "AirPods 5 con estuche inalámbrico",
+      "condition": "Usado",
+      "price": 409000,
+      "baseCondition": "Nuevo",
+      "baseValue": 650000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-23-exhibicion",
+      "name": "AirPods Max 2 USB-C",
+      "condition": "Exhibición",
+      "price": 1452000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1898889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-22-nuevo"
+    },
+    {
+      "slug": "apple-ref-24-usado",
+      "name": "AirPods Max 2 USB-C",
+      "condition": "Usado",
+      "price": 1196000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1898889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-22-nuevo"
+    },
+    {
+      "slug": "apple-ref-101-exhibicion",
+      "name": "iPhone 13 512 GB",
+      "condition": "Exhibición",
+      "price": 1911000,
+      "baseCondition": "Nuevo",
+      "baseValue": 2498889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-100-nuevo"
+    },
+    {
+      "slug": "apple-ref-103-nuevo",
+      "name": "iPhone 15 Pro Max 256 GB CPO",
+      "condition": "Nuevo",
+      "price": 2700000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3000000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-104-exhibicion",
+      "name": "iPhone 15 Pro Max 256 GB CPO",
+      "condition": "Exhibición",
+      "price": 2295000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3000000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-105-usado",
+      "name": "iPhone 15 Pro Max 256 GB CPO",
+      "condition": "Usado",
+      "price": 1890000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3000000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-106-nuevo",
+      "name": "iPhone 16 Pro Max 256 GB CPO",
+      "condition": "Nuevo",
+      "price": 3150000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3500000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-107-exhibicion",
+      "name": "iPhone 16 Pro Max 256 GB CPO",
+      "condition": "Exhibición",
+      "price": 2677000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3500000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-108-usado",
+      "name": "iPhone 16 Pro Max 256 GB CPO",
+      "condition": "Usado",
+      "price": 2205000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3500000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-109-nuevo",
+      "name": "iPad Air 5.ª generación 64 GB",
+      "condition": "Nuevo",
+      "price": 1927000,
+      "baseCondition": "Usado",
+      "baseValue": 1498889,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-111-usado"
+    },
+    {
+      "slug": "apple-ref-110-exhibicion",
+      "name": "iPad Air 5.ª generación 64 GB",
+      "condition": "Exhibición",
+      "price": 1638000,
+      "baseCondition": "Usado",
+      "baseValue": 1498889,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-111-usado"
+    },
+    {
+      "slug": "apple-ref-113-exhibicion",
+      "name": "MacBook Air M1 13 pulgadas 256 GB",
+      "condition": "Exhibición",
+      "price": 1989000,
+      "baseCondition": "Nuevo",
+      "baseValue": 2600000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-112-nuevo"
+    },
+    {
+      "slug": "apple-ref-114-usado",
+      "name": "MacBook Air M1 13 pulgadas 256 GB",
+      "condition": "Usado",
+      "price": 1638000,
+      "baseCondition": "Nuevo",
+      "baseValue": 2600000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-112-nuevo"
+    },
+    {
+      "slug": "apple-ref-115-nuevo",
+      "name": "Apple Watch Series 11",
+      "condition": "Nuevo",
+      "price": 1620000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1800000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-116-exhibicion",
+      "name": "Apple Watch Series 11",
+      "condition": "Exhibición",
+      "price": 1377000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1800000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-117-usado",
+      "name": "Apple Watch Series 11",
+      "condition": "Usado",
+      "price": 1134000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1800000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-119-exhibicion",
+      "name": "AirPods 4",
+      "condition": "Exhibición",
+      "price": 343000,
+      "baseCondition": "Nuevo",
+      "baseValue": 448889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-118-nuevo"
+    },
+    {
+      "slug": "apple-ref-120-usado",
+      "name": "AirPods 4",
+      "condition": "Usado",
+      "price": 282000,
+      "baseCondition": "Nuevo",
+      "baseValue": 448889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-ref-118-nuevo"
+    },
+    {
+      "slug": "apple-ref-121-nuevo",
+      "name": "iPhone 17 Pro Max 512 GB Exhibición Premium",
+      "condition": "Nuevo",
+      "price": 5082000,
+      "baseCondition": "Exhibición",
+      "baseValue": 4800000,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-122-exhibicion",
+      "name": "iPhone 17 Pro Max 512 GB Exhibición Premium",
+      "condition": "Exhibición",
+      "price": 4320000,
+      "baseCondition": "Exhibición",
+      "baseValue": 4800000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-ref-123-usado",
+      "name": "iPhone 17 Pro Max 512 GB Exhibición Premium",
+      "condition": "Usado",
+      "price": 3557000,
+      "baseCondition": "Exhibición",
+      "baseValue": 4800000,
+      "conditionFactor": 0.8235294117647058,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-mercado-201-exhibicion",
+      "name": "Apple Watch SE 3 GPS 40 mm",
+      "condition": "Exhibición",
+      "price": 840000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1098889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-mercado-200-nuevo"
+    },
+    {
+      "slug": "apple-mercado-202-usado",
+      "name": "Apple Watch SE 3 GPS 40 mm",
+      "condition": "Usado",
+      "price": 692000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1098889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-mercado-200-nuevo"
+    },
+    {
+      "slug": "apple-mercado-204-exhibicion",
+      "name": "Apple Watch Series 11 GPS Cellular 46 mm",
+      "condition": "Exhibición",
+      "price": 1567000,
+      "baseCondition": "Nuevo",
+      "baseValue": 2048889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-mercado-203-nuevo"
+    },
+    {
+      "slug": "apple-mercado-205-usado",
+      "name": "Apple Watch Series 11 GPS Cellular 46 mm",
+      "condition": "Usado",
+      "price": 1290000,
+      "baseCondition": "Nuevo",
+      "baseValue": 2048889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-mercado-203-nuevo"
+    },
+    {
+      "slug": "apple-mercado-207-exhibicion",
+      "name": "MacBook Neo A18 Pro 8 GB 512 GB",
+      "condition": "Exhibición",
+      "price": 2256000,
+      "baseCondition": "Nuevo",
+      "baseValue": 2950000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-mercado-206-nuevo"
+    },
+    {
+      "slug": "apple-mercado-208-usado",
+      "name": "MacBook Neo A18 Pro 8 GB 512 GB",
+      "condition": "Usado",
+      "price": 1858000,
+      "baseCondition": "Nuevo",
+      "baseValue": 2950000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-mercado-206-nuevo"
+    },
+    {
+      "slug": "apple-family-304-exhibicion",
+      "name": "iPhone 16e 128 GB",
+      "condition": "Exhibición",
+      "price": 2064000,
+      "baseCondition": "Nuevo",
+      "baseValue": 2698889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-303-nuevo"
+    },
+    {
+      "slug": "apple-family-310-exhibicion",
+      "name": "iPad 11 pulgadas A16 128 GB",
+      "condition": "Exhibición",
+      "price": 1223000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1598889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-309-nuevo"
+    },
+    {
+      "slug": "apple-family-311-usado",
+      "name": "iPad 11 pulgadas A16 128 GB",
+      "condition": "Usado",
+      "price": 1007000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1598889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-309-nuevo"
+    },
+    {
+      "slug": "apple-family-313-exhibicion",
+      "name": "iPad Air 11 pulgadas M3 256 GB",
+      "condition": "Exhibición",
+      "price": 3252000,
+      "baseCondition": "Nuevo",
+      "baseValue": 4252222,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-312-nuevo"
+    },
+    {
+      "slug": "apple-family-314-usado",
+      "name": "iPad Air 11 pulgadas M3 256 GB",
+      "condition": "Usado",
+      "price": 2678000,
+      "baseCondition": "Nuevo",
+      "baseValue": 4252222,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-312-nuevo"
+    },
+    {
+      "slug": "apple-family-316-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 256 GB Cellular",
+      "condition": "Exhibición",
+      "price": 4809000,
+      "baseCondition": "Nuevo",
+      "baseValue": 6286667,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-315-nuevo"
+    },
+    {
+      "slug": "apple-family-317-usado",
+      "name": "iPad Air 13 pulgadas M3 256 GB Cellular",
+      "condition": "Usado",
+      "price": 3960000,
+      "baseCondition": "Nuevo",
+      "baseValue": 6286667,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-315-nuevo"
+    },
+    {
+      "slug": "apple-family-318-nuevo",
+      "name": "iPad Pro 11 pulgadas M4 256 GB",
+      "condition": "Nuevo",
+      "price": 3870000,
+      "baseCondition": "Nuevo",
+      "baseValue": 4300000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-family-319-exhibicion",
+      "name": "iPad Pro 11 pulgadas M4 256 GB",
+      "condition": "Exhibición",
+      "price": 3289000,
+      "baseCondition": "Nuevo",
+      "baseValue": 4300000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-family-320-usado",
+      "name": "iPad Pro 11 pulgadas M4 256 GB",
+      "condition": "Usado",
+      "price": 2709000,
+      "baseCondition": "Nuevo",
+      "baseValue": 4300000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-family-321-nuevo",
+      "name": "MacBook Air 13 pulgadas M4 256 GB",
+      "condition": "Nuevo",
+      "price": 3330000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3700000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-family-322-exhibicion",
+      "name": "MacBook Air 13 pulgadas M4 256 GB",
+      "condition": "Exhibición",
+      "price": 2830000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3700000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-family-323-usado",
+      "name": "MacBook Air 13 pulgadas M4 256 GB",
+      "condition": "Usado",
+      "price": 2331000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3700000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-family-325-exhibicion",
+      "name": "MacBook Air 15 pulgadas M5 512 GB",
+      "condition": "Exhibición",
+      "price": 4100000,
+      "baseCondition": "Nuevo",
+      "baseValue": 5360000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-324-nuevo"
+    },
+    {
+      "slug": "apple-family-326-usado",
+      "name": "MacBook Air 15 pulgadas M5 512 GB",
+      "condition": "Usado",
+      "price": 3376000,
+      "baseCondition": "Nuevo",
+      "baseValue": 5360000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-324-nuevo"
+    },
+    {
+      "slug": "apple-family-328-exhibicion",
+      "name": "Mac mini M4 256 GB",
+      "condition": "Exhibición",
+      "price": 2662000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3480000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-327-nuevo"
+    },
+    {
+      "slug": "apple-family-329-usado",
+      "name": "Mac mini M4 256 GB",
+      "condition": "Usado",
+      "price": 2192000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3480000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-327-nuevo"
+    },
+    {
+      "slug": "apple-family-331-exhibicion",
+      "name": "AirPods Pro 2 USB-C",
+      "condition": "Exhibición",
+      "price": 978000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1278889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-330-nuevo"
+    },
+    {
+      "slug": "apple-family-332-usado",
+      "name": "AirPods Pro 2 USB-C",
+      "condition": "Usado",
+      "price": 805000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1278889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-330-nuevo"
+    },
+    {
+      "slug": "apple-family-334-exhibicion",
+      "name": "AirPods Max USB-C",
+      "condition": "Exhibición",
+      "price": 1529000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1998889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-333-nuevo"
+    },
+    {
+      "slug": "apple-family-335-usado",
+      "name": "AirPods Max USB-C",
+      "condition": "Usado",
+      "price": 1259000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1998889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-333-nuevo"
+    },
+    {
+      "slug": "apple-family-337-exhibicion",
+      "name": "Apple Pencil Pro",
+      "condition": "Exhibición",
+      "price": 496000,
+      "baseCondition": "Nuevo",
+      "baseValue": 648889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-family-336-nuevo"
+    },
+    {
+      "slug": "apple-family-339-nuevo",
+      "name": "Magic Keyboard iPad Air",
+      "condition": "Nuevo",
+      "price": 1170000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1300000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-family-340-exhibicion",
+      "name": "Magic Keyboard iPad Air",
+      "condition": "Exhibición",
+      "price": 994000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1300000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-family-341-usado",
+      "name": "Magic Keyboard iPad Air",
+      "condition": "Usado",
+      "price": 819000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1300000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-400-nuevo",
+      "name": "iPhone 11 64 GB",
+      "condition": "Nuevo",
+      "price": 931000,
+      "baseCondition": "Usado",
+      "baseValue": 724444,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-402-usado"
+    },
+    {
+      "slug": "apple-legacy-401-exhibicion",
+      "name": "iPhone 11 64 GB",
+      "condition": "Exhibición",
+      "price": 791000,
+      "baseCondition": "Usado",
+      "baseValue": 724444,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-402-usado"
+    },
+    {
+      "slug": "apple-legacy-403-nuevo",
+      "name": "iPhone 12 128 GB",
+      "condition": "Nuevo",
+      "price": 1381000,
+      "baseCondition": "Usado",
+      "baseValue": 1074444,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-405-usado"
+    },
+    {
+      "slug": "apple-legacy-404-exhibicion",
+      "name": "iPhone 12 128 GB",
+      "condition": "Exhibición",
+      "price": 1174000,
+      "baseCondition": "Usado",
+      "baseValue": 1074444,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-405-usado"
+    },
+    {
+      "slug": "apple-legacy-409-nuevo",
+      "name": "iPhone 14 128 GB",
+      "condition": "Nuevo",
+      "price": 1396000,
+      "baseCondition": "Exhibición",
+      "baseValue": 1318889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-410-exhibicion"
+    },
+    {
+      "slug": "apple-legacy-412-nuevo",
+      "name": "iPhone 14 Pro 256 GB",
+      "condition": "Nuevo",
+      "price": 2063000,
+      "baseCondition": "Exhibición",
+      "baseValue": 1948889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-413-exhibicion"
+    },
+    {
+      "slug": "apple-legacy-415-nuevo",
+      "name": "iPhone 15 Pro 256 GB",
+      "condition": "Nuevo",
+      "price": 2540000,
+      "baseCondition": "Exhibición",
+      "baseValue": 2398889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-416-exhibicion"
+    },
+    {
+      "slug": "apple-legacy-418-nuevo",
+      "name": "iPad 9.ª generación 64 GB",
+      "condition": "Nuevo",
+      "price": 1188000,
+      "baseCondition": "Usado",
+      "baseValue": 924444,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-420-usado"
+    },
+    {
+      "slug": "apple-legacy-419-exhibicion",
+      "name": "iPad 9.ª generación 64 GB",
+      "condition": "Exhibición",
+      "price": 1010000,
+      "baseCondition": "Usado",
+      "baseValue": 924444,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-420-usado"
+    },
+    {
+      "slug": "apple-legacy-421-nuevo",
+      "name": "iPad 10.ª generación 64 GB",
+      "condition": "Nuevo",
+      "price": 1477000,
+      "baseCondition": "Usado",
+      "baseValue": 1148889,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-423-usado"
+    },
+    {
+      "slug": "apple-legacy-422-exhibicion",
+      "name": "iPad 10.ª generación 64 GB",
+      "condition": "Exhibición",
+      "price": 1255000,
+      "baseCondition": "Usado",
+      "baseValue": 1148889,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-423-usado"
+    },
+    {
+      "slug": "apple-legacy-425-exhibicion",
+      "name": "iPad mini 6.ª generación 64 GB",
+      "condition": "Exhibición",
+      "price": 2408000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3148889,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-424-nuevo"
+    },
+    {
+      "slug": "apple-legacy-426-usado",
+      "name": "iPad mini 6.ª generación 64 GB",
+      "condition": "Usado",
+      "price": 1983000,
+      "baseCondition": "Nuevo",
+      "baseValue": 3148889,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-424-nuevo"
+    },
+    {
+      "slug": "apple-legacy-427-nuevo",
+      "name": "iPad Air 4.ª generación 64 GB",
+      "condition": "Nuevo",
+      "price": 2248000,
+      "baseCondition": "Usado",
+      "baseValue": 1748889,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-429-usado"
+    },
+    {
+      "slug": "apple-legacy-428-exhibicion",
+      "name": "iPad Air 4.ª generación 64 GB",
+      "condition": "Exhibición",
+      "price": 1911000,
+      "baseCondition": "Usado",
+      "baseValue": 1748889,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "apple-legacy-429-usado"
+    },
+    {
+      "slug": "apple-legacy-430-nuevo",
+      "name": "iPad Pro 11 pulgadas 3.ª generación",
+      "condition": "Nuevo",
+      "price": 2828000,
+      "baseCondition": "Usado",
+      "baseValue": 2200000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-431-exhibicion",
+      "name": "iPad Pro 11 pulgadas 3.ª generación",
+      "condition": "Exhibición",
+      "price": 2404000,
+      "baseCondition": "Usado",
+      "baseValue": 2200000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-432-usado",
+      "name": "iPad Pro 11 pulgadas 3.ª generación",
+      "condition": "Usado",
+      "price": 1980000,
+      "baseCondition": "Usado",
+      "baseValue": 2200000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-433-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación",
+      "condition": "Nuevo",
+      "price": 3600000,
+      "baseCondition": "Usado",
+      "baseValue": 2800000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-434-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación",
+      "condition": "Exhibición",
+      "price": 3060000,
+      "baseCondition": "Usado",
+      "baseValue": 2800000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-435-usado",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación",
+      "condition": "Usado",
+      "price": 2520000,
+      "baseCondition": "Usado",
+      "baseValue": 2800000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-436-nuevo",
+      "name": "MacBook Air Intel 13 pulgadas 256 GB",
+      "condition": "Nuevo",
+      "price": 1800000,
+      "baseCondition": "Usado",
+      "baseValue": 1400000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-437-exhibicion",
+      "name": "MacBook Air Intel 13 pulgadas 256 GB",
+      "condition": "Exhibición",
+      "price": 1530000,
+      "baseCondition": "Usado",
+      "baseValue": 1400000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-438-usado",
+      "name": "MacBook Air Intel 13 pulgadas 256 GB",
+      "condition": "Usado",
+      "price": 1260000,
+      "baseCondition": "Usado",
+      "baseValue": 1400000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-439-nuevo",
+      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
+      "condition": "Nuevo",
+      "price": 2442000,
+      "baseCondition": "Usado",
+      "baseValue": 1900000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-440-exhibicion",
+      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
+      "condition": "Exhibición",
+      "price": 2076000,
+      "baseCondition": "Usado",
+      "baseValue": 1900000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-441-usado",
+      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
+      "condition": "Usado",
+      "price": 1710000,
+      "baseCondition": "Usado",
+      "baseValue": 1900000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-442-nuevo",
+      "name": "MacBook Pro M1 14 pulgadas 512 GB",
+      "condition": "Nuevo",
+      "price": 4500000,
+      "baseCondition": "Usado",
+      "baseValue": 3500000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-443-exhibicion",
+      "name": "MacBook Pro M1 14 pulgadas 512 GB",
+      "condition": "Exhibición",
+      "price": 3825000,
+      "baseCondition": "Usado",
+      "baseValue": 3500000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-444-usado",
+      "name": "MacBook Pro M1 14 pulgadas 512 GB",
+      "condition": "Usado",
+      "price": 3150000,
+      "baseCondition": "Usado",
+      "baseValue": 3500000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-445-nuevo",
+      "name": "iMac 24 pulgadas M1 256 GB",
+      "condition": "Nuevo",
+      "price": 4242000,
+      "baseCondition": "Usado",
+      "baseValue": 3300000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-446-exhibicion",
+      "name": "iMac 24 pulgadas M1 256 GB",
+      "condition": "Exhibición",
+      "price": 3606000,
+      "baseCondition": "Usado",
+      "baseValue": 3300000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-447-usado",
+      "name": "iMac 24 pulgadas M1 256 GB",
+      "condition": "Usado",
+      "price": 2970000,
+      "baseCondition": "Usado",
+      "baseValue": 3300000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-448-nuevo",
+      "name": "Mac mini M1 256 GB",
+      "condition": "Nuevo",
+      "price": 2185000,
+      "baseCondition": "Usado",
+      "baseValue": 1700000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-449-exhibicion",
+      "name": "Mac mini M1 256 GB",
+      "condition": "Exhibición",
+      "price": 1857000,
+      "baseCondition": "Usado",
+      "baseValue": 1700000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-450-usado",
+      "name": "Mac mini M1 256 GB",
+      "condition": "Usado",
+      "price": 1530000,
+      "baseCondition": "Usado",
+      "baseValue": 1700000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-451-nuevo",
+      "name": "Apple Watch Series 6 GPS",
+      "condition": "Nuevo",
+      "price": 900000,
+      "baseCondition": "Usado",
+      "baseValue": 700000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-452-exhibicion",
+      "name": "Apple Watch Series 6 GPS",
+      "condition": "Exhibición",
+      "price": 765000,
+      "baseCondition": "Usado",
+      "baseValue": 700000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-453-usado",
+      "name": "Apple Watch Series 6 GPS",
+      "condition": "Usado",
+      "price": 630000,
+      "baseCondition": "Usado",
+      "baseValue": 700000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-454-nuevo",
+      "name": "Apple Watch Series 7 GPS",
+      "condition": "Nuevo",
+      "price": 1028000,
+      "baseCondition": "Usado",
+      "baseValue": 800000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-455-exhibicion",
+      "name": "Apple Watch Series 7 GPS",
+      "condition": "Exhibición",
+      "price": 874000,
+      "baseCondition": "Usado",
+      "baseValue": 800000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-456-usado",
+      "name": "Apple Watch Series 7 GPS",
+      "condition": "Usado",
+      "price": 720000,
+      "baseCondition": "Usado",
+      "baseValue": 800000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-457-nuevo",
+      "name": "Apple Watch Series 8 GPS",
+      "condition": "Nuevo",
+      "price": 1221000,
+      "baseCondition": "Usado",
+      "baseValue": 950000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-458-exhibicion",
+      "name": "Apple Watch Series 8 GPS",
+      "condition": "Exhibición",
+      "price": 1038000,
+      "baseCondition": "Usado",
+      "baseValue": 950000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-459-usado",
+      "name": "Apple Watch Series 8 GPS",
+      "condition": "Usado",
+      "price": 855000,
+      "baseCondition": "Usado",
+      "baseValue": 950000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-460-nuevo",
+      "name": "Apple Watch SE 2 GPS",
+      "condition": "Nuevo",
+      "price": 900000,
+      "baseCondition": "Usado",
+      "baseValue": 700000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-461-exhibicion",
+      "name": "Apple Watch SE 2 GPS",
+      "condition": "Exhibición",
+      "price": 765000,
+      "baseCondition": "Usado",
+      "baseValue": 700000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-462-usado",
+      "name": "Apple Watch SE 2 GPS",
+      "condition": "Usado",
+      "price": 630000,
+      "baseCondition": "Usado",
+      "baseValue": 700000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-463-nuevo",
+      "name": "AirPods 2.ª generación",
+      "condition": "Nuevo",
+      "price": 360000,
+      "baseCondition": "Nuevo",
+      "baseValue": 400000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-464-exhibicion",
+      "name": "AirPods 2.ª generación",
+      "condition": "Exhibición",
+      "price": 306000,
+      "baseCondition": "Nuevo",
+      "baseValue": 400000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-465-usado",
+      "name": "AirPods 2.ª generación",
+      "condition": "Usado",
+      "price": 252000,
+      "baseCondition": "Nuevo",
+      "baseValue": 400000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-466-nuevo",
+      "name": "AirPods 3.ª generación",
+      "condition": "Nuevo",
+      "price": 495000,
+      "baseCondition": "Nuevo",
+      "baseValue": 550000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-467-exhibicion",
+      "name": "AirPods 3.ª generación",
+      "condition": "Exhibición",
+      "price": 420000,
+      "baseCondition": "Nuevo",
+      "baseValue": 550000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-468-usado",
+      "name": "AirPods 3.ª generación",
+      "condition": "Usado",
+      "price": 346000,
+      "baseCondition": "Nuevo",
+      "baseValue": 550000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-469-nuevo",
+      "name": "AirPods Pro 1.ª generación",
+      "condition": "Nuevo",
+      "price": 585000,
+      "baseCondition": "Nuevo",
+      "baseValue": 650000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-470-exhibicion",
+      "name": "AirPods Pro 1.ª generación",
+      "condition": "Exhibición",
+      "price": 497000,
+      "baseCondition": "Nuevo",
+      "baseValue": 650000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-471-usado",
+      "name": "AirPods Pro 1.ª generación",
+      "condition": "Usado",
+      "price": 409000,
+      "baseCondition": "Nuevo",
+      "baseValue": 650000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-472-nuevo",
+      "name": "AirPods Max Lightning",
+      "condition": "Nuevo",
+      "price": 1440000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1600000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-473-exhibicion",
+      "name": "AirPods Max Lightning",
+      "condition": "Exhibición",
+      "price": 1224000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1600000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-474-usado",
+      "name": "AirPods Max Lightning",
+      "condition": "Usado",
+      "price": 1008000,
+      "baseCondition": "Nuevo",
+      "baseValue": 1600000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-475-nuevo",
+      "name": "Apple TV 4K 2.ª generación",
+      "condition": "Nuevo",
+      "price": 495000,
+      "baseCondition": "Nuevo",
+      "baseValue": 550000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-476-exhibicion",
+      "name": "Apple TV 4K 2.ª generación",
+      "condition": "Exhibición",
+      "price": 420000,
+      "baseCondition": "Nuevo",
+      "baseValue": 550000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-477-usado",
+      "name": "Apple TV 4K 2.ª generación",
+      "condition": "Usado",
+      "price": 346000,
+      "baseCondition": "Nuevo",
+      "baseValue": 550000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-478-nuevo",
+      "name": "Apple TV 4K 3.ª generación",
+      "condition": "Nuevo",
+      "price": 675000,
+      "baseCondition": "Nuevo",
+      "baseValue": 750000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-479-exhibicion",
+      "name": "Apple TV 4K 3.ª generación",
+      "condition": "Exhibición",
+      "price": 573000,
+      "baseCondition": "Nuevo",
+      "baseValue": 750000,
+      "conditionFactor": 0.85,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "apple-legacy-480-usado",
+      "name": "Apple TV 4K 3.ª generación",
+      "condition": "Usado",
+      "price": 472000,
+      "baseCondition": "Nuevo",
+      "baseValue": 750000,
+      "conditionFactor": 0.7,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-500-nuevo",
+      "name": "iPhone 7 32 GB",
+      "condition": "Nuevo",
+      "price": 514000,
+      "baseCondition": "Usado",
+      "baseValue": 400000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-501-exhibicion",
+      "name": "iPhone 7 32 GB",
+      "condition": "Exhibición",
+      "price": 437000,
+      "baseCondition": "Usado",
+      "baseValue": 400000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-502-usado",
+      "name": "iPhone 7 32 GB",
+      "condition": "Usado",
+      "price": 360000,
+      "baseCondition": "Usado",
+      "baseValue": 400000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-503-nuevo",
+      "name": "iPhone 7 Plus 128 GB",
+      "condition": "Nuevo",
+      "price": 642000,
+      "baseCondition": "Usado",
+      "baseValue": 500000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-504-exhibicion",
+      "name": "iPhone 7 Plus 128 GB",
+      "condition": "Exhibición",
+      "price": 546000,
+      "baseCondition": "Usado",
+      "baseValue": 500000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-505-usado",
+      "name": "iPhone 7 Plus 128 GB",
+      "condition": "Usado",
+      "price": 450000,
+      "baseCondition": "Usado",
+      "baseValue": 500000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-506-nuevo",
+      "name": "iPhone 8 64 GB",
+      "condition": "Nuevo",
+      "price": 578000,
+      "baseCondition": "Usado",
+      "baseValue": 450000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-507-exhibicion",
+      "name": "iPhone 8 64 GB",
+      "condition": "Exhibición",
+      "price": 491000,
+      "baseCondition": "Usado",
+      "baseValue": 450000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-508-usado",
+      "name": "iPhone 8 64 GB",
+      "condition": "Usado",
+      "price": 405000,
+      "baseCondition": "Usado",
+      "baseValue": 450000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-509-nuevo",
+      "name": "iPhone 8 Plus 64 GB",
+      "condition": "Nuevo",
+      "price": 642000,
+      "baseCondition": "Usado",
+      "baseValue": 500000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-510-exhibicion",
+      "name": "iPhone 8 Plus 64 GB",
+      "condition": "Exhibición",
+      "price": 546000,
+      "baseCondition": "Usado",
+      "baseValue": 500000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-511-usado",
+      "name": "iPhone 8 Plus 64 GB",
+      "condition": "Usado",
+      "price": 450000,
+      "baseCondition": "Usado",
+      "baseValue": 500000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-512-nuevo",
+      "name": "iPhone X 64 GB",
+      "condition": "Nuevo",
+      "price": 707000,
+      "baseCondition": "Usado",
+      "baseValue": 550000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-513-exhibicion",
+      "name": "iPhone X 64 GB",
+      "condition": "Exhibición",
+      "price": 601000,
+      "baseCondition": "Usado",
+      "baseValue": 550000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-514-usado",
+      "name": "iPhone X 64 GB",
+      "condition": "Usado",
+      "price": 495000,
+      "baseCondition": "Usado",
+      "baseValue": 550000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-515-nuevo",
+      "name": "iPhone XR 64 GB",
+      "condition": "Nuevo",
+      "price": 835000,
+      "baseCondition": "Usado",
+      "baseValue": 650000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-516-exhibicion",
+      "name": "iPhone XR 64 GB",
+      "condition": "Exhibición",
+      "price": 710000,
+      "baseCondition": "Usado",
+      "baseValue": 650000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-517-usado",
+      "name": "iPhone XR 64 GB",
+      "condition": "Usado",
+      "price": 585000,
+      "baseCondition": "Usado",
+      "baseValue": 650000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-518-nuevo",
+      "name": "iPhone XS 64 GB",
+      "condition": "Nuevo",
+      "price": 771000,
+      "baseCondition": "Usado",
+      "baseValue": 600000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-519-exhibicion",
+      "name": "iPhone XS 64 GB",
+      "condition": "Exhibición",
+      "price": 655000,
+      "baseCondition": "Usado",
+      "baseValue": 600000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-520-usado",
+      "name": "iPhone XS 64 GB",
+      "condition": "Usado",
+      "price": 540000,
+      "baseCondition": "Usado",
+      "baseValue": 600000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-521-nuevo",
+      "name": "iPhone XS Max 64 GB",
+      "condition": "Nuevo",
+      "price": 964000,
+      "baseCondition": "Usado",
+      "baseValue": 750000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-522-exhibicion",
+      "name": "iPhone XS Max 64 GB",
+      "condition": "Exhibición",
+      "price": 819000,
+      "baseCondition": "Usado",
+      "baseValue": 750000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-523-usado",
+      "name": "iPhone XS Max 64 GB",
+      "condition": "Usado",
+      "price": 675000,
+      "baseCondition": "Usado",
+      "baseValue": 750000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-524-nuevo",
+      "name": "iPhone 11 Pro 64 GB",
+      "condition": "Nuevo",
+      "price": 1375000,
+      "baseCondition": "Exhibición",
+      "baseValue": 1298889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-525-exhibicion"
+    },
+    {
+      "slug": "iphone-ref-527-nuevo",
+      "name": "iPhone 11 Pro Max 64 GB",
+      "condition": "Nuevo",
+      "price": 1477000,
+      "baseCondition": "Usado",
+      "baseValue": 1148889,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-529-usado"
+    },
+    {
+      "slug": "iphone-ref-528-exhibicion",
+      "name": "iPhone 11 Pro Max 64 GB",
+      "condition": "Exhibición",
+      "price": 1255000,
+      "baseCondition": "Usado",
+      "baseValue": 1148889,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-529-usado"
+    },
+    {
+      "slug": "iphone-ref-530-nuevo",
+      "name": "iPhone 12 mini 64 GB",
+      "condition": "Nuevo",
+      "price": 1092000,
+      "baseCondition": "Usado",
+      "baseValue": 850000,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-531-exhibicion",
+      "name": "iPhone 12 mini 64 GB",
+      "condition": "Exhibición",
+      "price": 928000,
+      "baseCondition": "Usado",
+      "baseValue": 850000,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-532-usado",
+      "name": "iPhone 12 mini 64 GB",
+      "condition": "Usado",
+      "price": 765000,
+      "baseCondition": "Usado",
+      "baseValue": 850000,
+      "conditionFactor": 1,
+      "discount": 0.1,
+      "basis": "Estimación comercial según gama y antigüedad; no es una cotización externa",
+      "anchorSlug": null
+    },
+    {
+      "slug": "iphone-ref-533-nuevo",
+      "name": "iPhone 12 Pro 128 GB",
+      "condition": "Nuevo",
+      "price": 1216000,
+      "baseCondition": "Exhibición",
+      "baseValue": 1148889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-534-exhibicion"
+    },
+    {
+      "slug": "iphone-ref-536-nuevo",
+      "name": "iPhone 12 Pro Max 128 GB",
+      "condition": "Nuevo",
+      "price": 1692000,
+      "baseCondition": "Exhibición",
+      "baseValue": 1598889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-537-exhibicion"
+    },
+    {
+      "slug": "iphone-ref-539-nuevo",
+      "name": "iPhone 13 mini 128 GB",
+      "condition": "Nuevo",
+      "price": 898000,
+      "baseCondition": "Exhibición",
+      "baseValue": 848889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-540-exhibicion"
+    },
+    {
+      "slug": "iphone-ref-541-usado",
+      "name": "iPhone 13 mini 128 GB",
+      "condition": "Usado",
+      "price": 629000,
+      "baseCondition": "Exhibición",
+      "baseValue": 848889,
+      "conditionFactor": 0.8235294117647058,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-540-exhibicion"
+    },
+    {
+      "slug": "iphone-ref-542-nuevo",
+      "name": "iPhone 13 Pro 128 GB",
+      "condition": "Nuevo",
+      "price": 1745000,
+      "baseCondition": "Exhibición",
+      "baseValue": 1648889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-543-exhibicion"
+    },
+    {
+      "slug": "iphone-ref-545-nuevo",
+      "name": "iPhone 13 Pro Max 128 GB",
+      "condition": "Nuevo",
+      "price": 1904000,
+      "baseCondition": "Exhibición",
+      "baseValue": 1798889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-546-exhibicion"
+    },
+    {
+      "slug": "iphone-ref-548-nuevo",
+      "name": "iPhone 14 Plus 128 GB",
+      "condition": "Nuevo",
+      "price": 2184000,
+      "baseCondition": "Usado",
+      "baseValue": 1698889,
+      "conditionFactor": 1.4285714285714286,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-550-usado"
+    },
+    {
+      "slug": "iphone-ref-549-exhibicion",
+      "name": "iPhone 14 Plus 128 GB",
+      "condition": "Exhibición",
+      "price": 1856000,
+      "baseCondition": "Usado",
+      "baseValue": 1698889,
+      "conditionFactor": 1.2142857142857144,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-550-usado"
+    },
+    {
+      "slug": "iphone-ref-551-nuevo",
+      "name": "iPhone 14 Pro Max 256 GB",
+      "condition": "Nuevo",
+      "price": 2381000,
+      "baseCondition": "Exhibición",
+      "baseValue": 2248889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-552-exhibicion"
     },
     {
       "slug": "iphone-ref-554-nuevo",
       "name": "iPhone 15 Plus 128 GB",
       "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
+      "price": 2222000,
+      "baseCondition": "Exhibición",
+      "baseValue": 2098889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-555-exhibicion"
     },
     {
       "slug": "iphone-ref-557-nuevo",
       "name": "iPhone 15 Pro Max 256 GB",
       "condition": "Nuevo",
-      "previousPrice": null,
-      "reason": "No se encontró una oferta vigente comparable por modelo, configuración y condición. Se elimina la estimación anterior, si existía."
+      "price": 2698000,
+      "baseCondition": "Exhibición",
+      "baseValue": 2548889,
+      "conditionFactor": 1.1764705882352942,
+      "discount": 0.1,
+      "basis": "Estimación a partir de otra condición del mismo modelo",
+      "anchorSlug": "iphone-ref-558-exhibicion"
     }
-  ],
-  "previousPolicy": "2% por debajo de la oferta comparable disponible más baja, redondeado a 1.000 COP.",
-  "sourcesRecheckedAt": "2026-09-19T12:46:39.381Z",
-  "userRequestedDiscountPercent": 10
+  ]
 }
