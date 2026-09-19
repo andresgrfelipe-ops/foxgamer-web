@@ -1,0 +1,38 @@
+/* Original FOX GAMER identity and owner-supplied photography. */
+@layer components {
+ .brand-logo{width:52px;height:52px;object-fit:contain;border-radius:8px;flex-shrink:0}
+ .footer .logo{display:inline-flex}
+ .hero-art.real-photo{height:480px;background:#24201b;border-color:#5e4430}
+ .hero-art.real-photo:after{display:none}
+ .real-photo>img{width:100%;height:100%;object-fit:cover;object-position:center}
+ .photo-caption{position:absolute;inset:auto 0 0;padding:70px 26px 24px;background:linear-gradient(transparent,#100d0aef)}
+ .photo-caption span{display:block;color:#ffad65;font-size:10px;letter-spacing:.13em;font-weight:700}
+ .photo-caption strong{display:block;font-size:23px;margin-top:8px;line-height:1.3}
+ .category-art:has(img){height:180px;overflow:hidden;background:#27242a}
+ .category-art img{width:100%;height:100%;object-fit:cover;object-position:center 45%}
+ .contact-panel{background:linear-gradient(115deg,#39271d,#202126);border-color:#704a2e}
+ .gallery-intro{color:var(--muted);font-size:14px;margin:-9px 0 25px;max-width:750px}
+ .photo-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+ .photo-card{margin:0;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--panel)}
+ .photo-card>a{display:block;position:relative;aspect-ratio:4/5;overflow:hidden}
+ .photo-card img{width:100%;height:100%;object-fit:cover;transition:transform .2s}
+ .photo-card>a:hover img{transform:scale(1.035)}
+ .photo-zoom{position:absolute;bottom:12px;right:12px;border-radius:50%;padding:9px;display:flex;background:#101117d9;color:white}
+ .photo-zoom svg{width:18px;height:18px}
+ .photo-card figcaption{padding:17px}
+ .photo-card h3{font-size:15px;letter-spacing:-.01em;line-height:1.35}
+ .photo-card figcaption p{font-size:11px;color:var(--muted);margin-top:9px}
+ #photo-dialog{padding:18px;max-width:min(820px,94vw);max-height:94dvh;border:1px solid #555;border-radius:12px;background:var(--bg);color:var(--text)}
+ #photo-dialog::backdrop{background:#000c}
+ #photo-dialog img{display:block;max-height:74dvh;max-width:100%;width:auto;margin:auto;object-fit:contain}
+ #photo-dialog h2{font-size:16px;letter-spacing:0;margin-top:15px}
+ .dialog-close{display:block;margin:0 0 12px auto;min-height:44px;padding:9px 15px;background:var(--accent);color:#221207;border:0;border-radius:6px;font-weight:700}
+}
+@layer responsive {
+ @media(max-width:1100px){.hero-art.real-photo{height:410px}.photo-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+ @media(max-width:760px){.brand-logo{width:42px;height:42px}.hero-art.real-photo{height:360px}.photo-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.photo-card figcaption{padding:13px}.photo-card h3{font-size:14px}.category-art:has(img){height:155px}}
+ @media(max-width:360px){.photo-grid{grid-template-columns:1fr}.hero-art.real-photo{height:300px}}
+}
+
+@layer components{.contact-actions{display:flex;flex-direction:column;align-items:stretch;gap:12px;flex-shrink:0}.contact-actions>.small{text-align:center}.nav-contact{white-space:nowrap}}
+@layer responsive{@media(max-width:760px){.nav-contact{font-size:0;gap:0}.contact-actions{width:100%}}}

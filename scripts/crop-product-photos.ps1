@@ -1,0 +1,4 @@
+Add-Type -AssemblyName System.Drawing
+$p='assets/photos'
+$items=@{'ps4-fat-real.jpg'=@(120,250,1120,1450);'ps5-pro-real.jpg'=@(80,180,1120,1350);'ps5-fat-825-real.jpg'=@(90,130,1100,1250);'xbox-series-s-512-real.png'=@(0,25,1024,760);'xbox-series-s-1tb-real.jpg'=@(120,150,1060,980);'ps5-slim-1tb-real.png'=@(0,20,1024,720);'ps5-spiderman2-real.jpg'=@(80,280,1100,1450);'rog-ally-real.jpg'=@(100,260,1100,1450)}
+foreach($kv in $items.GetEnumerator()){ $f=Join-Path $p $kv.Key; if(!(Test-Path $f)){continue}; $im=[Drawing.Image]::FromFile($f); $a=$kv.Value; $w=$a[2]-$a[0];$h=$a[3]-$a[1];$bmp=New-Object Drawing.Bitmap($w,$h);$g=[Drawing.Graphics]::FromImage($bmp);$g.DrawImage($im,(New-Object Drawing.Rectangle(0,0,$w,$h)),(New-Object Drawing.Rectangle($a[0],$a[1],$w,$h)),[Drawing.GraphicsUnit]::Pixel);$g.Dispose();$im.Dispose();$bmp.Save($f,[Drawing.Imaging.ImageFormat]::Jpeg);$bmp.Dispose();Write-Output $kv.Key }
