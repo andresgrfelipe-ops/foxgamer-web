@@ -8,6 +8,11 @@ import os from 'node:os';
 import {validateStore} from '../scripts/catalog.mjs';
 import {auditImages} from '../scripts/audit-images.mjs';
 const base=JSON.parse(await readFile('data/store.json','utf8'));
+test('las referencias sin foto no afirman una identificación fotográfica',()=>{
+  for(const p of base.products.filter(p=>!p.image)) {
+    assert.doesNotMatch(p.description,/identificada en foto real|Imagen correspondiente a la familia/i,p.slug);
+  }
+});
 const bytes=Buffer.from([255,216,255,224,1,2,3,4]);
 const hash=createHash('sha256').update(bytes).digest('hex');
 const product={...base.products[0],image:'/assets/photos/test.jpg'};
