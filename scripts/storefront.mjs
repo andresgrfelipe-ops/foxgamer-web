@@ -29,6 +29,7 @@ export function createStorefront(store) {
       ${productContact(p, 'Consultar', 'button secondary card-contact')}</article>`;
   }
   function catalog(category) {
+    if(category === 'videojuegos') return gameDirectory(store);
     const conditionOrder = {Nuevo: 0, Exhibición: 1, Usado: 2};
     const featuredOrder = {'PlayStation 4 Pro 1 Tera': 0,'PlayStation 4 Fat 500GB': 1,'PlayStation 5 Slim 1 Tera': 2,'PlayStation 5 Fat 825GB': 3,'Xbox Series S 512 GB': 4,'Xbox Series S 1 TB': 5,'Xbox Series X Disco 1 Tera': 6};
     const products = store.products.filter(p => !category || p.category === category).sort((a,b) =>
