@@ -13,7 +13,7 @@
     {
       "slug": "videojuegos",
       "name": "Videojuegos",
-      "description": "Juegos físicos de PlayStation 5, PlayStation 4 y Nintendo Switch, con plataforma y condición visibles.",
+      "description": "Explora juegos y consulta títulos para PS5, PS4, PS3, PS2 y Xbox 360. Confirma edición, formato y disponibilidad con FOX GAMER.",
       "icon": "game",
       "image": "/assets/photos/img_6203.webp"
     },
@@ -7030,6 +7030,66 @@
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
       "image": "/assets/photos/ps4-pro-1tb-full.jpg",
       "importedCatalog": false
+    },
+    {
+      "name": "PlayStation 2 Slim",
+      "slug": "playstation-2-slim-usado",
+      "brand": "PlayStation",
+      "price": 315000,
+      "image": "/assets/photos/retro-ps2-slim.jpg",
+      "description": "PlayStation 2 Slim. Fotografía de referencia del modelo; consulta las fotos y el estado de la unidad. Confirma región, lectura de discos, almacenamiento y accesorios antes de comprar.",
+      "category": "consolas",
+      "condition": "Usado",
+      "availability": "inquiry",
+      "conditionNotes": "Segunda mano. Confirma funcionamiento, señales de uso y estado de cada unidad.",
+      "includes": "Confirma mandos, cables, memoria y juegos incluidos; los accesorios de la foto son ilustrativos.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "marketSource": "Precio comercial sugerido autorizado por el propietario, 10 % por debajo de una base estimada; no es una oferta comparable verificada."
+    },
+    {
+      "name": "PlayStation 3 Slim 120 GB",
+      "slug": "playstation-3-slim-120gb-usado",
+      "brand": "PlayStation",
+      "price": 495000,
+      "image": "/assets/photos/retro-ps3-slim.jpg",
+      "description": "PlayStation 3 Slim 120 GB. Fotografía de referencia del modelo; consulta las fotos y el estado de la unidad. Confirma región, lectura de discos, almacenamiento y accesorios antes de comprar.",
+      "category": "consolas",
+      "condition": "Usado",
+      "availability": "inquiry",
+      "conditionNotes": "Segunda mano. Confirma funcionamiento, señales de uso y estado de cada unidad.",
+      "includes": "Confirma mandos, cables, memoria y juegos incluidos; los accesorios de la foto son ilustrativos.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "marketSource": "Precio comercial sugerido autorizado por el propietario, 10 % por debajo de una base estimada; no es una oferta comparable verificada."
+    },
+    {
+      "name": "Xbox 360 S 4 GB",
+      "slug": "xbox-360-s-4gb-usado",
+      "brand": "Xbox",
+      "price": 405000,
+      "image": "/assets/photos/retro-xbox-360-s.jpg",
+      "description": "Xbox 360 S 4 GB. Fotografía de referencia del modelo; consulta las fotos y el estado de la unidad. Confirma región, lectura de discos, almacenamiento y accesorios antes de comprar.",
+      "category": "consolas",
+      "condition": "Usado",
+      "availability": "inquiry",
+      "conditionNotes": "Segunda mano. Confirma funcionamiento, señales de uso y estado de cada unidad.",
+      "includes": "Confirma mandos, cables, memoria y juegos incluidos; los accesorios de la foto son ilustrativos.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "marketSource": "Precio comercial sugerido autorizado por el propietario, 10 % por debajo de una base estimada; no es una oferta comparable verificada."
+    },
+    {
+      "name": "Xbox One S",
+      "slug": "xbox-one-s-usado",
+      "brand": "Xbox",
+      "price": 850000,
+      "image": "/assets/photos/img_2520.webp",
+      "description": "Xbox One S. Fotografía original de FOX GAMER. Confirma almacenamiento, estado y accesorios antes de comprar.",
+      "category": "consolas",
+      "condition": "Usado",
+      "availability": "inquiry",
+      "conditionNotes": "Segunda mano. Confirma funcionamiento, señales de uso y estado de cada unidad.",
+      "includes": "Confirma mandos, cables, memoria y juegos incluidos; los accesorios de la foto son ilustrativos.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "marketSource": "Precio de 850.000 COP conservado del catálogo de WhatsApp aportado."
     }
   ],
   "gallery": [
@@ -9052,6 +9112,47 @@
       "reviewedAt": "2026-09-19",
       "evidence": "Consola azul con Nathan Drake y marca UNCHARTED visibles. No se atribuye a una PS4 Pro genérica. Inspección visual de fotografía original existente en el repositorio de FOX GAMER. Confirma el estado, accesorios y disponibilidad de cada unidad antes de comprar.",
       "sha256": "14aa46b8c71ca2d335865f667fd81cfc10ba443f21feef11fdc48377f3bb5909"
+    },
+    {
+      "name": "PlayStation 2 Slim",
+      "image": "/assets/photos/retro-ps2-slim.jpg",
+      "kind": "reference-photo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PS2-Slim-Console-Set.jpg",
+      "sourceModel": "Sony SCPH-70001, carcasa Slim negra.",
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "evidence": "Sony SCPH-70001, carcasa Slim negra. Inspección visual realizada el 19/09/2026. No acredita stock, estado ni accesorios incluidos.",
+      "sha256": "09208c9a3c2be69e737d44080379e30fd4de9561b34b3f0932b1857acbea92ae"
+    },
+    {
+      "name": "PlayStation 3 Slim 120 GB",
+      "image": "/assets/photos/retro-ps3-slim.jpg",
+      "kind": "reference-photo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PS3-Slim-Console-Vert.jpg",
+      "sourceModel": "Sony PS3 Slim 120 GB en posición vertical.",
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "evidence": "Sony PS3 Slim 120 GB en posición vertical. Inspección visual realizada el 19/09/2026. No acredita stock, estado ni accesorios incluidos.",
+      "sha256": "14cfe421fd02cb5f644641a0aa9d1b0f8479dc3659141cb076ce00e24d5569ab"
+    },
+    {
+      "name": "Xbox 360 S 4 GB",
+      "image": "/assets/photos/retro-xbox-360-s.jpg",
+      "kind": "reference-photo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xbox-360S-Console-Set.jpg",
+      "sourceModel": "Microsoft Xbox 360 S modelo 1439, acabado negro mate y 4 GB.",
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "evidence": "Microsoft Xbox 360 S modelo 1439, acabado negro mate y 4 GB. Inspección visual realizada el 19/09/2026. No acredita stock, estado ni accesorios incluidos.",
+      "sha256": "70d566ec12fe79650263a3a589d9b48abd94b8b3ee7f8877edc1c218e8b90b61"
+    },
+    {
+      "name": "Xbox One S",
+      "image": "/assets/photos/img_2520.webp",
+      "kind": "store-photo",
+      "sourceModel": "Xbox One S blanca visible en la fotografía original de la tienda.",
+      "evidence": "Xbox One S blanca visible en la fotografía original de la tienda. Inspección visual realizada el 19/09/2026. No acredita stock, estado ni accesorios incluidos.",
+      "sha256": "b02f20ea23a6654ebaa5eda7e5c66057ec9a373c9e6d7f8ef50770a94a4ce572"
     }
   ]
 }
