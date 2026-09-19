@@ -1,0 +1,149 @@
+# Fotografías pendientes
+
+Se conserva el catálogo comercial. Estas referencias muestran «Imagen próximamente». La asignación anterior queda en image-review.json, sin publicarse. Nuevo, Usado y Exhibición permanecen separados.
+
+- PlayStation 4 Slim 1 Tera
+- Xbox Series S 512 GB
+- Xbox Series S 1 TB
+- Xbox Series X Disco 1 Tera
+- PlayStation 5 Fat 825GB
+- PlayStation 5 Pro 2 Teras
+- VR2
+- G29
+- Monitores
+- Diademas
+- Controles Ps5
+- iPhone 17 256 GB
+- iPad Air 13 pulgadas M3 256 GB
+- MacBook Air 13 pulgadas M5 512 GB
+- EA Sports FC 25 · PS5
+- Black Myth: Wukong · PS5
+- Ghost of Tsushima · PS5
+- The Crew Motorfest · PS5
+- Metal Gear Solid Delta · PS5
+- Resident Evil 3 · PS5
+- Resident Evil 4 · PS5
+- Elden Ring · PS5
+- The Last of Us Part I · PS5
+- The Last of Us Part II · PS5
+- Uncharted · PS5
+- Grand Theft Auto V · PS5
+- EA Sports UFC 5 · PS5
+- Mafia · PS5
+- Call of Duty Black Ops 7 · PS5
+- Dragon Ball Sparking! ZERO · PS5
+- Silent Hill f · PS5
+- Little Nightmares III · PS5
+- Resident Evil 4 · PS4
+- Resident Evil 4 · PS4 (unidad 2)
+- EA Sports FC 25 · PS4
+- Call of Duty · PS4
+- MudRunner · PS4
+- Mafia · PS4
+- EA Sports FC 25 · PS4 (unidad 2)
+- eFootball · PS4
+- PES · PS4
+- Crash Team Racing · PS4
+- Hello Neighbor · PS4
+- The Crew Motorfest · PS4
+- Minecraft · PS4
+- Battlefield V · PS4
+- Need for Speed · PS4
+- Gran Turismo 7 · PS4
+- The Last of Us · PS4
+- The Last of Us Part II · PS4
+- EA Sports FC · PS4
+- Cuphead · Nintendo Switch
+- Simulador de carreras Logitech G923
+- Volante Logitech G920 con pedales
+- Volante Thrustmaster T300 RS GT
+- Soporte para volante y pedales
+- Playseat Challenger simulación
+- Kit simulador VR2 + juego
+- iPhone 15 256 GB
+- iPhone 16 Pro Max 256 GB
+- iPhone 17 Pro Max 512 GB
+- PlayStation 5 Slim 1 Tera
+- PlayStation 5 edición digital
+- PlayStation 4 Pro 1 Tera
+- PlayStation 4 edición Uncharted
+- iPhone 17 Pro Max 1 TB
+- iPhone 17 Pro Max 2 TB
+- iPhone 18 Pro 256 GB
+- iPhone 18 Pro Max 512 GB
+- iPad Pro 13 pulgadas M5 512 GB
+- MacBook Pro 14 pulgadas M5 1 TB
+- AirPods 5 con estuche inalámbrico
+- AirPods Max 2 USB-C
+- iPhone 13 512 GB
+- iPhone 15 Pro Max 256 GB CPO
+- iPhone 16 Pro Max 256 GB CPO
+- iPad Air 5.ª generación 64 GB
+- MacBook Air M1 13 pulgadas 256 GB
+- Apple Watch Series 11
+- AirPods 4
+- iPhone 17 Pro Max 512 GB Exhibición Premium
+- Apple Watch SE 3 GPS 40 mm
+- Apple Watch Series 11 GPS Cellular 46 mm
+- MacBook Neo A18 Pro 8 GB 512 GB
+- iPhone 16 128 GB
+- iPhone 16e 128 GB
+- iPhone 15 128 GB
+- iPad 11 pulgadas A16 128 GB
+- iPad Air 11 pulgadas M3 256 GB
+- iPad Air 13 pulgadas M3 256 GB Cellular
+- iPad Pro 11 pulgadas M4 256 GB
+- MacBook Air 13 pulgadas M4 256 GB
+- MacBook Air 15 pulgadas M5 512 GB
+- Mac mini M4 256 GB
+- AirPods Pro 2 USB-C
+- AirPods Max USB-C
+- Apple Pencil Pro
+- Magic Keyboard iPad Air
+- iPhone 11 64 GB
+- iPhone 12 128 GB
+- iPhone 13 128 GB
+- iPhone 14 128 GB
+- iPhone 14 Pro 256 GB
+- iPhone 15 Pro 256 GB
+- iPad 9.ª generación 64 GB
+- iPad 10.ª generación 64 GB
+- iPad mini 6.ª generación 64 GB
+- iPad Air 4.ª generación 64 GB
+- iPad Pro 11 pulgadas 3.ª generación
+- iPad Pro 12.9 pulgadas 5.ª generación
+- MacBook Air Intel 13 pulgadas 256 GB
+- MacBook Pro Intel 13 pulgadas 256 GB
+- MacBook Pro M1 14 pulgadas 512 GB
+- iMac 24 pulgadas M1 256 GB
+- Mac mini M1 256 GB
+- Apple Watch Series 6 GPS
+- Apple Watch Series 7 GPS
+- Apple Watch Series 8 GPS
+- Apple Watch SE 2 GPS
+- AirPods 2.ª generación
+- AirPods 3.ª generación
+- AirPods Pro 1.ª generación
+- AirPods Max Lightning
+- Apple TV 4K 2.ª generación
+- Apple TV 4K 3.ª generación
+- iPhone 7 32 GB
+- iPhone 7 Plus 128 GB
+- iPhone 8 64 GB
+- iPhone 8 Plus 64 GB
+- iPhone X 64 GB
+- iPhone XR 64 GB
+- iPhone XS 64 GB
+- iPhone XS Max 64 GB
+- iPhone 11 Pro 64 GB
+- iPhone 11 Pro Max 64 GB
+- iPhone 12 mini 64 GB
+- iPhone 12 Pro 128 GB
+- iPhone 12 Pro Max 128 GB
+- iPhone 13 mini 128 GB
+- iPhone 13 Pro 128 GB
+- iPhone 13 Pro Max 128 GB
+- iPhone 14 Plus 128 GB
+- iPhone 14 Pro Max 256 GB
+- iPhone 15 Plus 128 GB
+- iPhone 15 Pro Max 256 GB

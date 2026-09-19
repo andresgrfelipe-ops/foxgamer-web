@@ -1,0 +1,3076 @@
+{
+  "verified": [
+    {
+      "name": "ROG Ally",
+      "image": "/assets/photos/rog-ally-real.jpg",
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+    },
+    {
+      "name": "PlayStation 5 edición limitada Spider-Man 2",
+      "image": "/assets/photos/ps5-spiderman2-real.jpg",
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+    },
+    {
+      "name": "Nintendo Switch OLED",
+      "image": "/assets/photos/img_2450.webp",
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+    },
+    {
+      "name": "Nintendo Switch 2",
+      "image": "/assets/photos/img_6489.webp",
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+    },
+    {
+      "name": "Marvel’s Spider-Man 2 · PS5",
+      "image": "/assets/photos/img_6203.webp",
+      "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad."
+    }
+  ],
+  "pending": [
+    {
+      "slug": "playstation-4-slim-1tb-nuevo",
+      "name": "PlayStation 4 Slim 1 Tera",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2513.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-4-slim-1tb-exhibicion",
+      "name": "PlayStation 4 Slim 1 Tera",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2513.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-4-slim-1tb-usado",
+      "name": "PlayStation 4 Slim 1 Tera",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2513.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "xbox-series-s-512gb-nuevo",
+      "name": "Xbox Series S 512 GB",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/xbox-series-s-512-full.png",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "xbox-series-s-512gb-exhibicion",
+      "name": "Xbox Series S 512 GB",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/xbox-series-s-512-full.png",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "xbox-series-s-512gb-usado",
+      "name": "Xbox Series S 512 GB",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/xbox-series-s-512-full.png",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "xbox-series-s-1tb-nuevo",
+      "name": "Xbox Series S 1 TB",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/xbox-series-s-1tb-real.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "xbox-series-s-1tb-exhibicion",
+      "name": "Xbox Series S 1 TB",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/xbox-series-s-1tb-real.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "xbox-series-s-1tb-usado",
+      "name": "Xbox Series S 1 TB",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/xbox-series-s-1tb-real.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "xbox-series-x-disco-1-tera-nuevo",
+      "name": "Xbox Series X Disco 1 Tera",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2510.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "xbox-series-x-disco-1-tera-exhibicion",
+      "name": "Xbox Series X Disco 1 Tera",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2510.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "xbox-series-x-disco-1-tera-usado",
+      "name": "Xbox Series X Disco 1 Tera",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2510.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-5-fat-825gb-1550-nuevo",
+      "name": "PlayStation 5 Fat 825GB",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/ps5-fat-825-real.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-5-fat-825gb-1550-exhibicion",
+      "name": "PlayStation 5 Fat 825GB",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/ps5-fat-825-real.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-5-fat-825gb-1550-usado",
+      "name": "PlayStation 5 Fat 825GB",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/ps5-fat-825-real.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-5-pro-2tb-nuevo",
+      "name": "PlayStation 5 Pro 2 Teras",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/ps5-pro-real.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-5-pro-2tb-exhibicion",
+      "name": "PlayStation 5 Pro 2 Teras",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/ps5-pro-real.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-5-pro-2tb-usado",
+      "name": "PlayStation 5 Pro 2 Teras",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/ps5-pro-real.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "vr2-nuevo",
+      "name": "VR2",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2292.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "vr2-exhibicion",
+      "name": "VR2",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2292.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "vr2-usado",
+      "name": "VR2",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2292.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "g29-nuevo",
+      "name": "G29",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2460.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "g29-exhibicion",
+      "name": "G29",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2460.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "g29-usado",
+      "name": "G29",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2460.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "monitores-nuevo",
+      "name": "Monitores",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2444.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "monitores-exhibicion",
+      "name": "Monitores",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2444.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "monitores-usado",
+      "name": "Monitores",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2444.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "diademas-nuevo",
+      "name": "Diademas",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2291.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "diademas-exhibicion",
+      "name": "Diademas",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2291.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "diademas-usado",
+      "name": "Diademas",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2291.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "controles-ps5-nuevo",
+      "name": "Controles Ps5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2369.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "controles-ps5-exhibicion",
+      "name": "Controles Ps5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2369.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "controles-ps5-usado",
+      "name": "Controles Ps5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2369.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-17-256gb-nuevo",
+      "name": "iPhone 17 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-17-256gb-exhibicion",
+      "name": "iPhone 17 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-17-256gb-usado",
+      "name": "iPhone 17 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "ipad-air-m3-13-256gb-nuevo",
+      "name": "iPad Air 13 pulgadas M3 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "ipad-air-m3-13-256gb-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "ipad-air-m3-13-256gb-usado",
+      "name": "iPad Air 13 pulgadas M3 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "macbook-air-m5-13-512gb-nuevo",
+      "name": "MacBook Air 13 pulgadas M5 512 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "macbook-air-m5-13-512gb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M5 512 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "macbook-air-m5-13-512gb-usado",
+      "name": "MacBook Air 13 pulgadas M5 512 GB",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "fc-25-ps5-nuevo",
+      "name": "EA Sports FC 25 · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6192.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "fc-25-ps5-exhibicion",
+      "name": "EA Sports FC 25 · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6192.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "fc-25-ps5-usado",
+      "name": "EA Sports FC 25 · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6192.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "black-myth-wukong-nuevo",
+      "name": "Black Myth: Wukong · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6193.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "black-myth-wukong-exhibicion",
+      "name": "Black Myth: Wukong · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6193.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "black-myth-wukong-usado",
+      "name": "Black Myth: Wukong · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6193.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "ghost-of-tsushima-nuevo",
+      "name": "Ghost of Tsushima · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6194.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "ghost-of-tsushima-exhibicion",
+      "name": "Ghost of Tsushima · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6194.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "ghost-of-tsushima-usado",
+      "name": "Ghost of Tsushima · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6194.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-crew-motorfest-nuevo",
+      "name": "The Crew Motorfest · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6195.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-crew-motorfest-exhibicion",
+      "name": "The Crew Motorfest · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6195.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-crew-motorfest-usado",
+      "name": "The Crew Motorfest · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6195.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "metal-gear-solid-delta-nuevo",
+      "name": "Metal Gear Solid Delta · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6196.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "metal-gear-solid-delta-exhibicion",
+      "name": "Metal Gear Solid Delta · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6196.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "metal-gear-solid-delta-usado",
+      "name": "Metal Gear Solid Delta · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6196.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-3-nuevo",
+      "name": "Resident Evil 3 · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6197.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-3-exhibicion",
+      "name": "Resident Evil 3 · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6197.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-3-usado",
+      "name": "Resident Evil 3 · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6197.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-4-nuevo",
+      "name": "Resident Evil 4 · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6198.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-4-exhibicion",
+      "name": "Resident Evil 4 · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6198.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-4-usado",
+      "name": "Resident Evil 4 · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6198.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "elden-ring-nuevo",
+      "name": "Elden Ring · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6199.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "elden-ring-exhibicion",
+      "name": "Elden Ring · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6199.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "elden-ring-usado",
+      "name": "Elden Ring · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6199.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-part-i-nuevo",
+      "name": "The Last of Us Part I · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6200.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-part-i-exhibicion",
+      "name": "The Last of Us Part I · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6200.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-part-i-usado",
+      "name": "The Last of Us Part I · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6200.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-part-ii-nuevo",
+      "name": "The Last of Us Part II · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6201.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-part-ii-exhibicion",
+      "name": "The Last of Us Part II · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6201.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-part-ii-usado",
+      "name": "The Last of Us Part II · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6201.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "uncharted-nuevo",
+      "name": "Uncharted · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6202.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "uncharted-exhibicion",
+      "name": "Uncharted · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6202.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "uncharted-usado",
+      "name": "Uncharted · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6202.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "gta-v-nuevo",
+      "name": "Grand Theft Auto V · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6204.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "gta-v-exhibicion",
+      "name": "Grand Theft Auto V · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6204.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "gta-v-usado",
+      "name": "Grand Theft Auto V · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6204.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "ufc-5-nuevo",
+      "name": "EA Sports UFC 5 · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6205.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "ufc-5-exhibicion",
+      "name": "EA Sports UFC 5 · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6205.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "ufc-5-usado",
+      "name": "EA Sports UFC 5 · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6205.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "mafia-nuevo",
+      "name": "Mafia · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6206.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "mafia-exhibicion",
+      "name": "Mafia · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6206.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "mafia-usado",
+      "name": "Mafia · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6206.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "call-of-duty-black-ops-7-nuevo",
+      "name": "Call of Duty Black Ops 7 · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6207.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "call-of-duty-black-ops-7-exhibicion",
+      "name": "Call of Duty Black Ops 7 · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6207.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "call-of-duty-black-ops-7-usado",
+      "name": "Call of Duty Black Ops 7 · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6207.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "dragon-ball-sparking-zero-nuevo",
+      "name": "Dragon Ball Sparking! ZERO · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6208.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "dragon-ball-sparking-zero-exhibicion",
+      "name": "Dragon Ball Sparking! ZERO · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6208.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "dragon-ball-sparking-zero-usado",
+      "name": "Dragon Ball Sparking! ZERO · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6208.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "silent-hill-f-nuevo",
+      "name": "Silent Hill f · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6209.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "silent-hill-f-exhibicion",
+      "name": "Silent Hill f · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6209.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "silent-hill-f-usado",
+      "name": "Silent Hill f · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6209.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "little-nightmares-iii-nuevo",
+      "name": "Little Nightmares III · PS5",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6210.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "little-nightmares-iii-exhibicion",
+      "name": "Little Nightmares III · PS5",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6210.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "little-nightmares-iii-usado",
+      "name": "Little Nightmares III · PS5",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6210.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-4-ps4-nuevo",
+      "name": "Resident Evil 4 · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6268.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-4-ps4-exhibicion",
+      "name": "Resident Evil 4 · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6268.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-4-ps4-usado",
+      "name": "Resident Evil 4 · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6268.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-4-ps4-2-nuevo",
+      "name": "Resident Evil 4 · PS4 (unidad 2)",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6269.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-4-ps4-2-exhibicion",
+      "name": "Resident Evil 4 · PS4 (unidad 2)",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6269.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "resident-evil-4-ps4-2-usado",
+      "name": "Resident Evil 4 · PS4 (unidad 2)",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6269.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "fc-25-ps4-nuevo",
+      "name": "EA Sports FC 25 · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6492.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "fc-25-ps4-exhibicion",
+      "name": "EA Sports FC 25 · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6492.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "fc-25-ps4-usado",
+      "name": "EA Sports FC 25 · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6492.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "call-of-duty-ps4-nuevo",
+      "name": "Call of Duty · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6493.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "call-of-duty-ps4-exhibicion",
+      "name": "Call of Duty · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6493.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "call-of-duty-ps4-usado",
+      "name": "Call of Duty · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6493.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "mud-runner-nuevo",
+      "name": "MudRunner · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6494.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "mud-runner-exhibicion",
+      "name": "MudRunner · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6494.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "mud-runner-usado",
+      "name": "MudRunner · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6494.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "mafia-ps4-nuevo",
+      "name": "Mafia · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6495.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "mafia-ps4-exhibicion",
+      "name": "Mafia · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6495.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "mafia-ps4-usado",
+      "name": "Mafia · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6495.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "fc-25-ps4-2-nuevo",
+      "name": "EA Sports FC 25 · PS4 (unidad 2)",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6496.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "fc-25-ps4-2-exhibicion",
+      "name": "EA Sports FC 25 · PS4 (unidad 2)",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6496.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "fc-25-ps4-2-usado",
+      "name": "EA Sports FC 25 · PS4 (unidad 2)",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6496.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "efootball-nuevo",
+      "name": "eFootball · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6497.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "efootball-exhibicion",
+      "name": "eFootball · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6497.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "efootball-usado",
+      "name": "eFootball · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6497.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "pes-nuevo",
+      "name": "PES · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6498.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "pes-exhibicion",
+      "name": "PES · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6498.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "pes-usado",
+      "name": "PES · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6498.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "crash-team-racing-nuevo",
+      "name": "Crash Team Racing · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6499.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "crash-team-racing-exhibicion",
+      "name": "Crash Team Racing · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6499.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "crash-team-racing-usado",
+      "name": "Crash Team Racing · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6499.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "hello-neighbor-nuevo",
+      "name": "Hello Neighbor · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6500.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "hello-neighbor-exhibicion",
+      "name": "Hello Neighbor · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6500.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "hello-neighbor-usado",
+      "name": "Hello Neighbor · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6500.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-crew-motorfest-ps4-nuevo",
+      "name": "The Crew Motorfest · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6501.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-crew-motorfest-ps4-exhibicion",
+      "name": "The Crew Motorfest · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6501.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-crew-motorfest-ps4-usado",
+      "name": "The Crew Motorfest · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6501.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "minecraft-ps4-nuevo",
+      "name": "Minecraft · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6502.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "minecraft-ps4-exhibicion",
+      "name": "Minecraft · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6502.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "minecraft-ps4-usado",
+      "name": "Minecraft · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6502.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "battlefield-v-nuevo",
+      "name": "Battlefield V · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6503.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "battlefield-v-exhibicion",
+      "name": "Battlefield V · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6503.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "battlefield-v-usado",
+      "name": "Battlefield V · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6503.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "need-for-speed-nuevo",
+      "name": "Need for Speed · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6508.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "need-for-speed-exhibicion",
+      "name": "Need for Speed · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6508.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "need-for-speed-usado",
+      "name": "Need for Speed · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6508.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "gran-turismo-7-nuevo",
+      "name": "Gran Turismo 7 · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6510.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "gran-turismo-7-exhibicion",
+      "name": "Gran Turismo 7 · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6510.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "gran-turismo-7-usado",
+      "name": "Gran Turismo 7 · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6510.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-ps4-nuevo",
+      "name": "The Last of Us · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6511.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-ps4-exhibicion",
+      "name": "The Last of Us · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6511.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-ps4-usado",
+      "name": "The Last of Us · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6511.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-part-ii-ps4-nuevo",
+      "name": "The Last of Us Part II · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6512.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-part-ii-ps4-exhibicion",
+      "name": "The Last of Us Part II · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6512.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "the-last-of-us-part-ii-ps4-usado",
+      "name": "The Last of Us Part II · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6512.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "eafc-ps4-nuevo",
+      "name": "EA Sports FC · PS4",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6513.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "eafc-ps4-exhibicion",
+      "name": "EA Sports FC · PS4",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6513.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "eafc-ps4-usado",
+      "name": "EA Sports FC · PS4",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6513.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "cuphead-switch-nuevo",
+      "name": "Cuphead · Nintendo Switch",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_6491.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "cuphead-switch-exhibicion",
+      "name": "Cuphead · Nintendo Switch",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_6491.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "cuphead-switch-usado",
+      "name": "Cuphead · Nintendo Switch",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_6491.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "simlador-de-carreras-logitech-g-nevo",
+      "name": "Simulador de carreras Logitech G923",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2513.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "simlador-de-carreras-logitech-g-exhibicio-n",
+      "name": "Simulador de carreras Logitech G923",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2513.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "simlador-de-carreras-logitech-g-sado",
+      "name": "Simulador de carreras Logitech G923",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2513.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "volante-logitech-g-con-pedales-nevo",
+      "name": "Volante Logitech G920 con pedales",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2514.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "volante-logitech-g-con-pedales-exhibicio-n",
+      "name": "Volante Logitech G920 con pedales",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2514.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "volante-logitech-g-con-pedales-sado",
+      "name": "Volante Logitech G920 con pedales",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2514.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "volante-thrstmaster-t-rs-gt-nevo",
+      "name": "Volante Thrustmaster T300 RS GT",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2515.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "volante-thrstmaster-t-rs-gt-exhibicio-n",
+      "name": "Volante Thrustmaster T300 RS GT",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2515.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "volante-thrstmaster-t-rs-gt-sado",
+      "name": "Volante Thrustmaster T300 RS GT",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2515.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "soporte-para-volante-y-pedales-nevo",
+      "name": "Soporte para volante y pedales",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2516.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "soporte-para-volante-y-pedales-exhibicio-n",
+      "name": "Soporte para volante y pedales",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2516.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "soporte-para-volante-y-pedales-sado",
+      "name": "Soporte para volante y pedales",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2516.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playseat-challenger-simlacio-n-nevo",
+      "name": "Playseat Challenger simulación",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2517.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playseat-challenger-simlacio-n-exhibicio-n",
+      "name": "Playseat Challenger simulación",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2517.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playseat-challenger-simlacio-n-sado",
+      "name": "Playseat Challenger simulación",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2517.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "kit-simlador-vr-jego-nevo",
+      "name": "Kit simulador VR2 + juego",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2518.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "kit-simlador-vr-jego-exhibicio-n",
+      "name": "Kit simulador VR2 + juego",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2518.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "kit-simlador-vr-jego-sado",
+      "name": "Kit simulador VR2 + juego",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2518.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-15-256-gb-nuevo",
+      "name": "iPhone 15 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-15-256-gb-exhibicion",
+      "name": "iPhone 15 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-15-256-gb-usado",
+      "name": "iPhone 15 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-16-pro-max-256-gb-nuevo",
+      "name": "iPhone 16 Pro Max 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-16-pro-max-256-gb-exhibicion",
+      "name": "iPhone 16 Pro Max 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-16-pro-max-256-gb-usado",
+      "name": "iPhone 16 Pro Max 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-17-pro-max-512-gb-nuevo",
+      "name": "iPhone 17 Pro Max 512 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-17-pro-max-512-gb-exhibicion",
+      "name": "iPhone 17 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-17-pro-max-512-gb-usado",
+      "name": "iPhone 17 Pro Max 512 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-5-slim-1-tera-nuevo",
+      "name": "PlayStation 5 Slim 1 Tera",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/ps5-slim-1tb-full.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-5-slim-1-tera-exhibicion",
+      "name": "PlayStation 5 Slim 1 Tera",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/ps5-slim-1tb-full.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-5-slim-1-tera-usado",
+      "name": "PlayStation 5 Slim 1 Tera",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/ps5-slim-1tb-full.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "foto-consola-04-nuevo",
+      "name": "PlayStation 5 edición digital",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2508.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "foto-consola-05-exhibicion",
+      "name": "PlayStation 5 edición digital",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2508.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "foto-consola-06-usado",
+      "name": "PlayStation 5 edición digital",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2508.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-4-pro-1-tera-nuevo",
+      "name": "PlayStation 4 Pro 1 Tera",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/ps4-pro-1tb-full.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "foto-consola-22-nuevo",
+      "name": "PlayStation 4 edición Uncharted",
+      "condition": "Nuevo",
+      "previousImage": "/assets/photos/img_2519.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "foto-consola-23-exhibicion",
+      "name": "PlayStation 4 edición Uncharted",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/img_2519.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "foto-consola-24-usado",
+      "name": "PlayStation 4 edición Uncharted",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/img_2519.webp",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-1-nuevo",
+      "name": "iPhone 17 Pro Max 1 TB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-2-exhibicion",
+      "name": "iPhone 17 Pro Max 1 TB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-3-usado",
+      "name": "iPhone 17 Pro Max 1 TB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-4-nuevo",
+      "name": "iPhone 17 Pro Max 2 TB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-5-exhibicion",
+      "name": "iPhone 17 Pro Max 2 TB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-6-usado",
+      "name": "iPhone 17 Pro Max 2 TB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-7-nuevo",
+      "name": "iPhone 18 Pro 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-8-exhibicion",
+      "name": "iPhone 18 Pro 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-9-usado",
+      "name": "iPhone 18 Pro 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-10-nuevo",
+      "name": "iPhone 18 Pro Max 512 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-11-exhibicion",
+      "name": "iPhone 18 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-12-usado",
+      "name": "iPhone 18 Pro Max 512 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-13-nuevo",
+      "name": "iPad Pro 13 pulgadas M5 512 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-14-exhibicion",
+      "name": "iPad Pro 13 pulgadas M5 512 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-15-usado",
+      "name": "iPad Pro 13 pulgadas M5 512 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-16-nuevo",
+      "name": "MacBook Pro 14 pulgadas M5 1 TB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-17-exhibicion",
+      "name": "MacBook Pro 14 pulgadas M5 1 TB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-18-usado",
+      "name": "MacBook Pro 14 pulgadas M5 1 TB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-19-nuevo",
+      "name": "AirPods 5 con estuche inalámbrico",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-20-exhibicion",
+      "name": "AirPods 5 con estuche inalámbrico",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-21-usado",
+      "name": "AirPods 5 con estuche inalámbrico",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-22-nuevo",
+      "name": "AirPods Max 2 USB-C",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-23-exhibicion",
+      "name": "AirPods Max 2 USB-C",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-24-usado",
+      "name": "AirPods Max 2 USB-C",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-100-nuevo",
+      "name": "iPhone 13 512 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-101-exhibicion",
+      "name": "iPhone 13 512 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-102-usado",
+      "name": "iPhone 13 512 GB",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-103-nuevo",
+      "name": "iPhone 15 Pro Max 256 GB CPO",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-104-exhibicion",
+      "name": "iPhone 15 Pro Max 256 GB CPO",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-105-usado",
+      "name": "iPhone 15 Pro Max 256 GB CPO",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-106-nuevo",
+      "name": "iPhone 16 Pro Max 256 GB CPO",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-107-exhibicion",
+      "name": "iPhone 16 Pro Max 256 GB CPO",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-108-usado",
+      "name": "iPhone 16 Pro Max 256 GB CPO",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-109-nuevo",
+      "name": "iPad Air 5.ª generación 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-110-exhibicion",
+      "name": "iPad Air 5.ª generación 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-111-usado",
+      "name": "iPad Air 5.ª generación 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-112-nuevo",
+      "name": "MacBook Air M1 13 pulgadas 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-113-exhibicion",
+      "name": "MacBook Air M1 13 pulgadas 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-114-usado",
+      "name": "MacBook Air M1 13 pulgadas 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-115-nuevo",
+      "name": "Apple Watch Series 11",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-116-exhibicion",
+      "name": "Apple Watch Series 11",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-117-usado",
+      "name": "Apple Watch Series 11",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-118-nuevo",
+      "name": "AirPods 4",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-119-exhibicion",
+      "name": "AirPods 4",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-120-usado",
+      "name": "AirPods 4",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-121-nuevo",
+      "name": "iPhone 17 Pro Max 512 GB Exhibición Premium",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-122-exhibicion",
+      "name": "iPhone 17 Pro Max 512 GB Exhibición Premium",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-ref-123-usado",
+      "name": "iPhone 17 Pro Max 512 GB Exhibición Premium",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-mercado-200-nuevo",
+      "name": "Apple Watch SE 3 GPS 40 mm",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-mercado-201-exhibicion",
+      "name": "Apple Watch SE 3 GPS 40 mm",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-mercado-202-usado",
+      "name": "Apple Watch SE 3 GPS 40 mm",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-mercado-203-nuevo",
+      "name": "Apple Watch Series 11 GPS Cellular 46 mm",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-mercado-204-exhibicion",
+      "name": "Apple Watch Series 11 GPS Cellular 46 mm",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-mercado-205-usado",
+      "name": "Apple Watch Series 11 GPS Cellular 46 mm",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-mercado-206-nuevo",
+      "name": "MacBook Neo A18 Pro 8 GB 512 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-mercado-207-exhibicion",
+      "name": "MacBook Neo A18 Pro 8 GB 512 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-mercado-208-usado",
+      "name": "MacBook Neo A18 Pro 8 GB 512 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-300-nuevo",
+      "name": "iPhone 16 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-301-exhibicion",
+      "name": "iPhone 16 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-302-usado",
+      "name": "iPhone 16 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-303-nuevo",
+      "name": "iPhone 16e 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-304-exhibicion",
+      "name": "iPhone 16e 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-305-usado",
+      "name": "iPhone 16e 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-306-nuevo",
+      "name": "iPhone 15 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-307-exhibicion",
+      "name": "iPhone 15 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-308-usado",
+      "name": "iPhone 15 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-309-nuevo",
+      "name": "iPad 11 pulgadas A16 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-310-exhibicion",
+      "name": "iPad 11 pulgadas A16 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-311-usado",
+      "name": "iPad 11 pulgadas A16 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-312-nuevo",
+      "name": "iPad Air 11 pulgadas M3 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-313-exhibicion",
+      "name": "iPad Air 11 pulgadas M3 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-314-usado",
+      "name": "iPad Air 11 pulgadas M3 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-315-nuevo",
+      "name": "iPad Air 13 pulgadas M3 256 GB Cellular",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-316-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 256 GB Cellular",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-317-usado",
+      "name": "iPad Air 13 pulgadas M3 256 GB Cellular",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-318-nuevo",
+      "name": "iPad Pro 11 pulgadas M4 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-319-exhibicion",
+      "name": "iPad Pro 11 pulgadas M4 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-320-usado",
+      "name": "iPad Pro 11 pulgadas M4 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-321-nuevo",
+      "name": "MacBook Air 13 pulgadas M4 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-322-exhibicion",
+      "name": "MacBook Air 13 pulgadas M4 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-323-usado",
+      "name": "MacBook Air 13 pulgadas M4 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-324-nuevo",
+      "name": "MacBook Air 15 pulgadas M5 512 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-325-exhibicion",
+      "name": "MacBook Air 15 pulgadas M5 512 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-326-usado",
+      "name": "MacBook Air 15 pulgadas M5 512 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-327-nuevo",
+      "name": "Mac mini M4 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-328-exhibicion",
+      "name": "Mac mini M4 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-329-usado",
+      "name": "Mac mini M4 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-330-nuevo",
+      "name": "AirPods Pro 2 USB-C",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-331-exhibicion",
+      "name": "AirPods Pro 2 USB-C",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-332-usado",
+      "name": "AirPods Pro 2 USB-C",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-333-nuevo",
+      "name": "AirPods Max USB-C",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-334-exhibicion",
+      "name": "AirPods Max USB-C",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-335-usado",
+      "name": "AirPods Max USB-C",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-336-nuevo",
+      "name": "Apple Pencil Pro",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-337-exhibicion",
+      "name": "Apple Pencil Pro",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-338-usado",
+      "name": "Apple Pencil Pro",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-339-nuevo",
+      "name": "Magic Keyboard iPad Air",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-340-exhibicion",
+      "name": "Magic Keyboard iPad Air",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-family-341-usado",
+      "name": "Magic Keyboard iPad Air",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-400-nuevo",
+      "name": "iPhone 11 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-401-exhibicion",
+      "name": "iPhone 11 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-402-usado",
+      "name": "iPhone 11 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-403-nuevo",
+      "name": "iPhone 12 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-404-exhibicion",
+      "name": "iPhone 12 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-405-usado",
+      "name": "iPhone 12 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-406-nuevo",
+      "name": "iPhone 13 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-407-exhibicion",
+      "name": "iPhone 13 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-408-usado",
+      "name": "iPhone 13 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-409-nuevo",
+      "name": "iPhone 14 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-410-exhibicion",
+      "name": "iPhone 14 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-411-usado",
+      "name": "iPhone 14 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-412-nuevo",
+      "name": "iPhone 14 Pro 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-413-exhibicion",
+      "name": "iPhone 14 Pro 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-414-usado",
+      "name": "iPhone 14 Pro 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-415-nuevo",
+      "name": "iPhone 15 Pro 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-416-exhibicion",
+      "name": "iPhone 15 Pro 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-417-usado",
+      "name": "iPhone 15 Pro 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-418-nuevo",
+      "name": "iPad 9.ª generación 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-419-exhibicion",
+      "name": "iPad 9.ª generación 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-420-usado",
+      "name": "iPad 9.ª generación 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-421-nuevo",
+      "name": "iPad 10.ª generación 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-422-exhibicion",
+      "name": "iPad 10.ª generación 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-423-usado",
+      "name": "iPad 10.ª generación 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-424-nuevo",
+      "name": "iPad mini 6.ª generación 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-425-exhibicion",
+      "name": "iPad mini 6.ª generación 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-426-usado",
+      "name": "iPad mini 6.ª generación 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-427-nuevo",
+      "name": "iPad Air 4.ª generación 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-428-exhibicion",
+      "name": "iPad Air 4.ª generación 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-429-usado",
+      "name": "iPad Air 4.ª generación 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-430-nuevo",
+      "name": "iPad Pro 11 pulgadas 3.ª generación",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-431-exhibicion",
+      "name": "iPad Pro 11 pulgadas 3.ª generación",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-432-usado",
+      "name": "iPad Pro 11 pulgadas 3.ª generación",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-433-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-434-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-435-usado",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-436-nuevo",
+      "name": "MacBook Air Intel 13 pulgadas 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-437-exhibicion",
+      "name": "MacBook Air Intel 13 pulgadas 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-438-usado",
+      "name": "MacBook Air Intel 13 pulgadas 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-439-nuevo",
+      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-440-exhibicion",
+      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-441-usado",
+      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-442-nuevo",
+      "name": "MacBook Pro M1 14 pulgadas 512 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-443-exhibicion",
+      "name": "MacBook Pro M1 14 pulgadas 512 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-444-usado",
+      "name": "MacBook Pro M1 14 pulgadas 512 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-445-nuevo",
+      "name": "iMac 24 pulgadas M1 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-446-exhibicion",
+      "name": "iMac 24 pulgadas M1 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-447-usado",
+      "name": "iMac 24 pulgadas M1 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-448-nuevo",
+      "name": "Mac mini M1 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-449-exhibicion",
+      "name": "Mac mini M1 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-450-usado",
+      "name": "Mac mini M1 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-451-nuevo",
+      "name": "Apple Watch Series 6 GPS",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-452-exhibicion",
+      "name": "Apple Watch Series 6 GPS",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-453-usado",
+      "name": "Apple Watch Series 6 GPS",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-454-nuevo",
+      "name": "Apple Watch Series 7 GPS",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-455-exhibicion",
+      "name": "Apple Watch Series 7 GPS",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-456-usado",
+      "name": "Apple Watch Series 7 GPS",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-457-nuevo",
+      "name": "Apple Watch Series 8 GPS",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-458-exhibicion",
+      "name": "Apple Watch Series 8 GPS",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-459-usado",
+      "name": "Apple Watch Series 8 GPS",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-460-nuevo",
+      "name": "Apple Watch SE 2 GPS",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-461-exhibicion",
+      "name": "Apple Watch SE 2 GPS",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-462-usado",
+      "name": "Apple Watch SE 2 GPS",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-463-nuevo",
+      "name": "AirPods 2.ª generación",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-464-exhibicion",
+      "name": "AirPods 2.ª generación",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-465-usado",
+      "name": "AirPods 2.ª generación",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-466-nuevo",
+      "name": "AirPods 3.ª generación",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-467-exhibicion",
+      "name": "AirPods 3.ª generación",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-468-usado",
+      "name": "AirPods 3.ª generación",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-469-nuevo",
+      "name": "AirPods Pro 1.ª generación",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-470-exhibicion",
+      "name": "AirPods Pro 1.ª generación",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-471-usado",
+      "name": "AirPods Pro 1.ª generación",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-472-nuevo",
+      "name": "AirPods Max Lightning",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-473-exhibicion",
+      "name": "AirPods Max Lightning",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-474-usado",
+      "name": "AirPods Max Lightning",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-475-nuevo",
+      "name": "Apple TV 4K 2.ª generación",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-476-exhibicion",
+      "name": "Apple TV 4K 2.ª generación",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-477-usado",
+      "name": "Apple TV 4K 2.ª generación",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-478-nuevo",
+      "name": "Apple TV 4K 3.ª generación",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-479-exhibicion",
+      "name": "Apple TV 4K 3.ª generación",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "apple-legacy-480-usado",
+      "name": "Apple TV 4K 3.ª generación",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-500-nuevo",
+      "name": "iPhone 7 32 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-501-exhibicion",
+      "name": "iPhone 7 32 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-502-usado",
+      "name": "iPhone 7 32 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-503-nuevo",
+      "name": "iPhone 7 Plus 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-504-exhibicion",
+      "name": "iPhone 7 Plus 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-505-usado",
+      "name": "iPhone 7 Plus 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-506-nuevo",
+      "name": "iPhone 8 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-507-exhibicion",
+      "name": "iPhone 8 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-508-usado",
+      "name": "iPhone 8 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-509-nuevo",
+      "name": "iPhone 8 Plus 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-510-exhibicion",
+      "name": "iPhone 8 Plus 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-511-usado",
+      "name": "iPhone 8 Plus 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-512-nuevo",
+      "name": "iPhone X 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-513-exhibicion",
+      "name": "iPhone X 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-514-usado",
+      "name": "iPhone X 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-515-nuevo",
+      "name": "iPhone XR 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-516-exhibicion",
+      "name": "iPhone XR 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-517-usado",
+      "name": "iPhone XR 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-518-nuevo",
+      "name": "iPhone XS 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-519-exhibicion",
+      "name": "iPhone XS 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-520-usado",
+      "name": "iPhone XS 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-521-nuevo",
+      "name": "iPhone XS Max 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-522-exhibicion",
+      "name": "iPhone XS Max 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-523-usado",
+      "name": "iPhone XS Max 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-524-nuevo",
+      "name": "iPhone 11 Pro 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-525-exhibicion",
+      "name": "iPhone 11 Pro 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-526-usado",
+      "name": "iPhone 11 Pro 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-527-nuevo",
+      "name": "iPhone 11 Pro Max 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-528-exhibicion",
+      "name": "iPhone 11 Pro Max 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-529-usado",
+      "name": "iPhone 11 Pro Max 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-530-nuevo",
+      "name": "iPhone 12 mini 64 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-531-exhibicion",
+      "name": "iPhone 12 mini 64 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-532-usado",
+      "name": "iPhone 12 mini 64 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-533-nuevo",
+      "name": "iPhone 12 Pro 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-534-exhibicion",
+      "name": "iPhone 12 Pro 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-535-usado",
+      "name": "iPhone 12 Pro 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-536-nuevo",
+      "name": "iPhone 12 Pro Max 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-537-exhibicion",
+      "name": "iPhone 12 Pro Max 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-538-usado",
+      "name": "iPhone 12 Pro Max 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-539-nuevo",
+      "name": "iPhone 13 mini 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-540-exhibicion",
+      "name": "iPhone 13 mini 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-541-usado",
+      "name": "iPhone 13 mini 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-542-nuevo",
+      "name": "iPhone 13 Pro 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-543-exhibicion",
+      "name": "iPhone 13 Pro 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-544-usado",
+      "name": "iPhone 13 Pro 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://co.tiendasishop.com/cdn/shop/files/IMG-19266131_m_jpeg_1_a75eba0b-8681-4e13-be43-f3104905bc5a_1500x.jpg?v=1772750860",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-545-nuevo",
+      "name": "iPhone 13 Pro Max 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-546-exhibicion",
+      "name": "iPhone 13 Pro Max 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-547-usado",
+      "name": "iPhone 13 Pro Max 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949688454/195949688454-001.webp/airpods-4?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-548-nuevo",
+      "name": "iPhone 14 Plus 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-549-exhibicion",
+      "name": "iPhone 14 Plus 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-550-usado",
+      "name": "iPhone 14 Plus 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950466652/195950466652-001.webp/apple-watch-series-11?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-551-nuevo",
+      "name": "iPhone 14 Pro Max 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-552-exhibicion",
+      "name": "iPhone 14 Pro Max 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-553-usado",
+      "name": "iPhone 14 Pro Max 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195949976650/195949976650-001.webp/ipad-air?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-554-nuevo",
+      "name": "iPhone 15 Plus 128 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-555-exhibicion",
+      "name": "iPhone 15 Plus 128 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-556-usado",
+      "name": "iPhone 15 Plus 128 GB",
+      "condition": "Usado",
+      "previousImage": "https://cdn.dam.alkosto.com/products/195950644081/195950644081-001.webp/iphone17-256gb-5g-morado-lavanda?w=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-557-nuevo",
+      "name": "iPhone 15 Pro Max 256 GB",
+      "condition": "Nuevo",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-558-exhibicion",
+      "name": "iPhone 15 Pro Max 256 GB",
+      "condition": "Exhibición",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "iphone-ref-559-usado",
+      "name": "iPhone 15 Pro Max 256 GB",
+      "condition": "Usado",
+      "previousImage": "https://mac-center.com/cdn/shop/files/IMG-16741486_8189cf43-17ed-45cd-a2ea-0f49efbfcc1b.jpg?crop=center&height=900&v=1741104650&width=900",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-4-pro-1-tera-exhibicion",
+      "name": "PlayStation 4 Pro 1 Tera",
+      "condition": "Exhibición",
+      "previousImage": "/assets/photos/ps4-pro-1tb-full.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    },
+    {
+      "slug": "playstation-4-pro-1-tera-usado",
+      "name": "PlayStation 4 Pro 1 Tera",
+      "condition": "Usado",
+      "previousImage": "/assets/photos/ps4-pro-1tb-full.jpg",
+      "reason": "Correspondencia exacta no verificada; no publicar hasta revisión visual y documental."
+    }
+  ]
+}

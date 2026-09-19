@@ -11,6 +11,7 @@ export function validateStore(store) {
     if (!store.categories.some(c => c.slug === p.category)) throw new Error('Categoría desconocida');
     if (p.price != null && (!Number.isSafeInteger(p.price) || p.price <= 0)) throw new Error('El precio COP debe ser un entero positivo o null');
     if (!['available','inquiry','soldout'].includes(p.availability)) throw new Error('Disponibilidad inválida');
+    if (p.image && !(store.verifiedImages || []).some(v => v.name === p.name && v.image === p.image && v.evidence)) throw new Error('Fotografía sin verificación exacta: ' + p.slug);
     if (p.image && !(/^\/assets\/[a-zA-Z0-9/_-]+\.(webp|png|jpg|jpeg|svg)$/.test(p.image) || /^https:\/\/(cdn\.dam\.alkosto\.com|mac-center\.com|co\.tiendasishop\.com)\//.test(p.image))) throw new Error('Usa imágenes locales o CDN oficial verificado.');
     if (!p.conditionNotes || !p.warranty || !p.includes) throw new Error('Indica estado, garantía e incluidos de cada unidad');
   }

@@ -26,7 +26,7 @@ Abrir http://127.0.0.1:4173. No es necesario npm install. Después de editar dat
 
 ## Activar ventas
 
-El catálogo está vacío porque el repositorio no contenía inventario verificable. No se han publicado ejemplos como si fueran productos reales.
+El catálogo actual contiene referencias importadas. Los precios, disponibilidad y condiciones requieren confirmación comercial; esta revisión no los modifica.
 
 1. Indicar whatsapp con código de país, solo dígitos, por ejemplo el formato colombiano 57 seguido del móvil real.
 2. Agregar productos reales a products con estos campos:
@@ -69,3 +69,11 @@ La web no solicita datos personales ni integra analítica o cookies de terceros.
 HTML estático indexable, canónicas foxgamer.co, sitemap, robots, metadatos Open Graph, Organization y Product/Offer solo para datos existentes. No se generan valoraciones, precios ni disponibilidad ficticios. Estado Exhibición se conserva visible y se representa como UsedCondition en Schema.org.
 
 Navegación semántica, salto al contenido, etiquetas en formularios, foco visible, menú operable con teclado/Escape, anuncios de resultados y movimiento reducido. Sin JavaScript se mantienen contenido, categorías y fichas; los filtros requieren JavaScript.
+
+## Política de imágenes y fuentes (revisión 2026-09-19)
+
+Fuente comercial: data/store.json. Plantillas: scripts/build.mjs. Validación: scripts/catalog.mjs. Interacción y diseño: assets/app.js, assets/styles.css y assets/brand.css. Los HTML de inicio, categorías, productos y 404, robots.txt y sitemap.xml son generados. original.html es un archivo histórico, no una plantilla.
+
+verifiedImages registra coincidencias exactas revisadas visualmente. Una imagen sin evidencia impide el build. Las fotos pendientes usan image: null; no se sustituyen por fotos de familias parecidas. La foto identifica el modelo, no acredita estado, existencias ni accesorios de la unidad. No ejecutar los antiguos scripts de importación/asignación como parte del build: contienen asignaciones por familia o rotación, precios calculados y datos históricos. El validador bloqueará imágenes fuera del registro.
+
+Ejecutar npm run audit:images, npm run build y npm test. reports/image-review.json conserva por slug la imagen retirada y reports/pending-photos.md enumera referencias pendientes. Los HTML antiguos sin producto actual se regeneran como páginas de consulta no indexables, conservando las URLs. No editar manualmente HTML generado.
