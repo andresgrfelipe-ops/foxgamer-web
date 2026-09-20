@@ -447,6 +447,54 @@
       "compatibility": "Compatible con equipos y consolas que admitan las entradas del monitor; confirma conexiones, resolución y frecuencia disponibles antes de comprar."
     },
     {
+      "slug": "asus-rog-strix-xg49vq-nuevo",
+      "name": "Monitor ASUS ROG Strix XG49VQ 49 pulgadas",
+      "description": "Monitor gaming super ultra ancho ASUS ROG Strix XG49VQ de 49 pulgadas, formato 32:9, resolución 3840 × 1080, frecuencia de hasta 144 Hz, curvatura 1800R, FreeSync Premium Pro y DisplayHDR 400.",
+      "category": "accesorios",
+      "brand": "ASUS ROG",
+      "condition": "Nuevo",
+      "price": null,
+      "availability": "inquiry",
+      "conditionNotes": "Producto nuevo; confirma disponibilidad, empaque y garantía antes de comprar.",
+      "includes": "Confirma con FOX GAMER si incluye base, cable de alimentación, HDMI, DisplayPort y demás accesorios.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp",
+      "importedCatalog": false,
+      "compatibility": "PC mediante DisplayPort 1.2 o HDMI. El fabricante informa salida Full HD a 120 Hz para PS5 y Xbox Series X|S; confirma la configuración y las limitaciones de cada consola."
+    },
+    {
+      "slug": "asus-rog-strix-xg49vq-exhibicion",
+      "name": "Monitor ASUS ROG Strix XG49VQ 49 pulgadas",
+      "description": "Monitor gaming super ultra ancho ASUS ROG Strix XG49VQ de 49 pulgadas, formato 32:9, resolución 3840 × 1080, frecuencia de hasta 144 Hz, curvatura 1800R, FreeSync Premium Pro y DisplayHDR 400.",
+      "category": "accesorios",
+      "brand": "ASUS ROG",
+      "condition": "Exhibición",
+      "price": null,
+      "availability": "inquiry",
+      "conditionNotes": "Unidad de exhibición; confirma estado del panel, base, carcasa, puertos y horas de uso antes de comprar.",
+      "includes": "Confirma con FOX GAMER si incluye base, cable de alimentación, HDMI, DisplayPort y demás accesorios.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp",
+      "importedCatalog": false,
+      "compatibility": "PC mediante DisplayPort 1.2 o HDMI. El fabricante informa salida Full HD a 120 Hz para PS5 y Xbox Series X|S; confirma la configuración y las limitaciones de cada consola."
+    },
+    {
+      "slug": "asus-rog-strix-xg49vq-usado",
+      "name": "Monitor ASUS ROG Strix XG49VQ 49 pulgadas",
+      "description": "Monitor gaming super ultra ancho ASUS ROG Strix XG49VQ de 49 pulgadas, formato 32:9, resolución 3840 × 1080, frecuencia de hasta 144 Hz, curvatura 1800R, FreeSync Premium Pro y DisplayHDR 400.",
+      "category": "accesorios",
+      "brand": "ASUS ROG",
+      "condition": "Usado",
+      "price": null,
+      "availability": "inquiry",
+      "conditionNotes": "Unidad usada; confirma estado del panel, píxeles, base, carcasa, puertos y horas de uso antes de comprar.",
+      "includes": "Confirma con FOX GAMER si incluye base, cable de alimentación, HDMI, DisplayPort y demás accesorios.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp",
+      "importedCatalog": false,
+      "compatibility": "PC mediante DisplayPort 1.2 o HDMI. El fabricante informa salida Full HD a 120 Hz para PS5 y Xbox Series X|S; confirma la configuración y las limitaciones de cada consola."
+    },
+    {
       "slug": "diademas-nuevo",
       "name": "Xbox Wireless Headset",
       "description": "Diadema inalámbrica oficial Xbox fotografiada en FOX GAMER. Confirma contenido de la caja, estado, garantía y disponibilidad por WhatsApp.",
@@ -11222,6 +11270,18 @@
       "reviewedAt": "2026-09-20",
       "evidence": "Fotografía tomada en FOX GAMER; la caja identifica el modelo GameOn Switch X Series GOSX27B de 27 pulgadas.",
       "sha256": "8298aa2e55c12d59257b8fcf3c5c93ef53c72ac6878aba1e31c2d7774df3cb05"
+    },
+    {
+      "name": "Monitor ASUS ROG Strix XG49VQ 49 pulgadas",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp",
+      "kind": "manufacturer",
+      "manufacturer": "ASUS ROG",
+      "sourceModel": "ROG Strix XG49VQ",
+      "sourceUrl": "https://rog.asus.com/monitors/above-34-inches/rog-strix-xg49vq-model/",
+      "sourceImageUrl": "https://dlcdnwebimgs.asus.com/gain/D0854B10-5E7D-4674-AF38-635EE97A69CF/w717/h525/fwebp",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Fotografía oficial de ASUS ROG del monitor Strix XG49VQ. La ficha oficial confirma pantalla de 49 pulgadas, formato 32:9, 3840 × 1080 y hasta 144 Hz.",
+      "sha256": "d91c1a954df0089c1a65a4bc3609ea96615e3293f635b6e8219b7f181a87f9a7"
     },
     {
       "name": "Xbox Wireless Headset",
