@@ -410,8 +410,9 @@
       "conditionNotes": "Producto nuevo según el catálogo de FOX GAMER.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/reference/monitores.png",
+      "importedCatalog": true,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "monitores-exhibicion",
@@ -425,8 +426,9 @@
       "conditionNotes": "Unidad de exhibición; revisa señales de exposición antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/reference/monitores.png",
+      "importedCatalog": true,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "monitores-usado",
@@ -440,8 +442,9 @@
       "conditionNotes": "Unidad usada; revisa el estado específico antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/reference/monitores.png",
+      "importedCatalog": true,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "diademas-nuevo",
@@ -455,8 +458,9 @@
       "conditionNotes": "Producto nuevo según el catálogo de FOX GAMER.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/reference/diademas.png",
+      "importedCatalog": true,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "diademas-exhibicion",
@@ -470,8 +474,9 @@
       "conditionNotes": "Unidad de exhibición; revisa señales de exposición antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/reference/diademas.png",
+      "importedCatalog": true,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "diademas-usado",
@@ -485,8 +490,9 @@
       "conditionNotes": "Unidad usada; revisa el estado específico antes de comprar.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": true
+      "image": "/assets/photos/reference/diademas.png",
+      "importedCatalog": true,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "controles-ps5-nuevo",
@@ -3713,7 +3719,7 @@
       "conditionNotes": "Producto nuevo; confirma garantía y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/logitech-g923.png",
       "importedCatalog": false,
       "compatibility": "Depende de la versión del volante: PlayStation/PC o Xbox/PC. No se presenta como compatible con ambas consolas."
     },
@@ -3729,7 +3735,7 @@
       "conditionNotes": "Unidad de exhibición; confirma detalles estéticos y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/logitech-g923.png",
       "importedCatalog": false,
       "compatibility": "Depende de la versión del volante: PlayStation/PC o Xbox/PC. No se presenta como compatible con ambas consolas."
     },
@@ -3745,7 +3751,7 @@
       "conditionNotes": "Producto usado; confirma estado, accesorios y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/logitech-g923.png",
       "importedCatalog": false,
       "compatibility": "Depende de la versión del volante: PlayStation/PC o Xbox/PC. No se presenta como compatible con ambas consolas."
     },
@@ -3857,8 +3863,9 @@
       "conditionNotes": "Producto nuevo; confirma garantía y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/reference/soporte-volante-pedales.png",
+      "importedCatalog": false,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "soporte-para-volante-y-pedales-exhibicio-n",
@@ -3872,8 +3879,9 @@
       "conditionNotes": "Unidad de exhibición; confirma detalles estéticos y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/reference/soporte-volante-pedales.png",
+      "importedCatalog": false,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "soporte-para-volante-y-pedales-sado",
@@ -3887,8 +3895,9 @@
       "conditionNotes": "Producto usado; confirma estado, accesorios y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/reference/soporte-volante-pedales.png",
+      "importedCatalog": false,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "playseat-challenger-simlacio-n-nevo",
@@ -3902,8 +3911,9 @@
       "conditionNotes": "Producto nuevo; confirma garantía y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/reference/playseat-challenger.png",
+      "importedCatalog": false,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "playseat-challenger-simlacio-n-exhibicio-n",
@@ -3917,8 +3927,9 @@
       "conditionNotes": "Unidad de exhibición; confirma detalles estéticos y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/reference/playseat-challenger.png",
+      "importedCatalog": false,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "playseat-challenger-simlacio-n-sado",
@@ -3932,8 +3943,9 @@
       "conditionNotes": "Producto usado; confirma estado, accesorios y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/reference/playseat-challenger.png",
+      "importedCatalog": false,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "kit-simlador-vr-jego-nevo",
@@ -3947,8 +3959,9 @@
       "conditionNotes": "Producto nuevo; confirma garantía y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/reference/kit-vr2-juego.png",
+      "importedCatalog": false,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "kit-simlador-vr-jego-exhibicio-n",
@@ -3962,8 +3975,9 @@
       "conditionNotes": "Unidad de exhibición; confirma detalles estéticos y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/reference/kit-vr2-juego.png",
+      "importedCatalog": false,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "kit-simlador-vr-jego-sado",
@@ -3977,8 +3991,9 @@
       "conditionNotes": "Producto usado; confirma estado, accesorios y disponibilidad.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
-      "importedCatalog": false
+      "image": "/assets/photos/reference/kit-vr2-juego.png",
+      "importedCatalog": false,
+      "compatibility": "Referencia genérica: confirma por WhatsApp el modelo exacto y la compatibilidad con tu consola o equipo."
     },
     {
       "slug": "iphone-15-256-gb-nuevo",
@@ -5912,7 +5927,7 @@
       "conditionNotes": "Confirma estado, accesorios y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/magic-keyboard-ipad-air.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -5928,7 +5943,7 @@
       "conditionNotes": "Confirma estado, accesorios y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/magic-keyboard-ipad-air.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -5944,7 +5959,7 @@
       "conditionNotes": "Confirma estado, accesorios y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/magic-keyboard-ipad-air.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -6536,7 +6551,7 @@
       "conditionNotes": "Referencia legacy; confirma estado, batería y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/macbook-air-intel-13.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -6552,7 +6567,7 @@
       "conditionNotes": "Referencia legacy; confirma estado, batería y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/macbook-air-intel-13.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -6568,7 +6583,7 @@
       "conditionNotes": "Referencia legacy; confirma estado, batería y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/macbook-air-intel-13.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -6584,7 +6599,7 @@
       "conditionNotes": "Referencia legacy; confirma estado, batería y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/macbook-pro-intel-13.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -6600,7 +6615,7 @@
       "conditionNotes": "Referencia legacy; confirma estado, batería y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/macbook-pro-intel-13.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -6616,7 +6631,7 @@
       "conditionNotes": "Referencia legacy; confirma estado, batería y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/macbook-pro-intel-13.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -6632,7 +6647,7 @@
       "conditionNotes": "Referencia legacy; confirma estado, batería y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/macbook-pro-m1-14.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -6648,7 +6663,7 @@
       "conditionNotes": "Referencia legacy; confirma estado, batería y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/macbook-pro-m1-14.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -6664,7 +6679,7 @@
       "conditionNotes": "Referencia legacy; confirma estado, batería y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": null,
+      "image": "/assets/photos/reference/macbook-pro-m1-14.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -11198,6 +11213,96 @@
       "reviewedAt": "2026-09-19",
       "evidence": "Caja original fotografiada en la tienda: se leen Meta Quest 3S y 256 GB; no es Quest 3 ni la versión de 128 GB.",
       "sha256": "7b62679eccfbff71bfb99b8746d0c73c30caf26760cb0522feb0225d394d9bd7"
+    },
+    {
+      "name": "Monitores",
+      "image": "/assets/photos/reference/monitores.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "97deb9b1192da5363002846c94e4132d31c634484c88c825f6cc448f134b979a"
+    },
+    {
+      "name": "Diademas",
+      "image": "/assets/photos/reference/diademas.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "f02c6463d59d55c531733162d5355c914763dba8f9355158cc0605d915a88319"
+    },
+    {
+      "name": "Simulador de carreras Logitech G923",
+      "image": "/assets/photos/reference/logitech-g923.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "8cdf8cd4325aea9630d454a70f1637e372d09528671f36da389ec667f52fe6eb"
+    },
+    {
+      "name": "Soporte para volante y pedales",
+      "image": "/assets/photos/reference/soporte-volante-pedales.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "6d7dc5c46ef51b1436637dc734f53a6aac971aad5f6dfab420edb65ada92b238"
+    },
+    {
+      "name": "Playseat Challenger simulación",
+      "image": "/assets/photos/reference/playseat-challenger.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "eab713a2288bccc7dd53134fdceac8bedaf0b1280dbdc31b13f9bd9690b1ea0d"
+    },
+    {
+      "name": "Kit simulador VR2 + juego",
+      "image": "/assets/photos/reference/kit-vr2-juego.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "98ce4b231455822680db64c3e809a29238611817e827081a96f52d605c0158b2"
+    },
+    {
+      "name": "Magic Keyboard iPad Air",
+      "image": "/assets/photos/reference/magic-keyboard-ipad-air.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "499d9b39770e0a639f5d419b5d57a6fdf5635774b2b8ed514d9fd7065eebc813"
+    },
+    {
+      "name": "MacBook Air Intel 13 pulgadas 256 GB",
+      "image": "/assets/photos/reference/macbook-air-intel-13.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "24c4da771eb292b85ce78514c682718a61edb20f9aa48455dcf53c0cfbefd3b2"
+    },
+    {
+      "name": "MacBook Pro Intel 13 pulgadas 256 GB",
+      "image": "/assets/photos/reference/macbook-pro-intel-13.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "aaf3c301ed87ea37d389fa9d5d8c9d89e07eb6fa29c23336aeed4d2b1c2ba521"
+    },
+    {
+      "name": "MacBook Pro M1 14 pulgadas 512 GB",
+      "image": "/assets/photos/reference/macbook-pro-m1-14.png",
+      "kind": "illustration",
+      "sourceUrl": "created-for-fox-gamer",
+      "reviewedAt": "2026-09-20",
+      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
+      "sha256": "cbccbd75ce0cfcc47f96196084abf4953cc0c5c2626b12afa86acd9f1ea0db5d"
     }
   ],
   "accessoryGallery": [

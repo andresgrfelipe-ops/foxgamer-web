@@ -83,14 +83,14 @@ test('ninguna fotografía se publica sin correspondencia exacta documentada',()=
  const verified=base.products.find(p=>p.image);
  assert.throws(()=>validateStore({...base,products:[{...verified,name:'Otro modelo'}]}),/verificación exacta/);
 });
-test('pendientes visibles y consultas con referencia, condición y ficha',async()=>{
+test('referencias ilustradas muestran aviso y conservan consultas exactas',async()=>{
  const html=await readFile('index.html','utf8');
- assert.ok(html.includes('Imagen próximamente'));
+ assert.ok(html.includes('Imagen referencial · confirma el modelo'));
  assert.ok(html.indexOf('id="productos"')<html.indexOf('id="gallery-title"'));
- const p=base.products.find(p=>!p.image);
+ const p=base.products.find(p=>base.verifiedImages.some(v=>v.name===p.name&&v.image===p.image&&v.kind==='illustration'));
  const detail=await readFile('productos/'+p.slug+'/index.html','utf8');
  const schema=JSON.parse(detail.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);
- assert.ok(!schema.image);
- assert.ok(!detail.includes('class="product-visual"><img'));
+ assert.ok(schema.image);
+ assert.ok(detail.includes('Imagen ilustrativa, no corresponde a una unidad específica'));
  assert.ok(html.includes(encodeURIComponent(p.name+' ('+p.condition+'). '+base.url+'/productos/'+p.slug+'/')));
 });
