@@ -47,6 +47,10 @@ export function validateStore(store) {
         'Next Level Racing': {
           page: /^https:\/\/nextlevelracing\.com\//,
           image: /^https:\/\/cdn\.nlr\.sh\//
+        },
+        'ASUS ROG': {
+          page: /^https:\/\/rog\.asus\.com\//,
+          image: /^https:\/\/dlcdnwebimgs\.asus\.com\//
         }
       };
       const source = officialSources[v.manufacturer || 'Apple'];
