@@ -26,7 +26,22 @@ export function validateStore(store) {
   for (const v of store.verifiedImages || []) {
     if (!v.name || !v.evidence?.trim() || !/^[a-f0-9]{64}$/.test(v.sha256 || '')) throw new Error('Registro de imagen incompleto: ' + v.name);
     if (!/^\/assets\/[a-zA-Z0-9/_-]+\.(webp|png|jpg|jpeg)$/.test(v.image)) throw new Error('La fotografía verificada debe ser local y raster.');
-    if (v.kind === 'manufacturer' && (!v.sourceModel || !/^https:\/\/(?:support|www)\.apple\.com\//.test(v.sourceUrl || '') || !/^https:\/\/(?:cdsassets|www)\.apple\.com\//.test(v.sourceImageUrl || ''))) throw new Error('Fuente oficial incompleta: ' + v.name);
+    if (v.kind === 'manufacturer') {
+      const officialSources = {
+        Apple: {
+          page: /^https:\/\/(?:support|www)\.apple\.com\//,
+          image: /^https:\/\/(?:cdsassets|www)\.apple\.com\//
+        },
+        Playseat: {
+          page: /^https:\/\/www\.playseat\.com\//,
+          image: /^https:\/\/www\.playseat\.com\/cdn\/shop\//
+        }
+      };
+      const source = officialSources[v.manufacturer || 'Apple'];
+      if (!v.sourceModel || !source || !source.page.test(v.sourceUrl || '') || !source.image.test(v.sourceImageUrl || '')) {
+        throw new Error('Fuente oficial incompleta: ' + v.name);
+      }
+    }
     const identity = imageIdentity(v);
     if (imageNames.has(v.image) && imageNames.get(v.image) !== identity) throw new Error('Foto duplicada entre modelos: ' + v.name);
     imageNames.set(v.image, identity);
