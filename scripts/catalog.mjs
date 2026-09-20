@@ -43,6 +43,10 @@ export function validateStore(store) {
         PlayStation: {
           page: /^https:\/\/www\.playstation\.com\//,
           image: /^https:\/\/gmedia\.playstation\.com\//
+        },
+        'Next Level Racing': {
+          page: /^https:\/\/nextlevelracing\.com\//,
+          image: /^https:\/\/cdn\.nlr\.sh\//
         }
       };
       const source = officialSources[v.manufacturer || 'Apple'];

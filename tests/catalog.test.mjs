@@ -83,14 +83,15 @@ test('ninguna fotografía se publica sin correspondencia exacta documentada',()=
  const verified=base.products.find(p=>p.image);
  assert.throws(()=>validateStore({...base,products:[{...verified,name:'Otro modelo'}]}),/verificación exacta/);
 });
-test('referencias ilustradas muestran aviso y conservan consultas exactas',async()=>{
+test('el catálogo ya no conserva referencias ilustradas ambiguas',async()=>{
  const html=await readFile('index.html','utf8');
- assert.ok(html.includes('Imagen referencial · confirma el modelo'));
+ assert.ok(!base.verifiedImages.some(v=>v.kind==='illustration'));
+ assert.ok(!html.includes('Imagen referencial · confirma el modelo'));
  assert.ok(html.indexOf('id="productos"')<html.indexOf('id="gallery-title"'));
- const p=base.products.find(p=>base.verifiedImages.some(v=>v.name===p.name&&v.image===p.image&&v.kind==='illustration'));
+ const p=base.products.find(p=>p.name==='Next Level Racing Wheel Stand Lite 2.0');
  const detail=await readFile('productos/'+p.slug+'/index.html','utf8');
  const schema=JSON.parse(detail.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);
  assert.ok(schema.image);
- assert.ok(detail.includes('Imagen ilustrativa, no corresponde a una unidad específica'));
+ assert.ok(detail.includes('electrónica no están incluidos'));
  assert.ok(html.includes(encodeURIComponent(p.name+' ('+p.condition+'). '+base.url+'/productos/'+p.slug+'/')));
 });
