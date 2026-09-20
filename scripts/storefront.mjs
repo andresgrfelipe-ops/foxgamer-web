@@ -9,6 +9,7 @@ const placeholder = '<span class="image-placeholder"><span aria-hidden="true">鈥
 
 export function createStorefront(store) {
   const officialImage = p => store.verifiedImages?.some(v => v.name === p.name && v.image === p.image && v.kind === 'manufacturer');
+  const officialManufacturer = p => store.verifiedImages?.find(v => v.name === p.name && v.image === p.image && v.kind === 'manufacturer')?.manufacturer || p.brand;
   const referenceImage = p => store.verifiedImages?.some(v => v.name === p.name && v.image === p.image && v.kind === 'reference-photo');
   const illustration = p => store.verifiedImages?.some(v => v.name === p.name && v.image === p.image && v.kind === 'illustration');
   const imageClass = p => officialImage(p) || referenceImage(p) || illustration(p) ? ' manufacturer-image' : '';
@@ -35,7 +36,7 @@ export function createStorefront(store) {
   function card(p) {
     return `<article class="product-card" data-product data-title="${e(p.name)}" data-name="${e([p.name,p.brand,p.category].join(' '))}" data-category="${p.category}" data-condition="${e(p.condition)}" data-availability="${p.availability}" data-price="${p.price ?? ''}">
       <a href="/productos/${p.slug}/"><div class="product-image${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="640" height="480" loading="lazy" decoding="async">` : placeholder}${badge(p.condition)}</div>
-      ${officialImage(p) ? '<span class="reference-caption">Imagen de referencia 路 Apple</span>' : referenceImage(p) ? '<span class="reference-caption">'+(p.classicGame?'Portada de referencia':'Fotograf铆a de referencia del modelo')+'</span>' : illustration(p) ? '<span class="reference-caption">Imagen referencial 路 confirma el modelo</span>' : ''}
+      ${officialImage(p) ? '<span class="reference-caption">Imagen de referencia 路 '+e(officialManufacturer(p))+'</span>' : referenceImage(p) ? '<span class="reference-caption">'+(p.classicGame?'Portada de referencia':'Fotograf铆a de referencia del modelo')+'</span>' : illustration(p) ? '<span class="reference-caption">Imagen referencial 路 confirma el modelo</span>' : ''}
       <div class="product-info"><span class="eyebrow">${e(p.brand || p.category)}</span><h3>${e(p.name)}</h3><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p><strong class="card-price">${priceLabel(p)}</strong><span class="detail-link">Ver detalles ${icon('arrow')}</span></div></a>
       ${productContact(p, 'Consultar', 'button secondary card-contact')}</article>`;
   }
