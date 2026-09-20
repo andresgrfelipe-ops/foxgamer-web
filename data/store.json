@@ -5917,8 +5917,8 @@
     },
     {
       "slug": "apple-family-339-nuevo",
-      "name": "Magic Keyboard iPad Air",
-      "description": "Referencia Apple de catálogo. Confirma capacidad, color, conectividad, compatibilidad, garantía, vigencia y disponibilidad por WhatsApp.",
+      "name": "Magic Keyboard para iPad Air de 11 pulgadas (2025)",
+      "description": "Magic Keyboard de 11 pulgadas presentado por Apple en 2025. Confirma color, idioma del teclado, estado y disponibilidad por WhatsApp.",
       "category": "apple",
       "brand": "Apple",
       "condition": "Nuevo",
@@ -5927,14 +5927,14 @@
       "conditionNotes": "Confirma estado, accesorios y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": "/assets/photos/reference/magic-keyboard-ipad-air.png",
+      "image": "/assets/photos/official/magic-keyboard-ipad-air-11-2025.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
     {
       "slug": "apple-family-340-exhibicion",
-      "name": "Magic Keyboard iPad Air",
-      "description": "Referencia Apple de catálogo. Confirma capacidad, color, conectividad, compatibilidad, garantía, vigencia y disponibilidad por WhatsApp.",
+      "name": "Magic Keyboard para iPad Air de 11 pulgadas (2025)",
+      "description": "Magic Keyboard de 11 pulgadas presentado por Apple en 2025. Confirma color, idioma del teclado, estado y disponibilidad por WhatsApp.",
       "category": "apple",
       "brand": "Apple",
       "condition": "Exhibición",
@@ -5943,14 +5943,14 @@
       "conditionNotes": "Confirma estado, accesorios y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": "/assets/photos/reference/magic-keyboard-ipad-air.png",
+      "image": "/assets/photos/official/magic-keyboard-ipad-air-11-2025.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
     {
       "slug": "apple-family-341-usado",
-      "name": "Magic Keyboard iPad Air",
-      "description": "Referencia Apple de catálogo. Confirma capacidad, color, conectividad, compatibilidad, garantía, vigencia y disponibilidad por WhatsApp.",
+      "name": "Magic Keyboard para iPad Air de 11 pulgadas (2025)",
+      "description": "Magic Keyboard de 11 pulgadas presentado por Apple en 2025. Confirma color, idioma del teclado, estado y disponibilidad por WhatsApp.",
       "category": "apple",
       "brand": "Apple",
       "condition": "Usado",
@@ -5959,7 +5959,7 @@
       "conditionNotes": "Confirma estado, accesorios y cobertura.",
       "includes": "Confirma contenido incluido con FOX GAMER.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": "/assets/photos/reference/magic-keyboard-ipad-air.png",
+      "image": "/assets/photos/official/magic-keyboard-ipad-air-11-2025.png",
       "importedCatalog": false,
       "marketSource": "Precio comercial estimado autorizado por FOX GAMER, con reducción del 10 % sobre la base estimada. No es una oferta de mercado verificada para esta variante. Confirma configuración, estado y disponibilidad antes de comprar."
     },
@@ -11278,13 +11278,16 @@
       "sha256": "172bcd16593705acec8994cfb9b59054c1cb333dad09214e41271d47d92fd263"
     },
     {
-      "name": "Magic Keyboard iPad Air",
-      "image": "/assets/photos/reference/magic-keyboard-ipad-air.png",
-      "kind": "illustration",
-      "sourceUrl": "created-for-fox-gamer",
+      "name": "Magic Keyboard para iPad Air de 11 pulgadas (2025)",
+      "image": "/assets/photos/official/magic-keyboard-ipad-air-11-2025.png",
+      "kind": "manufacturer",
+      "manufacturer": "Apple",
+      "sourceModel": "Magic Keyboard for iPad Air 11-inch (2025)",
+      "sourceUrl": "https://support.apple.com/en-gb/122272",
+      "sourceImageUrl": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/122272-magic-keyboard-for-ipad-air-11-inch-m3.png",
       "reviewedAt": "2026-09-20",
-      "evidence": "Ilustración referencial creada para identificar la categoría; no representa una unidad, color o configuración específica.",
-      "sha256": "499d9b39770e0a639f5d419b5d57a6fdf5635774b2b8ed514d9fd7065eebc813"
+      "evidence": "Imagen oficial publicada por Apple para el Magic Keyboard de iPad Air de 11 pulgadas presentado en 2025; la ficha oficial confirma compatibilidad con iPad Air de 11 pulgadas M4, M3, M2, 5.ª y 4.ª generación.",
+      "sha256": "dec65360399d2cbaedeec6ef488226e7218fa20ac4f47167064c5bad6e4c266c"
     },
     {
       "name": "MacBook Air Intel 13 pulgadas 256 GB",
