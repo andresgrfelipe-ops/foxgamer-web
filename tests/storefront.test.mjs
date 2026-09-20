@@ -64,6 +64,16 @@ test('Addi y Sistecrédito abren WhatsApp con producto, condición, precio y req
   }
   assert.ok(body.includes('sujetos a estudio y aprobación'));
 });
+test('Nequi abre WhatsApp con producto, condición, precio y verificación de pago',()=>{
+  const p=store.products.find(p=>p.availability!=='soldout'&&p.price!=null);
+  const {body}=ui.productDetail(p);
+  assert.ok(body.includes('Pagar con Nequi: '+p.name+', '+p.condition));
+  const messages=[...body.matchAll(/href="(https:\/\/wa\.me\/[^\"]+)"/g)].map(match=>new URL(match[1].replaceAll('&amp;','&')).searchParams.get('text'));
+  const message=messages.find(text=>text.includes('pagar por Nequi'));
+  assert.ok(message.includes(p.name+' ('+p.condition+')'));
+  assert.ok(message.includes('Precio publicado:'));
+  assert.ok(message.includes('datos oficiales'));
+});
 test('SEO: metadatos completos, scripts de catálogo solo donde se necesitan',async()=>{
   const p=store.products[0];const home=await readFile('index.html','utf8');
   const detail=await readFile('productos/'+p.slug+'/index.html','utf8');
