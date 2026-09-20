@@ -21,6 +21,16 @@ export function createStorefront(store) {
       + e(label + ': ' + p.name + ', ' + p.condition + ' (abre otra pestaña)') + '">' + icon('chat') + e(label) + '</a>'
       : '<a class="' + cls + '" href="/#contacto">Consultar contacto</a>';
   };
+  const financingContact = (p, provider) => {
+    if (p.availability === 'soldout') return '';
+    const message = 'Hola FOX GAMER, quiero comprar ' + p.name + ' (' + p.condition + ') con ' + provider + '. '
+      + productURL(p) + ' Precio publicado: ' + priceLabel(p)
+      + '. Quiero conocer requisitos, cuota inicial, número de cuotas y costo total.';
+    const url = whatsappURL(store.whatsapp, message);
+    return url ? '<a class="financing-option" href="' + e(url) + '" target="_blank" rel="noopener noreferrer" aria-label="Comprar con '
+      + e(provider + ': ' + p.name + ', ' + p.condition + ' (abre WhatsApp en otra pestaña)') + '"><strong>' + e(provider)
+      + '</strong><span>Solicitar financiación por WhatsApp</span>' + icon('arrow') + '</a>' : '';
+  };
   function card(p) {
     return `<article class="product-card" data-product data-title="${e(p.name)}" data-name="${e([p.name,p.brand,p.category].join(' '))}" data-category="${p.category}" data-condition="${e(p.condition)}" data-availability="${p.availability}" data-price="${p.price ?? ''}">
       <a href="/productos/${p.slug}/"><div class="product-image${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="640" height="480" loading="lazy" decoding="async">` : placeholder}${badge(p.condition)}</div>
@@ -72,7 +82,8 @@ export function createStorefront(store) {
       <div class="product-detail"><div class="product-media"><div class="product-visual${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="800" height="600" fetchpriority="high" decoding="async">` : placeholder}</div><p class="small photo-disclaimer">${p.classicGame ? 'Portada de referencia del juego. Solicita fotografías reales de la unidad y confirma región, idioma, edición, discos y estado antes de comprar.' : officialImage(p) ? 'Imagen de referencia del fabricante. Confirma color, accesorios y fotografías del estado de la unidad que vas a comprar.' : referenceImage(p) ? 'Fotografía de referencia del modelo. Confirma fotografías reales, accesorios y estado de la unidad antes de comprar.' : p.image ? 'Fotografía del modelo. Confirma las fotos, accesorios y estado de la unidad que vas a comprar.' : 'Esta referencia aún no tiene una fotografía verificada. Solicítala antes de comprar.'}</p></div>
       <div class="product-summary">${badge(p.condition)}<p class="eyebrow">${e(p.brand || c.name)}</p><h1>${e(p.name)}</h1><p class="product-description">${e(p.description)}</p>
       ${variantNav}<div class="purchase-panel"><p class="product-price">${priceLabel(p)}</p><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p>${p.availability === 'soldout' ? '<p>Esta unidad no está disponible para compra.</p>' : productContact(p, 'Consultar este producto')}
-      <p class="small">Confirma el precio final, la garantía y el costo de envío antes de pagar. La consulta se abre en WhatsApp; no realiza un pago.</p></div>
+      ${p.availability === 'soldout' ? '' : '<div class="financing-options" aria-label="Opciones de financiación"><p>¿Quieres comprar a cuotas?</p>' + financingContact(p, 'Addi') + financingContact(p, 'Sistecrédito') + '</div>'}
+      <p class="small">Confirma el precio final, la garantía y el costo de envío antes de pagar. Addi y Sistecrédito están sujetos a estudio y aprobación de cada entidad; la consulta por WhatsApp no garantiza el crédito ni realiza un cobro.</p></div>
       <dl class="product-facts">${p.compatibility ? '<div><dt>Compatibilidad</dt><dd>'+e(p.compatibility)+'</dd></div>' : ''}<div><dt>Estado de la unidad</dt><dd>${e(p.conditionNotes)}</dd></div><div><dt>Incluye</dt><dd>${e(p.includes)}</dd></div><div><dt>Garantía</dt><dd>${e(p.warranty)}</dd></div></dl>
       <a class="text-link" href="/categorias/${c.slug}/#productos">Seguir explorando ${e(c.name)} ${icon('arrow')}</a><br><a class="text-link" href="/#pagos">Opciones de pago y envío ${icon('arrow')}</a></div></div></section>
       ${p.availability !== 'soldout' ? `<aside class="mobile-product-contact" aria-label="Consulta de ${e(p.name)}"><span>${e(p.condition)}<strong>${priceLabel(p)}</strong></span>${productContact(p, 'Consultar', 'button')}</aside>` : ''}`;
