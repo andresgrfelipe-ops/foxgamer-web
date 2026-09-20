@@ -56,7 +56,7 @@ const items = [
   },
   {
     name: 'Control Nintendo Switch 2 Pro', slug: 'control-nintendo-switch-2-pro', brand: 'Nintendo',
-    prices: {Nuevo: 324000, Exhibición: 274000, Usado: 224000}, image: '/assets/photos/official/nintendo-switch-2-pro.png',
+    prices: {Nuevo: 324000, Exhibición: 274000, Usado: 224000}, image: '/assets/photos/official/nintendo-switch-2-pro.jpg',
     description: 'Control Pro oficial para Nintendo Switch 2 con vibración HD 2, botones GL/GR, botón C, NFC y conector de audio de 3,5 mm.',
     compatibility: 'Compatible con Nintendo Switch 2. Confirma en cada juego las funciones de vibración, movimiento y GameChat.',
     sourceUrl: 'https://store.nintendo.co.za/products/nintendo-switch-2-pro-controller',

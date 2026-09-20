@@ -9219,7 +9219,7 @@
       "conditionNotes": "Producto nuevo; confirma autenticidad, empaque, color y garantía.",
       "includes": "Confirma cable, baterías, receptor, correas y demás accesorios incluidos según el modelo.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": "/assets/photos/official/nintendo-switch-2-pro.png",
+      "image": "/assets/photos/official/nintendo-switch-2-pro.jpg",
       "importedCatalog": false,
       "compatibility": "Compatible con Nintendo Switch 2. Confirma en cada juego las funciones de vibración, movimiento y GameChat."
     },
@@ -9235,7 +9235,7 @@
       "conditionNotes": "Unidad de exhibición; confirma estado estético, batería, sticks, botones y gatillos.",
       "includes": "Confirma cable, baterías, receptor, correas y demás accesorios incluidos según el modelo.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": "/assets/photos/official/nintendo-switch-2-pro.png",
+      "image": "/assets/photos/official/nintendo-switch-2-pro.jpg",
       "importedCatalog": false,
       "compatibility": "Compatible con Nintendo Switch 2. Confirma en cada juego las funciones de vibración, movimiento y GameChat."
     },
@@ -9251,7 +9251,7 @@
       "conditionNotes": "Unidad usada; confirma desgaste, drift, batería, botones, gatillos y funcionamiento.",
       "includes": "Confirma cable, baterías, receptor, correas y demás accesorios incluidos según el modelo.",
       "warranty": "Confirma garantía y condiciones con FOX GAMER.",
-      "image": "/assets/photos/official/nintendo-switch-2-pro.png",
+      "image": "/assets/photos/official/nintendo-switch-2-pro.jpg",
       "importedCatalog": false,
       "compatibility": "Compatible con Nintendo Switch 2. Confirma en cada juego las funciones de vibración, movimiento y GameChat."
     },
@@ -12086,7 +12086,7 @@
     },
     {
       "name": "Control Nintendo Switch 2 Pro",
-      "image": "/assets/photos/official/nintendo-switch-2-pro.png",
+      "image": "/assets/photos/official/nintendo-switch-2-pro.jpg",
       "kind": "original-photo",
       "manufacturer": "Nintendo",
       "sourceModel": "Control Nintendo Switch 2 Pro",
@@ -12094,7 +12094,7 @@
       "sourceImageUrl": "https://store.nintendo.co.za/cdn/shop/files/NintendoSwitch2-ProController-03_1918x1918.png?v=1743698406",
       "reviewedAt": "2026-09-20",
       "evidence": "Fotografía oficial de distribuidor Nintendo del Switch 2 Pro Controller.",
-      "sha256": "d54c477876e702c793ed1a53aa69bd15f2fe92888fd41b4d82d7a14fd5d24bdd"
+      "sha256": "c7fd674f598567223a14ead0b1ae0d638e4d8b5da0a9fe78a58c352c540b104c"
     },
     {
       "name": "Par de controles Nintendo Joy-Con 2 azul y rojo claro",
