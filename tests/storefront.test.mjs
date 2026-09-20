@@ -51,6 +51,19 @@ test('consulta identifica nombre, condición y enlace; tarjetas tienen etiqueta 
   const catalog=ui.catalog();assert.equal((catalog.match(/data-product /g)||[]).length,store.products.length);
   assert.ok(catalog.includes('aria-label="Consultar: '+p.name+', '+p.condition));
 });
+test('Addi y Sistecrédito abren WhatsApp con producto, condición, precio y requisitos',()=>{
+  const p=store.products.find(p=>p.availability!=='soldout'&&p.price!=null);
+  const {body}=ui.productDetail(p);
+  for(const provider of ['Addi','Sistecrédito']){
+    assert.ok(body.includes('Comprar con '+provider+': '+p.name+', '+p.condition));
+    const links=[...body.matchAll(/href="(https:\/\/wa.me\/[^\"]+)"/g)].map(match=>new URL(match[1].replaceAll('&amp;','&')).searchParams.get('text'));
+    const message=links.find(text=>text.includes('con '+provider));
+    assert.ok(message.includes(p.name+' ('+p.condition+')'));
+    assert.ok(message.includes('Precio publicado:'));
+    assert.ok(message.includes('cuota inicial'));
+  }
+  assert.ok(body.includes('sujetos a estudio y aprobación'));
+});
 test('SEO: metadatos completos, scripts de catálogo solo donde se necesitan',async()=>{
   const p=store.products[0];const home=await readFile('index.html','utf8');
   const detail=await readFile('productos/'+p.slug+'/index.html','utf8');
