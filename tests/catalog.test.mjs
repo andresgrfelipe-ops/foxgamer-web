@@ -50,7 +50,7 @@ test('build completo con las tres condiciones y disponibilidad real',async()=>{
  assert.ok(sitemap.includes('https://foxgamer.co/productos/unidad-prueba/'));
 });
 test('todas las rutas internas y anclas públicas existen',async()=>{
- const pages=['index.html','404.html',...base.categories.map(c=>'categorias/'+c.slug+'/index.html'),...base.products.map(p=>'productos/'+p.slug+'/index.html')];
+ const pages=['index.html','404.html','como-comprar/index.html',...base.categories.map(c=>'categorias/'+c.slug+'/index.html'),...base.products.map(p=>'productos/'+p.slug+'/index.html')];
  for(const page of pages){
   const html=await readFile(page,'utf8');
   assert.equal((html.match(/<h1[ >]/g)||[]).length,1);
@@ -64,6 +64,17 @@ test('todas las rutas internas y anclas públicas existen',async()=>{
    if(hash)assert.ok(content.includes('id="'+hash+'"'),'Missing '+href+' in '+page);
   }
  }
+});
+
+test('guía de compra, SEO y contacto móvil se generan sin procesar pagos',async()=>{
+ const home=await readFile('index.html','utf8');
+ const guide=await readFile('como-comprar/index.html','utf8');
+ assert.ok(home.includes('id="como-comprar"'));
+ assert.ok(guide.includes('Confirma estos cinco datos'));
+ assert.ok(guide.includes('Este sitio no solicita información bancaria ni procesa pagos en línea'));
+ assert.ok(guide.includes('class="floating-whatsapp"'));
+ assert.ok(home.includes('SearchAction'));
+ assert.ok((await readFile('sitemap.xml','utf8')).includes('/como-comprar/'));
 });
 
 test('ninguna fotografía se publica sin correspondencia exacta documentada',()=>{
