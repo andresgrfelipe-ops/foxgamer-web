@@ -35,6 +35,14 @@ export function validateStore(store) {
         Playseat: {
           page: /^https:\/\/www\.playseat\.com\//,
           image: /^https:\/\/www\.playseat\.com\/cdn\/shop\//
+        },
+        Logitech: {
+          page: /^https:\/\/www\.logitechg\.com\//,
+          image: /^https:\/\/resource\.logitechg\.com\//
+        },
+        PlayStation: {
+          page: /^https:\/\/www\.playstation\.com\//,
+          image: /^https:\/\/gmedia\.playstation\.com\//
         }
       };
       const source = officialSources[v.manufacturer || 'Apple'];
