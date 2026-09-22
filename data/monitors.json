@@ -1,0 +1,123 @@
+{
+  "category": {
+    "slug": "monitores",
+    "name": "Monitores",
+    "description": "Monitores gamer y pantallas para consola y PC. Compara tamaño, resolución, frecuencia y condición antes de comprar.",
+    "icon": "monitor",
+    "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp"
+  },
+  "products": [
+    {
+      "slug": "asus-rog-strix-xg49vq-nuevo",
+      "name": "ASUS ROG Strix XG49VQ 49”",
+      "description": "Monitor gamer ultrapanorámico 49 pulgadas, formato 32:9. Consulta disponibilidad y especificaciones finales por WhatsApp.",
+      "category": "monitores",
+      "brand": "ASUS ROG",
+      "condition": "Nuevo",
+      "price": 3999900,
+      "availability": "available",
+      "conditionNotes": "Producto nuevo según disponibilidad de FOX GAMER.",
+      "includes": "Monitor, base y accesorios incluidos según unidad. Confirma antes de comprar.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp"
+    },
+    {
+      "slug": "lg-ultragear-24gs50f-nuevo",
+      "name": "LG UltraGear 24GS50F 24” FHD 180Hz",
+      "description": "Monitor gamer Full HD de 24 pulgadas y 180Hz. Precio de referencia basado en mercado colombiano; confirma precio y disponibilidad.",
+      "category": "monitores",
+      "brand": "LG",
+      "condition": "Nuevo",
+      "price": 529900,
+      "availability": "available",
+      "conditionNotes": "Producto nuevo según disponibilidad de FOX GAMER.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp"
+    },
+    {
+      "slug": "lg-ultragear-27gs60qc-nuevo",
+      "name": "LG UltraGear 27GS60QC 27” QHD 180Hz",
+      "description": "Monitor gamer curvo QHD de 27 pulgadas y 180Hz. Precio de referencia basado en mercado colombiano; confirma precio y disponibilidad.",
+      "category": "monitores",
+      "brand": "LG",
+      "condition": "Nuevo",
+      "price": 879900,
+      "availability": "available",
+      "conditionNotes": "Producto nuevo según disponibilidad de FOX GAMER.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp"
+    },
+    {
+      "slug": "samsung-odyssey-g5-27-qhd-nuevo",
+      "name": "Samsung Odyssey G5 27” QHD",
+      "description": "Monitor gamer Samsung Odyssey G5 de 27 pulgadas QHD. Precio de referencia basado en mercado colombiano; confirma referencia exacta y disponibilidad.",
+      "category": "monitores",
+      "brand": "Samsung",
+      "condition": "Nuevo",
+      "price": 1029900,
+      "availability": "available",
+      "conditionNotes": "Producto nuevo según disponibilidad de FOX GAMER.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp"
+    },
+    {
+      "slug": "aoc-27g4h-27-fhd-200hz-nuevo",
+      "name": "AOC 27G4H 27” FHD 200Hz",
+      "description": "Monitor gamer IPS Full HD de 27 pulgadas y hasta 200Hz. Precio de referencia basado en mercado colombiano; confirma disponibilidad.",
+      "category": "monitores",
+      "brand": "AOC",
+      "condition": "Nuevo",
+      "price": 629900,
+      "availability": "available",
+      "conditionNotes": "Producto nuevo según disponibilidad de FOX GAMER.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp"
+    },
+    {
+      "slug": "acer-nitro-kg273-27-nuevo",
+      "name": "Acer Nitro KG273 27” FHD",
+      "description": "Monitor gamer Acer Nitro de 27 pulgadas Full HD. Precio de referencia basado en mercado colombiano; confirma especificaciones y disponibilidad.",
+      "category": "monitores",
+      "brand": "Acer",
+      "condition": "Nuevo",
+      "price": 799000,
+      "availability": "available",
+      "conditionNotes": "Producto nuevo según disponibilidad de FOX GAMER.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp"
+    },
+    {
+      "slug": "asus-rog-strix-xg27acmes-nuevo",
+      "name": "ASUS ROG Strix XG27ACMES 27” QHD",
+      "description": "Monitor gamer ROG Strix QHD de 27 pulgadas. Precio de referencia basado en mercado colombiano; confirma disponibilidad.",
+      "category": "monitores",
+      "brand": "ASUS ROG",
+      "condition": "Nuevo",
+      "price": 1349000,
+      "availability": "available",
+      "conditionNotes": "Producto nuevo según disponibilidad de FOX GAMER.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp"
+    },
+    {
+      "slug": "xiaomi-g34wqi-34-nuevo",
+      "name": "Xiaomi G34WQi 34” Ultrawide QHD 180Hz",
+      "description": "Monitor gamer curvo ultrawide de 34 pulgadas, WQHD y 180Hz. Precio de referencia basado en mercado colombiano; confirma disponibilidad.",
+      "category": "monitores",
+      "brand": "Xiaomi",
+      "condition": "Nuevo",
+      "price": 1229900,
+      "availability": "available",
+      "conditionNotes": "Producto nuevo según disponibilidad de FOX GAMER.",
+      "includes": "Confirma contenido incluido con FOX GAMER.",
+      "warranty": "Confirma garantía y condiciones con FOX GAMER.",
+      "image": "/assets/photos/official/asus-rog-strix-xg49vq.webp"
+    }
+  ]
+}
