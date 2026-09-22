@@ -4,8 +4,11 @@ import {validateStore,escapeHTML as e,priceLabel,whatsappURL} from './catalog.mj
 import {auditImages} from './audit-images.mjs';
 import {createStorefront} from './storefront.mjs';
 const baseStore=JSON.parse(await readFile('data/store.json','utf8'));
-const monitorData=JSON.parse(await readFile('data/monitors.json','utf8'));
-if(!baseStore.categories.some(c=>c.slug===monitorData.category.slug)) baseStore.categories.push(monitorData.category);
+const monitorData=JSON.parse(await readFile('data/monitors.json','utf8').catch(error => {
+  if (error?.code === 'ENOENT') return '{"category":null,"products":[]}';
+  throw error;
+}));
+if(monitorData.category && !baseStore.categories.some(c=>c.slug===monitorData.category.slug)) baseStore.categories.push(monitorData.category);
 const existingSlugs=new Set(baseStore.products.map(p=>p.slug));
 baseStore.products.push(...monitorData.products.filter(p=>!existingSlugs.has(p.slug)));
 const store=validateStore(baseStore);
