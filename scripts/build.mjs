@@ -67,3 +67,4 @@ for(const entry of await readdir('productos',{withFileTypes:true})) {
  if(entry.isDirectory() && !store.products.some(p=>p.slug===entry.name)) await save('productos/'+entry.name+'/index.html',page('Referencia pendiente de actualización | FOX GAMER','Consulta el catálogo actual de FOX GAMER.','/productos/'+entry.name+'/', '<section class="wrap section"><h1>Referencia pendiente de actualización</h1><p>Consulta el catálogo actual o pregunta por esta referencia.</p><a class="button" href="/#productos">Ver catálogo</a>'+contact('Consultar referencia','Hola FOX GAMER, quiero consultar la referencia '+entry.name)+'</section>','<meta name="robots" content="noindex">'));
 }
 console.log('Generated '+written.length+' files; '+store.products.length+' catalog products.');
+
