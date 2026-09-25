@@ -10509,25 +10509,33 @@
       "name": "ROG Ally",
       "image": "/assets/photos/rog-ally-real.jpg",
       "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad.",
-      "sha256": "2b0286b4e1d0cecd04220a11d3682c8bc0a225dfefbc51d45d9715360ab1cd07"
+      "sha256": "2b0286b4e1d0cecd04220a11d3682c8bc0a225dfefbc51d45d9715360ab1cd07",
+      "reviewedAt": "2026-09-25",
+      "kind": "store-photo"
     },
     {
       "name": "PlayStation 5 edición limitada Spider-Man 2",
       "image": "/assets/photos/ps5-spiderman2-real.jpg",
       "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad.",
-      "sha256": "ec8b74729a2f79c0d3b7e335b186679a9d030fccecc789a7f7faeaf47e5cbc4a"
+      "sha256": "ec8b74729a2f79c0d3b7e335b186679a9d030fccecc789a7f7faeaf47e5cbc4a",
+      "reviewedAt": "2026-09-25",
+      "kind": "store-photo"
     },
     {
       "name": "Nintendo Switch OLED",
       "image": "/assets/photos/img_2450.webp",
       "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad.",
-      "sha256": "1ce2b3e4f1a22a5ac4251c80c162fce2fe447e239cd2a1eb73bbeda9051eeabe"
+      "sha256": "1ce2b3e4f1a22a5ac4251c80c162fce2fe447e239cd2a1eb73bbeda9051eeabe",
+      "reviewedAt": "2026-09-25",
+      "kind": "store-photo"
     },
     {
       "name": "Nintendo Switch 2",
       "image": "/assets/photos/img_6489.webp",
       "evidence": "Inspección visual de la fotografía local: modelo o título y plataforma visibles. No acredita estado ni stock de cada unidad.",
-      "sha256": "23c4b96c20f09e1866ef30b3debd4621e27f5592d1b23dad92c1e0b360eaed55"
+      "sha256": "23c4b96c20f09e1866ef30b3debd4621e27f5592d1b23dad92c1e0b360eaed55",
+      "reviewedAt": "2026-09-25",
+      "kind": "store-photo"
     },
     {
       "name": "iPhone 17 256 GB",
@@ -11520,7 +11528,8 @@
       "author": "Evan-Amos",
       "license": "Public domain",
       "evidence": "Sony SCPH-70001, carcasa Slim negra. Inspección visual realizada el 19/09/2026. No acredita stock, estado ni accesorios incluidos.",
-      "sha256": "09208c9a3c2be69e737d44080379e30fd4de9561b34b3f0932b1857acbea92ae"
+      "sha256": "09208c9a3c2be69e737d44080379e30fd4de9561b34b3f0932b1857acbea92ae",
+      "reviewedAt": "2026-09-25"
     },
     {
       "name": "PlayStation 3 Slim 120 GB",
@@ -11531,7 +11540,8 @@
       "author": "Evan-Amos",
       "license": "Public domain",
       "evidence": "Sony PS3 Slim 120 GB en posición vertical. Inspección visual realizada el 19/09/2026. No acredita stock, estado ni accesorios incluidos.",
-      "sha256": "14cfe421fd02cb5f644641a0aa9d1b0f8479dc3659141cb076ce00e24d5569ab"
+      "sha256": "14cfe421fd02cb5f644641a0aa9d1b0f8479dc3659141cb076ce00e24d5569ab",
+      "reviewedAt": "2026-09-25"
     },
     {
       "name": "Xbox 360 S 4 GB",
@@ -11542,7 +11552,8 @@
       "author": "Evan-Amos",
       "license": "Public domain",
       "evidence": "Microsoft Xbox 360 S modelo 1439, acabado negro mate y 4 GB. Inspección visual realizada el 19/09/2026. No acredita stock, estado ni accesorios incluidos.",
-      "sha256": "70d566ec12fe79650263a3a589d9b48abd94b8b3ee7f8877edc1c218e8b90b61"
+      "sha256": "70d566ec12fe79650263a3a589d9b48abd94b8b3ee7f8877edc1c218e8b90b61",
+      "reviewedAt": "2026-09-25"
     },
     {
       "name": "Xbox One S",
@@ -11550,7 +11561,8 @@
       "kind": "store-photo",
       "sourceModel": "Xbox One S blanca visible en la fotografía original de la tienda.",
       "evidence": "Xbox One S blanca visible en la fotografía original de la tienda. Inspección visual realizada el 19/09/2026. No acredita stock, estado ni accesorios incluidos.",
-      "sha256": "b02f20ea23a6654ebaa5eda7e5c66057ec9a373c9e6d7f8ef50770a94a4ce572"
+      "sha256": "b02f20ea23a6654ebaa5eda7e5c66057ec9a373c9e6d7f8ef50770a94a4ce572",
+      "reviewedAt": "2026-09-25"
     },
     {
       "name": "EA Sports FC 26 · PS5",
