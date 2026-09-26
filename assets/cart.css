@@ -35,3 +35,8 @@
   #fox-cart-clear{min-height:40px}
   .fox-cart-toggle{bottom:calc(12px + env(safe-area-inset-bottom))}
 }
+
+
+.fox-cart-notice{position:fixed;left:50%;bottom:82px;z-index:120;max-width:min(420px,calc(100vw - 32px));padding:11px 16px;border-radius:12px;background:#fff;color:#101117;font-weight:800;box-shadow:0 12px 35px #0007;opacity:0;transform:translate(-50%,12px);pointer-events:none;transition:opacity .18s ease,transform .18s ease;text-align:center}
+.fox-cart-notice.is-visible{opacity:1;transform:translate(-50%,0)}
+@media(max-width:600px){.fox-cart-notice{bottom:calc(76px + env(safe-area-inset-bottom));font-size:.92rem}}
