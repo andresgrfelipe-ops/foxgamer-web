@@ -142,6 +142,8 @@ document.querySelectorAll('.product-image img,.product-visual img').forEach(img 
 // Load the FOX GAMER cart on every storefront page that uses app.js.
 // The home page already declares these assets, so avoid loading them twice.
 (() => {
+  // Minimal test DOMs do not expose head/createElement; the real browser does.
+  if (!document.head || typeof document.createElement !== 'function') return;
   if (!document.querySelector('link[href="/assets/cart.css"]')) {
     const link = document.createElement('link');
     link.rel = 'stylesheet';
