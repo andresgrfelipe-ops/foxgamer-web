@@ -11,7 +11,7 @@
     save(); document.querySelector('#fox-cart')?.classList.add('is-open'); document.body.classList.add('cart-open'); document.querySelector('#fox-cart-toggle')?.setAttribute('aria-expanded','true');
   };
   const shell=document.createElement('div');
-  shell.innerHTML='<button id="fox-cart-toggle" class="fox-cart-toggle" type="button" aria-controls="fox-cart" aria-expanded="false">🛒 Carrito <span id="fox-cart-count">0</span></button><aside id="fox-cart" class="fox-cart" aria-label="Carrito de compras"><div class="fox-cart-head"><strong>Tu carrito</strong><button type="button" data-cart-close aria-label="Cerrar carrito">×</button></div><div id="fox-cart-items"></div><div class="fox-cart-foot"><div><span>Total</span><strong id="fox-cart-total">$ 0 COP</strong></div><a id="fox-cart-checkout" class="button" target="_blank" rel="noopener noreferrer">Enviar carrito por WhatsApp</a><button id="fox-cart-clear" class="text-button" type="button">Vaciar carrito</button></div></aside><div class="fox-cart-backdrop" data-cart-close></div>';
+  shell.innerHTML='<button id="fox-cart-toggle" class="fox-cart-toggle" type="button" aria-controls="fox-cart" aria-expanded="false">🛒 Carrito <span id="fox-cart-count">0</span></button><aside id="fox-cart" class="fox-cart" aria-label="Carrito de compras"><div class="fox-cart-head"><strong>Tu carrito</strong><button type="button" data-cart-close aria-label="Cerrar carrito">×</button></div><div id="fox-cart-items"></div><div class="fox-order-fields"><label>Nombre<input id="fox-order-name" autocomplete="name" placeholder="Tu nombre"></label><label>Ciudad<input id="fox-order-city" autocomplete="address-level2" placeholder="Ciudad"></label><label>Entrega<select id="fox-order-delivery"><option value="Envío a domicilio">Envío a domicilio</option><option value="Recogida / acordar con asesor">Recogida / acordar con asesor</option></select></label><label>Método de pago preferido<select id="fox-order-payment"><option value="Por definir">Por definir</option><option value="Nequi">Nequi</option><option value="Addi">Addi</option><option value="Sistecrédito">Sistecrédito</option><option value="Otro / consultar">Otro / consultar</option></select></label></div><div class="fox-cart-foot"><div><span>Total</span><strong id="fox-cart-total">$ 0 COP</strong></div><a id="fox-cart-checkout" class="button" target="_blank" rel="noopener noreferrer">Enviar carrito por WhatsApp</a><button id="fox-cart-clear" class="text-button" type="button">Vaciar carrito</button></div></aside><div class="fox-cart-backdrop" data-cart-close></div>';
   document.body.append(...shell.children);
   document.querySelectorAll('[data-product]').forEach(card=>{
     if(!Number(card.dataset.price)) return;
@@ -35,8 +35,13 @@
       row.querySelector('[data-plus]').onclick=()=>{item.qty++;save()}; row.querySelector('[data-remove]').onclick=()=>{cart=cart.filter(x=>x.id!==item.id);save()}; box.append(row);
     });
     const lines=cart.map(x=>`• ${x.name} (${x.condition}) x${x.qty} — ${money(x.price*x.qty)}`).join('\n');
-    const msg=`Hola FOX GAMER, estoy interesado en los siguientes artículos de mi carrito:\n\n${lines}\n\nTotal: ${money(total)}\n\nQuiero confirmar disponibilidad de todos los artículos, condiciones, envío y método de pago.`;
+    const name=document.querySelector('#fox-order-name')?.value.trim()||'No indicado';
+    const city=document.querySelector('#fox-order-city')?.value.trim()||'No indicada';
+    const delivery=document.querySelector('#fox-order-delivery')?.value||'Por definir';
+    const payment=document.querySelector('#fox-order-payment')?.value||'Por definir';
+    const msg=`Hola FOX GAMER, estoy interesado en los siguientes artículos de mi carrito:\n\n${lines}\n\nTotal: ${money(total)}\n\nDatos del pedido:\n• Nombre: ${name}\n• Ciudad: ${city}\n• Entrega: ${delivery}\n• Pago preferido: ${payment}\n\nQuiero confirmar disponibilidad de todos los artículos, condiciones, envío y método de pago.`;
     const checkout=document.querySelector('#fox-cart-checkout'); checkout.href='https://wa.me/573237267448?text='+encodeURIComponent(msg); checkout.classList.toggle('is-disabled',!cart.length); checkout.setAttribute('aria-disabled',String(!cart.length));
   }
+  document.querySelectorAll('#fox-order-name,#fox-order-city,#fox-order-delivery,#fox-order-payment').forEach(el=>el.addEventListener('input',render));
   render();
 })();
