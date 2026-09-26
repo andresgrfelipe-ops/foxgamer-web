@@ -18,6 +18,25 @@
     const btn=document.createElement('button'); btn.type='button'; btn.className='button fox-add-cart'; btn.textContent='Agregar al carrito';
     btn.addEventListener('click',()=>add(card)); card.append(btn);
   });
+  // Product detail pages do not use data-product cards. Build the same cart
+  // payload from the page's product metadata so customers can add a product
+  // without returning to the catalogue first.
+  const detail=document.querySelector('.product-detail');
+  const purchase=document.querySelector('.purchase-panel');
+  if(detail && purchase && !purchase.querySelector('.fox-add-cart')){
+    const priceText=purchase.querySelector('.product-price')?.textContent||'';
+    const price=Number(priceText.replace(/[^0-9]/g,''));
+    const title=document.querySelector('.product-summary h1')?.textContent?.trim();
+    const condition=document.querySelector('.product-summary [data-condition]')?.dataset.condition?.trim();
+    if(price && title && condition){
+      const product={dataset:{price:String(price),title,condition}};
+      const btn=document.createElement('button');
+      btn.type='button'; btn.className='button fox-add-cart'; btn.textContent='Agregar al carrito';
+      btn.addEventListener('click',()=>add(product));
+      const consult=purchase.querySelector('a.button');
+      if(consult) consult.insertAdjacentElement('beforebegin',btn); else purchase.append(btn);
+    }
+  }
   const panel=document.querySelector('#fox-cart'), toggle=document.querySelector('#fox-cart-toggle');
   const close=()=>{panel.classList.remove('is-open');document.body.classList.remove('cart-open');toggle.setAttribute('aria-expanded','false')};
   toggle.addEventListener('click',()=>{const open=!panel.classList.contains('is-open');panel.classList.toggle('is-open',open);document.body.classList.toggle('cart-open',open);toggle.setAttribute('aria-expanded',String(open))});
