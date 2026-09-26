@@ -1,7 +1,7 @@
 (() => {
-  const KEY='foxgamer-cart-v1';
+  const KEY='foxgamer-cart-v1', CUSTOMER_KEY='foxgamer-customer-v1';
   const money=n=>new Intl.NumberFormat('es-CO',{style:'currency',currency:'COP',maximumFractionDigits:0}).format(n);
-  let cart=[]; try{cart=JSON.parse(localStorage.getItem(KEY)||'[]')}catch{}
+  let cart=[]; try{cart=JSON.parse(localStorage.getItem(KEY)||'[]')}catch{}\n  let customer={}; try{customer=JSON.parse(localStorage.getItem(CUSTOMER_KEY)||'{}')}catch{}
   const save=()=>{localStorage.setItem(KEY,JSON.stringify(cart));render()};
   const idFor=c=>[c.dataset.title,c.dataset.condition,c.dataset.price].join('|');
   const add=card=>{
@@ -12,7 +12,7 @@
   };
   const shell=document.createElement('div');
   shell.innerHTML='<button id="fox-cart-toggle" class="fox-cart-toggle" type="button" aria-controls="fox-cart" aria-expanded="false">🛒 Carrito <span id="fox-cart-count">0</span></button><aside id="fox-cart" class="fox-cart" aria-label="Carrito de compras"><div class="fox-cart-head"><strong>Tu carrito</strong><button type="button" data-cart-close aria-label="Cerrar carrito">×</button></div><div id="fox-cart-items"></div><div class="fox-order-fields"><label>Nombre<input id="fox-order-name" autocomplete="name" placeholder="Tu nombre"></label><label>Teléfono<input id="fox-order-phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="Tu teléfono"></label><label>Ciudad<input id="fox-order-city" autocomplete="address-level2" placeholder="Ciudad"></label><label>Entrega<select id="fox-order-delivery"><option value="Envío a domicilio">Envío a domicilio</option><option value="Recogida / acordar con asesor">Recogida / acordar con asesor</option></select></label><label id="fox-order-address-wrap">Dirección de entrega<input id="fox-order-address" autocomplete="street-address" placeholder="Dirección"></label><label>Método de pago preferido<select id="fox-order-payment"><option value="Por definir">Por definir</option><option value="Nequi">Nequi</option><option value="Addi">Addi</option><option value="Sistecrédito">Sistecrédito</option><option value="Otro / consultar">Otro / consultar</option></select></label></div><div class="fox-cart-foot"><div><span>Total</span><strong id="fox-cart-total">$ 0 COP</strong></div><a id="fox-cart-checkout" class="button" target="_blank" rel="noopener noreferrer">Enviar carrito por WhatsApp</a><button id="fox-cart-clear" class="text-button" type="button">Vaciar carrito</button></div></aside><div class="fox-cart-backdrop" data-cart-close></div>';
-  document.body.append(...shell.children);
+  document.body.append(...shell.children);\n  const customerFields={name:'#fox-order-name',phone:'#fox-order-phone',city:'#fox-order-city',delivery:'#fox-order-delivery',address:'#fox-order-address',payment:'#fox-order-payment'};\n  Object.entries(customerFields).forEach(([key,selector])=>{const el=document.querySelector(selector);if(el && customer[key])el.value=customer[key]});\n  const saveCustomer=()=>{const data={};Object.entries(customerFields).forEach(([key,selector])=>{const el=document.querySelector(selector);if(el)data[key]=el.value.trim()});customer=data;localStorage.setItem(CUSTOMER_KEY,JSON.stringify(data));};
   document.querySelectorAll('[data-product]').forEach(card=>{
     if(!Number(card.dataset.price)) return;
     const btn=document.createElement('button'); btn.type='button'; btn.className='button fox-add-cart'; btn.textContent='Agregar al carrito';
@@ -65,7 +65,7 @@
     const checkout=document.querySelector('#fox-cart-checkout'); checkout.href='https://wa.me/573237267448?text='+encodeURIComponent(msg); checkout.classList.toggle('is-disabled',!cart.length); checkout.setAttribute('aria-disabled',String(!cart.length));
   }
   const syncDeliveryFields=()=>{const home=document.querySelector('#fox-order-delivery')?.value==='Envío a domicilio';const wrap=document.querySelector('#fox-order-address-wrap');if(wrap)wrap.hidden=!home;};
-  document.querySelectorAll('#fox-order-name,#fox-order-phone,#fox-order-city,#fox-order-address,#fox-order-delivery,#fox-order-payment').forEach(el=>el.addEventListener('input',()=>{syncDeliveryFields();render()}));
+  document.querySelectorAll('#fox-order-name,#fox-order-phone,#fox-order-city,#fox-order-address,#fox-order-delivery,#fox-order-payment').forEach(el=>el.addEventListener('input',()=>{saveCustomer();syncDeliveryFields();render()}));\n  document.querySelector('#fox-cart-checkout').addEventListener('click',e=>{\n    if(!cart.length){e.preventDefault();return;}\n    const required=['#fox-order-name','#fox-order-phone','#fox-order-city'];\n    if(document.querySelector('#fox-order-delivery')?.value==='Envío a domicilio')required.push('#fox-order-address');\n    const missing=required.map(s=>document.querySelector(s)).find(el=>!el?.value.trim());\n    if(missing){e.preventDefault();missing.focus();missing.setAttribute('aria-invalid','true');alert('Completa los datos del pedido antes de enviarlo por WhatsApp.');return;}\n    required.forEach(s=>document.querySelector(s)?.removeAttribute('aria-invalid'));\n    saveCustomer();render();\n  });
   syncDeliveryFields();
   render();
 })();
