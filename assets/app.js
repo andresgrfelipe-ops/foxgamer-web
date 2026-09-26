@@ -137,3 +137,21 @@ document.querySelectorAll('.product-image img,.product-visual img').forEach(img 
   img.addEventListener('error', fallback, {once: true});
   if (img.complete && img.naturalWidth === 0) fallback();
 });
+
+
+// Load the FOX GAMER cart on every storefront page that uses app.js.
+// The home page already declares these assets, so avoid loading them twice.
+(() => {
+  if (!document.querySelector('link[href="/assets/cart.css"]')) {
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/cart.css';
+    document.head.append(link);
+  }
+  if (!document.querySelector('script[src="/assets/cart.js"]')) {
+    const script = document.createElement('script');
+    script.src = '/assets/cart.js';
+    script.defer = true;
+    document.head.append(script);
+  }
+})();
