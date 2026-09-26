@@ -11,7 +11,7 @@
     save(); document.querySelector('#fox-cart')?.classList.add('is-open'); document.body.classList.add('cart-open'); document.querySelector('#fox-cart-toggle')?.setAttribute('aria-expanded','true');
   };
   const shell=document.createElement('div');
-  shell.innerHTML='<button id="fox-cart-toggle" class="fox-cart-toggle" type="button" aria-controls="fox-cart" aria-expanded="false">🛒 Carrito <span id="fox-cart-count">0</span></button><aside id="fox-cart" class="fox-cart" aria-label="Carrito de compras"><div class="fox-cart-head"><strong>Tu carrito</strong><button type="button" data-cart-close aria-label="Cerrar carrito">×</button></div><div id="fox-cart-items"></div><div class="fox-cart-foot"><div><span>Total</span><strong id="fox-cart-total">$ 0 COP</strong></div><a id="fox-cart-checkout" class="button" target="_blank" rel="noopener noreferrer">Finalizar por WhatsApp</a><button id="fox-cart-clear" class="text-button" type="button">Vaciar carrito</button></div></aside><div class="fox-cart-backdrop" data-cart-close></div>';
+  shell.innerHTML='<button id="fox-cart-toggle" class="fox-cart-toggle" type="button" aria-controls="fox-cart" aria-expanded="false">🛒 Carrito <span id="fox-cart-count">0</span></button><aside id="fox-cart" class="fox-cart" aria-label="Carrito de compras"><div class="fox-cart-head"><strong>Tu carrito</strong><button type="button" data-cart-close aria-label="Cerrar carrito">×</button></div><div id="fox-cart-items"></div><div class="fox-cart-foot"><div><span>Total</span><strong id="fox-cart-total">$ 0 COP</strong></div><a id="fox-cart-checkout" class="button" target="_blank" rel="noopener noreferrer">Enviar carrito por WhatsApp</a><button id="fox-cart-clear" class="text-button" type="button">Vaciar carrito</button></div></aside><div class="fox-cart-backdrop" data-cart-close></div>';
   document.body.append(...shell.children);
   document.querySelectorAll('[data-product]').forEach(card=>{
     if(!Number(card.dataset.price)) return;
@@ -35,7 +35,7 @@
       row.querySelector('[data-plus]').onclick=()=>{item.qty++;save()}; row.querySelector('[data-remove]').onclick=()=>{cart=cart.filter(x=>x.id!==item.id);save()}; box.append(row);
     });
     const lines=cart.map(x=>`• ${x.name} (${x.condition}) x${x.qty} — ${money(x.price*x.qty)}`).join('\n');
-    const msg=`Hola FOX GAMER, quiero finalizar este pedido:\n\n${lines}\n\nTotal: ${money(total)}\n\nQuiero confirmar disponibilidad, envío y método de pago.`;
+    const msg=`Hola FOX GAMER, estoy interesado en los siguientes artículos de mi carrito:\n\n${lines}\n\nTotal: ${money(total)}\n\nQuiero confirmar disponibilidad de todos los artículos, condiciones, envío y método de pago.`;
     const checkout=document.querySelector('#fox-cart-checkout'); checkout.href='https://wa.me/573237267448?text='+encodeURIComponent(msg); checkout.classList.toggle('is-disabled',!cart.length); checkout.setAttribute('aria-disabled',String(!cart.length));
   }
   render();
