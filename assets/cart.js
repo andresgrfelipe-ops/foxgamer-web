@@ -8,7 +8,7 @@
     const price=Number(card.dataset.price); if(!price) return;
     const id=idFor(card), found=cart.find(x=>x.id===id);
     if(found) found.qty++; else cart.push({id,name:card.dataset.title,condition:card.dataset.condition,price,qty:1});
-    save(); document.querySelector('#fox-cart')?.classList.add('is-open');
+    save(); document.querySelector('#fox-cart')?.classList.add('is-open'); document.body.classList.add('cart-open'); document.querySelector('#fox-cart-toggle')?.setAttribute('aria-expanded','true');
   };
   const shell=document.createElement('div');
   shell.innerHTML='<button id="fox-cart-toggle" class="fox-cart-toggle" type="button" aria-controls="fox-cart" aria-expanded="false">🛒 Carrito <span id="fox-cart-count">0</span></button><aside id="fox-cart" class="fox-cart" aria-label="Carrito de compras"><div class="fox-cart-head"><strong>Tu carrito</strong><button type="button" data-cart-close aria-label="Cerrar carrito">×</button></div><div id="fox-cart-items"></div><div class="fox-cart-foot"><div><span>Total</span><strong id="fox-cart-total">$ 0 COP</strong></div><a id="fox-cart-checkout" class="button" target="_blank" rel="noopener noreferrer">Finalizar por WhatsApp</a><button id="fox-cart-clear" class="text-button" type="button">Vaciar carrito</button></div></aside><div class="fox-cart-backdrop" data-cart-close></div>';
