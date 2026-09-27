@@ -22,11 +22,17 @@ test('cart sends a structured WhatsApp order with reference and totals',()=>{
   assert.match(cart,/\*ARTÍCULOS\*/);
   assert.match(cart,/\*RESUMEN\*/);
   assert.match(cart,/\*DATOS DEL CLIENTE\*/);
-  assert.match(cart,/checkout\.dataset\.orderId=orderId\(\)/);
+  assert.match(cart,/checkout\.dataset\.orderId\)checkout\.dataset\.orderId=orderId\(\)/);
   assert.match(cart,/wa\.me\/573237267448/);
 });
 
 test('cart supports keyboard close and guarded clear',()=>{
   assert.match(cart,/e\.key==='Escape'/);
   assert.match(cart,/confirm\('¿Vaciar todos los artículos del carrito\?'\)/);
+});
+
+test('order reference resets whenever the order changes',()=>{
+  assert.match(cart,/const resetReference=/);
+  assert.match(cart,/resetReference\(\); save\(\); showCartNotice/);
+  assert.match(cart,/\[data-plus\].*resetReference\(\)/s);
 });
