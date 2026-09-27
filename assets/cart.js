@@ -16,7 +16,7 @@
   document.body.append(...shell.children);\n  const customerFields={name:'#fox-order-name',phone:'#fox-order-phone',city:'#fox-order-city',delivery:'#fox-order-delivery',address:'#fox-order-address',payment:'#fox-order-payment'};\n  Object.entries(customerFields).forEach(([key,selector])=>{const el=document.querySelector(selector);if(el && customer[key])el.value=customer[key]});\n  const saveCustomer=()=>{const data={};Object.entries(customerFields).forEach(([key,selector])=>{const el=document.querySelector(selector);if(el)data[key]=el.value.trim()});customer=data;localStorage.setItem(CUSTOMER_KEY,JSON.stringify(data));};
   document.querySelectorAll('[data-product]').forEach(card=>{
     if(!Number(card.dataset.price)) return;
-    const btn=document.createElement('button'); btn.type='button'; btn.className='button fox-add-cart'; btn.textContent='Agregar al carrito';
+    const btn=document.createElement('button'); btn.type='button'; btn.className='button fox-add-cart'; btn.textContent='Agregar al carrito'; btn.setAttribute('aria-label','Agregar '+card.dataset.title+' al carrito');
     btn.addEventListener('click',()=>add(card)); card.append(btn);
   });
   // Product detail pages do not use data-product cards. Build the same cart
@@ -32,7 +32,7 @@
     if(price && title && condition){
       const product={dataset:{price:String(price),title,condition}};
       const btn=document.createElement('button');
-      btn.type='button'; btn.className='button fox-add-cart'; btn.textContent='Agregar al carrito';
+      btn.type='button'; btn.className='button fox-add-cart'; btn.textContent='Agregar al carrito'; btn.setAttribute('aria-label','Agregar '+title+' al carrito');
       btn.addEventListener('click',()=>add(product));
       const consult=purchase.querySelector('a.button');
       if(consult) consult.insertAdjacentElement('beforebegin',btn); else purchase.append(btn);
@@ -42,7 +42,8 @@
   const close=()=>{panel.classList.remove('is-open');document.body.classList.remove('cart-open');toggle.setAttribute('aria-expanded','false')};
   toggle.addEventListener('click',()=>{const open=!panel.classList.contains('is-open');panel.classList.toggle('is-open',open);document.body.classList.toggle('cart-open',open);toggle.setAttribute('aria-expanded',String(open))});
   document.querySelectorAll('[data-cart-close]').forEach(x=>x.addEventListener('click',close));
-  document.querySelector('#fox-cart-clear').addEventListener('click',()=>{cart=[];save()});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&panel.classList.contains('is-open'))close()});
+  document.querySelector('#fox-cart-clear').addEventListener('click',()=>{if(!cart.length)return;if(confirm('¿Vaciar todos los artículos del carrito?')){cart=[];const ref=document.querySelector('#fox-cart-reference');if(ref){ref.hidden=true;ref.textContent=''};save();showCartNotice('Carrito vaciado')}});
   function render(){
     const box=document.querySelector('#fox-cart-items'), count=cart.reduce((s,x)=>s+x.qty,0), total=cart.reduce((s,x)=>s+x.price*x.qty,0);
     document.querySelector('#fox-cart-count').textContent=count; document.querySelector('#fox-cart-units').textContent=count; document.querySelector('#fox-cart-total').textContent=money(total);
@@ -62,6 +63,7 @@
     const address=document.querySelector('#fox-order-address')?.value.trim()||'No indicada';
     const payment=document.querySelector('#fox-order-payment')?.value||'Por definir';
     const addressLine=delivery==='Envío a domicilio'?`\n• Dirección: ${address}`:'';
+    const checkout=document.querySelector('#fox-cart-checkout');
     const reference=checkout?.dataset.orderId||'';
     const msg=`Hola FOX GAMER 👋
 
@@ -82,12 +84,12 @@ ${lines}
 • Pago preferido: ${payment}
 
 Por favor confirmen disponibilidad, condición de los artículos, costo de envío, garantía y total final antes del pago.`;
-    const checkout=document.querySelector('#fox-cart-checkout'); checkout.href='https://wa.me/573237267448?text='+encodeURIComponent(msg); checkout.classList.toggle('is-disabled',!cart.length); checkout.setAttribute('aria-disabled',String(!cart.length));
+    checkout.href='https://wa.me/573237267448?text='+encodeURIComponent(msg); checkout.classList.toggle('is-disabled',!cart.length); checkout.setAttribute('aria-disabled',String(!cart.length));
   }
   const syncDeliveryFields=()=>{const home=document.querySelector('#fox-order-delivery')?.value==='Envío a domicilio';const wrap=document.querySelector('#fox-order-address-wrap');if(wrap)wrap.hidden=!home;};
   document.querySelectorAll('#fox-order-name,#fox-order-phone,#fox-order-city,#fox-order-address,#fox-order-delivery,#fox-order-payment').forEach(el=>el.addEventListener('input',()=>{saveCustomer();syncDeliveryFields();render()}));\n  document.querySelector('#fox-cart-checkout').addEventListener('click',e=>{\n    if(!cart.length){e.preventDefault();return;}\n    const checkout=e.currentTarget; checkout.dataset.orderId=orderId(); const ref=document.querySelector('#fox-cart-reference'); if(ref){ref.textContent='Referencia: '+checkout.dataset.orderId;ref.hidden=false;}\n    const required=['#fox-order-name','#fox-order-phone','#fox-order-city'];\n    if(document.querySelector('#fox-order-delivery')?.value==='Envío a domicilio')required.push('#fox-order-address');\n    const missing=required.map(s=>document.querySelector(s)).find(el=>!el?.value.trim());\n    if(missing){e.preventDefault();delete checkout.dataset.orderId;missing.focus();missing.setAttribute('aria-invalid','true');alert('Completa los datos del pedido antes de enviarlo por WhatsApp.');return;}
     const phoneEl=document.querySelector('#fox-order-phone'), digits=(phoneEl?.value||'').replace(/\D/g,'');
-    if(digits.length<7||digits.length>15){e.preventDefault();delete checkout.dataset.orderId;phoneEl?.focus();phoneEl?.setAttribute('aria-invalid','true');alert('Revisa el número de teléfono.');return;}\n    required.forEach(s=>document.querySelector(s)?.removeAttribute('aria-invalid'));\n    saveCustomer();render();\n  });
+    if(digits.length<7||digits.length>15){e.preventDefault();delete checkout.dataset.orderId;phoneEl?.focus();phoneEl?.setAttribute('aria-invalid','true');alert('Revisa el número de teléfono.');return;}\n    required.forEach(s=>document.querySelector(s)?.removeAttribute('aria-invalid'));\n    saveCustomer();render(); showCartNotice('Pedido listo para enviar por WhatsApp');\n  });
   syncDeliveryFields();
   render();
 })();
