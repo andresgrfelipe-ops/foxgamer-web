@@ -1,6 +1,7 @@
 (() => {
   const KEY='foxgamer-cart-v1', CUSTOMER_KEY='foxgamer-customer-v1';
   const money=n=>new Intl.NumberFormat('es-CO',{style:'currency',currency:'COP',maximumFractionDigits:0}).format(n);
+  const orderId=()=>{const d=new Date(),p=n=>String(n).padStart(2,'0');return 'FG-'+d.getFullYear()+p(d.getMonth()+1)+p(d.getDate())+'-'+p(d.getHours())+p(d.getMinutes())+p(d.getSeconds())};
   let cart=[]; try{cart=JSON.parse(localStorage.getItem(KEY)||'[]')}catch{}\n  let customer={}; try{customer=JSON.parse(localStorage.getItem(CUSTOMER_KEY)||'{}')}catch{}
   const save=()=>{localStorage.setItem(KEY,JSON.stringify(cart));render()};
   const idFor=c=>[c.dataset.title,c.dataset.condition,c.dataset.price].join('|');
@@ -61,11 +62,32 @@
     const address=document.querySelector('#fox-order-address')?.value.trim()||'No indicada';
     const payment=document.querySelector('#fox-order-payment')?.value||'Por definir';
     const addressLine=delivery==='Envío a domicilio'?`\n• Dirección: ${address}`:'';
-    const msg=`Hola FOX GAMER, estoy interesado en los siguientes artículos de mi carrito:\n\n${lines}\n\nTotal: ${money(total)}\n\nDatos del pedido:\n• Nombre: ${name}\n• Teléfono: ${phone}\n• Ciudad: ${city}\n• Entrega: ${delivery}${addressLine}\n• Pago preferido: ${payment}\n\nQuiero confirmar disponibilidad de todos los artículos, condiciones, envío y método de pago.`;
+    const reference=checkout?.dataset.orderId||'';
+    const msg=`Hola FOX GAMER 👋
+
+Quiero solicitar la confirmación de este pedido${reference?` *${reference}*`:''}:
+
+*ARTÍCULOS*
+${lines}
+
+*RESUMEN*
+• Unidades: ${count}
+• Total productos: ${money(total)}
+
+*DATOS DEL CLIENTE*
+• Nombre: ${name}
+• Teléfono: ${phone}
+• Ciudad: ${city}
+• Entrega: ${delivery}${addressLine}
+• Pago preferido: ${payment}
+
+Por favor confirmen disponibilidad, condición de los artículos, costo de envío, garantía y total final antes del pago.`;
     const checkout=document.querySelector('#fox-cart-checkout'); checkout.href='https://wa.me/573237267448?text='+encodeURIComponent(msg); checkout.classList.toggle('is-disabled',!cart.length); checkout.setAttribute('aria-disabled',String(!cart.length));
   }
   const syncDeliveryFields=()=>{const home=document.querySelector('#fox-order-delivery')?.value==='Envío a domicilio';const wrap=document.querySelector('#fox-order-address-wrap');if(wrap)wrap.hidden=!home;};
-  document.querySelectorAll('#fox-order-name,#fox-order-phone,#fox-order-city,#fox-order-address,#fox-order-delivery,#fox-order-payment').forEach(el=>el.addEventListener('input',()=>{saveCustomer();syncDeliveryFields();render()}));\n  document.querySelector('#fox-cart-checkout').addEventListener('click',e=>{\n    if(!cart.length){e.preventDefault();return;}\n    const required=['#fox-order-name','#fox-order-phone','#fox-order-city'];\n    if(document.querySelector('#fox-order-delivery')?.value==='Envío a domicilio')required.push('#fox-order-address');\n    const missing=required.map(s=>document.querySelector(s)).find(el=>!el?.value.trim());\n    if(missing){e.preventDefault();missing.focus();missing.setAttribute('aria-invalid','true');alert('Completa los datos del pedido antes de enviarlo por WhatsApp.');return;}\n    required.forEach(s=>document.querySelector(s)?.removeAttribute('aria-invalid'));\n    saveCustomer();render();\n  });
+  document.querySelectorAll('#fox-order-name,#fox-order-phone,#fox-order-city,#fox-order-address,#fox-order-delivery,#fox-order-payment').forEach(el=>el.addEventListener('input',()=>{saveCustomer();syncDeliveryFields();render()}));\n  document.querySelector('#fox-cart-checkout').addEventListener('click',e=>{\n    if(!cart.length){e.preventDefault();return;}\n    const checkout=e.currentTarget; checkout.dataset.orderId=orderId();\n    const required=['#fox-order-name','#fox-order-phone','#fox-order-city'];\n    if(document.querySelector('#fox-order-delivery')?.value==='Envío a domicilio')required.push('#fox-order-address');\n    const missing=required.map(s=>document.querySelector(s)).find(el=>!el?.value.trim());\n    if(missing){e.preventDefault();delete checkout.dataset.orderId;missing.focus();missing.setAttribute('aria-invalid','true');alert('Completa los datos del pedido antes de enviarlo por WhatsApp.');return;}
+    const phoneEl=document.querySelector('#fox-order-phone'), digits=(phoneEl?.value||'').replace(/\D/g,'');
+    if(digits.length<7||digits.length>15){e.preventDefault();delete checkout.dataset.orderId;phoneEl?.focus();phoneEl?.setAttribute('aria-invalid','true');alert('Revisa el número de teléfono.');return;}\n    required.forEach(s=>document.querySelector(s)?.removeAttribute('aria-invalid'));\n    saveCustomer();render();\n  });
   syncDeliveryFields();
   render();
 })();
