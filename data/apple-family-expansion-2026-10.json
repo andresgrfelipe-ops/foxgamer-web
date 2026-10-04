@@ -1,0 +1,342 @@
+{
+  "reviewedAt": "2026-10-04",
+  "pricingPolicy": "Precio nuevo 5% por debajo de referencia comparable, redondeado hacia abajo a $50.000 COP. Exhibición 85% y usado 70% del precio nuevo, estimados y sujetos a confirmación. SE y nuevo iPhone 16 Pro: estimaciones comerciales, no oferta nueva verificada.",
+  "products": [
+    {
+      "name": "iPhone 17 Pro 256 GB",
+      "slug": "iphone-17-pro-256gb",
+      "referencePrice": 4099990,
+      "sourceUrl": "https://www.celudmovil.com.co/products/iphone-17-pro-256gb-sim-virtual-nuevo",
+      "sourceTitle": "IPhone 17 Pro 256GB Sim Virtual Nuevo",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
+      "prices": {
+        "Nuevo": 3850000,
+        "Exhibición": 3250000,
+        "Usado": 2650000
+      }
+    },
+    {
+      "name": "iPhone 17 Pro Max 256 GB",
+      "slug": "iphone-17-pro-max-256gb",
+      "referencePrice": 4399990,
+      "sourceUrl": "https://www.celudmovil.com.co/products/iphone-17-pro-max-256gb-sim-virtual-nuevo-cosmic-orange",
+      "sourceTitle": "IPhone 17 Pro Max 256GB Sim virtual Nuevo",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
+      "prices": {
+        "Nuevo": 4150000,
+        "Exhibición": 3500000,
+        "Usado": 2900000
+      }
+    },
+    {
+      "name": "iPhone Air 256 GB",
+      "slug": "iphone-air-256gb",
+      "referencePrice": 3499990,
+      "sourceUrl": "https://www.celudmovil.com.co/products/iphone-air-256gb-nuevo-sim-virtual",
+      "sourceTitle": "IPhone Air 256GB Sim Virtual Nuevo",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
+      "prices": {
+        "Nuevo": 3300000,
+        "Exhibición": 2800000,
+        "Usado": 2300000
+      }
+    },
+    {
+      "name": "iPhone 17e 256 GB",
+      "slug": "iphone-17e-256gb",
+      "referencePrice": 3349000,
+      "sourceUrl": "https://co.tiendasishop.com/products/iphone-17e-mhrw4lz-a",
+      "sourceTitle": "iPhone 17e 256 GB Blanco",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17e/iphone-17e-colors.png",
+      "prices": {
+        "Nuevo": 3150000,
+        "Exhibición": 2650000,
+        "Usado": 2200000
+      }
+    },
+    {
+      "name": "iPhone 16 Pro 128 GB",
+      "slug": "iphone-16-pro-128gb",
+      "referencePrice": 3600000,
+      "sourceUrl": "https://www.celudmovil.com.co/products/iphone-16-pro-128gb-exh-sim-virtual",
+      "sourceTitle": "IPhone 16 Pro 128GB EXH Sim Virtual",
+      "newPriceEstimated": true,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png",
+      "prices": {
+        "Nuevo": 3400000,
+        "Exhibición": 2850000,
+        "Usado": 2350000
+      }
+    },
+    {
+      "name": "iPhone 16 Plus 128 GB",
+      "slug": "iphone-16-plus-128gb",
+      "referencePrice": 3799000,
+      "sourceUrl": "https://co.tiendasishop.com/products/iphone-16-mxvv3be-a",
+      "sourceTitle": "iPhone 16 Plus 128 GB Blanco",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png",
+      "prices": {
+        "Nuevo": 3600000,
+        "Exhibición": 3050000,
+        "Usado": 2500000
+      }
+    },
+    {
+      "name": "iPhone SE 2020 64 GB",
+      "slug": "iphone-se-2020-64gb",
+      "referencePrice": 1200000,
+      "sourceUrl": "https://www.homecenter.com.co/homecenter-co/product/483670/celular-iphone-se-64gb-blanco/483670/",
+      "sourceTitle": "iPhone SE 2020 64 GB",
+      "newPriceEstimated": true,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-2nd-gen-colors.jpg",
+      "prices": {
+        "Nuevo": 1100000,
+        "Exhibición": 900000,
+        "Usado": 750000
+      }
+    },
+    {
+      "name": "iPhone SE 2022 64 GB",
+      "slug": "iphone-se-2022-64gb",
+      "referencePrice": 1600000,
+      "sourceUrl": "https://segonda.com/producto/iphone-se-2022",
+      "sourceTitle": "iPhone SE 2022 64 GB",
+      "newPriceEstimated": true,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se-3rd-gen-colors.png",
+      "prices": {
+        "Nuevo": 1500000,
+        "Exhibición": 1250000,
+        "Usado": 1050000
+      }
+    },
+    {
+      "name": "iPad Air 11 pulgadas M4 128 GB Wi-Fi",
+      "slug": "ipad-air-11-m4-128gb",
+      "referencePrice": 2649990,
+      "sourceUrl": "https://www.celudmovil.com.co/products/ipad-air-11-m4-128gb-wifi",
+      "sourceTitle": "iPad Air 11❞ M4 128GB WIFI",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2026-ipad-air-11.png",
+      "prices": {
+        "Nuevo": 2500000,
+        "Exhibición": 2100000,
+        "Usado": 1750000
+      }
+    },
+    {
+      "name": "iPad Air 13 pulgadas M4 128 GB Wi-Fi",
+      "slug": "ipad-air-13-m4-128gb",
+      "referencePrice": 4299000,
+      "sourceUrl": "https://co.tiendasishop.com/products/ipad-air-de-13-pulgadas-m4-mh5p4cl-a",
+      "sourceTitle": "iPad Air de 13 pulgadas Wi-Fi 128 GB - Azul (M4)",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2026-ipad-air-13.png",
+      "prices": {
+        "Nuevo": 4050000,
+        "Exhibición": 3400000,
+        "Usado": 2800000
+      }
+    },
+    {
+      "name": "iPad Pro 11 pulgadas M5 256 GB Wi-Fi",
+      "slug": "ipad-pro-11-m5-256gb",
+      "referencePrice": 4699990,
+      "sourceUrl": "https://www.i-store.co/ipad-colombia",
+      "sourceTitle": "iPad Pro 11 pulgadas M5 256 GB Wi-Fi",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-11in.png",
+      "prices": {
+        "Nuevo": 4450000,
+        "Exhibición": 3750000,
+        "Usado": 3100000
+      }
+    },
+    {
+      "name": "iPad Pro 13 pulgadas M5 256 GB",
+      "slug": "ipad-pro-13-m5-256gb",
+      "referencePrice": 5399990,
+      "sourceUrl": "https://www.i-store.co/ipad",
+      "sourceTitle": "iPad Pro 13 pulgadas M5 256 GB",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-13in.png",
+      "prices": {
+        "Nuevo": 5100000,
+        "Exhibición": 4300000,
+        "Usado": 3550000
+      }
+    },
+    {
+      "name": "iPad mini A17 Pro 128 GB Wi-Fi",
+      "slug": "ipad-mini-a17-pro-128gb",
+      "referencePrice": 2399990,
+      "sourceUrl": "https://www.i-store.co/ipad",
+      "sourceTitle": "iPad mini A17 Pro 128 GB Wi-Fi",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-mini/ipad-mini-2024-colors.png",
+      "prices": {
+        "Nuevo": 2250000,
+        "Exhibición": 1900000,
+        "Usado": 1550000
+      }
+    },
+    {
+      "name": "MacBook Pro 14 pulgadas M5 Pro 24 GB RAM 1 TB SSD",
+      "slug": "macbook-pro-14-m5-pro-24gb-1tb",
+      "referencePrice": 8999990,
+      "sourceUrl": "https://www.celudmovil.com.co/products/macbook-pro-m5-pro-14-1tera-nueva",
+      "sourceTitle": "MacBook Pro - M5 Pro 14❞ 1TERA Nueva",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m5-pro-m5-max.png",
+      "prices": {
+        "Nuevo": 8500000,
+        "Exhibición": 7200000,
+        "Usado": 5950000
+      }
+    },
+    {
+      "name": "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 1 TB SSD",
+      "slug": "macbook-pro-16-m5-pro-24gb-1tb",
+      "referencePrice": 11399990,
+      "sourceUrl": "https://www.i-store.co/macbook-pro-colombia",
+      "sourceTitle": "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 1 TB SSD",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m5-pro-m5-max.png",
+      "prices": {
+        "Nuevo": 10800000,
+        "Exhibición": 9150000,
+        "Usado": 7550000
+      }
+    },
+    {
+      "name": "MacBook Pro 14 pulgadas M5 Max 36 GB RAM 2 TB SSD",
+      "slug": "macbook-pro-14-m5-max-36gb-2tb",
+      "referencePrice": 16899990,
+      "sourceUrl": "https://www.i-store.co/macbook-pro-colombia",
+      "sourceTitle": "MacBook Pro 14 pulgadas M5 Max 36 GB RAM 2 TB SSD",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m5-pro-m5-max.png",
+      "prices": {
+        "Nuevo": 16050000,
+        "Exhibición": 13600000,
+        "Usado": 11200000
+      }
+    },
+    {
+      "name": "MacBook Pro 16 pulgadas M5 Max 36 GB RAM 2 TB SSD",
+      "slug": "macbook-pro-16-m5-max-36gb-2tb",
+      "referencePrice": 20591100,
+      "sourceUrl": "https://co.tiendasishop.com/products/macbook-pro-de-16-pulgadas-m5-max-mged4e-a",
+      "sourceTitle": "MacBook Pro de 16 pulgadas: Chip M5 Max de Apple con CPU de 18 núcleos y GPU de 32 núcleos, 2 TB SSD - Negro espacial",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m5-pro-m5-max.png",
+      "prices": {
+        "Nuevo": 19550000,
+        "Exhibición": 16600000,
+        "Usado": 13650000
+      }
+    },
+    {
+      "name": "iMac 24 pulgadas M4 16 GB RAM 256 GB SSD",
+      "slug": "imac-24-m4-16gb-256gb",
+      "referencePrice": 7100100,
+      "sourceUrl": "https://co.tiendasishop.com/products/imac-con-pantalla-retina-4-5k-de-24-pulgadas-m4-mwug3lz-a",
+      "sourceTitle": "iMac con pantalla Retina 4,5K de 24 pulgadas: Chip M4 de Apple con CPU de 8 núcleos y GPU de 8 núcleos, 256 GB SSD - Rosa",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2024-two-ports-colors.png",
+      "prices": {
+        "Nuevo": 6700000,
+        "Exhibición": 5650000,
+        "Usado": 4650000
+      }
+    },
+    {
+      "name": "Mac Studio M5 Max 36 GB RAM 512 GB SSD",
+      "slug": "mac-studio-m5-max-36gb-512gb",
+      "referencePrice": 11499000,
+      "sourceUrl": "https://co.tiendasishop.com/products/mac-studio-mhl64lz-a",
+      "sourceTitle": "Mac Studio: Chip M5 Max de Apple con CPU de 18 núcleos y GPU de 32 núcleos, 512 GB SSD",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-m5-max.png",
+      "prices": {
+        "Nuevo": 10900000,
+        "Exhibición": 9250000,
+        "Usado": 7600000
+      }
+    },
+    {
+      "name": "Mac Studio M5 Ultra 96 GB RAM 1 TB SSD",
+      "slug": "mac-studio-m5-ultra-96gb-1tb",
+      "referencePrice": 25699000,
+      "sourceUrl": "https://co.tiendasishop.com/products/mac-studio-mhl74lz-a",
+      "sourceTitle": "Mac Studio: Chip M5 Ultra de Apple con CPU de 30 núcleos y GPU de 64 núcleos, 1 TB SSD",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-m5-ultra.png",
+      "prices": {
+        "Nuevo": 24400000,
+        "Exhibición": 20700000,
+        "Usado": 17050000
+      }
+    },
+    {
+      "name": "Apple Watch Series 12 GPS 42 mm",
+      "slug": "apple-watch-series-12-gps-42mm",
+      "referencePrice": 1649990,
+      "sourceUrl": "https://www.celudmovil.com.co/products/apple-watch-serie-12-42mm-nuevo",
+      "sourceTitle": "Apple Watch Serie 12 42MM Nuevo",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-12-aluminum-gps.png",
+      "prices": {
+        "Nuevo": 1550000,
+        "Exhibición": 1300000,
+        "Usado": 1050000
+      }
+    },
+    {
+      "name": "Apple Watch Ultra 4 GPS Cellular 49 mm",
+      "slug": "apple-watch-ultra-4-49mm",
+      "referencePrice": 3799000,
+      "sourceUrl": "https://co.tiendasishop.com/products/apple-watch-ultra-4-correa-alpine-mjaf4cl-a",
+      "sourceTitle": "Apple Watch Ultra 4 GPS + Cellular • Caja de titanio natural de 49 mm • Correa Alpine color desierto – M",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-4.png",
+      "prices": {
+        "Nuevo": 3600000,
+        "Exhibición": 3050000,
+        "Usado": 2500000
+      }
+    },
+    {
+      "name": "AirPods Pro 3 USB-C",
+      "slug": "airpods-pro-3-usbc",
+      "referencePrice": 899990,
+      "sourceUrl": "https://www.celudmovil.com.co/products/airpods-pro-3-generacion",
+      "sourceTitle": "Airpods Pro 3ra Generación",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://www.apple.com/v/airpods-pro/t/images/overview/welcome/hero__b0eal3mn03ua_large.jpg",
+      "prices": {
+        "Nuevo": 850000,
+        "Exhibición": 700000,
+        "Usado": 550000
+      }
+    },
+    {
+      "name": "AirPods 5 con estuche USB-C",
+      "slug": "airpods-5-estuche-usbc",
+      "referencePrice": 549990,
+      "sourceUrl": "https://www.celudmovil.com.co/products/airpods-5-generacion",
+      "sourceTitle": "Airpods 5 Generación",
+      "newPriceEstimated": false,
+      "imageSourceUrl": "https://cdsassets.apple.com/live/7WUAS350/images/airpods/charging-case-for-airpods-5.png",
+      "prices": {
+        "Nuevo": 500000,
+        "Exhibición": 400000,
+        "Usado": 350000
+      }
+    }
+  ]
+}

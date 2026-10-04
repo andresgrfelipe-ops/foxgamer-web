@@ -3,6 +3,31 @@ export const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, c => 
 // Storage and refurbishment labels do not change an iPhone's exterior model.
 // Only official, explicitly matched iPhone references may share a model image.
 export function imageIdentity(proof) {
+  const air = proof.name.match(/^iPad Air (11|13) pulgadas M(3|4) \d+ GB(?: Cellular| Wi-Fi)?$/);
+  if (proof.kind === 'manufacturer' && air) {
+    if (proof.sourceModel !== `iPad Air ${air[1]}-inch (M${air[2]})`) throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return `iPad Air ${air[1]}-inch (M3/M4 exterior)`;
+  }
+  const ipadPro = proof.name.match(/^iPad Pro 11 pulgadas M(4|5) \d+ GB(?: Wi-Fi)?$/);
+  if (proof.kind === 'manufacturer' && ipadPro) {
+    if (proof.sourceModel !== `iPad Pro 11-inch (M${ipadPro[1]})`) throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return 'iPad Pro 11-inch (M4/M5 exterior)';
+  }
+  const studio = proof.name.match(/^Mac Studio M5 (Max|Ultra) \d+ GB RAM \d+ (GB|TB) SSD$/);
+  if (proof.kind === 'manufacturer' && studio) {
+    if (proof.sourceModel !== `Mac Studio (M5 ${studio[1]})`) throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return 'Mac Studio (M5 Max/M5 Ultra exterior)';
+  }
+  if (proof.kind === 'manufacturer' && /^MacBook Pro (14|16) pulgadas M5 (Pro|Max) \d+ GB RAM \d+ TB SSD$/.test(proof.name)) {
+    const size = proof.name.match(/^MacBook Pro (14|16)/)[1];
+    const expected = `MacBook Pro (${size}-inch, M5 Pro or M5 Max)`;
+    if (proof.sourceModel !== expected) throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return expected;
+  }
+  if (proof.kind === 'manufacturer' && /^iPad Pro 13 pulgadas M5 \d+ GB$/.test(proof.name)) {
+    if (proof.sourceModel !== 'iPad Pro 13-inch (M5)') throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return proof.sourceModel;
+  }
   const watchModels = {'Apple Watch Series 11':'Apple Watch Series 11 (GPS)', 'Apple Watch Series 11 GPS Cellular 46 mm':'Apple Watch Series 11 (GPS + Cellular) Aluminium'};
   if (proof.kind === 'manufacturer' && watchModels[proof.name]) {
     if (proof.sourceModel !== watchModels[proof.name]) throw new Error('Modelo oficial no coincide: ' + proof.name);
