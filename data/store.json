@@ -13,21 +13,21 @@
     {
       "slug": "videojuegos",
       "name": "Videojuegos",
-      "description": "Explora juegos y consulta títulos para PS5, PS4, PS3, PS2 y Xbox 360. Confirma edición, formato y disponibilidad con FOX GAMER.",
+      "description": "Explora juegos para PS5, PS4, PS3, PS2 y Xbox 360. Revisa edición, formato y precio y continúa tu compra con FOX GAMER.",
       "icon": "game",
       "image": "/assets/photos/img_6203.webp"
     },
     {
       "slug": "accesorios",
       "name": "Accesorios",
-      "description": "Accesorios, simuladores, volantes, realidad virtual y periféricos para completar tu estación gamer. Consulta compatibilidad y disponibilidad.",
+      "description": "Accesorios, simuladores, volantes, realidad virtual y periféricos para completar tu estación gamer. Revisa compatibilidad, condición y precio.",
       "icon": "controller",
       "image": "/assets/photos/img_2369.webp"
     },
     {
       "slug": "apple",
       "name": "Apple",
-      "description": "iPhone, iPad y Mac con configuración, capacidad y condición visibles. Consulta garantía y disponibilidad.",
+      "description": "iPhone, iPad, Mac, Apple Watch y AirPods con configuración, capacidad, condición y precio visibles.",
       "icon": "phone"
     }
   ],
