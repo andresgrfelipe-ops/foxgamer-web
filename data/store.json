@@ -13693,7 +13693,7 @@
     {
       "name": "iPad Air 11 pulgadas M4 128 GB Wi-Fi",
       "image": "/assets/photos/apple-ipad-air-11-m4-128gb.png",
-      "sha256": "3f2d1a6424cbd01b8b5690b2e98a34a1daa393194ede1616121500a67e4a371f",
+      "sha256": "0aebc51af5b348d0100b55fbc7cfb32fa6fc3baf76a9d07ef16ecc4cb4fb523e",
       "kind": "manufacturer",
       "manufacturer": "Apple",
       "sourceModel": "iPad Air 11-inch (M4)",
@@ -13705,7 +13705,7 @@
     {
       "name": "iPad Air 13 pulgadas M4 128 GB Wi-Fi",
       "image": "/assets/photos/apple-ipad-air-13-m4-128gb.png",
-      "sha256": "f74a90d77e046ef505786f8da3d1cb4463c4848c1a9bef408dca9082dd0dddc6",
+      "sha256": "fabe6af04ba204975d549e96b042a528d694dfa8670665cb3f42a5f0a324386f",
       "kind": "manufacturer",
       "manufacturer": "Apple",
       "sourceModel": "iPad Air 13-inch (M4)",
@@ -13741,7 +13741,7 @@
     {
       "name": "iPad mini A17 Pro 128 GB Wi-Fi",
       "image": "/assets/photos/apple-ipad-mini-a17-pro-128gb.png",
-      "sha256": "426a8484f6d1a3d58707c337fe20ccc7a90ab0ffb2c83b12d441d6d2e9ef5b09",
+      "sha256": "15939892e6ab602f534225dfe934ac03111af1621678d5aeafe88a3b11fc8f16",
       "kind": "manufacturer",
       "manufacturer": "Apple",
       "sourceModel": "iPad mini A17 Pro 128 GB Wi-Fi",
@@ -13765,7 +13765,7 @@
     {
       "name": "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 1 TB SSD",
       "image": "/assets/photos/apple-macbook-pro-16-m5-pro-24gb-1tb.png",
-      "sha256": "f582af6d3062e599360ed18df77e947d0601f8ffa4a196e2631b775f1a5e4b33",
+      "sha256": "02440091937742778db5f4f9181838d9505714c50a00a710b9de4fc28ce801a3",
       "kind": "manufacturer",
       "manufacturer": "Apple",
       "sourceModel": "MacBook Pro (16-inch, M5 Pro or M5 Max)",
@@ -13789,7 +13789,7 @@
     {
       "name": "MacBook Pro 16 pulgadas M5 Max 36 GB RAM 2 TB SSD",
       "image": "/assets/photos/apple-macbook-pro-16-m5-max-36gb-2tb.png",
-      "sha256": "f582af6d3062e599360ed18df77e947d0601f8ffa4a196e2631b775f1a5e4b33",
+      "sha256": "02440091937742778db5f4f9181838d9505714c50a00a710b9de4fc28ce801a3",
       "kind": "manufacturer",
       "manufacturer": "Apple",
       "sourceModel": "MacBook Pro (16-inch, M5 Pro or M5 Max)",
