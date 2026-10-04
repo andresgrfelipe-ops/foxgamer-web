@@ -3,7 +3,7 @@ import {gameDirectory} from './games-directory.mjs';
 
 export const jsonLD = data => '<script type="application/ld+json">' + JSON.stringify(data).replace(/</g, '\\u003c') + '</script>';
 const icon = name => '<svg aria-hidden="true"><use href="/assets/icons.svg#' + name + '"></use></svg>';
-const availability = {available: 'Disponible', inquiry: 'Consultar disponibilidad', soldout: 'Agotado'};
+const availability = {available: 'Disponible', inquiry: 'Compra disponible · confirma detalles', soldout: 'Agotado'};
 const badge = condition => '<span class="badge" data-condition="' + e(condition) + '">' + e(condition) + '</span>';
 const placeholder = '<span class="image-placeholder"><span aria-hidden="true">—</span><strong>Imagen próximamente</strong><small>Consulta la fotografía de esta referencia</small></span>';
 
@@ -14,14 +14,14 @@ export function createStorefront(store) {
   const illustration = p => store.verifiedImages?.some(v => v.name === p.name && v.image === p.image && v.kind === 'illustration');
   const imageClass = p => officialImage(p) || referenceImage(p) || illustration(p) ? ' manufacturer-image' : '';
   const productURL = p => store.url + '/productos/' + p.slug + '/';
-  const message = p => 'Hola FOX GAMER, quiero consultar ' + p.name + ' (' + p.condition + '). ' + productURL(p)
-    + ' Quiero confirmar disponibilidad, precio final, accesorios y envío.';
-  const productContact = (p, label = 'Consultar por WhatsApp', cls = 'button') => {
+  const message = p => 'Hola FOX GAMER, quiero realizar la compra de ' + p.name + ' (' + p.condition + '). ' + productURL(p)
+    + ' Precio publicado: ' + priceLabel(p) + '. Quiero continuar con mi pedido y confirmar envío, garantía y datos de pago.';
+  const productContact = (p, label = 'Realizar compra', cls = 'button') => {
     if (p.availability === 'soldout') return '';
     const url = whatsappURL(store.whatsapp, message(p));
     return url ? '<a class="' + cls + '" href="' + e(url) + '" target="_blank" rel="noopener noreferrer" aria-label="'
       + e(label + ': ' + p.name + ', ' + p.condition + ' (abre otra pestaña)') + '">' + icon('chat') + e(label) + '</a>'
-      : '<a class="' + cls + '" href="/#contacto">Consultar contacto</a>';
+      : '<a class="' + cls + '" href="/#contacto">Realizar compra</a>';
   };
   const financingContact = (p, provider) => {
     if (p.availability === 'soldout') return '';
@@ -48,7 +48,7 @@ export function createStorefront(store) {
       <a href="/productos/${p.slug}/"><div class="product-image${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="640" height="480" loading="lazy" decoding="async">` : placeholder}${badge(p.condition)}</div>
       ${officialImage(p) ? '<span class="reference-caption">Imagen de referencia · '+e(officialManufacturer(p))+'</span>' : referenceImage(p) ? '<span class="reference-caption">'+(p.classicGame?'Portada de referencia':'Fotografía de referencia del modelo')+'</span>' : illustration(p) ? '<span class="reference-caption">Imagen referencial · confirma el modelo</span>' : ''}
       <div class="product-info"><span class="eyebrow">${e(p.brand || p.category)}</span><h3>${e(p.name)}</h3><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p><strong class="card-price">${priceLabel(p)}</strong><span class="detail-link">Ver detalles ${icon('arrow')}</span></div></a>
-      ${productContact(p, 'Consultar', 'button secondary card-contact')}</article>`;
+      ${productContact(p, 'Realizar compra', 'button secondary card-contact')}</article>`;
   }
   function catalog(category) {
     if(category === 'videojuegos') return gameDirectory(store);
@@ -58,7 +58,7 @@ export function createStorefront(store) {
       (category === 'accesorios' ? Number(!a.image)-Number(!b.image) : 0) || (featuredOrder[a.name] ?? 100) - (featuredOrder[b.name] ?? 100) || a.name.localeCompare(b.name, 'es') || conditionOrder[a.condition] - conditionOrder[b.condition]);
     const categoryName = store.categories.find(c => c.slug === category)?.name;
     return `${category === 'videojuegos' ? gameDirectory(store) : ''}<section class="section wrap" id="productos" aria-labelledby="catalog-title">
-      <div class="section-top"><div><p class="eyebrow">ELIGE TU PRÓXIMO EQUIPO</p><h2 id="catalog-title">${category ? 'Catálogo de ' + e(categoryName) : 'Encuentra lo que buscas'}</h2></div><span class="catalog-note">Precios en COP<br>Confirma cada unidad antes de comprar</span></div>
+      <div class="section-top"><div><p class="eyebrow">ELIGE TU PRÓXIMO EQUIPO</p><h2 id="catalog-title">${category ? 'Catálogo de ' + e(categoryName) : 'Encuentra lo que buscas'}</h2></div><span class="catalog-note">Precios en COP<br>Elige tu producto y realiza la compra</span></div>
       ${category === 'accesorios' ? '<div class="accessory-guide"><h3>Elige para tu consola.</h3><p>Comprueba la plataforma del accesorio y del juego. En volantes, confirma también pedales, palanca y montaje.</p><nav class="category-tabs" aria-label="Explorar accesorios"><a href="?q=DualSense#productos">Controles PS5</a><a href="?q=G29#productos">G29 · PlayStation / PC</a><a href="?q=G920#productos">G920 · Xbox / PC</a><a href="?q=VR2#productos">PlayStation VR2</a><a href="?q=Quest#productos">Meta Quest</a><a href="?q=Portal#productos">PlayStation Portal</a><a href="?q=PULSE#productos">Audio PULSE Elite</a></nav></div>' : ''}<form class="filters" role="search" aria-label="Filtrar catálogo" action="#productos">
         <label class="search-label">Buscar por modelo o referencia<span>${icon('search')}<input id="search" name="q" type="search" placeholder="${category === 'accesorios' ? 'Prueba G29, DualSense o VR2…' : 'Prueba PS5, iPhone o Nintendo…'}" maxlength="100" autocomplete="off" enterkeyhint="search" aria-controls="product-grid"></span></label>
         <label>Categoría<select id="category" name="categoria"><option value="">Todas las categorías</option>${store.categories.map(c => `<option value="${c.slug}"${category === c.slug ? ' selected' : ''}>${e(c.name)}</option>`).join('')}</select></label>
@@ -93,12 +93,12 @@ export function createStorefront(store) {
     const body = `<section class="wrap section product-section"><nav class="breadcrumbs" aria-label="Ruta de navegación"><a href="/">Inicio</a><span aria-hidden="true">/</span><a href="/categorias/${c.slug}/">${e(c.name)}</a><span aria-hidden="true">/</span><span aria-current="page">${e(p.name)} · ${e(p.condition)}</span></nav>
       <div class="product-detail"><div class="product-media"><div class="product-visual${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(p.name)}" width="800" height="600" fetchpriority="high" decoding="async">` : placeholder}</div><p class="small photo-disclaimer">${p.classicGame ? 'Portada de referencia del juego. Solicita fotografías reales de la unidad y confirma región, idioma, edición, discos y estado antes de comprar.' : officialImage(p) ? 'Imagen de referencia del fabricante. Confirma color, accesorios y fotografías del estado de la unidad que vas a comprar.' : referenceImage(p) ? 'Fotografía de referencia del modelo. Confirma fotografías reales, accesorios y estado de la unidad antes de comprar.' : illustration(p) ? 'Imagen ilustrativa, no corresponde a una unidad específica. Confirma por WhatsApp el modelo exacto, color, accesorios y fotografías reales antes de comprar.' : p.image ? 'Fotografía del modelo. Confirma las fotos, accesorios y estado de la unidad que vas a comprar.' : 'Esta referencia aún no tiene una fotografía verificada. Solicítala antes de comprar.'}</p></div>
       <div class="product-summary">${badge(p.condition)}<p class="eyebrow">${e(p.brand || c.name)}</p><h1>${e(p.name)}</h1><p class="product-description">${e(p.description)}</p>
-      ${variantNav}<div class="purchase-panel"><p class="product-price">${priceLabel(p)}</p><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p>${p.availability === 'soldout' ? '<p>Esta unidad no está disponible para compra.</p>' : productContact(p, 'Consultar este producto')}
+      ${variantNav}<div class="purchase-panel"><p class="product-price">${priceLabel(p)}</p><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p>${p.availability === 'soldout' ? '<p>Esta unidad no está disponible para compra.</p>' : productContact(p, 'Realizar compra')}
       ${p.availability === 'soldout' ? '' : '<div class="financing-options" aria-label="Opciones de pago y financiación"><p>Elige cómo quieres continuar</p>' + nequiContact(p) + financingContact(p, 'Addi') + financingContact(p, 'Sistecrédito') + '</div>'}
       <p class="small">Confirma el precio final, la garantía, el envío y los datos oficiales antes de pagar por Nequi. Addi y Sistecrédito están sujetos a estudio y aprobación; abrir WhatsApp no garantiza el crédito ni realiza un cobro.</p></div>
       <dl class="product-facts">${p.compatibility ? '<div><dt>Compatibilidad</dt><dd>'+e(p.compatibility)+'</dd></div>' : ''}<div><dt>Estado de la unidad</dt><dd>${e(p.conditionNotes)}</dd></div><div><dt>Incluye</dt><dd>${e(p.includes)}</dd></div><div><dt>Garantía</dt><dd>${e(p.warranty)}</dd></div></dl>
       <a class="text-link" href="/categorias/${c.slug}/#productos">Seguir explorando ${e(c.name)} ${icon('arrow')}</a><br><a class="text-link" href="/#pagos">Opciones de pago y envío ${icon('arrow')}</a></div></div></section>
-      ${p.availability !== 'soldout' ? `<aside class="mobile-product-contact" aria-label="Consulta de ${e(p.name)}"><span>${e(p.condition)}<strong>${priceLabel(p)}</strong></span>${productContact(p, 'Consultar', 'button')}</aside>` : ''}`;
+      ${p.availability !== 'soldout' ? `<aside class="mobile-product-contact" aria-label="Compra de ${e(p.name)}"><span>${e(p.condition)}<strong>${priceLabel(p)}</strong></span>${productContact(p, 'Comprar', 'button')}</aside>` : ''}`;
     return {body, extra: jsonLD(schema) + breadcrumbsSchema(p)};
   }
   return {catalog, productDetail, breadcrumbsSchema};
