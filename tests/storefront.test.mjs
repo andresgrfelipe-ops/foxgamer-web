@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
-import {createStorefront} from '../scripts/storefront.mjs';
+import {createStorefront,productName} from '../scripts/storefront.mjs';
 const store=JSON.parse(await readFile('data/store.json','utf8'));
 const ui=createStorefront(store);
 test('las imágenes de Apple se presentan como referencias del fabricante',()=>{
@@ -17,7 +17,7 @@ const schemas=html=>[...html.matchAll(/<script type="application\/ld\+json">(.*?
 test('fichas: precio, disponibilidad, imágenes y breadcrumbs fieles a las 450 variantes',()=>{
   for(const p of store.products){
     const {body,extra}=ui.productDetail(p);const [product,breadcrumb]=schemas(extra);
-    assert.equal(product.name,p.name);assert.equal(product.sku,p.slug);
+    assert.equal(product.name,productName(p));assert.equal(product.sku,p.slug);
     assert.equal(product.offers?.price,p.price??undefined);
     if(p.availability==='inquiry')assert.equal(product.offers?.availability,undefined);
     if(p.price!==null&&p.availability==='available')assert.equal(product.offers.availability,'https://schema.org/InStock');
@@ -47,9 +47,9 @@ test('consulta identifica nombre, condición y enlace; tarjetas tienen etiqueta 
   const url=body.match(/href="(https:\/\/wa.me\/[^\"]+)"/)[1];
   const message=new URL(url.replaceAll('&amp;','&')).searchParams.get('text');
   assert.ok(message.includes(p.name+' ('+p.condition+')'));
-  assert.ok(message.includes('/productos/'+p.slug+'/'));assert.ok(message.includes('precio final'));
+  assert.ok(message.includes('/productos/'+p.slug+'/'));assert.ok(message.includes('Precio publicado'));
   const catalog=ui.catalog();assert.equal((catalog.match(/data-product /g)||[]).length,store.products.length);
-  assert.ok(catalog.includes('aria-label="Consultar: '+p.name+', '+p.condition));
+  assert.ok(catalog.includes('aria-label="Realizar compra: '+p.name+', '+p.condition));
 });
 test('Addi y Sistecrédito abren WhatsApp con producto, condición, precio y requisitos',()=>{
   const p=store.products.find(p=>p.availability!=='soldout'&&p.price!=null);

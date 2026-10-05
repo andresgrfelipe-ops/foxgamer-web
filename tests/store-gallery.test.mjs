@@ -12,7 +12,7 @@ test('galería de accesorios visible: solo enlaza foto y precio del modelo verif
  assert(!html.includes('IMG_2293'));
  assert(!html.includes('/productos/diademas-nuevo/'));
  assert(!html.includes('/productos/g29-nuevo/'));
- assert.match(html,/Consultar esta fotografía/);
+ assert.match(html,/Identificar esta fotografía/);
  assert.match(html,/img_2460-large.webp/);
 });
 test('una asociación no verificada no hereda un precio y el resto de galerías conserva su presentación',()=>{

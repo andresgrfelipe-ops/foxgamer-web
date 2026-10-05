@@ -1,4 +1,5 @@
 import test from 'node:test';
+import {Script} from 'node:vm';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 
@@ -36,3 +37,5 @@ test('order reference resets whenever the order changes',()=>{
   assert.match(cart,/resetReference\(\); save\(\); showCartNotice/);
   assert.match(cart,/\[data-plus\].*resetReference\(\)/s);
 });
+
+test('cart JavaScript compiles before it is published',()=>{assert.doesNotThrow(()=>new Script(cart));});
