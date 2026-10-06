@@ -15,5 +15,5 @@ test('incluye todas las entradas del directorio real y conserva las 47 fichas co
  const all=mergeEntries([...groups.values()],d.games);assert(selectEntries(all,{verified:true}).length>=47);for(const original of groups.values()){const merged=all.find(g=>g.title===original.title&&g.platform===original.platform);assert.equal(merged,original);}assert(all.length>=d.games.length);
  const keys=new Set(all.map(e=>e.platform+'|'+ctx.FoxGameDirectory.normalize(e.title)));
  for(const g of d.games)assert(keys.has(g.platform+'|'+ctx.FoxGameDirectory.normalize(g.title)),g.title);
- assert.deepEqual([...new Set(all.map(g=>g.platform))].sort(),['PS2','PS3','PS4','PS5','Xbox 360']);
+ assert.deepEqual([...new Set(all.map(g=>g.platform))].sort(),['Nintendo Switch 2','PS2','PS3','PS4','PS5','Xbox 360','Xbox One / Series X','Xbox Series X']);
 });

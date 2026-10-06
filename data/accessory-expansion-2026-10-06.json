@@ -1,0 +1,369 @@
+{
+  "reviewedAt": "2026-10-06",
+  "method": "10% por debajo de la oferta comparable consultada; redondeo hacia abajo a miles de COP. No acredita stock ni margen de FOX GAMER.",
+  "accessories": [
+    {
+      "slug": "apple-adaptador-usb-c-20w-nuevo",
+      "name": "Apple Adaptador de corriente USB-C de 20 W",
+      "referencePrice": 129000,
+      "price": 116000,
+      "source": "https://mac-center.com/products/adaptador-de-corriente-usb-c-de-20-w"
+    },
+    {
+      "slug": "apple-cable-usb-c-60w-1m-nuevo",
+      "name": "Apple Cable de carga USB-C de 60 W 1 metro",
+      "referencePrice": 119000,
+      "price": 107000,
+      "source": "https://mac-center.com/products/cable-de-carga-usb-c-de-60-w-1-m-mw493am-a"
+    },
+    {
+      "slug": "apple-cable-usb-c-lightning-1m-nuevo",
+      "name": "Apple Cable USB-C a Lightning 1 metro",
+      "referencePrice": 119000,
+      "price": 107000,
+      "source": "https://mac-center.com/products/cable-de-usb-c-a-lightning-1-m-muq93am-a"
+    },
+    {
+      "slug": "apple-cargador-magsafe-1m-nuevo",
+      "name": "Apple Cargador MagSafe 1 metro",
+      "referencePrice": 229000,
+      "price": 206000,
+      "source": "https://mac-center.com/collections/todo-en-carga"
+    },
+    {
+      "slug": "soporte-escritorio-celular-ajustable-nuevo",
+      "name": "UGREEN LP113 Soporte de escritorio para celular con cuello de cisne",
+      "referencePrice": 55900,
+      "price": 50000,
+      "source": "https://ugreen.com.co/tienda/soporte-de-telefono-de-escritorio-con-cuello-de-cisne-ugreen/"
+    },
+    {
+      "slug": "soporte-escritorio-tablet-ajustable-nuevo",
+      "name": "IKEA MÖJLIGHET Soporte para tablet y audífonos naranja",
+      "referencePrice": 19990,
+      "price": 17000,
+      "source": "https://www.ikea.com/co/es/cat/accesorios-gamer-55397/"
+    },
+    {
+      "slug": "cargador-usb-c-pd-30w-nuevo",
+      "name": "UGREEN X513 Mini cargador GaN USB-C 30 W negro",
+      "referencePrice": 82500,
+      "price": 74000,
+      "source": "https://ugreen.com.co/product-category/cargadores/"
+    },
+    {
+      "slug": "bateria-externa-usb-c-pd-10000mah-nuevo",
+      "name": "ADAM ELEMENTS Batería externa 30 W 10.000 mAh verde",
+      "referencePrice": 259000,
+      "price": 233000,
+      "source": "https://mac-center.com/products/bateria-adam-elements-30w-10000mah-grn"
+    },
+    {
+      "slug": "estacion-recarga-dualsense-nuevo",
+      "name": "Sony Estación de recarga DualSense",
+      "referencePrice": 129900.0,
+      "price": 116000,
+      "source": "https://gamer4ever.com.co/products/ps5-charging-station-latam"
+    },
+    {
+      "slug": "soporte-vertical-ps5-nuevo",
+      "name": "Sony Soporte vertical para PS5",
+      "referencePrice": 119900.0,
+      "price": 107000,
+      "source": "https://gamer4ever.com.co/products/accesorio-ps5-soporte-vertical-playstation"
+    },
+    {
+      "slug": "xbox-bateria-recargable-usb-c-nuevo",
+      "name": "Xbox Batería recargable + cable USB-C",
+      "referencePrice": 139900.0,
+      "price": 125000,
+      "source": "https://gamer4ever.com.co/products/xone-play_-_charge_kit_xone"
+    },
+    {
+      "slug": "estuche-nintendo-switch-oled-nuevo",
+      "name": "HORI Estuche blando negro para Nintendo Switch OLED",
+      "referencePrice": 49900.0,
+      "price": 44000,
+      "source": "https://gamer4ever.com.co/products/accesorio-switch-estuche-blando-oled-negro-hori"
+    },
+    {
+      "slug": "estuche-nintendo-switch-2-nuevo",
+      "name": "PowerA Estuche duro gris para Nintendo Switch 2",
+      "referencePrice": 159900.0,
+      "price": 143000,
+      "source": "https://gamer4ever.com.co/products/accesorio-switch2-estuche-duro-gris-power-a"
+    },
+    {
+      "slug": "cable-usb-a-usb-c-control-nuevo",
+      "name": "Steren USB-394 Cable USB-A a USB-C 1 metro",
+      "referencePrice": 17900,
+      "price": 16000,
+      "source": "https://www.steren.com.co/cable-usb-c-de-1-m.html"
+    },
+    {
+      "slug": "cable-micro-usb-dualshock4-nuevo",
+      "name": "Steren USB-352 Cable USB-A a micro-USB 2 metros",
+      "referencePrice": 27900,
+      "price": 25000,
+      "source": "https://www.steren.com.co/cable-usb-a-micro-usb-de-2-m-0.html"
+    },
+    {
+      "slug": "soporte-diadema-gamer-nuevo",
+      "name": "IKEA LÅNESPELARE Soporte para audífonos",
+      "referencePrice": 129990,
+      "price": 116000,
+      "source": "https://www.ikea.com/co/es/cat/accesorios-gamer-55397/"
+    },
+    {
+      "slug": "cable-hdmi-ultra-high-speed-nuevo",
+      "name": "JSAUX Cable HDMI 2.1 Ultra High Speed 1,8 m paquete de 2",
+      "referencePrice": 89900,
+      "price": 80000,
+      "source": "https://www.exito.com/cable-hdmi-21-jsaux-ultra-high-speed-8k-2-pack-18-mts-104750294-mp/p"
+    },
+    {
+      "slug": "soporte-escritorio-controles-nuevo",
+      "name": "Soporte 2 en 1 para controles y audífonos",
+      "referencePrice": 74900,
+      "price": 67000,
+      "source": "https://talego.com.co/producto/soporte-2-en-1-para-controles/"
+    }
+  ],
+  "gamesAdded": [
+    {
+      "slug": "ea-sports-fc-27-ps5-nuevo",
+      "name": "EA Sports FC 27 · PS5",
+      "price": 305000,
+      "source": "https://gamer4ever.com.co/products/ps5-ea-sports-fc-27-fisico-nuevo"
+    },
+    {
+      "slug": "nba-2k27-ps5-nuevo",
+      "name": "NBA 2K27 · PS5",
+      "price": 287000,
+      "source": "https://gamer4ever.com.co/products/ps5-nba-2k-27-nuevo"
+    },
+    {
+      "slug": "saros-ps5-nuevo",
+      "name": "SAROS · PS5",
+      "price": 290000,
+      "source": "https://gamer4ever.com.co/products/ps5-saros-fisico-nuevo"
+    },
+    {
+      "slug": "onimusha-way-of-the-sword-ps5-nuevo",
+      "name": "Onimusha: Way of the Sword · PS5",
+      "price": 287000,
+      "source": "https://gamer4ever.com.co/products/ps5-onimusha-way-of-the-sword-fisico-nuevo"
+    },
+    {
+      "slug": "wwe-2k26-ps5-nuevo",
+      "name": "WWE 2K26 · PS5",
+      "price": 213000,
+      "source": "https://gamer4ever.com.co/products/ps5-wwe-2k26-fisico-nuevo-copia"
+    },
+    {
+      "slug": "clair-obscur-expedition-33-ps5-nuevo",
+      "name": "Clair Obscur: Expedition 33 · PS5",
+      "price": 269000,
+      "source": "https://gamer4ever.com.co/products/ps5-expedition-33-fisico-nuevo"
+    },
+    {
+      "slug": "borderlands-4-ps5-nuevo",
+      "name": "Borderlands 4 · PS5",
+      "price": 187000,
+      "source": "https://gamer4ever.com.co/products/ps5-borderlands-4-nuevo"
+    },
+    {
+      "slug": "death-stranding-2-on-the-beach-ps5-nuevo",
+      "name": "Death Stranding 2: On the Beach · PS5",
+      "price": 296000,
+      "source": "https://gamer4ever.com.co/products/ps5-death-stranding-2-on-the-beach-fisico-nuevo"
+    },
+    {
+      "slug": "monster-hunter-wilds-ps5-nuevo",
+      "name": "Monster Hunter Wilds · PS5",
+      "price": 350000,
+      "source": "https://gamer4ever.com.co/products/ps5-monster-hunter-wilds-fisico-nuevo"
+    },
+    {
+      "slug": "kingdom-come-deliverance-ii-ps5-nuevo",
+      "name": "Kingdom Come: Deliverance II · PS5",
+      "price": 350000,
+      "source": "https://gamer4ever.com.co/products/ps5-kingdom-come-deliverance-ii-fisico-nuevo"
+    },
+    {
+      "slug": "gears-of-war-reloaded-ps5-nuevo",
+      "name": "Gears of War: Reloaded · PS5",
+      "price": 197000,
+      "source": "https://gamer4ever.com.co/products/ps5-gears-of-war-reloaded-fisico-nuevo"
+    },
+    {
+      "slug": "lost-soul-aside-ps5-nuevo",
+      "name": "Lost Soul Aside · PS5",
+      "price": 246000,
+      "source": "https://gamer4ever.com.co/products/ps5-lost-soul-aside-fisico-nuevo"
+    },
+    {
+      "slug": "astro-bot-ps5-nuevo",
+      "name": "Astro Bot · PS5",
+      "price": 246000,
+      "source": "https://gamer4ever.com.co/products/ps5-astro-bot-fisico-nuevo"
+    },
+    {
+      "slug": "stellar-blade-ps5-nuevo",
+      "name": "Stellar Blade · PS5",
+      "price": 296000,
+      "source": "https://gamer4ever.com.co/products/ps5-stellar-blade-fisico-nuevo-copia"
+    },
+    {
+      "slug": "tekken-8-ps5-nuevo",
+      "name": "Tekken 8 · PS5",
+      "price": 188000,
+      "source": "https://gamer4ever.com.co/products/ps5-tekken-8-fisico-nuevo"
+    },
+    {
+      "slug": "silent-hill-2-ps5-nuevo",
+      "name": "Silent Hill 2 · PS5",
+      "price": 323000,
+      "source": "https://gamer4ever.com.co/products/ps5-silent-hill-2-fisico-nuevo"
+    },
+    {
+      "slug": "god-of-war-ragnarok-ps5-nuevo",
+      "name": "God of War Ragnarök · PS5",
+      "price": 224000,
+      "source": "https://gamer4ever.com.co/products/ps5-god-of-war-ragnarok-fisico-nuevo"
+    },
+    {
+      "slug": "ea-sports-fc-27-nintendo-switch-2-nuevo",
+      "name": "EA Sports FC 27 · Nintendo Switch 2",
+      "price": 305000,
+      "source": "https://gamer4ever.com.co/products/switch2-ea-sports-fc-27-fisico-nuevo"
+    },
+    {
+      "slug": "minecraft-dungeons-ii-deluxe-edition-nintendo-switch-2-nuevo",
+      "name": "Minecraft Dungeons II Deluxe Edition · Nintendo Switch 2",
+      "price": 224000,
+      "source": "https://gamer4ever.com.co/products/switch2-minecraft-dungeons-ii-dekuxe-edition-fisico-nuevo"
+    },
+    {
+      "slug": "orbitals-nintendo-switch-2-nuevo",
+      "name": "Orbitals · Nintendo Switch 2",
+      "price": 224000,
+      "source": "https://gamer4ever.com.co/products/switch2-orbitals-fisico-nuevo"
+    },
+    {
+      "slug": "fire-emblem-fortunes-weave-nintendo-switch-2-nuevo",
+      "name": "Fire Emblem: Fortune’s Weave · Nintendo Switch 2",
+      "price": 368000,
+      "source": "https://gamer4ever.com.co/products/switch2-fire-emblem-fortune-s-wave-fisico-nuevo"
+    },
+    {
+      "slug": "star-fox-nintendo-switch-2-nuevo",
+      "name": "Star Fox · Nintendo Switch 2",
+      "price": 278000,
+      "source": "https://gamer4ever.com.co/products/switch2-star-fox™-fisico-nuevo"
+    },
+    {
+      "slug": "yoshi-and-the-mysterious-book-nintendo-switch-2-nuevo",
+      "name": "Yoshi and the Mysterious Book · Nintendo Switch 2",
+      "price": 323000,
+      "source": "https://gamer4ever.com.co/products/switch2-yoshi™-and-the-mysterious-book-fisico-nuevo"
+    },
+    {
+      "slug": "pokemon-pokopia-nintendo-switch-2-nuevo",
+      "name": "Pokémon Pokopia · Nintendo Switch 2",
+      "price": 323000,
+      "source": "https://gamer4ever.com.co/products/switch2-pokemon-pokopia-fisico-nuevo"
+    },
+    {
+      "slug": "resident-evil-requiem-nintendo-switch-2-nuevo",
+      "name": "Resident Evil Requiem · Nintendo Switch 2",
+      "price": 323000,
+      "source": "https://gamer4ever.com.co/products/switch2-resident-evil-requiem-fisico-nuevo"
+    },
+    {
+      "slug": "final-fantasy-vii-remake-intergrade-nintendo-switch-2-nuevo",
+      "name": "Final Fantasy VII Remake Intergrade · Nintendo Switch 2",
+      "price": 206000,
+      "source": "https://gamer4ever.com.co/products/switch2-final-fantasy-vii-remake-intergrade-fisico-nuevo"
+    },
+    {
+      "slug": "donkey-kong-bananza-nintendo-switch-2-nuevo",
+      "name": "Donkey Kong Bananza · Nintendo Switch 2",
+      "price": 323000,
+      "source": "https://gamer4ever.com.co/products/switch2-donkey-kong-bananza-fisico-nuevo"
+    },
+    {
+      "slug": "mario-kart-world-nintendo-switch-2-nuevo",
+      "name": "Mario Kart World · Nintendo Switch 2",
+      "price": 368000,
+      "source": "https://gamer4ever.com.co/products/switch2-mario-kart-world-fisico-nuevo"
+    },
+    {
+      "slug": "kirby-air-riders-nintendo-switch-2-nuevo",
+      "name": "Kirby Air Riders · Nintendo Switch 2",
+      "price": 323000,
+      "source": "https://gamer4ever.com.co/products/switch2-kirby-air-riders-fisico-nuevo"
+    },
+    {
+      "slug": "metroid-prime-4-beyond-nintendo-switch-2-edition-nintendo-switch-2-nuevo",
+      "name": "Metroid Prime 4: Beyond — Nintendo Switch 2 Edition · Nintendo Switch 2",
+      "price": 323000,
+      "source": "https://gamer4ever.com.co/products/switch2-metroid-prime-4-beyond-fisico-nuevo"
+    },
+    {
+      "slug": "leyendas-pokemon-z-a-nintendo-switch-2-edition-nintendo-switch-2-nuevo",
+      "name": "Leyendas Pokémon: Z-A — Nintendo Switch 2 Edition · Nintendo Switch 2",
+      "price": 323000,
+      "source": "https://gamer4ever.com.co/products/switch2-pokemon-legends-z-a-fisico-nuevo"
+    },
+    {
+      "slug": "split-fiction-nintendo-switch-2-nuevo",
+      "name": "Split Fiction · Nintendo Switch 2",
+      "price": 224000,
+      "source": "https://gamer4ever.com.co/products/switch2-split-fiction-fisico-nuevo"
+    },
+    {
+      "slug": "tony-hawks-pro-skater-3-4-xbox-one-series-x-nuevo",
+      "name": "Tony Hawk’s Pro Skater 3 + 4 · Xbox One / Series X",
+      "price": 53000,
+      "source": "https://gamer4ever.com.co/products/xbox-one-series-x-tony-hawk-s-pro-skater-3-4-fisico-nuevo"
+    },
+    {
+      "slug": "sonic-x-shadow-generations-xbox-one-series-x-nuevo",
+      "name": "Sonic X Shadow Generations · Xbox One / Series X",
+      "price": 269000,
+      "source": "https://gamer4ever.com.co/products/xbox-one-series-x-sonic-x-shadow-generations-fisico-nuevo"
+    },
+    {
+      "slug": "one-piece-odyssey-xbox-series-x-nuevo",
+      "name": "One Piece Odyssey · Xbox Series X",
+      "price": 80000,
+      "source": "https://gamer4ever.com.co/products/xbox-series-x-one-piece-odyssey-fisico-nuevo"
+    },
+    {
+      "slug": "stray-xbox-one-series-x-nuevo",
+      "name": "Stray · Xbox One / Series X",
+      "price": 170000,
+      "source": "https://gamer4ever.com.co/products/xbox-one-series-x-stray-fisico-nuevo"
+    },
+    {
+      "slug": "elden-ring-xbox-one-series-x-nuevo",
+      "name": "Elden Ring · Xbox One / Series X",
+      "price": 314000,
+      "source": "https://gamer4ever.com.co/products/xbox-xone-series-x-elden-ring-nuevo"
+    },
+    {
+      "slug": "ea-sports-fc-27-ps4-nuevo",
+      "name": "EA Sports FC 27 · PS4",
+      "price": 305000,
+      "source": "https://gamer4ever.com.co/products/ps4-ea-sports-fc-27-fisico-nuevo"
+    }
+  ],
+  "gamesRepriced": [
+    {
+      "slug": "silent-hill-f-nuevo",
+      "before": 239000,
+      "after": 232000
+    }
+  ]
+}
