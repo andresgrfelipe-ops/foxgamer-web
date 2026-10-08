@@ -18,6 +18,18 @@ const hash=createHash('sha256').update(bytes).digest('hex');
 const product={...base.products[0],image:'/assets/photos/test.jpg'};
 const proof={name:product.name,image:product.image,evidence:'Fixture de prueba, no inventario real',sha256:hash};
 const fixture=()=>({...base,products:[{...product}],verifiedImages:[{...proof}]});
+test('MacBook Air M5 comparte imagen entre memorias del mismo tamaño, no entre modelos',()=>{
+  const first=base.verifiedImages.find(v=>v.name==='MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 512 GB');
+  const second=base.verifiedImages.find(v=>v.name==='MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 1 TB');
+  assert.equal(first.image,second.image);
+  assert.doesNotThrow(()=>validateStore({...base,verifiedImages:[first,second],products:[]}));
+  for(const change of [
+    {name:'MacBook Air M5 13 pulgadas · 24 GB RAM · SSD 1 TB'},
+    {sourceModel:'MacBook Air (15-inch, M4)'},
+    {kind:'reference-photo'},
+    {sourceUrl:'https://example.com/fake'}
+  ]) assert.throws(()=>validateStore({...base,verifiedImages:[first,{...second,...change}],products:[]}));
+});
 test('imágenes oficiales comparten capacidad, pero nunca otro modelo ni una fuente falsa',()=>{
   const first=base.verifiedImages.find(v=>v.name==='iPhone 15 128 GB');
   const second=base.verifiedImages.find(v=>v.name==='iPhone 15 256 GB');
