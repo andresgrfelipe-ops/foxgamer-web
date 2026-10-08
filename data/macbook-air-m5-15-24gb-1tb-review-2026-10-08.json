@@ -1,0 +1,38 @@
+{
+  "reviewedAt": "2026-10-08",
+  "product": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 1 TB",
+  "currency": "COP",
+  "specificationSource": "https://www.apple.com/co/macbook-air/specs/",
+  "comparisonOffers": [
+    {
+      "merchant": "MUVIT",
+      "url": "https://www.muvit.shop/mac",
+      "condition": "Nuevo / sellado",
+      "price": 7100000,
+      "selected": true
+    },
+    {
+      "merchant": "i-store",
+      "url": "https://www.i-store.co/macbook-air-de-15-chip-m5-24gb-1-tb-ssd",
+      "price": 7999990,
+      "selected": false
+    },
+    {
+      "merchant": "Lasus",
+      "url": "https://lasus.com.co/es/nuevolanzamientomacbookairde15pulgadas-chipm5deappleconcpude10nucleosygpude10nucleos24gb1tbssd-colorplatachipm5deappleconcpu",
+      "priceBeforeTax": 9470262,
+      "taxRate": 0.19,
+      "selected": false
+    }
+  ],
+  "pricing": {
+    "referencePrice": 7100000,
+    "discountPercent": 10,
+    "newPrice": 6390000,
+    "savingAgainstReference": 710000,
+    "exhibitionPrice": 5750000,
+    "usedPrice": 5110000
+  },
+  "method": "Nuevo: 10 % por debajo de la menor oferta comparable consultada. Exhibición: 10 % menos que nuevo; usado: 20 % menos que nuevo; redondeo hacia abajo a decenas de miles de COP. Las dos últimas son estimaciones comerciales, no ofertas usadas verificadas.",
+  "notes": "La referencia es un precio externo, no un precio anterior de FOX GAMER. No se confirma stock propio ni margen. Todas las variantes usan availability inquiry y compra por WhatsApp."
+}

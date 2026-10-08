@@ -3,6 +3,12 @@ export const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, c => 
 // Storage and refurbishment labels do not change an iPhone's exterior model.
 // Only official, explicitly matched iPhone references may share a model image.
 export function imageIdentity(proof) {
+  const macbookAir = proof.name.match(/^MacBook Air M5 (13|15) pulgadas · (16|24|32) GB RAM · SSD (512 GB|1 TB|2 TB|4 TB)$/);
+  if (proof.kind === 'manufacturer' && macbookAir) {
+    const expected = `MacBook Air (${macbookAir[1]}-inch, M5)`;
+    if (proof.sourceModel !== expected) throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return expected;
+  }
   const air = proof.name.match(/^iPad Air (11|13) pulgadas M(3|4) \d+ GB(?: Cellular| Wi-Fi)?$/);
   if (proof.kind === 'manufacturer' && air) {
     if (proof.sourceModel !== `iPad Air ${air[1]}-inch (M${air[2]})`) throw new Error('Modelo oficial no coincide: ' + proof.name);
