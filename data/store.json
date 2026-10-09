@@ -15127,26 +15127,26 @@
     {
       "name": "iPad Air 11 pulgadas M4 128 GB Wi-Fi",
       "image": "/assets/photos/apple-ipad-air-11-m4-128gb.png",
-      "sha256": "0aebc51af5b348d0100b55fbc7cfb32fa6fc3baf76a9d07ef16ecc4cb4fb523e",
+      "sha256": "3f2d1a6424cbd01b8b5690b2e98a34a1daa393194ede1616121500a67e4a371f",
       "kind": "manufacturer",
       "manufacturer": "Apple",
       "sourceModel": "iPad Air 11-inch (M4)",
       "sourceUrl": "https://support.apple.com/en-gb/108043",
       "sourceImageUrl": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2026-ipad-air-11.png",
-      "evidence": "Imagen oficial de Apple correspondiente al modelo indicado. Imagen de referencia; no acredita color, accesorios, estado ni disponibilidad de una unidad.",
-      "verifiedAt": "2026-10-04"
+      "evidence": "Imagen oficial completa descargada de Apple y revisada visualmente; PNG íntegro verificado por decodificación. Imagen de referencia; no acredita color, accesorios, estado ni disponibilidad de una unidad.",
+      "verifiedAt": "2026-10-09"
     },
     {
       "name": "iPad Air 13 pulgadas M4 128 GB Wi-Fi",
       "image": "/assets/photos/apple-ipad-air-13-m4-128gb.png",
-      "sha256": "fabe6af04ba204975d549e96b042a528d694dfa8670665cb3f42a5f0a324386f",
+      "sha256": "f74a90d77e046ef505786f8da3d1cb4463c4848c1a9bef408dca9082dd0dddc6",
       "kind": "manufacturer",
       "manufacturer": "Apple",
       "sourceModel": "iPad Air 13-inch (M4)",
       "sourceUrl": "https://support.apple.com/en-gb/108043",
       "sourceImageUrl": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2026-ipad-air-13.png",
-      "evidence": "Imagen oficial de Apple correspondiente al modelo indicado. Imagen de referencia; no acredita color, accesorios, estado ni disponibilidad de una unidad.",
-      "verifiedAt": "2026-10-04"
+      "evidence": "Imagen oficial completa descargada de Apple y revisada visualmente; PNG íntegro verificado por decodificación. Imagen de referencia; no acredita color, accesorios, estado ni disponibilidad de una unidad.",
+      "verifiedAt": "2026-10-09"
     },
     {
       "name": "iPad Pro 11 pulgadas M5 256 GB Wi-Fi",

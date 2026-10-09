@@ -1,6 +1,7 @@
 /* FOX GAMER shopping cart */
 .fox-cart-toggle{position:fixed;right:18px;bottom:18px;z-index:90;border:0;border-radius:999px;padding:13px 18px;font:inherit;font-weight:800;cursor:pointer;box-shadow:0 12px 32px #0005}
-.fox-cart-toggle span{display:inline-grid;place-items:center;min-width:24px;height:24px;margin-left:6px;border-radius:999px;background:#fff;color:#111}
+.fox-cart-toggle #fox-cart-count{display:inline-grid;place-items:center;min-width:24px;height:24px;margin-left:6px;border-radius:999px;background:#fff;color:#111}
+.fox-cart-toggle svg{width:22px;height:22px;vertical-align:middle}
 .fox-cart{position:fixed;top:0;right:0;z-index:101;width:min(420px,94vw);height:100dvh;background:#101117;color:#fff;box-shadow:-18px 0 50px #0007;transform:translateX(105%);transition:transform .22s ease;display:flex;flex-direction:column}
 .fox-cart.is-open{transform:translateX(0)}
 .fox-cart-head{display:flex;align-items:center;justify-content:space-between;padding:20px;border-bottom:1px solid #ffffff20;font-size:1.2rem}
@@ -59,3 +60,19 @@
 #fox-cart-items{min-height:80px}.fox-order-fields{flex-shrink:0;max-height:34dvh;overflow:auto}.fox-cart-head,.fox-cart-foot{flex-shrink:0}.fox-cart-toggle{background:#ff8517;color:#171717}.fox-checkout-note{margin:0;color:#bbb;font-size:12px;line-height:1.5}.fox-checkout-note a{color:#ffa46c;text-decoration:underline}.product-summary .fox-add-cart{margin:12px 0;width:100%}
 .customer-policy{max-width:850px}.customer-policy h2{margin-top:32px}.customer-policy p,.customer-policy li{color:#c0c2ce;line-height:1.75}.customer-policy ol{padding-left:24px}.customer-policy .button{margin-top:22px}
 @media(max-width:760px){.product-card .fox-add-cart{margin:0 6px 8px;width:calc(100% - 12px);padding:8px 4px;font-size:10px;min-height:38px}.floating-whatsapp{bottom:80px}.mobile-product-contact{padding-right:132px}.fox-cart-foot{padding-bottom:calc(12px + env(safe-area-inset-bottom))}}
+
+/* Keep mobile shopping controls in the header, clear of product cards. */
+@media(max-width:760px){
+  .main-nav .fox-cart-toggle{position:relative;inset:auto;z-index:auto;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;width:44px;height:44px;padding:9px;border-radius:8px;box-shadow:none}
+  .main-nav .fox-cart-label{display:none}
+  .main-nav .fox-cart-toggle #fox-cart-count{position:absolute;top:-5px;right:-5px;min-width:18px;height:18px;margin:0;padding:0 3px;font-size:10px;line-height:1}
+  body:has(.main-nav .fox-cart-toggle) .floating-whatsapp{display:none}
+  body:has(.main-nav .fox-cart-toggle) .mobile-product-contact{padding-right:18px}
+  .product-card .fox-add-cart{min-height:44px}
+}
+@media(max-width:380px){
+  .main-nav{gap:6px}
+  .main-nav .logo{font-size:16px;gap:6px}
+  .main-nav .brand-logo{width:32px;height:32px}
+  .main-nav .menu-toggle{font-size:0;gap:0;justify-content:center;padding:9px}
+}
