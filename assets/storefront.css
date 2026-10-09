@@ -3,7 +3,7 @@
   :root{--panel-raised:#20232d;--radius:16px}
   .js-only{display:none}.js .js-only{display:inline-flex}
   html:not(.js) .menu-toggle{display:none}
-  .site-header{box-shadow:0 8px 32px #0002}
+  .site-header{background:#101117;box-shadow:0 8px 32px #0002}
   .nav-links a{min-height:44px;display:inline-flex;align-items:center;border-bottom:2px solid transparent}
   .nav-links a[aria-current="page"]{color:var(--accent);border-bottom-color:var(--accent)}
   .menu-toggle{display:none}
@@ -160,7 +160,11 @@
   @media(prefers-reduced-motion:reduce){.product-card{transition:none}}
 }
 
-.product-image.manufacturer-image,.product-visual.manufacturer-image{background:#fff}.manufacturer-image>img{object-fit:contain;padding:24px;box-sizing:border-box}.reference-caption{display:block;padding:8px 16px 0;font-size:11px;color:var(--muted,#aeb2bd)}
+@layer components {
+  .product-image.manufacturer-image,.product-visual.manufacturer-image{background:#fff}
+  .manufacturer-image>img{object-fit:contain;padding:24px;box-sizing:border-box}
+  .reference-caption{display:block;padding:8px 16px 0;font-size:11px;color:var(--muted,#aeb2bd)}
+}
 
 .instagram-panel{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:32px;align-items:center;padding:40px;border:1px solid #4e374c;border-radius:24px;background:radial-gradient(ellipse at top right,#482144 0,transparent 65%),#191b24}.instagram-panel h2{margin:8px 0 16px}.instagram-panel p:not(.eyebrow){color:#c0c2ce;max-width:48ch}.instagram-handle{display:inline-block;margin-top:16px;color:#ffa46c;font-size:20px;font-weight:700;overflow-wrap:anywhere}.instagram-profile{display:flex;flex-direction:column;align-items:center;gap:16px;min-width:190px}.instagram-profile img{border-radius:20px}.instagram-button{justify-content:center}@media(max-width:600px){.instagram-panel{grid-template-columns:1fr;padding:26px;gap:28px}.instagram-profile{align-items:flex-start;min-width:0}.instagram-profile .button{width:100%}}
 
@@ -177,6 +181,8 @@
 @layer responsive {
   @media(max-width:760px){
     .product-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+    .product-image.manufacturer-image>img{padding:30px 7px 8px}
+    .product-card .reference-caption{display:none}
     .product-card{border-radius:10px;min-width:0}
     .product-image{aspect-ratio:1/1}
     .product-image .badge{top:5px;left:5px;padding:3px 5px;font-size:9px;max-width:calc(100% - 10px);overflow:hidden;text-overflow:ellipsis}
@@ -189,9 +195,9 @@
     .product-info h3{font-size:11px;line-height:1.25;letter-spacing:-.01em;min-height:2.5em}
     .product-info p.availability{font-size:9px;line-height:1.25;margin:7px 0 5px;gap:4px}
     .availability:before{width:5px;height:5px}
-    .card-price{font-size:11px;line-height:1.25;overflow-wrap:anywhere}
+    .product-info .card-price{font-size:clamp(11px,3.1vw,15px);line-height:1.3;overflow-wrap:normal}
     .product-info .detail-link{display:none}
-    .card-contact{margin:0 7px 8px;min-height:32px;padding:6px 4px;font-size:9px;gap:4px;border-radius:6px}
+    .card-contact{margin:0 7px 8px;min-height:44px;padding:6px 4px;font-size:10px;gap:4px;border-radius:6px}
     .card-contact svg{width:12px;height:12px}
   }
   @media(max-width:420px){
@@ -199,7 +205,6 @@
     .product-image{aspect-ratio:1/1}
     .product-info{padding:8px 6px 7px}
     .product-info h3{font-size:10px}
-    .card-price{font-size:10px}
     .card-contact{margin:0 6px 7px}
   }
 }
