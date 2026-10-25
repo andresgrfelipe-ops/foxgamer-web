@@ -1,20 +1,32 @@
+import {storageStem, validateAppleStorage} from './apple-storage.mjs';
 export const CONDITIONS = ['Nuevo', 'Usado', 'Exhibición'];
 export const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 // Storage and refurbishment labels do not change an iPhone's exterior model.
 // Only official, explicitly matched iPhone references may share a model image.
 export function imageIdentity(proof) {
+  const mini = proof.name.match(/^Mac mini (M4 Pro|M4|M5 Pro|M6) \d+ (GB|TB)$/);
+  if (proof.kind === 'manufacturer' && mini) {
+    const expected = {'M4':'Mac mini (2024)', 'M4 Pro':'Mac mini (2024)', 'M5 Pro':'Mac mini (M5 Pro)', 'M6':'Mac mini (M6)'}[mini[1]];
+    if (proof.sourceModel !== expected) throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return 'Mac mini compact exterior (official Apple shared image)';
+  }
+  if (proof.kind === 'manufacturer' && /^Apple TV 4K 3\.ª generación(?: (64|128) GB Wi-Fi(?: \+ Ethernet)?)?$/.test(proof.name)) {
+    const expected = proof.name.includes('128 GB') ? 'Apple TV 4K (3rd generation) Wi-Fi + Ethernet' : 'Apple TV 4K (3rd generation) Wi-Fi';
+    if (proof.sourceModel !== expected) throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return 'Apple TV 4K (3rd generation) official front image';
+  }
   const macbookAir = proof.name.match(/^MacBook Air M5 (13|15) pulgadas · (16|24|32) GB RAM · SSD (512 GB|1 TB|2 TB|4 TB)$/);
   if (proof.kind === 'manufacturer' && macbookAir) {
     const expected = `MacBook Air (${macbookAir[1]}-inch, M5)`;
     if (proof.sourceModel !== expected) throw new Error('Modelo oficial no coincide: ' + proof.name);
     return expected;
   }
-  const air = proof.name.match(/^iPad Air (11|13) pulgadas M(3|4) \d+ GB(?: Cellular| Wi-Fi)?$/);
+  const air = proof.name.match(/^iPad Air (11|13) pulgadas M(2|3|4) \d+ (?:GB|TB)(?: Cellular| Wi-Fi)?$/);
   if (proof.kind === 'manufacturer' && air) {
     if (proof.sourceModel !== `iPad Air ${air[1]}-inch (M${air[2]})`) throw new Error('Modelo oficial no coincide: ' + proof.name);
-    return `iPad Air ${air[1]}-inch (M3/M4 exterior)`;
+    return `iPad Air ${air[1]}-inch (M2/M3/M4 exterior)`;
   }
-  const ipadPro = proof.name.match(/^iPad Pro 11 pulgadas M(4|5) \d+ GB(?: Wi-Fi)?$/);
+  const ipadPro = proof.name.match(/^iPad Pro 11 pulgadas M(4|5) \d+ (?:GB|TB)(?: Wi-Fi)?$/);
   if (proof.kind === 'manufacturer' && ipadPro) {
     if (proof.sourceModel !== `iPad Pro 11-inch (M${ipadPro[1]})`) throw new Error('Modelo oficial no coincide: ' + proof.name);
     return 'iPad Pro 11-inch (M4/M5 exterior)';
@@ -30,9 +42,10 @@ export function imageIdentity(proof) {
     if (proof.sourceModel !== expected) throw new Error('Modelo oficial no coincide: ' + proof.name);
     return expected;
   }
-  if (proof.kind === 'manufacturer' && /^iPad Pro 13 pulgadas M5 \d+ GB$/.test(proof.name)) {
-    if (proof.sourceModel !== 'iPad Pro 13-inch (M5)') throw new Error('Modelo oficial no coincide: ' + proof.name);
-    return proof.sourceModel;
+  const ipadPro13 = proof.name.match(/^iPad Pro 13 pulgadas M(4|5) \d+ (?:GB|TB)(?: Wi-Fi)?$/);
+  if (proof.kind === 'manufacturer' && ipadPro13) {
+    if (proof.sourceModel !== `iPad Pro 13-inch (M${ipadPro13[1]})`) throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return 'iPad Pro 13-inch (M4/M5 exterior)';
   }
   const watchModels = {'Apple Watch Series 11':'Apple Watch Series 11 (GPS)', 'Apple Watch Series 11 GPS Cellular 46 mm':'Apple Watch Series 11 (GPS + Cellular) Aluminium'};
   if (proof.kind === 'manufacturer' && watchModels[proof.name]) {
@@ -48,9 +61,15 @@ export function imageIdentity(proof) {
     if (proof.sourceModel !== model) throw new Error('Modelo oficial no coincide: ' + proof.name);
     return model;
   }
+  if (proof.kind === 'manufacturer' && (!proof.manufacturer || proof.manufacturer === 'Apple') && /^(?:iPad|Mac(?:Book)?|iMac|Apple TV)\b/.test(proof.name)) {
+    if (proof.storageReference && (storageStem(proof.name) !== storageStem(proof.storageReference)
+      || proof.sourceModel !== proof.storageSourceModel)) throw new Error('Modelo oficial no coincide: ' + proof.name);
+    return storageStem(proof.name);
+  }
   return proof.name;
 }
 export function validateStore(store) {
+  validateAppleStorage(store);
   if (store.url !== 'https://foxgamer.co') throw new Error('El dominio canónico debe conservarse.');
   if (store.whatsapp && !/^[1-9]\d{7,14}$/.test(store.whatsapp)) throw new Error('WhatsApp debe usar formato internacional, solo dígitos.');
   const imageNames = new Map();

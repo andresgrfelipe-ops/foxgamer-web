@@ -3,6 +3,7 @@ globalThis.FoxCatalog = (() => {
   const normalize = value => String(value ?? '').normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('es')
     .replace(/\bps\s*([2345])\b/g, 'playstation $1')
+    .replace(/\b(\d+)\s*(gb|tb)\b/g, '$1 $2')
     .replace(/[^a-z0-9]+/g, ' ').trim();
   const collator = new Intl.Collator('es', {numeric: true, sensitivity: 'base'});
   function compare(a, b, order) {

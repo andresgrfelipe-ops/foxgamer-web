@@ -87,3 +87,11 @@ assets/catalog-model.js contiene las reglas de búsqueda/orden. assets/app.js la
 La auditoría se ejecuta también ANTES de escribir HTML en cada build. verifiedImages exige evidencia, ruta raster local y sha256: cambiar el archivo después de verificarlo bloquea el build. También se detectan copias idénticas asignadas a nombres diferentes. Esta comprobación protege la revisión humana; no sustituye identificar visualmente el modelo. Los registros sin foto mantienen image: null. No se añaden disponibilidad, opiniones, garantía ni datos comerciales para completar SEO.
 
 Referencias de implementación: [navegación con disclosure (W3C)](https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/examples/disclosure-navigation/) y [BreadcrumbList (Google)](https://developers.google.com/search/docs/appearance/structured-data/breadcrumb).
+
+## Capacidades Apple (25/10/2026)
+
+`data/apple-storage-references.json` documenta las capacidades oficiales de las 93 familias revisadas y sus fuentes Apple. `appleStorageGroup` conserva RAM y conectividad al cambiar almacenamiento; el selector también mantiene Nuevo, Exhibición o Usado. Las fichas antiguas que no indicaban capacidad conservan ese dato sin asumirlo.
+
+`scripts/complete-apple-storage.mjs` aplica la ampliación autorizada y conserva los precios existentes. Las nuevas referencias llevan precios comerciales calculados desde las referencias FOX GAMER, con método y anclas en `pricingCalculation`, y disponibilidad `inquiry`. No se ejecuta como parte del build. `reports/apple-storage-additions.json` registra las 741 ofertas añadidas (247 combinaciones por tres condiciones). Las fotografías oficiales nuevas están documentadas en `data/apple-storage-assets.json`; las imágenes compartidas entre modelos cuentan con evidencia del mismo archivo publicado por Apple.
+
+Para actualizar capacidades, revisar primero la fuente oficial y los límites por chip, RAM y conectividad. Ejecutar la auditoría de imágenes, build y pruebas después de cualquier cambio; no convertir una referencia en existencia confirmada por añadir su capacidad al catálogo.

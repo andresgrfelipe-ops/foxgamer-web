@@ -50,9 +50,14 @@ test('build completo con las tres condiciones y disponibilidad real',async()=>{
  assert.ok(sitemap.includes('https://foxgamer.co/productos/unidad-prueba/'));
 });
 test('todas las rutas internas y anclas públicas existen',async()=>{
+ const contents=new Map();
+ const readPage=target=>{
+  if(!contents.has(target))contents.set(target,readFile(target,'utf8'));
+  return contents.get(target);
+ };
  const pages=['index.html','404.html','como-comprar/index.html',...base.categories.map(c=>'categorias/'+c.slug+'/index.html'),...base.products.map(p=>'productos/'+p.slug+'/index.html')];
  for(const page of pages){
-  const html=await readFile(page,'utf8');
+  const html=await readPage(page);
   assert.equal((html.match(/<h1[ >]/g)||[]).length,1);
   assert.ok(html.includes('rel="canonical"'));
   for(const [,href]of html.matchAll(/(?:href|src)="([^"]+)"/g)){
@@ -60,7 +65,7 @@ test('todas las rutas internas y anclas públicas existen',async()=>{
    const [pathname,hash]=href.split('#');
    let target=pathname?pathname.slice(1):page;
    if(!target||target.endsWith('/'))target+='index.html';
-   const content=await readFile(target,'utf8');
+   const content=await readPage(target);
    if(hash)assert.ok(content.includes('id="'+hash+'"'),'Missing '+href+' in '+page);
   }
  }

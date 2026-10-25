@@ -1,0 +1,5935 @@
+{
+  "date": "2026-10-25",
+  "models": 93,
+  "addedOffers": 741,
+  "additions": [
+    {
+      "slug": "iphone-11-128-gb-nuevo",
+      "name": "iPhone 11 128 GB",
+      "condition": "Nuevo",
+      "price": 1070000,
+      "model": "iphone-11",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-11-128-gb-exhibicion",
+      "name": "iPhone 11 128 GB",
+      "condition": "Exhibición",
+      "price": 909000,
+      "model": "iphone-11",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-11-128-gb-usado",
+      "name": "iPhone 11 128 GB",
+      "condition": "Usado",
+      "price": 749000,
+      "model": "iphone-11",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-11-256-gb-nuevo",
+      "name": "iPhone 11 256 GB",
+      "condition": "Nuevo",
+      "price": 1231000,
+      "model": "iphone-11",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-11-256-gb-exhibicion",
+      "name": "iPhone 11 256 GB",
+      "condition": "Exhibición",
+      "price": 1045000,
+      "model": "iphone-11",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-11-256-gb-usado",
+      "name": "iPhone 11 256 GB",
+      "condition": "Usado",
+      "price": 862000,
+      "model": "iphone-11",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-11-pro-256-gb-nuevo",
+      "name": "iPhone 11 Pro 256 GB",
+      "condition": "Nuevo",
+      "price": 1818000,
+      "model": "iphone-11-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-11-pro-256-gb-exhibicion",
+      "name": "iPhone 11 Pro 256 GB",
+      "condition": "Exhibición",
+      "price": 1545000,
+      "model": "iphone-11-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-11-pro-256-gb-usado",
+      "name": "iPhone 11 Pro 256 GB",
+      "condition": "Usado",
+      "price": 1367000,
+      "model": "iphone-11-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-11-pro-512-gb-nuevo",
+      "name": "iPhone 11 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 2091000,
+      "model": "iphone-11-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-11-pro-512-gb-exhibicion",
+      "name": "iPhone 11 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 1777000,
+      "model": "iphone-11-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-11-pro-512-gb-usado",
+      "name": "iPhone 11 Pro 512 GB",
+      "condition": "Usado",
+      "price": 1572000,
+      "model": "iphone-11-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-11-pro-max-256-gb-nuevo",
+      "name": "iPhone 11 Pro Max 256 GB",
+      "condition": "Nuevo",
+      "price": 1953000,
+      "model": "iphone-11-pro-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-11-pro-max-256-gb-exhibicion",
+      "name": "iPhone 11 Pro Max 256 GB",
+      "condition": "Exhibición",
+      "price": 1659000,
+      "model": "iphone-11-pro-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-11-pro-max-256-gb-usado",
+      "name": "iPhone 11 Pro Max 256 GB",
+      "condition": "Usado",
+      "price": 1367000,
+      "model": "iphone-11-pro-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-11-pro-max-512-gb-nuevo",
+      "name": "iPhone 11 Pro Max 512 GB",
+      "condition": "Nuevo",
+      "price": 2246000,
+      "model": "iphone-11-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-11-pro-max-512-gb-exhibicion",
+      "name": "iPhone 11 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "price": 1908000,
+      "model": "iphone-11-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-11-pro-max-512-gb-usado",
+      "name": "iPhone 11 Pro Max 512 GB",
+      "condition": "Usado",
+      "price": 1572000,
+      "model": "iphone-11-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-12-64-gb-nuevo",
+      "name": "iPhone 12 64 GB",
+      "condition": "Nuevo",
+      "price": 1200000,
+      "model": "iphone-12",
+      "storageGB": 64
+    },
+    {
+      "slug": "iphone-12-64-gb-exhibicion",
+      "name": "iPhone 12 64 GB",
+      "condition": "Exhibición",
+      "price": 1020000,
+      "model": "iphone-12",
+      "storageGB": 64
+    },
+    {
+      "slug": "iphone-12-64-gb-usado",
+      "name": "iPhone 12 64 GB",
+      "condition": "Usado",
+      "price": 840000,
+      "model": "iphone-12",
+      "storageGB": 64
+    },
+    {
+      "slug": "iphone-12-256-gb-nuevo",
+      "name": "iPhone 12 256 GB",
+      "condition": "Nuevo",
+      "price": 1588000,
+      "model": "iphone-12",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-256-gb-exhibicion",
+      "name": "iPhone 12 256 GB",
+      "condition": "Exhibición",
+      "price": 1349000,
+      "model": "iphone-12",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-256-gb-usado",
+      "name": "iPhone 12 256 GB",
+      "condition": "Usado",
+      "price": 1111000,
+      "model": "iphone-12",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-pro-256-gb-nuevo",
+      "name": "iPhone 12 Pro 256 GB",
+      "condition": "Nuevo",
+      "price": 1398000,
+      "model": "iphone-12-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-pro-256-gb-exhibicion",
+      "name": "iPhone 12 Pro 256 GB",
+      "condition": "Exhibición",
+      "price": 1188000,
+      "model": "iphone-12-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-pro-256-gb-usado",
+      "name": "iPhone 12 Pro 256 GB",
+      "condition": "Usado",
+      "price": 1188000,
+      "model": "iphone-12-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-pro-512-gb-nuevo",
+      "name": "iPhone 12 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 1608000,
+      "model": "iphone-12-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-12-pro-512-gb-exhibicion",
+      "name": "iPhone 12 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 1367000,
+      "model": "iphone-12-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-12-pro-512-gb-usado",
+      "name": "iPhone 12 Pro 512 GB",
+      "condition": "Usado",
+      "price": 1367000,
+      "model": "iphone-12-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-12-pro-max-256-gb-nuevo",
+      "name": "iPhone 12 Pro Max 256 GB",
+      "condition": "Nuevo",
+      "price": 1945000,
+      "model": "iphone-12-pro-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-pro-max-256-gb-exhibicion",
+      "name": "iPhone 12 Pro Max 256 GB",
+      "condition": "Exhibición",
+      "price": 1654000,
+      "model": "iphone-12-pro-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-pro-max-256-gb-usado",
+      "name": "iPhone 12 Pro Max 256 GB",
+      "condition": "Usado",
+      "price": 1750000,
+      "model": "iphone-12-pro-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-pro-max-512-gb-nuevo",
+      "name": "iPhone 12 Pro Max 512 GB",
+      "condition": "Nuevo",
+      "price": 2237000,
+      "model": "iphone-12-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-12-pro-max-512-gb-exhibicion",
+      "name": "iPhone 12 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "price": 1902000,
+      "model": "iphone-12-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-12-pro-max-512-gb-usado",
+      "name": "iPhone 12 Pro Max 512 GB",
+      "condition": "Usado",
+      "price": 2013000,
+      "model": "iphone-12-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-12-mini-128-gb-nuevo",
+      "name": "iPhone 12 mini 128 GB",
+      "condition": "Nuevo",
+      "price": 1255000,
+      "model": "iphone-12-mini",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-12-mini-128-gb-exhibicion",
+      "name": "iPhone 12 mini 128 GB",
+      "condition": "Exhibición",
+      "price": 1066000,
+      "model": "iphone-12-mini",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-12-mini-128-gb-usado",
+      "name": "iPhone 12 mini 128 GB",
+      "condition": "Usado",
+      "price": 879000,
+      "model": "iphone-12-mini",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-12-mini-256-gb-nuevo",
+      "name": "iPhone 12 mini 256 GB",
+      "condition": "Nuevo",
+      "price": 1444000,
+      "model": "iphone-12-mini",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-mini-256-gb-exhibicion",
+      "name": "iPhone 12 mini 256 GB",
+      "condition": "Exhibición",
+      "price": 1227000,
+      "model": "iphone-12-mini",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-12-mini-256-gb-usado",
+      "name": "iPhone 12 mini 256 GB",
+      "condition": "Usado",
+      "price": 1011000,
+      "model": "iphone-12-mini",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-256-gb-nuevo",
+      "name": "iPhone 13 256 GB",
+      "condition": "Nuevo",
+      "price": 1979000,
+      "model": "iphone-13",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-256-gb-exhibicion",
+      "name": "iPhone 13 256 GB",
+      "condition": "Exhibición",
+      "price": 1681000,
+      "model": "iphone-13",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-256-gb-usado",
+      "name": "iPhone 13 256 GB",
+      "condition": "Usado",
+      "price": 1503000,
+      "model": "iphone-13",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-pro-256-gb-nuevo",
+      "name": "iPhone 13 Pro 256 GB",
+      "condition": "Nuevo",
+      "price": 2006000,
+      "model": "iphone-13-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-pro-256-gb-exhibicion",
+      "name": "iPhone 13 Pro 256 GB",
+      "condition": "Exhibición",
+      "price": 1705000,
+      "model": "iphone-13-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-pro-256-gb-usado",
+      "name": "iPhone 13 Pro 256 GB",
+      "condition": "Usado",
+      "price": 1696000,
+      "model": "iphone-13-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-pro-512-gb-nuevo",
+      "name": "iPhone 13 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 2307000,
+      "model": "iphone-13-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-13-pro-512-gb-exhibicion",
+      "name": "iPhone 13 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 1961000,
+      "model": "iphone-13-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-13-pro-512-gb-usado",
+      "name": "iPhone 13 Pro 512 GB",
+      "condition": "Usado",
+      "price": 1951000,
+      "model": "iphone-13-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-13-pro-1-tb-nuevo",
+      "name": "iPhone 13 Pro 1 TB",
+      "condition": "Nuevo",
+      "price": 2653000,
+      "model": "iphone-13-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-13-pro-1-tb-exhibicion",
+      "name": "iPhone 13 Pro 1 TB",
+      "condition": "Exhibición",
+      "price": 2256000,
+      "model": "iphone-13-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-13-pro-1-tb-usado",
+      "name": "iPhone 13 Pro 1 TB",
+      "condition": "Usado",
+      "price": 2244000,
+      "model": "iphone-13-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-13-pro-max-256-gb-nuevo",
+      "name": "iPhone 13 Pro Max 256 GB",
+      "condition": "Nuevo",
+      "price": 2189000,
+      "model": "iphone-13-pro-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-pro-max-256-gb-exhibicion",
+      "name": "iPhone 13 Pro Max 256 GB",
+      "condition": "Exhibición",
+      "price": 1861000,
+      "model": "iphone-13-pro-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-pro-max-256-gb-usado",
+      "name": "iPhone 13 Pro Max 256 GB",
+      "condition": "Usado",
+      "price": 1893000,
+      "model": "iphone-13-pro-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-pro-max-512-gb-nuevo",
+      "name": "iPhone 13 Pro Max 512 GB",
+      "condition": "Nuevo",
+      "price": 2518000,
+      "model": "iphone-13-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-13-pro-max-512-gb-exhibicion",
+      "name": "iPhone 13 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "price": 2141000,
+      "model": "iphone-13-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-13-pro-max-512-gb-usado",
+      "name": "iPhone 13 Pro Max 512 GB",
+      "condition": "Usado",
+      "price": 2178000,
+      "model": "iphone-13-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-13-pro-max-1-tb-nuevo",
+      "name": "iPhone 13 Pro Max 1 TB",
+      "condition": "Nuevo",
+      "price": 2895000,
+      "model": "iphone-13-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-13-pro-max-1-tb-exhibicion",
+      "name": "iPhone 13 Pro Max 1 TB",
+      "condition": "Exhibición",
+      "price": 2461000,
+      "model": "iphone-13-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-13-pro-max-1-tb-usado",
+      "name": "iPhone 13 Pro Max 1 TB",
+      "condition": "Usado",
+      "price": 2504000,
+      "model": "iphone-13-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-13-mini-256-gb-nuevo",
+      "name": "iPhone 13 mini 256 GB",
+      "condition": "Nuevo",
+      "price": 1032000,
+      "model": "iphone-13-mini",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-mini-256-gb-exhibicion",
+      "name": "iPhone 13 mini 256 GB",
+      "condition": "Exhibición",
+      "price": 878000,
+      "model": "iphone-13-mini",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-mini-256-gb-usado",
+      "name": "iPhone 13 mini 256 GB",
+      "condition": "Usado",
+      "price": 722000,
+      "model": "iphone-13-mini",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-13-mini-512-gb-nuevo",
+      "name": "iPhone 13 mini 512 GB",
+      "condition": "Nuevo",
+      "price": 1187000,
+      "model": "iphone-13-mini",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-13-mini-512-gb-exhibicion",
+      "name": "iPhone 13 mini 512 GB",
+      "condition": "Exhibición",
+      "price": 1009000,
+      "model": "iphone-13-mini",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-13-mini-512-gb-usado",
+      "name": "iPhone 13 mini 512 GB",
+      "condition": "Usado",
+      "price": 831000,
+      "model": "iphone-13-mini",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-256-gb-nuevo",
+      "name": "iPhone 14 256 GB",
+      "condition": "Nuevo",
+      "price": 1605000,
+      "model": "iphone-14",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-14-256-gb-exhibicion",
+      "name": "iPhone 14 256 GB",
+      "condition": "Exhibición",
+      "price": 1364000,
+      "model": "iphone-14",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-14-256-gb-usado",
+      "name": "iPhone 14 256 GB",
+      "condition": "Usado",
+      "price": 1444000,
+      "model": "iphone-14",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-14-512-gb-nuevo",
+      "name": "iPhone 14 512 GB",
+      "condition": "Nuevo",
+      "price": 1846000,
+      "model": "iphone-14",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-512-gb-exhibicion",
+      "name": "iPhone 14 512 GB",
+      "condition": "Exhibición",
+      "price": 1569000,
+      "model": "iphone-14",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-512-gb-usado",
+      "name": "iPhone 14 512 GB",
+      "condition": "Usado",
+      "price": 1661000,
+      "model": "iphone-14",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-plus-256-gb-nuevo",
+      "name": "iPhone 14 Plus 256 GB",
+      "condition": "Nuevo",
+      "price": 2511000,
+      "model": "iphone-14-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-14-plus-256-gb-exhibicion",
+      "name": "iPhone 14 Plus 256 GB",
+      "condition": "Exhibición",
+      "price": 2133000,
+      "model": "iphone-14-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-14-plus-256-gb-usado",
+      "name": "iPhone 14 Plus 256 GB",
+      "condition": "Usado",
+      "price": 1757000,
+      "model": "iphone-14-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-14-plus-512-gb-nuevo",
+      "name": "iPhone 14 Plus 512 GB",
+      "condition": "Nuevo",
+      "price": 2888000,
+      "model": "iphone-14-plus",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-plus-512-gb-exhibicion",
+      "name": "iPhone 14 Plus 512 GB",
+      "condition": "Exhibición",
+      "price": 2454000,
+      "model": "iphone-14-plus",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-plus-512-gb-usado",
+      "name": "iPhone 14 Plus 512 GB",
+      "condition": "Usado",
+      "price": 2021000,
+      "model": "iphone-14-plus",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-pro-128-gb-nuevo",
+      "name": "iPhone 14 Pro 128 GB",
+      "condition": "Nuevo",
+      "price": 1793000,
+      "model": "iphone-14-pro",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-14-pro-128-gb-exhibicion",
+      "name": "iPhone 14 Pro 128 GB",
+      "condition": "Exhibición",
+      "price": 1524000,
+      "model": "iphone-14-pro",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-14-pro-128-gb-usado",
+      "name": "iPhone 14 Pro 128 GB",
+      "condition": "Usado",
+      "price": 1548000,
+      "model": "iphone-14-pro",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-14-pro-512-gb-nuevo",
+      "name": "iPhone 14 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 2372000,
+      "model": "iphone-14-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-pro-512-gb-exhibicion",
+      "name": "iPhone 14 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 2016000,
+      "model": "iphone-14-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-pro-512-gb-usado",
+      "name": "iPhone 14 Pro 512 GB",
+      "condition": "Usado",
+      "price": 2048000,
+      "model": "iphone-14-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-pro-1-tb-nuevo",
+      "name": "iPhone 14 Pro 1 TB",
+      "condition": "Nuevo",
+      "price": 2728000,
+      "model": "iphone-14-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-14-pro-1-tb-exhibicion",
+      "name": "iPhone 14 Pro 1 TB",
+      "condition": "Exhibición",
+      "price": 2319000,
+      "model": "iphone-14-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-14-pro-1-tb-usado",
+      "name": "iPhone 14 Pro 1 TB",
+      "condition": "Usado",
+      "price": 2356000,
+      "model": "iphone-14-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-14-pro-max-128-gb-nuevo",
+      "name": "iPhone 14 Pro Max 128 GB",
+      "condition": "Nuevo",
+      "price": 2070000,
+      "model": "iphone-14-pro-max",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-14-pro-max-128-gb-exhibicion",
+      "name": "iPhone 14 Pro Max 128 GB",
+      "condition": "Exhibición",
+      "price": 1759000,
+      "model": "iphone-14-pro-max",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-14-pro-max-128-gb-usado",
+      "name": "iPhone 14 Pro Max 128 GB",
+      "condition": "Usado",
+      "price": 1815000,
+      "model": "iphone-14-pro-max",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-14-pro-max-512-gb-nuevo",
+      "name": "iPhone 14 Pro Max 512 GB",
+      "condition": "Nuevo",
+      "price": 2738000,
+      "model": "iphone-14-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-pro-max-512-gb-exhibicion",
+      "name": "iPhone 14 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "price": 2327000,
+      "model": "iphone-14-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-pro-max-512-gb-usado",
+      "name": "iPhone 14 Pro Max 512 GB",
+      "condition": "Usado",
+      "price": 2401000,
+      "model": "iphone-14-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-14-pro-max-1-tb-nuevo",
+      "name": "iPhone 14 Pro Max 1 TB",
+      "condition": "Nuevo",
+      "price": 3148000,
+      "model": "iphone-14-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-14-pro-max-1-tb-exhibicion",
+      "name": "iPhone 14 Pro Max 1 TB",
+      "condition": "Exhibición",
+      "price": 2675000,
+      "model": "iphone-14-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-14-pro-max-1-tb-usado",
+      "name": "iPhone 14 Pro Max 1 TB",
+      "condition": "Usado",
+      "price": 2760000,
+      "model": "iphone-14-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-15-512-gb-nuevo",
+      "name": "iPhone 15 512 GB",
+      "condition": "Nuevo",
+      "price": 3103000,
+      "model": "iphone-15",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-512-gb-exhibicion",
+      "name": "iPhone 15 512 GB",
+      "condition": "Exhibición",
+      "price": 2637000,
+      "model": "iphone-15",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-512-gb-usado",
+      "name": "iPhone 15 512 GB",
+      "condition": "Usado",
+      "price": 2078000,
+      "model": "iphone-15",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-plus-256-gb-nuevo",
+      "name": "iPhone 15 Plus 256 GB",
+      "condition": "Nuevo",
+      "price": 2555000,
+      "model": "iphone-15-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-15-plus-256-gb-exhibicion",
+      "name": "iPhone 15 Plus 256 GB",
+      "condition": "Exhibición",
+      "price": 2172000,
+      "model": "iphone-15-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-15-plus-256-gb-usado",
+      "name": "iPhone 15 Plus 256 GB",
+      "condition": "Usado",
+      "price": 1955000,
+      "model": "iphone-15-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-15-plus-512-gb-nuevo",
+      "name": "iPhone 15 Plus 512 GB",
+      "condition": "Nuevo",
+      "price": 2938000,
+      "model": "iphone-15-plus",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-plus-512-gb-exhibicion",
+      "name": "iPhone 15 Plus 512 GB",
+      "condition": "Exhibición",
+      "price": 2497000,
+      "model": "iphone-15-plus",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-plus-512-gb-usado",
+      "name": "iPhone 15 Plus 512 GB",
+      "condition": "Usado",
+      "price": 2249000,
+      "model": "iphone-15-plus",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-pro-128-gb-nuevo",
+      "name": "iPhone 15 Pro 128 GB",
+      "condition": "Nuevo",
+      "price": 2208000,
+      "model": "iphone-15-pro",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-15-pro-128-gb-exhibicion",
+      "name": "iPhone 15 Pro 128 GB",
+      "condition": "Exhibición",
+      "price": 1876000,
+      "model": "iphone-15-pro",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-15-pro-128-gb-usado",
+      "name": "iPhone 15 Pro 128 GB",
+      "condition": "Usado",
+      "price": 1901000,
+      "model": "iphone-15-pro",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-15-pro-512-gb-nuevo",
+      "name": "iPhone 15 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 2921000,
+      "model": "iphone-15-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-pro-512-gb-exhibicion",
+      "name": "iPhone 15 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 2482000,
+      "model": "iphone-15-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-pro-512-gb-usado",
+      "name": "iPhone 15 Pro 512 GB",
+      "condition": "Usado",
+      "price": 2515000,
+      "model": "iphone-15-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-pro-1-tb-nuevo",
+      "name": "iPhone 15 Pro 1 TB",
+      "condition": "Nuevo",
+      "price": 3359000,
+      "model": "iphone-15-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-15-pro-1-tb-exhibicion",
+      "name": "iPhone 15 Pro 1 TB",
+      "condition": "Exhibición",
+      "price": 2855000,
+      "model": "iphone-15-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-15-pro-1-tb-usado",
+      "name": "iPhone 15 Pro 1 TB",
+      "condition": "Usado",
+      "price": 2892000,
+      "model": "iphone-15-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-15-pro-max-512-gb-nuevo",
+      "name": "iPhone 15 Pro Max 512 GB",
+      "condition": "Nuevo",
+      "price": 3102000,
+      "model": "iphone-15-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-pro-max-512-gb-exhibicion",
+      "name": "iPhone 15 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "price": 2637000,
+      "model": "iphone-15-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-pro-max-512-gb-usado",
+      "name": "iPhone 15 Pro Max 512 GB",
+      "condition": "Usado",
+      "price": 2638000,
+      "model": "iphone-15-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-15-pro-max-1-tb-nuevo",
+      "name": "iPhone 15 Pro Max 1 TB",
+      "condition": "Nuevo",
+      "price": 3568000,
+      "model": "iphone-15-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-15-pro-max-1-tb-exhibicion",
+      "name": "iPhone 15 Pro Max 1 TB",
+      "condition": "Exhibición",
+      "price": 3033000,
+      "model": "iphone-15-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-15-pro-max-1-tb-usado",
+      "name": "iPhone 15 Pro Max 1 TB",
+      "condition": "Usado",
+      "price": 3035000,
+      "model": "iphone-15-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-16-256-gb-nuevo",
+      "name": "iPhone 16 256 GB",
+      "condition": "Nuevo",
+      "price": 2845000,
+      "model": "iphone-16",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16-256-gb-exhibicion",
+      "name": "iPhone 16 256 GB",
+      "condition": "Exhibición",
+      "price": 2368000,
+      "model": "iphone-16",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16-256-gb-usado",
+      "name": "iPhone 16 256 GB",
+      "condition": "Usado",
+      "price": 2473000,
+      "model": "iphone-16",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16-512-gb-nuevo",
+      "name": "iPhone 16 512 GB",
+      "condition": "Nuevo",
+      "price": 3271000,
+      "model": "iphone-16",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-512-gb-exhibicion",
+      "name": "iPhone 16 512 GB",
+      "condition": "Exhibición",
+      "price": 2723000,
+      "model": "iphone-16",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-512-gb-usado",
+      "name": "iPhone 16 512 GB",
+      "condition": "Usado",
+      "price": 2843000,
+      "model": "iphone-16",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-plus-256-gb-nuevo",
+      "name": "iPhone 16 Plus 256 GB",
+      "condition": "Nuevo",
+      "price": 4139000,
+      "model": "iphone-16-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16-plus-256-gb-exhibicion",
+      "name": "iPhone 16 Plus 256 GB",
+      "condition": "Exhibición",
+      "price": 3506000,
+      "model": "iphone-16-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16-plus-256-gb-usado",
+      "name": "iPhone 16 Plus 256 GB",
+      "condition": "Usado",
+      "price": 2874000,
+      "model": "iphone-16-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16-plus-512-gb-nuevo",
+      "name": "iPhone 16 Plus 512 GB",
+      "condition": "Nuevo",
+      "price": 4760000,
+      "model": "iphone-16-plus",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-plus-512-gb-exhibicion",
+      "name": "iPhone 16 Plus 512 GB",
+      "condition": "Exhibición",
+      "price": 4032000,
+      "model": "iphone-16-plus",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-plus-512-gb-usado",
+      "name": "iPhone 16 Plus 512 GB",
+      "condition": "Usado",
+      "price": 3305000,
+      "model": "iphone-16-plus",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-pro-256-gb-nuevo",
+      "name": "iPhone 16 Pro 256 GB",
+      "condition": "Nuevo",
+      "price": 3909000,
+      "model": "iphone-16-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16-pro-256-gb-exhibicion",
+      "name": "iPhone 16 Pro 256 GB",
+      "condition": "Exhibición",
+      "price": 3276000,
+      "model": "iphone-16-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16-pro-256-gb-usado",
+      "name": "iPhone 16 Pro 256 GB",
+      "condition": "Usado",
+      "price": 2701000,
+      "model": "iphone-16-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16-pro-512-gb-nuevo",
+      "name": "iPhone 16 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 4496000,
+      "model": "iphone-16-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-pro-512-gb-exhibicion",
+      "name": "iPhone 16 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 3768000,
+      "model": "iphone-16-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-pro-512-gb-usado",
+      "name": "iPhone 16 Pro 512 GB",
+      "condition": "Usado",
+      "price": 3107000,
+      "model": "iphone-16-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-pro-1-tb-nuevo",
+      "name": "iPhone 16 Pro 1 TB",
+      "condition": "Nuevo",
+      "price": 5170000,
+      "model": "iphone-16-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-16-pro-1-tb-exhibicion",
+      "name": "iPhone 16 Pro 1 TB",
+      "condition": "Exhibición",
+      "price": 4333000,
+      "model": "iphone-16-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-16-pro-1-tb-usado",
+      "name": "iPhone 16 Pro 1 TB",
+      "condition": "Usado",
+      "price": 3573000,
+      "model": "iphone-16-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-16-pro-max-512-gb-nuevo",
+      "name": "iPhone 16 Pro Max 512 GB",
+      "condition": "Nuevo",
+      "price": 6695000,
+      "model": "iphone-16-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-pro-max-512-gb-exhibicion",
+      "name": "iPhone 16 Pro Max 512 GB",
+      "condition": "Exhibición",
+      "price": 3238000,
+      "model": "iphone-16-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-pro-max-512-gb-usado",
+      "name": "iPhone 16 Pro Max 512 GB",
+      "condition": "Usado",
+      "price": 2948000,
+      "model": "iphone-16-pro-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16-pro-max-1-tb-nuevo",
+      "name": "iPhone 16 Pro Max 1 TB",
+      "condition": "Nuevo",
+      "price": 7699000,
+      "model": "iphone-16-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-16-pro-max-1-tb-exhibicion",
+      "name": "iPhone 16 Pro Max 1 TB",
+      "condition": "Exhibición",
+      "price": 3723000,
+      "model": "iphone-16-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-16-pro-max-1-tb-usado",
+      "name": "iPhone 16 Pro Max 1 TB",
+      "condition": "Usado",
+      "price": 3390000,
+      "model": "iphone-16-pro-max",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-16e-256-gb-nuevo",
+      "name": "iPhone 16e 256 GB",
+      "condition": "Nuevo",
+      "price": 2793000,
+      "model": "iphone-16e",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16e-256-gb-exhibicion",
+      "name": "iPhone 16e 256 GB",
+      "condition": "Exhibición",
+      "price": 2373000,
+      "model": "iphone-16e",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16e-256-gb-usado",
+      "name": "iPhone 16e 256 GB",
+      "condition": "Usado",
+      "price": 2275000,
+      "model": "iphone-16e",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-16e-512-gb-nuevo",
+      "name": "iPhone 16e 512 GB",
+      "condition": "Nuevo",
+      "price": 3212000,
+      "model": "iphone-16e",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16e-512-gb-exhibicion",
+      "name": "iPhone 16e 512 GB",
+      "condition": "Exhibición",
+      "price": 2729000,
+      "model": "iphone-16e",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-16e-512-gb-usado",
+      "name": "iPhone 16e 512 GB",
+      "condition": "Usado",
+      "price": 2616000,
+      "model": "iphone-16e",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-17-512-gb-nuevo",
+      "name": "iPhone 17 512 GB",
+      "condition": "Nuevo",
+      "price": 3310000,
+      "model": "iphone-17",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-17-512-gb-exhibicion",
+      "name": "iPhone 17 512 GB",
+      "condition": "Exhibición",
+      "price": 2689000,
+      "model": "iphone-17",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-17-512-gb-usado",
+      "name": "iPhone 17 512 GB",
+      "condition": "Usado",
+      "price": 2979000,
+      "model": "iphone-17",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-17-pro-512-gb-nuevo",
+      "name": "iPhone 17 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 4427000,
+      "model": "iphone-17-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-17-pro-512-gb-exhibicion",
+      "name": "iPhone 17 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 3737000,
+      "model": "iphone-17-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-17-pro-512-gb-usado",
+      "name": "iPhone 17 Pro 512 GB",
+      "condition": "Usado",
+      "price": 3047000,
+      "model": "iphone-17-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-17-pro-1-tb-nuevo",
+      "name": "iPhone 17 Pro 1 TB",
+      "condition": "Nuevo",
+      "price": 5091000,
+      "model": "iphone-17-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-17-pro-1-tb-exhibicion",
+      "name": "iPhone 17 Pro 1 TB",
+      "condition": "Exhibición",
+      "price": 4297000,
+      "model": "iphone-17-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-17-pro-1-tb-usado",
+      "name": "iPhone 17 Pro 1 TB",
+      "condition": "Usado",
+      "price": 3504000,
+      "model": "iphone-17-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-17e-512-gb-nuevo",
+      "name": "iPhone 17e 512 GB",
+      "condition": "Nuevo",
+      "price": 3622000,
+      "model": "iphone-17e",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-17e-512-gb-exhibicion",
+      "name": "iPhone 17e 512 GB",
+      "condition": "Exhibición",
+      "price": 3047000,
+      "model": "iphone-17e",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-17e-512-gb-usado",
+      "name": "iPhone 17e 512 GB",
+      "condition": "Usado",
+      "price": 2529000,
+      "model": "iphone-17e",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-18-pro-512-gb-nuevo",
+      "name": "iPhone 18 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 5898000,
+      "model": "iphone-18-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-18-pro-512-gb-exhibicion",
+      "name": "iPhone 18 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 5012000,
+      "model": "iphone-18-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-18-pro-512-gb-usado",
+      "name": "iPhone 18 Pro 512 GB",
+      "condition": "Usado",
+      "price": 4128000,
+      "model": "iphone-18-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-18-pro-1-tb-nuevo",
+      "name": "iPhone 18 Pro 1 TB",
+      "condition": "Nuevo",
+      "price": 6783000,
+      "model": "iphone-18-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-18-pro-1-tb-exhibicion",
+      "name": "iPhone 18 Pro 1 TB",
+      "condition": "Exhibición",
+      "price": 5764000,
+      "model": "iphone-18-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-18-pro-1-tb-usado",
+      "name": "iPhone 18 Pro 1 TB",
+      "condition": "Usado",
+      "price": 4747000,
+      "model": "iphone-18-pro",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-18-pro-2-tb-nuevo",
+      "name": "iPhone 18 Pro 2 TB",
+      "condition": "Nuevo",
+      "price": 7800000,
+      "model": "iphone-18-pro",
+      "storageGB": 2048
+    },
+    {
+      "slug": "iphone-18-pro-2-tb-exhibicion",
+      "name": "iPhone 18 Pro 2 TB",
+      "condition": "Exhibición",
+      "price": 6629000,
+      "model": "iphone-18-pro",
+      "storageGB": 2048
+    },
+    {
+      "slug": "iphone-18-pro-2-tb-usado",
+      "name": "iPhone 18 Pro 2 TB",
+      "condition": "Usado",
+      "price": 5459000,
+      "model": "iphone-18-pro",
+      "storageGB": 2048
+    },
+    {
+      "slug": "iphone-7-128-gb-nuevo",
+      "name": "iPhone 7 128 GB",
+      "condition": "Nuevo",
+      "price": 679000,
+      "model": "iphone-7",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-7-128-gb-exhibicion",
+      "name": "iPhone 7 128 GB",
+      "condition": "Exhibición",
+      "price": 577000,
+      "model": "iphone-7",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-7-128-gb-usado",
+      "name": "iPhone 7 128 GB",
+      "condition": "Usado",
+      "price": 475000,
+      "model": "iphone-7",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-7-256-gb-nuevo",
+      "name": "iPhone 7 256 GB",
+      "condition": "Nuevo",
+      "price": 781000,
+      "model": "iphone-7",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-7-256-gb-exhibicion",
+      "name": "iPhone 7 256 GB",
+      "condition": "Exhibición",
+      "price": 664000,
+      "model": "iphone-7",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-7-256-gb-usado",
+      "name": "iPhone 7 256 GB",
+      "condition": "Usado",
+      "price": 547000,
+      "model": "iphone-7",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-7-plus-32-gb-nuevo",
+      "name": "iPhone 7 Plus 32 GB",
+      "condition": "Nuevo",
+      "price": 485000,
+      "model": "iphone-7-plus",
+      "storageGB": 32
+    },
+    {
+      "slug": "iphone-7-plus-32-gb-exhibicion",
+      "name": "iPhone 7 Plus 32 GB",
+      "condition": "Exhibición",
+      "price": 412000,
+      "model": "iphone-7-plus",
+      "storageGB": 32
+    },
+    {
+      "slug": "iphone-7-plus-32-gb-usado",
+      "name": "iPhone 7 Plus 32 GB",
+      "condition": "Usado",
+      "price": 339000,
+      "model": "iphone-7-plus",
+      "storageGB": 32
+    },
+    {
+      "slug": "iphone-7-plus-256-gb-nuevo",
+      "name": "iPhone 7 Plus 256 GB",
+      "condition": "Nuevo",
+      "price": 738000,
+      "model": "iphone-7-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-7-plus-256-gb-exhibicion",
+      "name": "iPhone 7 Plus 256 GB",
+      "condition": "Exhibición",
+      "price": 627000,
+      "model": "iphone-7-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-7-plus-256-gb-usado",
+      "name": "iPhone 7 Plus 256 GB",
+      "condition": "Usado",
+      "price": 517000,
+      "model": "iphone-7-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-8-128-gb-nuevo",
+      "name": "iPhone 8 128 GB",
+      "condition": "Nuevo",
+      "price": 664000,
+      "model": "iphone-8",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-8-128-gb-exhibicion",
+      "name": "iPhone 8 128 GB",
+      "condition": "Exhibición",
+      "price": 564000,
+      "model": "iphone-8",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-8-128-gb-usado",
+      "name": "iPhone 8 128 GB",
+      "condition": "Usado",
+      "price": 465000,
+      "model": "iphone-8",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-8-256-gb-nuevo",
+      "name": "iPhone 8 256 GB",
+      "condition": "Nuevo",
+      "price": 764000,
+      "model": "iphone-8",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-8-256-gb-exhibicion",
+      "name": "iPhone 8 256 GB",
+      "condition": "Exhibición",
+      "price": 649000,
+      "model": "iphone-8",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-8-256-gb-usado",
+      "name": "iPhone 8 256 GB",
+      "condition": "Usado",
+      "price": 535000,
+      "model": "iphone-8",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-8-plus-128-gb-nuevo",
+      "name": "iPhone 8 Plus 128 GB",
+      "condition": "Nuevo",
+      "price": 738000,
+      "model": "iphone-8-plus",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-8-plus-128-gb-exhibicion",
+      "name": "iPhone 8 Plus 128 GB",
+      "condition": "Exhibición",
+      "price": 627000,
+      "model": "iphone-8-plus",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-8-plus-128-gb-usado",
+      "name": "iPhone 8 Plus 128 GB",
+      "condition": "Usado",
+      "price": 517000,
+      "model": "iphone-8-plus",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-8-plus-256-gb-nuevo",
+      "name": "iPhone 8 Plus 256 GB",
+      "condition": "Nuevo",
+      "price": 849000,
+      "model": "iphone-8-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-8-plus-256-gb-exhibicion",
+      "name": "iPhone 8 Plus 256 GB",
+      "condition": "Exhibición",
+      "price": 722000,
+      "model": "iphone-8-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-8-plus-256-gb-usado",
+      "name": "iPhone 8 Plus 256 GB",
+      "condition": "Usado",
+      "price": 595000,
+      "model": "iphone-8-plus",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-air-512-gb-nuevo",
+      "name": "iPhone Air 512 GB",
+      "condition": "Nuevo",
+      "price": 3794000,
+      "model": "iphone-air",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-air-512-gb-exhibicion",
+      "name": "iPhone Air 512 GB",
+      "condition": "Exhibición",
+      "price": 3219000,
+      "model": "iphone-air",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-air-512-gb-usado",
+      "name": "iPhone Air 512 GB",
+      "condition": "Usado",
+      "price": 2644000,
+      "model": "iphone-air",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-air-1-tb-nuevo",
+      "name": "iPhone Air 1 TB",
+      "condition": "Nuevo",
+      "price": 4364000,
+      "model": "iphone-air",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-air-1-tb-exhibicion",
+      "name": "iPhone Air 1 TB",
+      "condition": "Exhibición",
+      "price": 3702000,
+      "model": "iphone-air",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-air-1-tb-usado",
+      "name": "iPhone Air 1 TB",
+      "condition": "Usado",
+      "price": 3041000,
+      "model": "iphone-air",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-se-2020-128-gb-nuevo",
+      "name": "iPhone SE 2020 128 GB",
+      "condition": "Nuevo",
+      "price": 1265000,
+      "model": "iphone-se-2020",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-se-2020-128-gb-exhibicion",
+      "name": "iPhone SE 2020 128 GB",
+      "condition": "Exhibición",
+      "price": 1035000,
+      "model": "iphone-se-2020",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-se-2020-128-gb-usado",
+      "name": "iPhone SE 2020 128 GB",
+      "condition": "Usado",
+      "price": 862000,
+      "model": "iphone-se-2020",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-se-2020-256-gb-nuevo",
+      "name": "iPhone SE 2020 256 GB",
+      "condition": "Nuevo",
+      "price": 1454000,
+      "model": "iphone-se-2020",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-se-2020-256-gb-exhibicion",
+      "name": "iPhone SE 2020 256 GB",
+      "condition": "Exhibición",
+      "price": 1189000,
+      "model": "iphone-se-2020",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-se-2020-256-gb-usado",
+      "name": "iPhone SE 2020 256 GB",
+      "condition": "Usado",
+      "price": 991000,
+      "model": "iphone-se-2020",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-se-2022-128-gb-nuevo",
+      "name": "iPhone SE 2022 128 GB",
+      "condition": "Nuevo",
+      "price": 1724000,
+      "model": "iphone-se-2022",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-se-2022-128-gb-exhibicion",
+      "name": "iPhone SE 2022 128 GB",
+      "condition": "Exhibición",
+      "price": 1436000,
+      "model": "iphone-se-2022",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-se-2022-128-gb-usado",
+      "name": "iPhone SE 2022 128 GB",
+      "condition": "Usado",
+      "price": 1206000,
+      "model": "iphone-se-2022",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-se-2022-256-gb-nuevo",
+      "name": "iPhone SE 2022 256 GB",
+      "condition": "Nuevo",
+      "price": 1983000,
+      "model": "iphone-se-2022",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-se-2022-256-gb-exhibicion",
+      "name": "iPhone SE 2022 256 GB",
+      "condition": "Exhibición",
+      "price": 1652000,
+      "model": "iphone-se-2022",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-se-2022-256-gb-usado",
+      "name": "iPhone SE 2022 256 GB",
+      "condition": "Usado",
+      "price": 1388000,
+      "model": "iphone-se-2022",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-x-256-gb-nuevo",
+      "name": "iPhone X 256 GB",
+      "condition": "Nuevo",
+      "price": 935000,
+      "model": "iphone-x",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-x-256-gb-exhibicion",
+      "name": "iPhone X 256 GB",
+      "condition": "Exhibición",
+      "price": 794000,
+      "model": "iphone-x",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-x-256-gb-usado",
+      "name": "iPhone X 256 GB",
+      "condition": "Usado",
+      "price": 654000,
+      "model": "iphone-x",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xr-128-gb-nuevo",
+      "name": "iPhone XR 128 GB",
+      "condition": "Nuevo",
+      "price": 960000,
+      "model": "iphone-xr",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-xr-128-gb-exhibicion",
+      "name": "iPhone XR 128 GB",
+      "condition": "Exhibición",
+      "price": 816000,
+      "model": "iphone-xr",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-xr-128-gb-usado",
+      "name": "iPhone XR 128 GB",
+      "condition": "Usado",
+      "price": 672000,
+      "model": "iphone-xr",
+      "storageGB": 128
+    },
+    {
+      "slug": "iphone-xr-256-gb-nuevo",
+      "name": "iPhone XR 256 GB",
+      "condition": "Nuevo",
+      "price": 1104000,
+      "model": "iphone-xr",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xr-256-gb-exhibicion",
+      "name": "iPhone XR 256 GB",
+      "condition": "Exhibición",
+      "price": 938000,
+      "model": "iphone-xr",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xr-256-gb-usado",
+      "name": "iPhone XR 256 GB",
+      "condition": "Usado",
+      "price": 773000,
+      "model": "iphone-xr",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xs-256-gb-nuevo",
+      "name": "iPhone XS 256 GB",
+      "condition": "Nuevo",
+      "price": 1019000,
+      "model": "iphone-xs",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xs-256-gb-exhibicion",
+      "name": "iPhone XS 256 GB",
+      "condition": "Exhibición",
+      "price": 865000,
+      "model": "iphone-xs",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xs-256-gb-usado",
+      "name": "iPhone XS 256 GB",
+      "condition": "Usado",
+      "price": 713000,
+      "model": "iphone-xs",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xs-512-gb-nuevo",
+      "name": "iPhone XS 512 GB",
+      "condition": "Nuevo",
+      "price": 1172000,
+      "model": "iphone-xs",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-xs-512-gb-exhibicion",
+      "name": "iPhone XS 512 GB",
+      "condition": "Exhibición",
+      "price": 995000,
+      "model": "iphone-xs",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-xs-512-gb-usado",
+      "name": "iPhone XS 512 GB",
+      "condition": "Usado",
+      "price": 820000,
+      "model": "iphone-xs",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-xs-max-256-gb-nuevo",
+      "name": "iPhone XS Max 256 GB",
+      "condition": "Nuevo",
+      "price": 1274000,
+      "model": "iphone-xs-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xs-max-256-gb-exhibicion",
+      "name": "iPhone XS Max 256 GB",
+      "condition": "Exhibición",
+      "price": 1082000,
+      "model": "iphone-xs-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xs-max-256-gb-usado",
+      "name": "iPhone XS Max 256 GB",
+      "condition": "Usado",
+      "price": 892000,
+      "model": "iphone-xs-max",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-xs-max-512-gb-nuevo",
+      "name": "iPhone XS Max 512 GB",
+      "condition": "Nuevo",
+      "price": 1466000,
+      "model": "iphone-xs-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-xs-max-512-gb-exhibicion",
+      "name": "iPhone XS Max 512 GB",
+      "condition": "Exhibición",
+      "price": 1245000,
+      "model": "iphone-xs-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-xs-max-512-gb-usado",
+      "name": "iPhone XS Max 512 GB",
+      "condition": "Usado",
+      "price": 1026000,
+      "model": "iphone-xs-max",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-duo-256-gb-nuevo",
+      "name": "iPhone Duo 256 GB",
+      "condition": "Nuevo",
+      "price": 7686000,
+      "model": "iphone-duo",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-duo-256-gb-exhibicion",
+      "name": "iPhone Duo 256 GB",
+      "condition": "Exhibición",
+      "price": 6531000,
+      "model": "iphone-duo",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-duo-256-gb-usado",
+      "name": "iPhone Duo 256 GB",
+      "condition": "Usado",
+      "price": 5379000,
+      "model": "iphone-duo",
+      "storageGB": 256
+    },
+    {
+      "slug": "iphone-duo-512-gb-nuevo",
+      "name": "iPhone Duo 512 GB",
+      "condition": "Nuevo",
+      "price": 8455000,
+      "model": "iphone-duo",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-duo-512-gb-exhibicion",
+      "name": "iPhone Duo 512 GB",
+      "condition": "Exhibición",
+      "price": 7185000,
+      "model": "iphone-duo",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-duo-512-gb-usado",
+      "name": "iPhone Duo 512 GB",
+      "condition": "Usado",
+      "price": 5917000,
+      "model": "iphone-duo",
+      "storageGB": 512
+    },
+    {
+      "slug": "iphone-duo-1-tb-nuevo",
+      "name": "iPhone Duo 1 TB",
+      "condition": "Nuevo",
+      "price": 9993000,
+      "model": "iphone-duo",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-duo-1-tb-exhibicion",
+      "name": "iPhone Duo 1 TB",
+      "condition": "Exhibición",
+      "price": 8492000,
+      "model": "iphone-duo",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-duo-1-tb-usado",
+      "name": "iPhone Duo 1 TB",
+      "condition": "Usado",
+      "price": 6994000,
+      "model": "iphone-duo",
+      "storageGB": 1024
+    },
+    {
+      "slug": "iphone-duo-2-tb-nuevo",
+      "name": "iPhone Duo 2 TB",
+      "condition": "Nuevo",
+      "price": 12301000,
+      "model": "iphone-duo",
+      "storageGB": 2048
+    },
+    {
+      "slug": "iphone-duo-2-tb-exhibicion",
+      "name": "iPhone Duo 2 TB",
+      "condition": "Exhibición",
+      "price": 10454000,
+      "model": "iphone-duo",
+      "storageGB": 2048
+    },
+    {
+      "slug": "iphone-duo-2-tb-usado",
+      "name": "iPhone Duo 2 TB",
+      "condition": "Usado",
+      "price": 8609000,
+      "model": "iphone-duo",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-10-generacion-256-gb-nuevo",
+      "name": "iPad 10.ª generación 256 GB",
+      "condition": "Nuevo",
+      "price": 1953000,
+      "model": "ipad-10-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-10-generacion-256-gb-exhibicion",
+      "name": "iPad 10.ª generación 256 GB",
+      "condition": "Exhibición",
+      "price": 1659000,
+      "model": "ipad-10-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-10-generacion-256-gb-usado",
+      "name": "iPad 10.ª generación 256 GB",
+      "condition": "Usado",
+      "price": 1367000,
+      "model": "ipad-10-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-11-pulgadas-a16-256-gb-nuevo",
+      "name": "iPad 11 pulgadas A16 256 GB",
+      "condition": "Nuevo",
+      "price": 1654000,
+      "model": "ipad-11-pulgadas-a16",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-11-pulgadas-a16-256-gb-exhibicion",
+      "name": "iPad 11 pulgadas A16 256 GB",
+      "condition": "Exhibición",
+      "price": 1405000,
+      "model": "ipad-11-pulgadas-a16",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-11-pulgadas-a16-256-gb-usado",
+      "name": "iPad 11 pulgadas A16 256 GB",
+      "condition": "Usado",
+      "price": 1157000,
+      "model": "ipad-11-pulgadas-a16",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-11-pulgadas-a16-512-gb-nuevo",
+      "name": "iPad 11 pulgadas A16 512 GB",
+      "condition": "Nuevo",
+      "price": 1903000,
+      "model": "ipad-11-pulgadas-a16",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-11-pulgadas-a16-512-gb-exhibicion",
+      "name": "iPad 11 pulgadas A16 512 GB",
+      "condition": "Exhibición",
+      "price": 1617000,
+      "model": "ipad-11-pulgadas-a16",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-11-pulgadas-a16-512-gb-usado",
+      "name": "iPad 11 pulgadas A16 512 GB",
+      "condition": "Usado",
+      "price": 1331000,
+      "model": "ipad-11-pulgadas-a16",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-9-generacion-256-gb-nuevo",
+      "name": "iPad 9.ª generación 256 GB",
+      "condition": "Nuevo",
+      "price": 1571000,
+      "model": "ipad-9-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-9-generacion-256-gb-exhibicion",
+      "name": "iPad 9.ª generación 256 GB",
+      "condition": "Exhibición",
+      "price": 1335000,
+      "model": "ipad-9-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-9-generacion-256-gb-usado",
+      "name": "iPad 9.ª generación 256 GB",
+      "condition": "Usado",
+      "price": 1100000,
+      "model": "ipad-9-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m3-128-gb-nuevo",
+      "name": "iPad Air 11 pulgadas M3 128 GB",
+      "condition": "Nuevo",
+      "price": 3327000,
+      "model": "ipad-air-11-pulgadas-m3",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m3-128-gb-exhibicion",
+      "name": "iPad Air 11 pulgadas M3 128 GB",
+      "condition": "Exhibición",
+      "price": 2827000,
+      "model": "ipad-air-11-pulgadas-m3",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m3-128-gb-usado",
+      "name": "iPad Air 11 pulgadas M3 128 GB",
+      "condition": "Usado",
+      "price": 2328000,
+      "model": "ipad-air-11-pulgadas-m3",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m3-512-gb-nuevo",
+      "name": "iPad Air 11 pulgadas M3 512 GB",
+      "condition": "Nuevo",
+      "price": 4401000,
+      "model": "ipad-air-11-pulgadas-m3",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m3-512-gb-exhibicion",
+      "name": "iPad Air 11 pulgadas M3 512 GB",
+      "condition": "Exhibición",
+      "price": 3739000,
+      "model": "ipad-air-11-pulgadas-m3",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m3-512-gb-usado",
+      "name": "iPad Air 11 pulgadas M3 512 GB",
+      "condition": "Usado",
+      "price": 3079000,
+      "model": "ipad-air-11-pulgadas-m3",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m3-1-tb-nuevo",
+      "name": "iPad Air 11 pulgadas M3 1 TB",
+      "condition": "Nuevo",
+      "price": 5061000,
+      "model": "ipad-air-11-pulgadas-m3",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m3-1-tb-exhibicion",
+      "name": "iPad Air 11 pulgadas M3 1 TB",
+      "condition": "Exhibición",
+      "price": 4300000,
+      "model": "ipad-air-11-pulgadas-m3",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m3-1-tb-usado",
+      "name": "iPad Air 11 pulgadas M3 1 TB",
+      "condition": "Usado",
+      "price": 3541000,
+      "model": "ipad-air-11-pulgadas-m3",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m4-256-gb-wi-fi-nuevo",
+      "name": "iPad Air 11 pulgadas M4 256 GB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 2875000,
+      "model": "ipad-air-11-pulgadas-m4",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m4-256-gb-wi-fi-exhibicion",
+      "name": "iPad Air 11 pulgadas M4 256 GB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 2415000,
+      "model": "ipad-air-11-pulgadas-m4",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m4-256-gb-wi-fi-usado",
+      "name": "iPad Air 11 pulgadas M4 256 GB Wi-Fi",
+      "condition": "Usado",
+      "price": 2012000,
+      "model": "ipad-air-11-pulgadas-m4",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m4-512-gb-wi-fi-nuevo",
+      "name": "iPad Air 11 pulgadas M4 512 GB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 3306000,
+      "model": "ipad-air-11-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m4-512-gb-wi-fi-exhibicion",
+      "name": "iPad Air 11 pulgadas M4 512 GB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 2777000,
+      "model": "ipad-air-11-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m4-512-gb-wi-fi-usado",
+      "name": "iPad Air 11 pulgadas M4 512 GB Wi-Fi",
+      "condition": "Usado",
+      "price": 2314000,
+      "model": "ipad-air-11-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m4-1-tb-wi-fi-nuevo",
+      "name": "iPad Air 11 pulgadas M4 1 TB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 3802000,
+      "model": "ipad-air-11-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m4-1-tb-wi-fi-exhibicion",
+      "name": "iPad Air 11 pulgadas M4 1 TB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 3193000,
+      "model": "ipad-air-11-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m4-1-tb-wi-fi-usado",
+      "name": "iPad Air 11 pulgadas M4 1 TB Wi-Fi",
+      "condition": "Usado",
+      "price": 2661000,
+      "model": "ipad-air-11-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-128-gb-nuevo",
+      "name": "iPad Air 13 pulgadas M3 128 GB",
+      "condition": "Nuevo",
+      "price": 3912000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-128-gb-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 128 GB",
+      "condition": "Exhibición",
+      "price": 3325000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-128-gb-usado",
+      "name": "iPad Air 13 pulgadas M3 128 GB",
+      "condition": "Usado",
+      "price": 2738000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-512-gb-nuevo",
+      "name": "iPad Air 13 pulgadas M3 512 GB",
+      "condition": "Nuevo",
+      "price": 5173000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-512-gb-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 512 GB",
+      "condition": "Exhibición",
+      "price": 4396000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-512-gb-usado",
+      "name": "iPad Air 13 pulgadas M3 512 GB",
+      "condition": "Usado",
+      "price": 3620000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-1-tb-nuevo",
+      "name": "iPad Air 13 pulgadas M3 1 TB",
+      "condition": "Nuevo",
+      "price": 5949000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-1-tb-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 1 TB",
+      "condition": "Exhibición",
+      "price": 5056000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-1-tb-usado",
+      "name": "iPad Air 13 pulgadas M3 1 TB",
+      "condition": "Usado",
+      "price": 4163000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-128-gb-cellular-nuevo",
+      "name": "iPad Air 13 pulgadas M3 128 GB Cellular",
+      "condition": "Nuevo",
+      "price": 4920000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-128-gb-cellular-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 128 GB Cellular",
+      "condition": "Exhibición",
+      "price": 4181000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-128-gb-cellular-usado",
+      "name": "iPad Air 13 pulgadas M3 128 GB Cellular",
+      "condition": "Usado",
+      "price": 3443000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-512-gb-cellular-nuevo",
+      "name": "iPad Air 13 pulgadas M3 512 GB Cellular",
+      "condition": "Nuevo",
+      "price": 6506000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-512-gb-cellular-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 512 GB Cellular",
+      "condition": "Exhibición",
+      "price": 5529000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-512-gb-cellular-usado",
+      "name": "iPad Air 13 pulgadas M3 512 GB Cellular",
+      "condition": "Usado",
+      "price": 4553000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-1-tb-cellular-nuevo",
+      "name": "iPad Air 13 pulgadas M3 1 TB Cellular",
+      "condition": "Nuevo",
+      "price": 7482000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-1-tb-cellular-exhibicion",
+      "name": "iPad Air 13 pulgadas M3 1 TB Cellular",
+      "condition": "Exhibición",
+      "price": 6359000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m3-1-tb-cellular-usado",
+      "name": "iPad Air 13 pulgadas M3 1 TB Cellular",
+      "condition": "Usado",
+      "price": 5236000,
+      "model": "ipad-air-13-pulgadas-m3",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m4-256-gb-wi-fi-nuevo",
+      "name": "iPad Air 13 pulgadas M4 256 GB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 4657000,
+      "model": "ipad-air-13-pulgadas-m4",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m4-256-gb-wi-fi-exhibicion",
+      "name": "iPad Air 13 pulgadas M4 256 GB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 3909000,
+      "model": "ipad-air-13-pulgadas-m4",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m4-256-gb-wi-fi-usado",
+      "name": "iPad Air 13 pulgadas M4 256 GB Wi-Fi",
+      "condition": "Usado",
+      "price": 3219000,
+      "model": "ipad-air-13-pulgadas-m4",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m4-512-gb-wi-fi-nuevo",
+      "name": "iPad Air 13 pulgadas M4 512 GB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 5356000,
+      "model": "ipad-air-13-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m4-512-gb-wi-fi-exhibicion",
+      "name": "iPad Air 13 pulgadas M4 512 GB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 4496000,
+      "model": "ipad-air-13-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m4-512-gb-wi-fi-usado",
+      "name": "iPad Air 13 pulgadas M4 512 GB Wi-Fi",
+      "condition": "Usado",
+      "price": 3702000,
+      "model": "ipad-air-13-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m4-1-tb-wi-fi-nuevo",
+      "name": "iPad Air 13 pulgadas M4 1 TB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 6159000,
+      "model": "ipad-air-13-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m4-1-tb-wi-fi-exhibicion",
+      "name": "iPad Air 13 pulgadas M4 1 TB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 5170000,
+      "model": "ipad-air-13-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m4-1-tb-wi-fi-usado",
+      "name": "iPad Air 13 pulgadas M4 1 TB Wi-Fi",
+      "condition": "Usado",
+      "price": 4258000,
+      "model": "ipad-air-13-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-4-generacion-256-gb-nuevo",
+      "name": "iPad Air 4.ª generación 256 GB",
+      "condition": "Nuevo",
+      "price": 2972000,
+      "model": "ipad-air-4-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-4-generacion-256-gb-exhibicion",
+      "name": "iPad Air 4.ª generación 256 GB",
+      "condition": "Exhibición",
+      "price": 2526000,
+      "model": "ipad-air-4-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-4-generacion-256-gb-usado",
+      "name": "iPad Air 4.ª generación 256 GB",
+      "condition": "Usado",
+      "price": 2080000,
+      "model": "ipad-air-4-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-5-generacion-256-gb-nuevo",
+      "name": "iPad Air 5.ª generación 256 GB",
+      "condition": "Nuevo",
+      "price": 2548000,
+      "model": "ipad-air-5-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-5-generacion-256-gb-exhibicion",
+      "name": "iPad Air 5.ª generación 256 GB",
+      "condition": "Exhibición",
+      "price": 2165000,
+      "model": "ipad-air-5-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-5-generacion-256-gb-usado",
+      "name": "iPad Air 5.ª generación 256 GB",
+      "condition": "Usado",
+      "price": 1783000,
+      "model": "ipad-air-5-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-128-gb-nuevo",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 128 GB",
+      "condition": "Nuevo",
+      "price": 2828000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-128-gb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 128 GB",
+      "condition": "Exhibición",
+      "price": 2404000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-128-gb-usado",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 128 GB",
+      "condition": "Usado",
+      "price": 1980000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-256-gb-nuevo",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 256 GB",
+      "condition": "Nuevo",
+      "price": 3252000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-256-gb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 256 GB",
+      "condition": "Exhibición",
+      "price": 2764000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-256-gb-usado",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 256 GB",
+      "condition": "Usado",
+      "price": 2276000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-512-gb-nuevo",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 512 GB",
+      "condition": "Nuevo",
+      "price": 3740000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-512-gb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 512 GB",
+      "condition": "Exhibición",
+      "price": 3179000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-512-gb-usado",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 512 GB",
+      "condition": "Usado",
+      "price": 2618000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-1-tb-nuevo",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 1 TB",
+      "condition": "Nuevo",
+      "price": 4301000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-1-tb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 1 TB",
+      "condition": "Exhibición",
+      "price": 3656000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-1-tb-usado",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 1 TB",
+      "condition": "Usado",
+      "price": 3011000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-2-tb-nuevo",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 2 TB",
+      "condition": "Nuevo",
+      "price": 4946000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-2-tb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 2 TB",
+      "condition": "Exhibición",
+      "price": 4204000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-3-generacion-2-tb-usado",
+      "name": "iPad Pro 11 pulgadas 3.ª generación 2 TB",
+      "condition": "Usado",
+      "price": 3462000,
+      "model": "ipad-pro-11-pulgadas-3-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m4-512-gb-nuevo",
+      "name": "iPad Pro 11 pulgadas M4 512 GB",
+      "condition": "Nuevo",
+      "price": 4450000,
+      "model": "ipad-pro-11-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m4-512-gb-exhibicion",
+      "name": "iPad Pro 11 pulgadas M4 512 GB",
+      "condition": "Exhibición",
+      "price": 3781000,
+      "model": "ipad-pro-11-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m4-512-gb-usado",
+      "name": "iPad Pro 11 pulgadas M4 512 GB",
+      "condition": "Usado",
+      "price": 3115000,
+      "model": "ipad-pro-11-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m4-1-tb-nuevo",
+      "name": "iPad Pro 11 pulgadas M4 1 TB",
+      "condition": "Nuevo",
+      "price": 5118000,
+      "model": "ipad-pro-11-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m4-1-tb-exhibicion",
+      "name": "iPad Pro 11 pulgadas M4 1 TB",
+      "condition": "Exhibición",
+      "price": 4349000,
+      "model": "ipad-pro-11-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m4-1-tb-usado",
+      "name": "iPad Pro 11 pulgadas M4 1 TB",
+      "condition": "Usado",
+      "price": 3582000,
+      "model": "ipad-pro-11-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m4-2-tb-nuevo",
+      "name": "iPad Pro 11 pulgadas M4 2 TB",
+      "condition": "Nuevo",
+      "price": 5885000,
+      "model": "ipad-pro-11-pulgadas-m4",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m4-2-tb-exhibicion",
+      "name": "iPad Pro 11 pulgadas M4 2 TB",
+      "condition": "Exhibición",
+      "price": 5001000,
+      "model": "ipad-pro-11-pulgadas-m4",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m4-2-tb-usado",
+      "name": "iPad Pro 11 pulgadas M4 2 TB",
+      "condition": "Usado",
+      "price": 4119000,
+      "model": "ipad-pro-11-pulgadas-m4",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m5-512-gb-wi-fi-nuevo",
+      "name": "iPad Pro 11 pulgadas M5 512 GB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 5117000,
+      "model": "ipad-pro-11-pulgadas-m5",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m5-512-gb-wi-fi-exhibicion",
+      "name": "iPad Pro 11 pulgadas M5 512 GB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 4312000,
+      "model": "ipad-pro-11-pulgadas-m5",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m5-512-gb-wi-fi-usado",
+      "name": "iPad Pro 11 pulgadas M5 512 GB Wi-Fi",
+      "condition": "Usado",
+      "price": 3564000,
+      "model": "ipad-pro-11-pulgadas-m5",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m5-1-tb-wi-fi-nuevo",
+      "name": "iPad Pro 11 pulgadas M5 1 TB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 5885000,
+      "model": "ipad-pro-11-pulgadas-m5",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m5-1-tb-wi-fi-exhibicion",
+      "name": "iPad Pro 11 pulgadas M5 1 TB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 4959000,
+      "model": "ipad-pro-11-pulgadas-m5",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m5-1-tb-wi-fi-usado",
+      "name": "iPad Pro 11 pulgadas M5 1 TB Wi-Fi",
+      "condition": "Usado",
+      "price": 4099000,
+      "model": "ipad-pro-11-pulgadas-m5",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m5-2-tb-wi-fi-nuevo",
+      "name": "iPad Pro 11 pulgadas M5 2 TB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 6767000,
+      "model": "ipad-pro-11-pulgadas-m5",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m5-2-tb-wi-fi-exhibicion",
+      "name": "iPad Pro 11 pulgadas M5 2 TB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 5702000,
+      "model": "ipad-pro-11-pulgadas-m5",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-m5-2-tb-wi-fi-usado",
+      "name": "iPad Pro 11 pulgadas M5 2 TB Wi-Fi",
+      "condition": "Usado",
+      "price": 4714000,
+      "model": "ipad-pro-11-pulgadas-m5",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-128-gb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 128 GB",
+      "condition": "Nuevo",
+      "price": 3600000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-128-gb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 128 GB",
+      "condition": "Exhibición",
+      "price": 3060000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-128-gb-usado",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 128 GB",
+      "condition": "Usado",
+      "price": 2520000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-256-gb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 256 GB",
+      "condition": "Nuevo",
+      "price": 4139000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-256-gb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 256 GB",
+      "condition": "Exhibición",
+      "price": 3518000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-256-gb-usado",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 256 GB",
+      "condition": "Usado",
+      "price": 2897000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-512-gb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 512 GB",
+      "condition": "Nuevo",
+      "price": 4760000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-512-gb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 512 GB",
+      "condition": "Exhibición",
+      "price": 4046000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-512-gb-usado",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 512 GB",
+      "condition": "Usado",
+      "price": 3332000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-1-tb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 1 TB",
+      "condition": "Nuevo",
+      "price": 5475000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-1-tb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 1 TB",
+      "condition": "Exhibición",
+      "price": 4653000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-1-tb-usado",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 1 TB",
+      "condition": "Usado",
+      "price": 3832000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-2-tb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 2 TB",
+      "condition": "Nuevo",
+      "price": 6296000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-2-tb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 2 TB",
+      "condition": "Exhibición",
+      "price": 5351000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-5-generacion-2-tb-usado",
+      "name": "iPad Pro 12.9 pulgadas 5.ª generación 2 TB",
+      "condition": "Usado",
+      "price": 4407000,
+      "model": "ipad-pro-12-9-pulgadas-5-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m5-1-tb-nuevo",
+      "name": "iPad Pro 13 pulgadas M5 1 TB",
+      "condition": "Nuevo",
+      "price": 5432000,
+      "model": "ipad-pro-13-pulgadas-m5",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m5-1-tb-exhibicion",
+      "name": "iPad Pro 13 pulgadas M5 1 TB",
+      "condition": "Exhibición",
+      "price": 4616000,
+      "model": "ipad-pro-13-pulgadas-m5",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m5-1-tb-usado",
+      "name": "iPad Pro 13 pulgadas M5 1 TB",
+      "condition": "Usado",
+      "price": 3801000,
+      "model": "ipad-pro-13-pulgadas-m5",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m5-2-tb-nuevo",
+      "name": "iPad Pro 13 pulgadas M5 2 TB",
+      "condition": "Nuevo",
+      "price": 6247000,
+      "model": "ipad-pro-13-pulgadas-m5",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m5-2-tb-exhibicion",
+      "name": "iPad Pro 13 pulgadas M5 2 TB",
+      "condition": "Exhibición",
+      "price": 5309000,
+      "model": "ipad-pro-13-pulgadas-m5",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m5-2-tb-usado",
+      "name": "iPad Pro 13 pulgadas M5 2 TB",
+      "condition": "Usado",
+      "price": 4371000,
+      "model": "ipad-pro-13-pulgadas-m5",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-mini-6-generacion-256-gb-nuevo",
+      "name": "iPad mini 6.ª generación 256 GB",
+      "condition": "Nuevo",
+      "price": 3747000,
+      "model": "ipad-mini-6-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-mini-6-generacion-256-gb-exhibicion",
+      "name": "iPad mini 6.ª generación 256 GB",
+      "condition": "Exhibición",
+      "price": 3183000,
+      "model": "ipad-mini-6-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-mini-6-generacion-256-gb-usado",
+      "name": "iPad mini 6.ª generación 256 GB",
+      "condition": "Usado",
+      "price": 2621000,
+      "model": "ipad-mini-6-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-mini-a17-pro-256-gb-wi-fi-nuevo",
+      "name": "iPad mini A17 Pro 256 GB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 2587000,
+      "model": "ipad-mini-a17-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-mini-a17-pro-256-gb-wi-fi-exhibicion",
+      "name": "iPad mini A17 Pro 256 GB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 2184000,
+      "model": "ipad-mini-a17-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-mini-a17-pro-256-gb-wi-fi-usado",
+      "name": "iPad mini A17 Pro 256 GB Wi-Fi",
+      "condition": "Usado",
+      "price": 1782000,
+      "model": "ipad-mini-a17-pro",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-mini-a17-pro-512-gb-wi-fi-nuevo",
+      "name": "iPad mini A17 Pro 512 GB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 2975000,
+      "model": "ipad-mini-a17-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-mini-a17-pro-512-gb-wi-fi-exhibicion",
+      "name": "iPad mini A17 Pro 512 GB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 2512000,
+      "model": "ipad-mini-a17-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-mini-a17-pro-512-gb-wi-fi-usado",
+      "name": "iPad mini A17 Pro 512 GB Wi-Fi",
+      "condition": "Usado",
+      "price": 2049000,
+      "model": "ipad-mini-a17-pro",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-256-gb-nuevo",
+      "name": "iPad Pro 13 pulgadas M4 256 GB",
+      "condition": "Nuevo",
+      "price": 4590000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-256-gb-exhibicion",
+      "name": "iPad Pro 13 pulgadas M4 256 GB",
+      "condition": "Exhibición",
+      "price": 3870000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-256-gb-usado",
+      "name": "iPad Pro 13 pulgadas M4 256 GB",
+      "condition": "Usado",
+      "price": 3195000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-512-gb-nuevo",
+      "name": "iPad Pro 13 pulgadas M4 512 GB",
+      "condition": "Nuevo",
+      "price": 5278000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-512-gb-exhibicion",
+      "name": "iPad Pro 13 pulgadas M4 512 GB",
+      "condition": "Exhibición",
+      "price": 4450000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-512-gb-usado",
+      "name": "iPad Pro 13 pulgadas M4 512 GB",
+      "condition": "Usado",
+      "price": 3673000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-1-tb-nuevo",
+      "name": "iPad Pro 13 pulgadas M4 1 TB",
+      "condition": "Nuevo",
+      "price": 6069000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-1-tb-exhibicion",
+      "name": "iPad Pro 13 pulgadas M4 1 TB",
+      "condition": "Exhibición",
+      "price": 5117000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-1-tb-usado",
+      "name": "iPad Pro 13 pulgadas M4 1 TB",
+      "condition": "Usado",
+      "price": 4224000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-2-tb-nuevo",
+      "name": "iPad Pro 13 pulgadas M4 2 TB",
+      "condition": "Nuevo",
+      "price": 6980000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-2-tb-exhibicion",
+      "name": "iPad Pro 13 pulgadas M4 2 TB",
+      "condition": "Exhibición",
+      "price": 5885000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-13-pulgadas-m4-2-tb-usado",
+      "name": "iPad Pro 13 pulgadas M4 2 TB",
+      "condition": "Usado",
+      "price": 4858000,
+      "model": "ipad-pro-13-pulgadas-m4",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-128-gb-nuevo",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 128 GB",
+      "condition": "Nuevo",
+      "price": 3110000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-128-gb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 128 GB",
+      "condition": "Exhibición",
+      "price": 2643000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-128-gb-usado",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 128 GB",
+      "condition": "Usado",
+      "price": 2177000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-256-gb-nuevo",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 256 GB",
+      "condition": "Nuevo",
+      "price": 3577000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-256-gb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 256 GB",
+      "condition": "Exhibición",
+      "price": 3040000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-256-gb-usado",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 256 GB",
+      "condition": "Usado",
+      "price": 2504000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-512-gb-nuevo",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 512 GB",
+      "condition": "Nuevo",
+      "price": 4114000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-512-gb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 512 GB",
+      "condition": "Exhibición",
+      "price": 3497000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-512-gb-usado",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 512 GB",
+      "condition": "Usado",
+      "price": 2880000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-1-tb-nuevo",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 1 TB",
+      "condition": "Nuevo",
+      "price": 4731000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-1-tb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 1 TB",
+      "condition": "Exhibición",
+      "price": 4021000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-1-tb-usado",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 1 TB",
+      "condition": "Usado",
+      "price": 3312000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-2-tb-nuevo",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 2 TB",
+      "condition": "Nuevo",
+      "price": 5440000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-2-tb-exhibicion",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 2 TB",
+      "condition": "Exhibición",
+      "price": 4624000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-11-pulgadas-4-generacion-2-tb-usado",
+      "name": "iPad Pro 11 pulgadas 4.ª generación 2 TB",
+      "condition": "Usado",
+      "price": 3808000,
+      "model": "ipad-pro-11-pulgadas-4-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-128-gb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 128 GB",
+      "condition": "Nuevo",
+      "price": 3960000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-128-gb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 128 GB",
+      "condition": "Exhibición",
+      "price": 3366000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-128-gb-usado",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 128 GB",
+      "condition": "Usado",
+      "price": 2772000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-256-gb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 256 GB",
+      "condition": "Nuevo",
+      "price": 4552000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-256-gb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 256 GB",
+      "condition": "Exhibición",
+      "price": 3869000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-256-gb-usado",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 256 GB",
+      "condition": "Usado",
+      "price": 3186000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-512-gb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 512 GB",
+      "condition": "Nuevo",
+      "price": 5236000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-512-gb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 512 GB",
+      "condition": "Exhibición",
+      "price": 4450000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-512-gb-usado",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 512 GB",
+      "condition": "Usado",
+      "price": 3665000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-1-tb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 1 TB",
+      "condition": "Nuevo",
+      "price": 6022000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-1-tb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 1 TB",
+      "condition": "Exhibición",
+      "price": 5118000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-1-tb-usado",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 1 TB",
+      "condition": "Usado",
+      "price": 4215000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-2-tb-nuevo",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 2 TB",
+      "condition": "Nuevo",
+      "price": 6925000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-2-tb-exhibicion",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 2 TB",
+      "condition": "Exhibición",
+      "price": 5886000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-pro-12-9-pulgadas-6-generacion-2-tb-usado",
+      "name": "iPad Pro 12.9 pulgadas 6.ª generación 2 TB",
+      "condition": "Usado",
+      "price": 4847000,
+      "model": "ipad-pro-12-9-pulgadas-6-generacion",
+      "storageGB": 2048
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-128-gb-nuevo",
+      "name": "iPad Air 11 pulgadas M2 128 GB",
+      "condition": "Nuevo",
+      "price": 2994000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-128-gb-exhibicion",
+      "name": "iPad Air 11 pulgadas M2 128 GB",
+      "condition": "Exhibición",
+      "price": 2544000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-128-gb-usado",
+      "name": "iPad Air 11 pulgadas M2 128 GB",
+      "condition": "Usado",
+      "price": 2095000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-256-gb-nuevo",
+      "name": "iPad Air 11 pulgadas M2 256 GB",
+      "condition": "Nuevo",
+      "price": 3444000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-256-gb-exhibicion",
+      "name": "iPad Air 11 pulgadas M2 256 GB",
+      "condition": "Exhibición",
+      "price": 2926000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-256-gb-usado",
+      "name": "iPad Air 11 pulgadas M2 256 GB",
+      "condition": "Usado",
+      "price": 2409000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-512-gb-nuevo",
+      "name": "iPad Air 11 pulgadas M2 512 GB",
+      "condition": "Nuevo",
+      "price": 3960000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-512-gb-exhibicion",
+      "name": "iPad Air 11 pulgadas M2 512 GB",
+      "condition": "Exhibición",
+      "price": 3365000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-512-gb-usado",
+      "name": "iPad Air 11 pulgadas M2 512 GB",
+      "condition": "Usado",
+      "price": 2771000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-1-tb-nuevo",
+      "name": "iPad Air 11 pulgadas M2 1 TB",
+      "condition": "Nuevo",
+      "price": 4554000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-1-tb-exhibicion",
+      "name": "iPad Air 11 pulgadas M2 1 TB",
+      "condition": "Exhibición",
+      "price": 3869000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-11-pulgadas-m2-1-tb-usado",
+      "name": "iPad Air 11 pulgadas M2 1 TB",
+      "condition": "Usado",
+      "price": 3186000,
+      "model": "ipad-air-11-pulgadas-m2",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-128-gb-nuevo",
+      "name": "iPad Air 13 pulgadas M2 128 GB",
+      "condition": "Nuevo",
+      "price": 3520000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-128-gb-exhibicion",
+      "name": "iPad Air 13 pulgadas M2 128 GB",
+      "condition": "Exhibición",
+      "price": 2991000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-128-gb-usado",
+      "name": "iPad Air 13 pulgadas M2 128 GB",
+      "condition": "Usado",
+      "price": 2463000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 128
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-256-gb-nuevo",
+      "name": "iPad Air 13 pulgadas M2 256 GB",
+      "condition": "Nuevo",
+      "price": 4049000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-256-gb-exhibicion",
+      "name": "iPad Air 13 pulgadas M2 256 GB",
+      "condition": "Exhibición",
+      "price": 3441000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-256-gb-usado",
+      "name": "iPad Air 13 pulgadas M2 256 GB",
+      "condition": "Usado",
+      "price": 2834000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 256
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-512-gb-nuevo",
+      "name": "iPad Air 13 pulgadas M2 512 GB",
+      "condition": "Nuevo",
+      "price": 4655000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-512-gb-exhibicion",
+      "name": "iPad Air 13 pulgadas M2 512 GB",
+      "condition": "Exhibición",
+      "price": 3956000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-512-gb-usado",
+      "name": "iPad Air 13 pulgadas M2 512 GB",
+      "condition": "Usado",
+      "price": 3258000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 512
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-1-tb-nuevo",
+      "name": "iPad Air 13 pulgadas M2 1 TB",
+      "condition": "Nuevo",
+      "price": 5354000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-1-tb-exhibicion",
+      "name": "iPad Air 13 pulgadas M2 1 TB",
+      "condition": "Exhibición",
+      "price": 4550000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 1024
+    },
+    {
+      "slug": "ipad-air-13-pulgadas-m2-1-tb-usado",
+      "name": "iPad Air 13 pulgadas M2 1 TB",
+      "condition": "Usado",
+      "price": 3747000,
+      "model": "ipad-air-13-pulgadas-m2",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m5-1-tb-nuevo",
+      "name": "MacBook Air 13 pulgadas M5 1 TB",
+      "condition": "Nuevo",
+      "price": 4657000,
+      "model": "macbook-air-13-inch-m5-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m5-1-tb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M5 1 TB",
+      "condition": "Exhibición",
+      "price": 3957000,
+      "model": "macbook-air-13-inch-m5-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m5-1-tb-usado",
+      "name": "MacBook Air 13 pulgadas M5 1 TB",
+      "condition": "Usado",
+      "price": 3259000,
+      "model": "macbook-air-13-inch-m5-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m5-2-tb-nuevo",
+      "name": "MacBook Air 13 pulgadas M5 2 TB",
+      "condition": "Nuevo",
+      "price": 5356000,
+      "model": "macbook-air-13-inch-m5-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m5-2-tb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M5 2 TB",
+      "condition": "Exhibición",
+      "price": 4551000,
+      "model": "macbook-air-13-inch-m5-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m5-2-tb-usado",
+      "name": "MacBook Air 13 pulgadas M5 2 TB",
+      "condition": "Usado",
+      "price": 3749000,
+      "model": "macbook-air-13-inch-m5-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m5-4-tb-nuevo",
+      "name": "MacBook Air 13 pulgadas M5 4 TB",
+      "condition": "Nuevo",
+      "price": 6159000,
+      "model": "macbook-air-13-inch-m5-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m5-4-tb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M5 4 TB",
+      "condition": "Exhibición",
+      "price": 5234000,
+      "model": "macbook-air-13-inch-m5-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m5-4-tb-usado",
+      "name": "MacBook Air 13 pulgadas M5 4 TB",
+      "condition": "Usado",
+      "price": 4311000,
+      "model": "macbook-air-13-inch-m5-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-1-tb-nuevo",
+      "name": "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 1 TB",
+      "condition": "Nuevo",
+      "price": 5980000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-1-tb-exhibicion",
+      "name": "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 1 TB",
+      "condition": "Exhibición",
+      "price": 5405000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-1-tb-usado",
+      "name": "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 1 TB",
+      "condition": "Usado",
+      "price": 4830000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-2-tb-nuevo",
+      "name": "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 2 TB",
+      "condition": "Nuevo",
+      "price": 6876000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-2-tb-exhibicion",
+      "name": "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 2 TB",
+      "condition": "Exhibición",
+      "price": 6214000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-2-tb-usado",
+      "name": "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 2 TB",
+      "condition": "Usado",
+      "price": 5553000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-4-tb-nuevo",
+      "name": "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 4 TB",
+      "condition": "Nuevo",
+      "price": 7908000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-4-tb-exhibicion",
+      "name": "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 4 TB",
+      "condition": "Exhibición",
+      "price": 7147000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-4-tb-usado",
+      "name": "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 4 TB",
+      "condition": "Usado",
+      "price": 6387000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-512-gb-nuevo",
+      "name": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 512 GB",
+      "condition": "Nuevo",
+      "price": 5556000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-512-gb-exhibicion",
+      "name": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 512 GB",
+      "condition": "Exhibición",
+      "price": 4999000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-512-gb-usado",
+      "name": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 512 GB",
+      "condition": "Usado",
+      "price": 4443000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-2-tb-nuevo",
+      "name": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 2 TB",
+      "condition": "Nuevo",
+      "price": 7348000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-2-tb-exhibicion",
+      "name": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 2 TB",
+      "condition": "Exhibición",
+      "price": 6612000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-2-tb-usado",
+      "name": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 2 TB",
+      "condition": "Usado",
+      "price": 5876000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-4-tb-nuevo",
+      "name": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 4 TB",
+      "condition": "Nuevo",
+      "price": 8450000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-4-tb-exhibicion",
+      "name": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 4 TB",
+      "condition": "Exhibición",
+      "price": 7603000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-4-tb-usado",
+      "name": "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 4 TB",
+      "condition": "Usado",
+      "price": 6757000,
+      "model": "macbook-air-15-inch-m5-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m4-512-gb-nuevo",
+      "name": "MacBook Air 13 pulgadas M4 512 GB",
+      "condition": "Nuevo",
+      "price": 3829000,
+      "model": "macbook-air-13-inch-m4-2025",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m4-512-gb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M4 512 GB",
+      "condition": "Exhibición",
+      "price": 3254000,
+      "model": "macbook-air-13-inch-m4-2025",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m4-512-gb-usado",
+      "name": "MacBook Air 13 pulgadas M4 512 GB",
+      "condition": "Usado",
+      "price": 2680000,
+      "model": "macbook-air-13-inch-m4-2025",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m4-1-tb-nuevo",
+      "name": "MacBook Air 13 pulgadas M4 1 TB",
+      "condition": "Nuevo",
+      "price": 4403000,
+      "model": "macbook-air-13-inch-m4-2025",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m4-1-tb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M4 1 TB",
+      "condition": "Exhibición",
+      "price": 3741000,
+      "model": "macbook-air-13-inch-m4-2025",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m4-1-tb-usado",
+      "name": "MacBook Air 13 pulgadas M4 1 TB",
+      "condition": "Usado",
+      "price": 3082000,
+      "model": "macbook-air-13-inch-m4-2025",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m4-2-tb-nuevo",
+      "name": "MacBook Air 13 pulgadas M4 2 TB",
+      "condition": "Nuevo",
+      "price": 5064000,
+      "model": "macbook-air-13-inch-m4-2025",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m4-2-tb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M4 2 TB",
+      "condition": "Exhibición",
+      "price": 4303000,
+      "model": "macbook-air-13-inch-m4-2025",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m4-2-tb-usado",
+      "name": "MacBook Air 13 pulgadas M4 2 TB",
+      "condition": "Usado",
+      "price": 3544000,
+      "model": "macbook-air-13-inch-m4-2025",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-128-gb-nuevo",
+      "name": "MacBook Air M1 13 pulgadas 128 GB",
+      "condition": "Nuevo",
+      "price": 2034000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 128
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-128-gb-exhibicion",
+      "name": "MacBook Air M1 13 pulgadas 128 GB",
+      "condition": "Exhibición",
+      "price": 1728000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 128
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-128-gb-usado",
+      "name": "MacBook Air M1 13 pulgadas 128 GB",
+      "condition": "Usado",
+      "price": 1423000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 128
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-512-gb-nuevo",
+      "name": "MacBook Air M1 13 pulgadas 512 GB",
+      "condition": "Nuevo",
+      "price": 2691000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-512-gb-exhibicion",
+      "name": "MacBook Air M1 13 pulgadas 512 GB",
+      "condition": "Exhibición",
+      "price": 2287000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-512-gb-usado",
+      "name": "MacBook Air M1 13 pulgadas 512 GB",
+      "condition": "Usado",
+      "price": 1883000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-1-tb-nuevo",
+      "name": "MacBook Air M1 13 pulgadas 1 TB",
+      "condition": "Nuevo",
+      "price": 3094000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-1-tb-exhibicion",
+      "name": "MacBook Air M1 13 pulgadas 1 TB",
+      "condition": "Exhibición",
+      "price": 2629000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-1-tb-usado",
+      "name": "MacBook Air M1 13 pulgadas 1 TB",
+      "condition": "Usado",
+      "price": 2165000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-2-tb-nuevo",
+      "name": "MacBook Air M1 13 pulgadas 2 TB",
+      "condition": "Nuevo",
+      "price": 3558000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-2-tb-exhibicion",
+      "name": "MacBook Air M1 13 pulgadas 2 TB",
+      "condition": "Exhibición",
+      "price": 3024000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-m1-13-pulgadas-2-tb-usado",
+      "name": "MacBook Air M1 13 pulgadas 2 TB",
+      "condition": "Usado",
+      "price": 2490000,
+      "model": "macbook-air-m1-2020",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-intel-13-pulgadas-512-gb-nuevo",
+      "name": "MacBook Air Intel 13 pulgadas 512 GB",
+      "condition": "Nuevo",
+      "price": 2069000,
+      "model": "macbook-air-retina-13-inch-intel-2020",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-intel-13-pulgadas-512-gb-exhibicion",
+      "name": "MacBook Air Intel 13 pulgadas 512 GB",
+      "condition": "Exhibición",
+      "price": 1758000,
+      "model": "macbook-air-retina-13-inch-intel-2020",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-intel-13-pulgadas-512-gb-usado",
+      "name": "MacBook Air Intel 13 pulgadas 512 GB",
+      "condition": "Usado",
+      "price": 1448000,
+      "model": "macbook-air-retina-13-inch-intel-2020",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-intel-13-pulgadas-1-tb-nuevo",
+      "name": "MacBook Air Intel 13 pulgadas 1 TB",
+      "condition": "Nuevo",
+      "price": 2380000,
+      "model": "macbook-air-retina-13-inch-intel-2020",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-intel-13-pulgadas-1-tb-exhibicion",
+      "name": "MacBook Air Intel 13 pulgadas 1 TB",
+      "condition": "Exhibición",
+      "price": 2023000,
+      "model": "macbook-air-retina-13-inch-intel-2020",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-intel-13-pulgadas-1-tb-usado",
+      "name": "MacBook Air Intel 13 pulgadas 1 TB",
+      "condition": "Usado",
+      "price": 1666000,
+      "model": "macbook-air-retina-13-inch-intel-2020",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-intel-13-pulgadas-2-tb-nuevo",
+      "name": "MacBook Air Intel 13 pulgadas 2 TB",
+      "condition": "Nuevo",
+      "price": 2737000,
+      "model": "macbook-air-retina-13-inch-intel-2020",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-intel-13-pulgadas-2-tb-exhibicion",
+      "name": "MacBook Air Intel 13 pulgadas 2 TB",
+      "condition": "Exhibición",
+      "price": 2326000,
+      "model": "macbook-air-retina-13-inch-intel-2020",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-intel-13-pulgadas-2-tb-usado",
+      "name": "MacBook Air Intel 13 pulgadas 2 TB",
+      "condition": "Usado",
+      "price": 1915000,
+      "model": "macbook-air-retina-13-inch-intel-2020",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-neo-a18-pro-8-gb-256-gb-nuevo",
+      "name": "MacBook Neo A18 Pro 8 GB 256 GB",
+      "condition": "Nuevo",
+      "price": 2308000,
+      "model": "macbook-neo-a18-pro-2026",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-neo-a18-pro-8-gb-256-gb-exhibicion",
+      "name": "MacBook Neo A18 Pro 8 GB 256 GB",
+      "condition": "Exhibición",
+      "price": 1961000,
+      "model": "macbook-neo-a18-pro-2026",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-neo-a18-pro-8-gb-256-gb-usado",
+      "name": "MacBook Neo A18 Pro 8 GB 256 GB",
+      "condition": "Usado",
+      "price": 1615000,
+      "model": "macbook-neo-a18-pro-2026",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-512-gb-nuevo",
+      "name": "MacBook Pro 14 pulgadas M5 512 GB",
+      "condition": "Nuevo",
+      "price": 5320000,
+      "model": "macbook-pro-14-inch-m5-2025",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-512-gb-exhibicion",
+      "name": "MacBook Pro 14 pulgadas M5 512 GB",
+      "condition": "Exhibición",
+      "price": 4521000,
+      "model": "macbook-pro-14-inch-m5-2025",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-512-gb-usado",
+      "name": "MacBook Pro 14 pulgadas M5 512 GB",
+      "condition": "Usado",
+      "price": 3723000,
+      "model": "macbook-pro-14-inch-m5-2025",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-2-tb-nuevo",
+      "name": "MacBook Pro 14 pulgadas M5 2 TB",
+      "condition": "Nuevo",
+      "price": 7036000,
+      "model": "macbook-pro-14-inch-m5-2025",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-2-tb-exhibicion",
+      "name": "MacBook Pro 14 pulgadas M5 2 TB",
+      "condition": "Exhibición",
+      "price": 5980000,
+      "model": "macbook-pro-14-inch-m5-2025",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-2-tb-usado",
+      "name": "MacBook Pro 14 pulgadas M5 2 TB",
+      "condition": "Usado",
+      "price": 4924000,
+      "model": "macbook-pro-14-inch-m5-2025",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-4-tb-nuevo",
+      "name": "MacBook Pro 14 pulgadas M5 4 TB",
+      "condition": "Nuevo",
+      "price": 8092000,
+      "model": "macbook-pro-14-inch-m5-2025",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-4-tb-exhibicion",
+      "name": "MacBook Pro 14 pulgadas M5 4 TB",
+      "condition": "Exhibición",
+      "price": 6878000,
+      "model": "macbook-pro-14-inch-m5-2025",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-4-tb-usado",
+      "name": "MacBook Pro 14 pulgadas M5 4 TB",
+      "condition": "Usado",
+      "price": 5664000,
+      "model": "macbook-pro-14-inch-m5-2025",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-nuevo",
+      "name": "MacBook Pro 14 pulgadas M5 Pro 24 GB RAM 2 TB SSD",
+      "condition": "Nuevo",
+      "price": 9775000,
+      "model": "macbook-pro-14-inch-m5-pro-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-exhibicion",
+      "name": "MacBook Pro 14 pulgadas M5 Pro 24 GB RAM 2 TB SSD",
+      "condition": "Exhibición",
+      "price": 8280000,
+      "model": "macbook-pro-14-inch-m5-pro-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-usado",
+      "name": "MacBook Pro 14 pulgadas M5 Pro 24 GB RAM 2 TB SSD",
+      "condition": "Usado",
+      "price": 6842000,
+      "model": "macbook-pro-14-inch-m5-pro-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-nuevo",
+      "name": "MacBook Pro 14 pulgadas M5 Pro 24 GB RAM 4 TB SSD",
+      "condition": "Nuevo",
+      "price": 11241000,
+      "model": "macbook-pro-14-inch-m5-pro-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-exhibicion",
+      "name": "MacBook Pro 14 pulgadas M5 Pro 24 GB RAM 4 TB SSD",
+      "condition": "Exhibición",
+      "price": 9521000,
+      "model": "macbook-pro-14-inch-m5-pro-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-usado",
+      "name": "MacBook Pro 14 pulgadas M5 Pro 24 GB RAM 4 TB SSD",
+      "condition": "Usado",
+      "price": 7868000,
+      "model": "macbook-pro-14-inch-m5-pro-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-4-tb-ssd-nuevo",
+      "name": "MacBook Pro 14 pulgadas M5 Max 36 GB RAM 4 TB SSD",
+      "condition": "Nuevo",
+      "price": 18457000,
+      "model": "macbook-pro-14-inch-m5-max-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-4-tb-ssd-exhibicion",
+      "name": "MacBook Pro 14 pulgadas M5 Max 36 GB RAM 4 TB SSD",
+      "condition": "Exhibición",
+      "price": 15639000,
+      "model": "macbook-pro-14-inch-m5-max-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-4-tb-ssd-usado",
+      "name": "MacBook Pro 14 pulgadas M5 Max 36 GB RAM 4 TB SSD",
+      "condition": "Usado",
+      "price": 12879000,
+      "model": "macbook-pro-14-inch-m5-max-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-8-tb-ssd-nuevo",
+      "name": "MacBook Pro 14 pulgadas M5 Max 36 GB RAM 8 TB SSD",
+      "condition": "Nuevo",
+      "price": 21226000,
+      "model": "macbook-pro-14-inch-m5-max-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-8-tb-ssd-exhibicion",
+      "name": "MacBook Pro 14 pulgadas M5 Max 36 GB RAM 8 TB SSD",
+      "condition": "Exhibición",
+      "price": 17985000,
+      "model": "macbook-pro-14-inch-m5-max-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-8-tb-ssd-usado",
+      "name": "MacBook Pro 14 pulgadas M5 Max 36 GB RAM 8 TB SSD",
+      "condition": "Usado",
+      "price": 14811000,
+      "model": "macbook-pro-14-inch-m5-max-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-nuevo",
+      "name": "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 2 TB SSD",
+      "condition": "Nuevo",
+      "price": 12419000,
+      "model": "macbook-pro-16-inch-m5-pro-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-exhibicion",
+      "name": "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 2 TB SSD",
+      "condition": "Exhibición",
+      "price": 10521000,
+      "model": "macbook-pro-16-inch-m5-pro-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-usado",
+      "name": "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 2 TB SSD",
+      "condition": "Usado",
+      "price": 8681000,
+      "model": "macbook-pro-16-inch-m5-pro-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-nuevo",
+      "name": "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 4 TB SSD",
+      "condition": "Nuevo",
+      "price": 14282000,
+      "model": "macbook-pro-16-inch-m5-pro-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-exhibicion",
+      "name": "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 4 TB SSD",
+      "condition": "Exhibición",
+      "price": 12100000,
+      "model": "macbook-pro-16-inch-m5-pro-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-usado",
+      "name": "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 4 TB SSD",
+      "condition": "Usado",
+      "price": 9984000,
+      "model": "macbook-pro-16-inch-m5-pro-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-4-tb-ssd-nuevo",
+      "name": "MacBook Pro 16 pulgadas M5 Max 36 GB RAM 4 TB SSD",
+      "condition": "Nuevo",
+      "price": 22482000,
+      "model": "macbook-pro-16-inch-m5-max-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-4-tb-ssd-exhibicion",
+      "name": "MacBook Pro 16 pulgadas M5 Max 36 GB RAM 4 TB SSD",
+      "condition": "Exhibición",
+      "price": 19089000,
+      "model": "macbook-pro-16-inch-m5-max-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-4-tb-ssd-usado",
+      "name": "MacBook Pro 16 pulgadas M5 Max 36 GB RAM 4 TB SSD",
+      "condition": "Usado",
+      "price": 15697000,
+      "model": "macbook-pro-16-inch-m5-max-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-8-tb-ssd-nuevo",
+      "name": "MacBook Pro 16 pulgadas M5 Max 36 GB RAM 8 TB SSD",
+      "condition": "Nuevo",
+      "price": 25854000,
+      "model": "macbook-pro-16-inch-m5-max-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-8-tb-ssd-exhibicion",
+      "name": "MacBook Pro 16 pulgadas M5 Max 36 GB RAM 8 TB SSD",
+      "condition": "Exhibición",
+      "price": 21952000,
+      "model": "macbook-pro-16-inch-m5-max-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-8-tb-ssd-usado",
+      "name": "MacBook Pro 16 pulgadas M5 Max 36 GB RAM 8 TB SSD",
+      "condition": "Usado",
+      "price": 18051000,
+      "model": "macbook-pro-16-inch-m5-max-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "macbook-pro-intel-13-pulgadas-512-gb-nuevo",
+      "name": "MacBook Pro Intel 13 pulgadas 512 GB",
+      "condition": "Nuevo",
+      "price": 2808000,
+      "model": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-pro-intel-13-pulgadas-512-gb-exhibicion",
+      "name": "MacBook Pro Intel 13 pulgadas 512 GB",
+      "condition": "Exhibición",
+      "price": 2387000,
+      "model": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-pro-intel-13-pulgadas-512-gb-usado",
+      "name": "MacBook Pro Intel 13 pulgadas 512 GB",
+      "condition": "Usado",
+      "price": 1966000,
+      "model": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-pro-intel-13-pulgadas-1-tb-nuevo",
+      "name": "MacBook Pro Intel 13 pulgadas 1 TB",
+      "condition": "Nuevo",
+      "price": 3229000,
+      "model": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-pro-intel-13-pulgadas-1-tb-exhibicion",
+      "name": "MacBook Pro Intel 13 pulgadas 1 TB",
+      "condition": "Exhibición",
+      "price": 2745000,
+      "model": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-pro-intel-13-pulgadas-1-tb-usado",
+      "name": "MacBook Pro Intel 13 pulgadas 1 TB",
+      "condition": "Usado",
+      "price": 2261000,
+      "model": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-pro-intel-13-pulgadas-2-tb-nuevo",
+      "name": "MacBook Pro Intel 13 pulgadas 2 TB",
+      "condition": "Nuevo",
+      "price": 3713000,
+      "model": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-intel-13-pulgadas-2-tb-exhibicion",
+      "name": "MacBook Pro Intel 13 pulgadas 2 TB",
+      "condition": "Exhibición",
+      "price": 3156000,
+      "model": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-intel-13-pulgadas-2-tb-usado",
+      "name": "MacBook Pro Intel 13 pulgadas 2 TB",
+      "condition": "Usado",
+      "price": 2600000,
+      "model": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-1-tb-nuevo",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 1 TB",
+      "condition": "Nuevo",
+      "price": 5175000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-1-tb-exhibicion",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 1 TB",
+      "condition": "Exhibición",
+      "price": 4398000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-1-tb-usado",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 1 TB",
+      "condition": "Usado",
+      "price": 3622000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-2-tb-nuevo",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 2 TB",
+      "condition": "Nuevo",
+      "price": 5951000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-2-tb-exhibicion",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 2 TB",
+      "condition": "Exhibición",
+      "price": 5058000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-2-tb-usado",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 2 TB",
+      "condition": "Usado",
+      "price": 4165000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-4-tb-nuevo",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 4 TB",
+      "condition": "Nuevo",
+      "price": 6843000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-4-tb-exhibicion",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 4 TB",
+      "condition": "Exhibición",
+      "price": 5816000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-4-tb-usado",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 4 TB",
+      "condition": "Usado",
+      "price": 4790000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 4096
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-8-tb-nuevo",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 8 TB",
+      "condition": "Nuevo",
+      "price": 7870000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 8192
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-8-tb-exhibicion",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 8 TB",
+      "condition": "Exhibición",
+      "price": 6689000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 8192
+    },
+    {
+      "slug": "macbook-pro-m1-pro-14-pulgadas-8-tb-usado",
+      "name": "MacBook Pro M1 Pro 14 pulgadas 8 TB",
+      "condition": "Usado",
+      "price": 5509000,
+      "model": "macbook-pro-14-inch-m1-pro-2021",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-mini-m1-512-gb-nuevo",
+      "name": "Mac mini M1 512 GB",
+      "condition": "Nuevo",
+      "price": 2512000,
+      "model": "mac-mini-m1-2020",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m1-512-gb-exhibicion",
+      "name": "Mac mini M1 512 GB",
+      "condition": "Exhibición",
+      "price": 2134000,
+      "model": "mac-mini-m1-2020",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m1-512-gb-usado",
+      "name": "Mac mini M1 512 GB",
+      "condition": "Usado",
+      "price": 1758000,
+      "model": "mac-mini-m1-2020",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m1-1-tb-nuevo",
+      "name": "Mac mini M1 1 TB",
+      "condition": "Nuevo",
+      "price": 2889000,
+      "model": "mac-mini-m1-2020",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m1-1-tb-exhibicion",
+      "name": "Mac mini M1 1 TB",
+      "condition": "Exhibición",
+      "price": 2455000,
+      "model": "mac-mini-m1-2020",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m1-1-tb-usado",
+      "name": "Mac mini M1 1 TB",
+      "condition": "Usado",
+      "price": 2022000,
+      "model": "mac-mini-m1-2020",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m1-2-tb-nuevo",
+      "name": "Mac mini M1 2 TB",
+      "condition": "Nuevo",
+      "price": 3323000,
+      "model": "mac-mini-m1-2020",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m1-2-tb-exhibicion",
+      "name": "Mac mini M1 2 TB",
+      "condition": "Exhibición",
+      "price": 2824000,
+      "model": "mac-mini-m1-2020",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m1-2-tb-usado",
+      "name": "Mac mini M1 2 TB",
+      "condition": "Usado",
+      "price": 2326000,
+      "model": "mac-mini-m1-2020",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m4-512-gb-nuevo",
+      "name": "Mac mini M4 512 GB",
+      "condition": "Nuevo",
+      "price": 3601000,
+      "model": "mac-mini-m4-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m4-512-gb-exhibicion",
+      "name": "Mac mini M4 512 GB",
+      "condition": "Exhibición",
+      "price": 3060000,
+      "model": "mac-mini-m4-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m4-512-gb-usado",
+      "name": "Mac mini M4 512 GB",
+      "condition": "Usado",
+      "price": 2520000,
+      "model": "mac-mini-m4-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m4-1-tb-nuevo",
+      "name": "Mac mini M4 1 TB",
+      "condition": "Nuevo",
+      "price": 4142000,
+      "model": "mac-mini-m4-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m4-1-tb-exhibicion",
+      "name": "Mac mini M4 1 TB",
+      "condition": "Exhibición",
+      "price": 3520000,
+      "model": "mac-mini-m4-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m4-1-tb-usado",
+      "name": "Mac mini M4 1 TB",
+      "condition": "Usado",
+      "price": 2898000,
+      "model": "mac-mini-m4-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m4-2-tb-nuevo",
+      "name": "Mac mini M4 2 TB",
+      "condition": "Nuevo",
+      "price": 4763000,
+      "model": "mac-mini-m4-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m4-2-tb-exhibicion",
+      "name": "Mac mini M4 2 TB",
+      "condition": "Exhibición",
+      "price": 4048000,
+      "model": "mac-mini-m4-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m4-2-tb-usado",
+      "name": "Mac mini M4 2 TB",
+      "condition": "Usado",
+      "price": 3333000,
+      "model": "mac-mini-m4-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-1-tb-ssd-nuevo",
+      "name": "Mac Studio M5 Max 36 GB RAM 1 TB SSD",
+      "condition": "Nuevo",
+      "price": 12534000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-1-tb-ssd-exhibicion",
+      "name": "Mac Studio M5 Max 36 GB RAM 1 TB SSD",
+      "condition": "Exhibición",
+      "price": 10636000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-1-tb-ssd-usado",
+      "name": "Mac Studio M5 Max 36 GB RAM 1 TB SSD",
+      "condition": "Usado",
+      "price": 8739000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-2-tb-ssd-nuevo",
+      "name": "Mac Studio M5 Max 36 GB RAM 2 TB SSD",
+      "condition": "Nuevo",
+      "price": 14415000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-2-tb-ssd-exhibicion",
+      "name": "Mac Studio M5 Max 36 GB RAM 2 TB SSD",
+      "condition": "Exhibición",
+      "price": 12232000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-2-tb-ssd-usado",
+      "name": "Mac Studio M5 Max 36 GB RAM 2 TB SSD",
+      "condition": "Usado",
+      "price": 10050000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-4-tb-ssd-nuevo",
+      "name": "Mac Studio M5 Max 36 GB RAM 4 TB SSD",
+      "condition": "Nuevo",
+      "price": 16577000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-4-tb-ssd-exhibicion",
+      "name": "Mac Studio M5 Max 36 GB RAM 4 TB SSD",
+      "condition": "Exhibición",
+      "price": 14067000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-4-tb-ssd-usado",
+      "name": "Mac Studio M5 Max 36 GB RAM 4 TB SSD",
+      "condition": "Usado",
+      "price": 11558000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-8-tb-ssd-nuevo",
+      "name": "Mac Studio M5 Max 36 GB RAM 8 TB SSD",
+      "condition": "Nuevo",
+      "price": 19064000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-8-tb-ssd-exhibicion",
+      "name": "Mac Studio M5 Max 36 GB RAM 8 TB SSD",
+      "condition": "Exhibición",
+      "price": 16178000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-studio-m5-max-36-gb-ram-8-tb-ssd-usado",
+      "name": "Mac Studio M5 Max 36 GB RAM 8 TB SSD",
+      "condition": "Usado",
+      "price": 13292000,
+      "model": "mac-studio-m5-max-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-2-tb-ssd-nuevo",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 2 TB SSD",
+      "condition": "Nuevo",
+      "price": 28059000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-2-tb-ssd-exhibicion",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 2 TB SSD",
+      "condition": "Exhibición",
+      "price": 23804000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-2-tb-ssd-usado",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 2 TB SSD",
+      "condition": "Usado",
+      "price": 19606000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-4-tb-ssd-nuevo",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 4 TB SSD",
+      "condition": "Nuevo",
+      "price": 32268000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-4-tb-ssd-exhibicion",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 4 TB SSD",
+      "condition": "Exhibición",
+      "price": 27374000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-4-tb-ssd-usado",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 4 TB SSD",
+      "condition": "Usado",
+      "price": 22547000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-8-tb-ssd-nuevo",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 8 TB SSD",
+      "condition": "Nuevo",
+      "price": 37109000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-8-tb-ssd-exhibicion",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 8 TB SSD",
+      "condition": "Exhibición",
+      "price": 31481000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-8-tb-ssd-usado",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 8 TB SSD",
+      "condition": "Usado",
+      "price": 25930000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-16-tb-ssd-nuevo",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 16 TB SSD",
+      "condition": "Nuevo",
+      "price": 42675000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 16384
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-16-tb-ssd-exhibicion",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 16 TB SSD",
+      "condition": "Exhibición",
+      "price": 36203000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 16384
+    },
+    {
+      "slug": "mac-studio-m5-ultra-96-gb-ram-16-tb-ssd-usado",
+      "name": "Mac Studio M5 Ultra 96 GB RAM 16 TB SSD",
+      "condition": "Usado",
+      "price": 29820000,
+      "model": "mac-studio-m5-ultra-2026",
+      "storageGB": 16384
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-16-gb-ram-512-gb-ssd-nuevo",
+      "name": "iMac 24 pulgadas M4 16 GB RAM 512 GB SSD",
+      "condition": "Nuevo",
+      "price": 7704000,
+      "model": "imac-24-inch-m4-2024-two-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-16-gb-ram-512-gb-ssd-exhibicion",
+      "name": "iMac 24 pulgadas M4 16 GB RAM 512 GB SSD",
+      "condition": "Exhibición",
+      "price": 6496000,
+      "model": "imac-24-inch-m4-2024-two-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-16-gb-ram-512-gb-ssd-usado",
+      "name": "iMac 24 pulgadas M4 16 GB RAM 512 GB SSD",
+      "condition": "Usado",
+      "price": 5346000,
+      "model": "imac-24-inch-m4-2024-two-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-16-gb-ram-1-tb-ssd-nuevo",
+      "name": "iMac 24 pulgadas M4 16 GB RAM 1 TB SSD",
+      "condition": "Nuevo",
+      "price": 8860000,
+      "model": "imac-24-inch-m4-2024-two-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-16-gb-ram-1-tb-ssd-exhibicion",
+      "name": "iMac 24 pulgadas M4 16 GB RAM 1 TB SSD",
+      "condition": "Exhibición",
+      "price": 7471000,
+      "model": "imac-24-inch-m4-2024-two-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-16-gb-ram-1-tb-ssd-usado",
+      "name": "iMac 24 pulgadas M4 16 GB RAM 1 TB SSD",
+      "condition": "Usado",
+      "price": 6149000,
+      "model": "imac-24-inch-m4-2024-two-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "apple-tv-4k-2-generacion-32-gb-nuevo",
+      "name": "Apple TV 4K 2.ª generación 32 GB",
+      "condition": "Nuevo",
+      "price": 495000,
+      "model": "apple-tv-4k-2nd-generation-2021",
+      "storageGB": 32
+    },
+    {
+      "slug": "apple-tv-4k-2-generacion-32-gb-exhibicion",
+      "name": "Apple TV 4K 2.ª generación 32 GB",
+      "condition": "Exhibición",
+      "price": 420000,
+      "model": "apple-tv-4k-2nd-generation-2021",
+      "storageGB": 32
+    },
+    {
+      "slug": "apple-tv-4k-2-generacion-32-gb-usado",
+      "name": "Apple TV 4K 2.ª generación 32 GB",
+      "condition": "Usado",
+      "price": 346000,
+      "model": "apple-tv-4k-2nd-generation-2021",
+      "storageGB": 32
+    },
+    {
+      "slug": "apple-tv-4k-2-generacion-64-gb-nuevo",
+      "name": "Apple TV 4K 2.ª generación 64 GB",
+      "condition": "Nuevo",
+      "price": 569000,
+      "model": "apple-tv-4k-2nd-generation-2021",
+      "storageGB": 64
+    },
+    {
+      "slug": "apple-tv-4k-2-generacion-64-gb-exhibicion",
+      "name": "Apple TV 4K 2.ª generación 64 GB",
+      "condition": "Exhibición",
+      "price": 482000,
+      "model": "apple-tv-4k-2nd-generation-2021",
+      "storageGB": 64
+    },
+    {
+      "slug": "apple-tv-4k-2-generacion-64-gb-usado",
+      "name": "Apple TV 4K 2.ª generación 64 GB",
+      "condition": "Usado",
+      "price": 397000,
+      "model": "apple-tv-4k-2nd-generation-2021",
+      "storageGB": 64
+    },
+    {
+      "slug": "apple-tv-4k-3-generacion-64-gb-wi-fi-nuevo",
+      "name": "Apple TV 4K 3.ª generación 64 GB Wi-Fi",
+      "condition": "Nuevo",
+      "price": 675000,
+      "model": "apple-tv-4k-3rd-generation-2022",
+      "storageGB": 64
+    },
+    {
+      "slug": "apple-tv-4k-3-generacion-64-gb-wi-fi-exhibicion",
+      "name": "Apple TV 4K 3.ª generación 64 GB Wi-Fi",
+      "condition": "Exhibición",
+      "price": 573000,
+      "model": "apple-tv-4k-3rd-generation-2022",
+      "storageGB": 64
+    },
+    {
+      "slug": "apple-tv-4k-3-generacion-64-gb-wi-fi-usado",
+      "name": "Apple TV 4K 3.ª generación 64 GB Wi-Fi",
+      "condition": "Usado",
+      "price": 472000,
+      "model": "apple-tv-4k-3rd-generation-2022",
+      "storageGB": 64
+    },
+    {
+      "slug": "apple-tv-4k-3-generacion-128-gb-wi-fi-ethernet-nuevo",
+      "name": "Apple TV 4K 3.ª generación 128 GB Wi-Fi + Ethernet",
+      "condition": "Nuevo",
+      "price": 776000,
+      "model": "apple-tv-4k-3rd-generation-2022",
+      "storageGB": 128
+    },
+    {
+      "slug": "apple-tv-4k-3-generacion-128-gb-wi-fi-ethernet-exhibicion",
+      "name": "Apple TV 4K 3.ª generación 128 GB Wi-Fi + Ethernet",
+      "condition": "Exhibición",
+      "price": 658000,
+      "model": "apple-tv-4k-3rd-generation-2022",
+      "storageGB": 128
+    },
+    {
+      "slug": "apple-tv-4k-3-generacion-128-gb-wi-fi-ethernet-usado",
+      "name": "Apple TV 4K 3.ª generación 128 GB Wi-Fi + Ethernet",
+      "condition": "Usado",
+      "price": 542000,
+      "model": "apple-tv-4k-3rd-generation-2022",
+      "storageGB": 128
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-256-gb-nuevo",
+      "name": "MacBook Air 13 pulgadas M2 256 GB",
+      "condition": "Nuevo",
+      "price": 2697000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-256-gb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M2 256 GB",
+      "condition": "Exhibición",
+      "price": 2292000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-256-gb-usado",
+      "name": "MacBook Air 13 pulgadas M2 256 GB",
+      "condition": "Usado",
+      "price": 1887000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-512-gb-nuevo",
+      "name": "MacBook Air 13 pulgadas M2 512 GB",
+      "condition": "Nuevo",
+      "price": 3101000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-512-gb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M2 512 GB",
+      "condition": "Exhibición",
+      "price": 2635000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-512-gb-usado",
+      "name": "MacBook Air 13 pulgadas M2 512 GB",
+      "condition": "Usado",
+      "price": 2170000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-1-tb-nuevo",
+      "name": "MacBook Air 13 pulgadas M2 1 TB",
+      "condition": "Nuevo",
+      "price": 3566000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-1-tb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M2 1 TB",
+      "condition": "Exhibición",
+      "price": 3030000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-1-tb-usado",
+      "name": "MacBook Air 13 pulgadas M2 1 TB",
+      "condition": "Usado",
+      "price": 2496000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-2-tb-nuevo",
+      "name": "MacBook Air 13 pulgadas M2 2 TB",
+      "condition": "Nuevo",
+      "price": 4101000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-2-tb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M2 2 TB",
+      "condition": "Exhibición",
+      "price": 3485000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m2-2-tb-usado",
+      "name": "MacBook Air 13 pulgadas M2 2 TB",
+      "condition": "Usado",
+      "price": 2870000,
+      "model": "macbook-air-13-inch-m2-2022",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-256-gb-nuevo",
+      "name": "MacBook Air 15 pulgadas M2 256 GB",
+      "condition": "Nuevo",
+      "price": 3295000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-256-gb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M2 256 GB",
+      "condition": "Exhibición",
+      "price": 2978000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-256-gb-usado",
+      "name": "MacBook Air 15 pulgadas M2 256 GB",
+      "condition": "Usado",
+      "price": 2661000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-512-gb-nuevo",
+      "name": "MacBook Air 15 pulgadas M2 512 GB",
+      "condition": "Nuevo",
+      "price": 3790000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-512-gb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M2 512 GB",
+      "condition": "Exhibición",
+      "price": 3425000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-512-gb-usado",
+      "name": "MacBook Air 15 pulgadas M2 512 GB",
+      "condition": "Usado",
+      "price": 3061000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-1-tb-nuevo",
+      "name": "MacBook Air 15 pulgadas M2 1 TB",
+      "condition": "Nuevo",
+      "price": 4359000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-1-tb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M2 1 TB",
+      "condition": "Exhibición",
+      "price": 3939000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-1-tb-usado",
+      "name": "MacBook Air 15 pulgadas M2 1 TB",
+      "condition": "Usado",
+      "price": 3520000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-2-tb-nuevo",
+      "name": "MacBook Air 15 pulgadas M2 2 TB",
+      "condition": "Nuevo",
+      "price": 5012000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-2-tb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M2 2 TB",
+      "condition": "Exhibición",
+      "price": 4530000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m2-2-tb-usado",
+      "name": "MacBook Air 15 pulgadas M2 2 TB",
+      "condition": "Usado",
+      "price": 4048000,
+      "model": "macbook-air-15-inch-m2-2023",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-256-gb-nuevo",
+      "name": "MacBook Air 13 pulgadas M3 256 GB",
+      "condition": "Nuevo",
+      "price": 2997000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-256-gb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M3 256 GB",
+      "condition": "Exhibición",
+      "price": 2547000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-256-gb-usado",
+      "name": "MacBook Air 13 pulgadas M3 256 GB",
+      "condition": "Usado",
+      "price": 2097000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-512-gb-nuevo",
+      "name": "MacBook Air 13 pulgadas M3 512 GB",
+      "condition": "Nuevo",
+      "price": 3446000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-512-gb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M3 512 GB",
+      "condition": "Exhibición",
+      "price": 2928000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-512-gb-usado",
+      "name": "MacBook Air 13 pulgadas M3 512 GB",
+      "condition": "Usado",
+      "price": 2412000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-1-tb-nuevo",
+      "name": "MacBook Air 13 pulgadas M3 1 TB",
+      "condition": "Nuevo",
+      "price": 3962000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-1-tb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M3 1 TB",
+      "condition": "Exhibición",
+      "price": 3367000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-1-tb-usado",
+      "name": "MacBook Air 13 pulgadas M3 1 TB",
+      "condition": "Usado",
+      "price": 2773000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-2-tb-nuevo",
+      "name": "MacBook Air 13 pulgadas M3 2 TB",
+      "condition": "Nuevo",
+      "price": 4557000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-2-tb-exhibicion",
+      "name": "MacBook Air 13 pulgadas M3 2 TB",
+      "condition": "Exhibición",
+      "price": 3872000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-13-pulgadas-m3-2-tb-usado",
+      "name": "MacBook Air 13 pulgadas M3 2 TB",
+      "condition": "Usado",
+      "price": 3189000,
+      "model": "macbook-air-13-inch-m3-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-256-gb-nuevo",
+      "name": "MacBook Air 15 pulgadas M3 256 GB",
+      "condition": "Nuevo",
+      "price": 3662000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-256-gb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M3 256 GB",
+      "condition": "Exhibición",
+      "price": 3309000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-256-gb-usado",
+      "name": "MacBook Air 15 pulgadas M3 256 GB",
+      "condition": "Usado",
+      "price": 2957000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-512-gb-nuevo",
+      "name": "MacBook Air 15 pulgadas M3 512 GB",
+      "condition": "Nuevo",
+      "price": 4212000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-512-gb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M3 512 GB",
+      "condition": "Exhibición",
+      "price": 3807000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-512-gb-usado",
+      "name": "MacBook Air 15 pulgadas M3 512 GB",
+      "condition": "Usado",
+      "price": 3402000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-1-tb-nuevo",
+      "name": "MacBook Air 15 pulgadas M3 1 TB",
+      "condition": "Nuevo",
+      "price": 4843000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-1-tb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M3 1 TB",
+      "condition": "Exhibición",
+      "price": 4377000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-1-tb-usado",
+      "name": "MacBook Air 15 pulgadas M3 1 TB",
+      "condition": "Usado",
+      "price": 3911000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-2-tb-nuevo",
+      "name": "MacBook Air 15 pulgadas M3 2 TB",
+      "condition": "Nuevo",
+      "price": 5569000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-2-tb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M3 2 TB",
+      "condition": "Exhibición",
+      "price": 5033000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m3-2-tb-usado",
+      "name": "MacBook Air 15 pulgadas M3 2 TB",
+      "condition": "Usado",
+      "price": 4498000,
+      "model": "macbook-air-15-inch-m3-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-256-gb-nuevo",
+      "name": "MacBook Air 15 pulgadas M4 256 GB",
+      "condition": "Nuevo",
+      "price": 4068000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-256-gb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M4 256 GB",
+      "condition": "Exhibición",
+      "price": 3676000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-256-gb-usado",
+      "name": "MacBook Air 15 pulgadas M4 256 GB",
+      "condition": "Usado",
+      "price": 3285000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 256
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-512-gb-nuevo",
+      "name": "MacBook Air 15 pulgadas M4 512 GB",
+      "condition": "Nuevo",
+      "price": 4680000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-512-gb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M4 512 GB",
+      "condition": "Exhibición",
+      "price": 4230000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-512-gb-usado",
+      "name": "MacBook Air 15 pulgadas M4 512 GB",
+      "condition": "Usado",
+      "price": 3780000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 512
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-1-tb-nuevo",
+      "name": "MacBook Air 15 pulgadas M4 1 TB",
+      "condition": "Nuevo",
+      "price": 5382000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-1-tb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M4 1 TB",
+      "condition": "Exhibición",
+      "price": 4864000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-1-tb-usado",
+      "name": "MacBook Air 15 pulgadas M4 1 TB",
+      "condition": "Usado",
+      "price": 4347000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 1024
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-2-tb-nuevo",
+      "name": "MacBook Air 15 pulgadas M4 2 TB",
+      "condition": "Nuevo",
+      "price": 6188000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-2-tb-exhibicion",
+      "name": "MacBook Air 15 pulgadas M4 2 TB",
+      "condition": "Exhibición",
+      "price": 5593000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 2048
+    },
+    {
+      "slug": "macbook-air-15-pulgadas-m4-2-tb-usado",
+      "name": "MacBook Air 15 pulgadas M4 2 TB",
+      "condition": "Usado",
+      "price": 4998000,
+      "model": "macbook-air-15-inch-m4-2025",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m6-256-gb-nuevo",
+      "name": "Mac mini M6 256 GB",
+      "condition": "Nuevo",
+      "price": 3445000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 256
+    },
+    {
+      "slug": "mac-mini-m6-256-gb-exhibicion",
+      "name": "Mac mini M6 256 GB",
+      "condition": "Exhibición",
+      "price": 2928000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 256
+    },
+    {
+      "slug": "mac-mini-m6-256-gb-usado",
+      "name": "Mac mini M6 256 GB",
+      "condition": "Usado",
+      "price": 2411000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 256
+    },
+    {
+      "slug": "mac-mini-m6-512-gb-nuevo",
+      "name": "Mac mini M6 512 GB",
+      "condition": "Nuevo",
+      "price": 3961000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m6-512-gb-exhibicion",
+      "name": "Mac mini M6 512 GB",
+      "condition": "Exhibición",
+      "price": 3366000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m6-512-gb-usado",
+      "name": "Mac mini M6 512 GB",
+      "condition": "Usado",
+      "price": 2772000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m6-1-tb-nuevo",
+      "name": "Mac mini M6 1 TB",
+      "condition": "Nuevo",
+      "price": 4556000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m6-1-tb-exhibicion",
+      "name": "Mac mini M6 1 TB",
+      "condition": "Exhibición",
+      "price": 3872000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m6-1-tb-usado",
+      "name": "Mac mini M6 1 TB",
+      "condition": "Usado",
+      "price": 3188000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m6-2-tb-nuevo",
+      "name": "Mac mini M6 2 TB",
+      "condition": "Nuevo",
+      "price": 5239000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m6-2-tb-exhibicion",
+      "name": "Mac mini M6 2 TB",
+      "condition": "Exhibición",
+      "price": 4452000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m6-2-tb-usado",
+      "name": "Mac mini M6 2 TB",
+      "condition": "Usado",
+      "price": 3666000,
+      "model": "mac-mini-m6-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m5-pro-512-gb-nuevo",
+      "name": "Mac mini M5 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 6931000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m5-pro-512-gb-exhibicion",
+      "name": "Mac mini M5 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 5890000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m5-pro-512-gb-usado",
+      "name": "Mac mini M5 Pro 512 GB",
+      "condition": "Usado",
+      "price": 4850000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m5-pro-1-tb-nuevo",
+      "name": "Mac mini M5 Pro 1 TB",
+      "condition": "Nuevo",
+      "price": 7973000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m5-pro-1-tb-exhibicion",
+      "name": "Mac mini M5 Pro 1 TB",
+      "condition": "Exhibición",
+      "price": 6776000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m5-pro-1-tb-usado",
+      "name": "Mac mini M5 Pro 1 TB",
+      "condition": "Usado",
+      "price": 5580000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m5-pro-2-tb-nuevo",
+      "name": "Mac mini M5 Pro 2 TB",
+      "condition": "Nuevo",
+      "price": 9168000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m5-pro-2-tb-exhibicion",
+      "name": "Mac mini M5 Pro 2 TB",
+      "condition": "Exhibición",
+      "price": 7792000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m5-pro-2-tb-usado",
+      "name": "Mac mini M5 Pro 2 TB",
+      "condition": "Usado",
+      "price": 6416000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m5-pro-4-tb-nuevo",
+      "name": "Mac mini M5 Pro 4 TB",
+      "condition": "Nuevo",
+      "price": 10543000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-mini-m5-pro-4-tb-exhibicion",
+      "name": "Mac mini M5 Pro 4 TB",
+      "condition": "Exhibición",
+      "price": 8960000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-mini-m5-pro-4-tb-usado",
+      "name": "Mac mini M5 Pro 4 TB",
+      "condition": "Usado",
+      "price": 7378000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-mini-m5-pro-8-tb-nuevo",
+      "name": "Mac mini M5 Pro 8 TB",
+      "condition": "Nuevo",
+      "price": 12125000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-mini-m5-pro-8-tb-exhibicion",
+      "name": "Mac mini M5 Pro 8 TB",
+      "condition": "Exhibición",
+      "price": 10305000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-mini-m5-pro-8-tb-usado",
+      "name": "Mac mini M5 Pro 8 TB",
+      "condition": "Usado",
+      "price": 8485000,
+      "model": "mac-mini-m5-pro-2026",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-mini-m4-pro-512-gb-nuevo",
+      "name": "Mac mini M4 Pro 512 GB",
+      "condition": "Nuevo",
+      "price": 6301000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m4-pro-512-gb-exhibicion",
+      "name": "Mac mini M4 Pro 512 GB",
+      "condition": "Exhibición",
+      "price": 5355000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m4-pro-512-gb-usado",
+      "name": "Mac mini M4 Pro 512 GB",
+      "condition": "Usado",
+      "price": 4409000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 512
+    },
+    {
+      "slug": "mac-mini-m4-pro-1-tb-nuevo",
+      "name": "Mac mini M4 Pro 1 TB",
+      "condition": "Nuevo",
+      "price": 7248000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m4-pro-1-tb-exhibicion",
+      "name": "Mac mini M4 Pro 1 TB",
+      "condition": "Exhibición",
+      "price": 6160000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m4-pro-1-tb-usado",
+      "name": "Mac mini M4 Pro 1 TB",
+      "condition": "Usado",
+      "price": 5072000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 1024
+    },
+    {
+      "slug": "mac-mini-m4-pro-2-tb-nuevo",
+      "name": "Mac mini M4 Pro 2 TB",
+      "condition": "Nuevo",
+      "price": 8335000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m4-pro-2-tb-exhibicion",
+      "name": "Mac mini M4 Pro 2 TB",
+      "condition": "Exhibición",
+      "price": 7084000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m4-pro-2-tb-usado",
+      "name": "Mac mini M4 Pro 2 TB",
+      "condition": "Usado",
+      "price": 5833000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 2048
+    },
+    {
+      "slug": "mac-mini-m4-pro-4-tb-nuevo",
+      "name": "Mac mini M4 Pro 4 TB",
+      "condition": "Nuevo",
+      "price": 9584000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-mini-m4-pro-4-tb-exhibicion",
+      "name": "Mac mini M4 Pro 4 TB",
+      "condition": "Exhibición",
+      "price": 8145000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-mini-m4-pro-4-tb-usado",
+      "name": "Mac mini M4 Pro 4 TB",
+      "condition": "Usado",
+      "price": 6707000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 4096
+    },
+    {
+      "slug": "mac-mini-m4-pro-8-tb-nuevo",
+      "name": "Mac mini M4 Pro 8 TB",
+      "condition": "Nuevo",
+      "price": 11023000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-mini-m4-pro-8-tb-exhibicion",
+      "name": "Mac mini M4 Pro 8 TB",
+      "condition": "Exhibición",
+      "price": 9368000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 8192
+    },
+    {
+      "slug": "mac-mini-m4-pro-8-tb-usado",
+      "name": "Mac mini M4 Pro 8 TB",
+      "condition": "Usado",
+      "price": 7714000,
+      "model": "mac-mini-m4-pro-2024",
+      "storageGB": 8192
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-256-gb-nuevo",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 256 GB",
+      "condition": "Nuevo",
+      "price": 8040000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 256
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-256-gb-exhibicion",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 256 GB",
+      "condition": "Exhibición",
+      "price": 6780000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 256
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-256-gb-usado",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 256 GB",
+      "condition": "Usado",
+      "price": 5580000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 256
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-512-gb-nuevo",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 512 GB",
+      "condition": "Nuevo",
+      "price": 9244000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-512-gb-exhibicion",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 512 GB",
+      "condition": "Exhibición",
+      "price": 7795000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-512-gb-usado",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 512 GB",
+      "condition": "Usado",
+      "price": 6415000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-1-tb-nuevo",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 1 TB",
+      "condition": "Nuevo",
+      "price": 10632000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-1-tb-exhibicion",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 1 TB",
+      "condition": "Exhibición",
+      "price": 8965000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-1-tb-usado",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 1 TB",
+      "condition": "Usado",
+      "price": 7378000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-2-tb-nuevo",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 2 TB",
+      "condition": "Nuevo",
+      "price": 12226000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 2048
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-2-tb-exhibicion",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 2 TB",
+      "condition": "Exhibición",
+      "price": 10309000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 2048
+    },
+    {
+      "slug": "imac-24-pulgadas-m4-cuatro-puertos-2-tb-usado",
+      "name": "iMac 24 pulgadas M4 cuatro puertos 2 TB",
+      "condition": "Usado",
+      "price": 8485000,
+      "model": "imac-24-inch-m4-2024-four-ports",
+      "storageGB": 2048
+    },
+    {
+      "slug": "imac-24-pulgadas-m1-512-gb-nuevo",
+      "name": "iMac 24 pulgadas M1 512 GB",
+      "condition": "Nuevo",
+      "price": 4878000,
+      "model": "imac-24-inch-m1-2021-four-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "imac-24-pulgadas-m1-512-gb-exhibicion",
+      "name": "iMac 24 pulgadas M1 512 GB",
+      "condition": "Exhibición",
+      "price": 4146000,
+      "model": "imac-24-inch-m1-2021-four-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "imac-24-pulgadas-m1-512-gb-usado",
+      "name": "iMac 24 pulgadas M1 512 GB",
+      "condition": "Usado",
+      "price": 3415000,
+      "model": "imac-24-inch-m1-2021-four-ports",
+      "storageGB": 512
+    },
+    {
+      "slug": "imac-24-pulgadas-m1-1-tb-nuevo",
+      "name": "iMac 24 pulgadas M1 1 TB",
+      "condition": "Nuevo",
+      "price": 5610000,
+      "model": "imac-24-inch-m1-2021-four-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "imac-24-pulgadas-m1-1-tb-exhibicion",
+      "name": "iMac 24 pulgadas M1 1 TB",
+      "condition": "Exhibición",
+      "price": 4768000,
+      "model": "imac-24-inch-m1-2021-four-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "imac-24-pulgadas-m1-1-tb-usado",
+      "name": "iMac 24 pulgadas M1 1 TB",
+      "condition": "Usado",
+      "price": 3927000,
+      "model": "imac-24-inch-m1-2021-four-ports",
+      "storageGB": 1024
+    },
+    {
+      "slug": "imac-24-pulgadas-m1-2-tb-nuevo",
+      "name": "iMac 24 pulgadas M1 2 TB",
+      "condition": "Nuevo",
+      "price": 6451000,
+      "model": "imac-24-inch-m1-2021-four-ports",
+      "storageGB": 2048
+    },
+    {
+      "slug": "imac-24-pulgadas-m1-2-tb-exhibicion",
+      "name": "iMac 24 pulgadas M1 2 TB",
+      "condition": "Exhibición",
+      "price": 5483000,
+      "model": "imac-24-inch-m1-2021-four-ports",
+      "storageGB": 2048
+    },
+    {
+      "slug": "imac-24-pulgadas-m1-2-tb-usado",
+      "name": "iMac 24 pulgadas M1 2 TB",
+      "condition": "Usado",
+      "price": 4516000,
+      "model": "imac-24-inch-m1-2021-four-ports",
+      "storageGB": 2048
+    }
+  ]
+}

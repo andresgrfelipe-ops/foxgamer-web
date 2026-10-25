@@ -1,0 +1,1947 @@
+{
+  "verifiedAt": "2026-10-25",
+  "models": [
+    {
+      "canonical_model": "iPhone 11",
+      "existing_names": [
+        "iPhone 11 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        128,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 11 Pro",
+      "existing_names": [
+        "iPhone 11 Pro 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 11 Pro Max",
+      "existing_names": [
+        "iPhone 11 Pro Max 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 12",
+      "existing_names": [
+        "iPhone 12 128 GB"
+      ],
+      "capacities_GB": [
+        64,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        64,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 12 Pro",
+      "existing_names": [
+        "iPhone 12 Pro 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 12 Pro Max",
+      "existing_names": [
+        "iPhone 12 Pro Max 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 12 mini",
+      "existing_names": [
+        "iPhone 12 mini 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        128,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 13",
+      "existing_names": [
+        "iPhone 13 128 GB",
+        "iPhone 13 512 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128,
+        512
+      ],
+      "missing_capacities_GB": [
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 13 Pro",
+      "existing_names": [
+        "iPhone 13 Pro 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 13 Pro Max",
+      "existing_names": [
+        "iPhone 13 Pro Max 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 13 mini",
+      "existing_names": [
+        "iPhone 13 mini 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 14",
+      "existing_names": [
+        "iPhone 14 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 14 Plus",
+      "existing_names": [
+        "iPhone 14 Plus 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 14 Pro",
+      "existing_names": [
+        "iPhone 14 Pro 256 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        128,
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 14 Pro Max",
+      "existing_names": [
+        "iPhone 14 Pro Max 256 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        128,
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 15",
+      "existing_names": [
+        "iPhone 15 128 GB",
+        "iPhone 15 256 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128,
+        256
+      ],
+      "missing_capacities_GB": [
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": [
+        "Standard iPhone 15 has no 1 TB variant; do not create one."
+      ]
+    },
+    {
+      "canonical_model": "iPhone 15 Plus",
+      "existing_names": [
+        "iPhone 15 Plus 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 15 Pro",
+      "existing_names": [
+        "iPhone 15 Pro 256 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        128,
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 15 Pro Max",
+      "existing_names": [
+        "iPhone 15 Pro Max 256 GB",
+        "iPhone 15 Pro Max 256 GB CPO"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": [
+        "CPO is a refurbishment/commercial label, not a distinct hardware model or storage tier. Preserve existing offers separately; do not manufacture CPO stock."
+      ]
+    },
+    {
+      "canonical_model": "iPhone 16",
+      "existing_names": [
+        "iPhone 16 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 16 Plus",
+      "existing_names": [
+        "iPhone 16 Plus 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 16 Pro",
+      "existing_names": [
+        "iPhone 16 Pro 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 16 Pro Max",
+      "existing_names": [
+        "iPhone 16 Pro Max 256 GB",
+        "iPhone 16 Pro Max 256 GB CPO"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": [
+        "CPO is a refurbishment/commercial label, not a distinct hardware model or storage tier. Preserve existing offers separately; do not manufacture CPO stock."
+      ]
+    },
+    {
+      "canonical_model": "iPhone 16e",
+      "existing_names": [
+        "iPhone 16e 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 17",
+      "existing_names": [
+        "iPhone 17 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 17 Pro",
+      "existing_names": [
+        "iPhone 17 Pro 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 17 Pro Max",
+      "existing_names": [
+        "iPhone 17 Pro Max 1 TB",
+        "iPhone 17 Pro Max 2 TB",
+        "iPhone 17 Pro Max 256 GB",
+        "iPhone 17 Pro Max 512 GB",
+        "iPhone 17 Pro Max 512 GB Exhibición Premium"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "missing_capacities_GB": [],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": [
+        "Exhibición Premium is a condition/commercial label, not a distinct hardware model or extra capacity. Preserve its existing offer separately."
+      ]
+    },
+    {
+      "canonical_model": "iPhone 17e",
+      "existing_names": [
+        "iPhone 17e 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 18 Pro",
+      "existing_names": [
+        "iPhone 18 Pro 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://www.apple.com/es/iphone-18-pro/specs/",
+      "notes": [
+        "Identify-model summary omits 2 TB, but current detailed specs, regional Apple Support specs and a live Apple Store 6.3-inch 2 TB product page confirm it. Prefer detailed product documentation."
+      ]
+    },
+    {
+      "canonical_model": "iPhone 18 Pro Max",
+      "existing_names": [
+        "iPhone 18 Pro Max 1 TB",
+        "iPhone 18 Pro Max 2 TB",
+        "iPhone 18 Pro Max 256 GB",
+        "iPhone 18 Pro Max 512 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "missing_capacities_GB": [],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 7",
+      "existing_names": [
+        "iPhone 7 32 GB"
+      ],
+      "capacities_GB": [
+        32,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        32
+      ],
+      "missing_capacities_GB": [
+        128,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 7 Plus",
+      "existing_names": [
+        "iPhone 7 Plus 128 GB"
+      ],
+      "capacities_GB": [
+        32,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        32,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 8",
+      "existing_names": [
+        "iPhone 8 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        128,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone 8 Plus",
+      "existing_names": [
+        "iPhone 8 Plus 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        128,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone Air",
+      "existing_names": [
+        "iPhone Air 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone SE 2020",
+      "existing_names": [
+        "iPhone SE 2020 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        128,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": [
+        "Official model name: iPhone SE (2.ª generación)"
+      ]
+    },
+    {
+      "canonical_model": "iPhone SE 2022",
+      "existing_names": [
+        "iPhone SE 2022 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        128,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": [
+        "Official model name: iPhone SE (3.ª generación)"
+      ]
+    },
+    {
+      "canonical_model": "iPhone X",
+      "existing_names": [
+        "iPhone X 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone XR",
+      "existing_names": [
+        "iPhone XR 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        128,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        128,
+        256
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone XS",
+      "existing_names": [
+        "iPhone XS 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone XS Max",
+      "existing_names": [
+        "iPhone XS Max 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://support.apple.com/es-es/108044",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPhone Duo",
+      "existing_names": [],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [],
+      "missing_capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://www.apple.com/iphone-duo/specs/",
+      "notes": [
+        "Listed as a current product in https://www.apple.com/iphone/. Product existence and storage are verified; this does not establish availability in Colombia, FOX GAMER inventory, or prices."
+      ]
+    },
+    {
+      "canonical_model": "iPad 10.ª generación",
+      "official_model": "iPad (10.ª generación)",
+      "existing_names": [
+        "iPad 10.ª generación 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad (10th generation)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-10-gen-ipad.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad 11 pulgadas A16",
+      "official_model": "iPad (A16)",
+      "existing_names": [
+        "iPad 11 pulgadas A16 128 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad (A16)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad 9.ª generación",
+      "official_model": "iPad (9.ª generación)",
+      "existing_names": [
+        "iPad 9.ª generación 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad (9th generation)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-2021-colors.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad Air 11 pulgadas M3",
+      "official_model": "iPad Air de 11 pulgadas (M3)",
+      "existing_names": [
+        "iPad Air 11 pulgadas M3 256 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        128,
+        512,
+        1024
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Air 11-inch (M3)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-11.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad Air 11 pulgadas M4",
+      "official_model": "iPad Air de 11 pulgadas (M4)",
+      "existing_names": [
+        "iPad Air 11 pulgadas M4 128 GB Wi-Fi"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Air 11-inch (M4)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2026-ipad-air-11.png",
+      "status": "existing",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPad Air 13 pulgadas M3",
+      "official_model": "iPad Air de 13 pulgadas (M3)",
+      "existing_names": [
+        "iPad Air 13 pulgadas M3 256 GB",
+        "iPad Air 13 pulgadas M3 256 GB Cellular"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        128,
+        512,
+        1024
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Air 13-inch (M3)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-13.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad Air 13 pulgadas M4",
+      "official_model": "iPad Air de 13 pulgadas (M4)",
+      "existing_names": [
+        "iPad Air 13 pulgadas M4 128 GB Wi-Fi"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Air 13-inch (M4)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2026-ipad-air-13.png",
+      "status": "existing",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPad Air 4.ª generación",
+      "official_model": "iPad Air (4.ª generación)",
+      "existing_names": [
+        "iPad Air 4.ª generación 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Air (4th generation)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-air-4th-gen-colors.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad Air 5.ª generación",
+      "official_model": "iPad Air (5.ª generación)",
+      "existing_names": [
+        "iPad Air 5.ª generación 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Air (5th generation)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-air-5th-gen-colors.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad Pro 11 pulgadas 3.ª generación",
+      "official_model": "iPad Pro de 11 pulgadas (3.ª generación)",
+      "existing_names": [
+        "iPad Pro 11 pulgadas 3.ª generación"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [],
+      "missing_capacities_GB": [
+        128,
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Pro 11-inch (3rd generation)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-11-colors.png",
+      "status": "existing",
+      "notes": [
+        "Existing product name does not specify storage. Do not assume the base capacity or overwrite its price as if storage were verified.",
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad Pro 11 pulgadas M4",
+      "official_model": "iPad Pro de 11 pulgadas (M4)",
+      "existing_names": [
+        "iPad Pro 11 pulgadas M4 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        512,
+        1024,
+        2048
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Pro 11-inch (M4)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-2.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it.",
+        "Nano-texture glass is an additional option only at 1 TB and 2 TB; do not imply every 1/2 TB unit has nano-texture."
+      ]
+    },
+    {
+      "canonical_model": "iPad Pro 11 pulgadas M5",
+      "official_model": "iPad Pro de 11 pulgadas (M5)",
+      "existing_names": [
+        "iPad Pro 11 pulgadas M5 256 GB Wi-Fi"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [
+        256
+      ],
+      "missing_capacities_GB": [
+        512,
+        1024,
+        2048
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Pro 11-inch (M5)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-11in.png",
+      "status": "existing",
+      "notes": [
+        "Nano-texture glass is an additional option only at 1 TB and 2 TB; do not imply every 1/2 TB unit has nano-texture."
+      ]
+    },
+    {
+      "canonical_model": "iPad Pro 12.9 pulgadas 5.ª generación",
+      "official_model": "iPad Pro de 12,9 pulgadas (5.ª generación)",
+      "existing_names": [
+        "iPad Pro 12.9 pulgadas 5.ª generación"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [],
+      "missing_capacities_GB": [
+        128,
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Pro 12.9-inch (5th generation)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-12-9-colors.png",
+      "status": "existing",
+      "notes": [
+        "Existing product name does not specify storage. Do not assume the base capacity or overwrite its price as if storage were verified.",
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad Pro 13 pulgadas M5",
+      "official_model": "iPad Pro de 13 pulgadas (M5)",
+      "existing_names": [
+        "iPad Pro 13 pulgadas M5 256 GB",
+        "iPad Pro 13 pulgadas M5 512 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [
+        256,
+        512
+      ],
+      "missing_capacities_GB": [
+        1024,
+        2048
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad Pro 13-inch (M5)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-13in.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it.",
+        "Nano-texture glass is an additional option only at 1 TB and 2 TB; do not imply every 1/2 TB unit has nano-texture."
+      ]
+    },
+    {
+      "canonical_model": "iPad mini 6.ª generación",
+      "official_model": "iPad mini (6.ª generación)",
+      "existing_names": [
+        "iPad mini 6.ª generación 64 GB"
+      ],
+      "capacities_GB": [
+        64,
+        256
+      ],
+      "existing_capacities_GB": [
+        64
+      ],
+      "missing_capacities_GB": [
+        256
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad mini (6th generation)",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-2021-colors.png",
+      "status": "existing",
+      "notes": [
+        "Some existing entries do not identify connectivity. Do not silently assume Wi-Fi; retain unspecified connectivity or verify it."
+      ]
+    },
+    {
+      "canonical_model": "iPad mini A17 Pro",
+      "official_model": "iPad mini (A17 Pro)",
+      "existing_names": [
+        "iPad mini A17 Pro 128 GB Wi-Fi"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512
+      ],
+      "existing_capacities_GB": [
+        128
+      ],
+      "missing_capacities_GB": [
+        256,
+        512
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": "iPad mini A17 Pro 128 GB Wi-Fi",
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-mini/ipad-mini-2024-colors.png",
+      "status": "existing",
+      "notes": [
+        "Existing verifiedImages.sourceModel includes 128 GB Wi-Fi; normalize to official model identity iPad mini (A17 Pro) before sharing image across capacities."
+      ]
+    },
+    {
+      "canonical_model": "iPad Pro 13 pulgadas M4",
+      "official_model": "iPad Pro de 13 pulgadas (M4)",
+      "existing_names": [],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [],
+      "missing_capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": null,
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-1.png",
+      "status": "absent_sibling",
+      "notes": [
+        "Nano-texture glass is an additional option only at 1 TB and 2 TB; do not imply every 1/2 TB unit has nano-texture."
+      ]
+    },
+    {
+      "canonical_model": "iPad Pro 11 pulgadas 4.ª generación",
+      "official_model": "iPad Pro de 11 pulgadas (4.ª generación)",
+      "existing_names": [],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [],
+      "missing_capacities_GB": [
+        128,
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": null,
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-11-inch-4gen-ipad-pro.png",
+      "status": "absent_sibling",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPad Pro 12.9 pulgadas 6.ª generación",
+      "official_model": "iPad Pro de 12,9 pulgadas (6.ª generación)",
+      "existing_names": [],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "existing_capacities_GB": [],
+      "missing_capacities_GB": [
+        128,
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": null,
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-12-9-inch-6gen-ipad-pro.png",
+      "status": "absent_sibling",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPad Air 11 pulgadas M2",
+      "official_model": "iPad Air de 11 pulgadas (M2)",
+      "existing_names": [],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [],
+      "missing_capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": null,
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-4.png",
+      "status": "absent_sibling",
+      "notes": []
+    },
+    {
+      "canonical_model": "iPad Air 13 pulgadas M2",
+      "official_model": "iPad Air de 13 pulgadas (M2)",
+      "existing_names": [],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "existing_capacities_GB": [],
+      "missing_capacities_GB": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "connectivity_options": [
+        "Wi-Fi",
+        "Wi-Fi + Cellular"
+      ],
+      "source_url": "https://support.apple.com/es-es/108043",
+      "sourceModel": null,
+      "source_image_url": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-3.png",
+      "status": "absent_sibling",
+      "notes": []
+    },
+    {
+      "canonical_model": "MacBook Air 13-inch M5 (2026)",
+      "existing_names": [
+        "MacBook Air 13 pulgadas M5 512 GB"
+      ],
+      "capacities_GB": [
+        512,
+        1024,
+        2048,
+        4096
+      ],
+      "source_url": "https://support.apple.com/es-es/126320",
+      "notes": "RAM 16/24/32 GB. Keep RAM and GPU configuration distinct; Apple offers both 8-core and 10-core GPU for 13-inch."
+    },
+    {
+      "canonical_model": "MacBook Air 15-inch M5 (2026)",
+      "existing_names": [
+        "MacBook Air M5 15 pulgadas · 16 GB RAM · SSD 512 GB",
+        "MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 1 TB"
+      ],
+      "capacities_GB": [
+        512,
+        1024,
+        2048,
+        4096
+      ],
+      "source_url": "https://www.apple.com/macbook-air/specs/",
+      "notes": "RAM 16/24/32 GB, 10-core GPU. Two existing rows distinguish 16 GB RAM 512 GB and 24 GB RAM 1 TB; do not merge their prices or infer all crossed configurations are stocked."
+    },
+    {
+      "canonical_model": "MacBook Air 13-inch M4 (2025)",
+      "existing_names": [
+        "MacBook Air 13 pulgadas M4 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-sg/122209",
+      "notes": "RAM 16/24/32 GB; GPU 8-core or 10-core."
+    },
+    {
+      "canonical_model": "MacBook Air M1 (2020)",
+      "existing_names": [
+        "MacBook Air M1 13 pulgadas 256 GB"
+      ],
+      "capacities_GB": [
+        128,
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-us/111883",
+      "notes": "RAM 8/16 GB. Current official support explicitly includes 128 GB, verified in US/UK/AE pages on 2026-10-25; no claim that this special/legacy capacity is available from seller."
+    },
+    {
+      "canonical_model": "MacBook Air Retina 13-inch Intel (2020)",
+      "existing_names": [
+        "MacBook Air Intel 13 pulgadas 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-us/111991",
+      "notes": "Commercial name lacks year. verifiedImages.sourceModel explicitly says MacBook Air (Retina, 13-inch, 2020), linking support111991. Capacities apply only to that exact generation; relabel with year and do not extrapolate to all Intel Airs. RAM 8/16 GB.",
+      "identity_evidence": "verifiedImages sourceModel and direct official source URL",
+      "requires_model_disambiguation": true
+    },
+    {
+      "canonical_model": "MacBook Neo A18 Pro (2026)",
+      "existing_names": [
+        "MacBook Neo A18 Pro 8 GB 512 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512
+      ],
+      "source_url": "https://www.apple.com/macbook-neo/specs/",
+      "notes": "RAM fixed 8 GB. 256 GB version has Magic Keyboard without Touch ID; 512 GB version has Touch ID. Keep that distinction in variant description."
+    },
+    {
+      "canonical_model": "MacBook Pro 14-inch M5 (2025)",
+      "existing_names": [
+        "MacBook Pro 14 pulgadas M5 1 TB"
+      ],
+      "capacities_GB": [
+        512,
+        1024,
+        2048,
+        4096
+      ],
+      "source_url": "https://support.apple.com/en-us/125405",
+      "notes": "RAM 16/24/32 GB. 512 GB is an official historical configuration; current store starts at 1 TB after March 2026 update. Do not state 512 GB is currently in stock.",
+      "current_store_capacities_GB": [
+        1024,
+        2048,
+        4096
+      ],
+      "additional_source_urls": [
+        "https://www.apple.com/macbook-pro/specs/"
+      ]
+    },
+    {
+      "canonical_model": "MacBook Pro 14-inch M5 Pro (2026)",
+      "existing_names": [
+        "MacBook Pro 14 pulgadas M5 Pro 24 GB RAM 1 TB SSD"
+      ],
+      "capacities_GB": [
+        1024,
+        2048,
+        4096
+      ],
+      "source_url": "https://support.apple.com/en-gb/126318",
+      "notes": "Existing RAM 24 GB is valid. M5 Pro supports 24/48 GB; 64 GB requires 20-core GPU. Do not mix with Max memory configurations."
+    },
+    {
+      "canonical_model": "MacBook Pro 14-inch M5 Max (2026)",
+      "existing_names": [
+        "MacBook Pro 14 pulgadas M5 Max 36 GB RAM 2 TB SSD"
+      ],
+      "capacities_GB": [
+        2048,
+        4096,
+        8192
+      ],
+      "source_url": "https://support.apple.com/en-gb/126318",
+      "notes": "Existing RAM 36 GB corresponds to 32-core GPU. 48/64/128 GB require 40-core GPU. 8 TB with 36 GB and 32-core GPU is explicitly listed in Apple store for 14-inch as well.",
+      "additional_source_urls": [
+        "https://www.apple.com/sg/shop/buy-mac/macbook-pro/14-inch-space-black-standard-display-apple-m5-max-chip-18-core-cpu-32-core-gpu-36gb-memory-8tb-storage"
+      ]
+    },
+    {
+      "canonical_model": "MacBook Pro 16-inch M5 Pro (2026)",
+      "existing_names": [
+        "MacBook Pro 16 pulgadas M5 Pro 24 GB RAM 1 TB SSD"
+      ],
+      "capacities_GB": [
+        1024,
+        2048,
+        4096
+      ],
+      "source_url": "https://support.apple.com/en-gb/126319",
+      "notes": "Existing RAM 24 GB is valid. M5 Pro supports 24/48 GB; 64 GB requires 20-core GPU. Do not mix with Max memory configurations."
+    },
+    {
+      "canonical_model": "MacBook Pro 16-inch M5 Max (2026)",
+      "existing_names": [
+        "MacBook Pro 16 pulgadas M5 Max 36 GB RAM 2 TB SSD"
+      ],
+      "capacities_GB": [
+        2048,
+        4096,
+        8192
+      ],
+      "source_url": "https://support.apple.com/en-gb/126319",
+      "notes": "Existing RAM 36 GB corresponds to 32-core GPU. 48/64/128 GB require 40-core GPU. 8 TB with 36 GB and 32-core GPU is explicitly listed in Apple store for 14-inch as well.",
+      "additional_source_urls": []
+    },
+    {
+      "canonical_model": "MacBook Pro 13-inch Intel (2020, two Thunderbolt 3 ports)",
+      "existing_names": [
+        "MacBook Pro Intel 13 pulgadas 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-us/111981",
+      "notes": "Commercial name lacks year/ports. verifiedImages.sourceModel explicitly identifies 2020 two-port model and links support111981. These capacities apply only to this exact model, not all Intel Pros. RAM 8/16 GB.",
+      "identity_evidence": "verifiedImages sourceModel and direct official source URL",
+      "requires_model_disambiguation": true
+    },
+    {
+      "canonical_model": "MacBook Pro 14-inch M1 Pro (2021)",
+      "existing_names": [
+        "MacBook Pro M1 Pro 14 pulgadas 512 GB"
+      ],
+      "capacities_GB": [
+        512,
+        1024,
+        2048,
+        4096,
+        8192
+      ],
+      "source_url": "https://support.apple.com/en-us/111902",
+      "notes": "RAM 16/32 GB for M1 Pro. 64 GB RAM belongs to M1 Max, not M1 Pro."
+    },
+    {
+      "canonical_model": "Mac mini M1 (2020)",
+      "existing_names": [
+        "Mac mini M1 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-ie/111894",
+      "notes": "RAM 8/16 GB."
+    },
+    {
+      "canonical_model": "Mac mini M4 (2024)",
+      "existing_names": [
+        "Mac mini M4 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-mt/121555",
+      "notes": "RAM 16/24/32 GB. Do not add 4/8 TB to M4: those are M4 Pro configurations."
+    },
+    {
+      "canonical_model": "Mac Studio M5 Max (2026)",
+      "existing_names": [
+        "Mac Studio M5 Max 36 GB RAM 512 GB SSD"
+      ],
+      "capacities_GB": [
+        512,
+        1024,
+        2048,
+        4096,
+        8192
+      ],
+      "source_url": "https://support.apple.com/en-gb/128107",
+      "notes": "Existing RAM 36 GB valid. RAM 48/64/128 GB requires M5 Max 18-core CPU/40-core GPU. Current model verified against August 2026 official Apple announcement."
+    },
+    {
+      "canonical_model": "Mac Studio M5 Ultra (2026)",
+      "existing_names": [
+        "Mac Studio M5 Ultra 96 GB RAM 1 TB SSD"
+      ],
+      "capacities_GB": [
+        1024,
+        2048,
+        4096,
+        8192,
+        16384
+      ],
+      "source_url": "https://support.apple.com/en-gb/128107",
+      "notes": "Existing RAM 96 GB valid. Official RAM options 256/512 GB are tied to higher chip configuration; 512 GB requires 36-core CPU/80-core GPU. No seller stock implied."
+    },
+    {
+      "canonical_model": "iMac 24-inch M4 (2024, two ports)",
+      "existing_names": [
+        "iMac 24 pulgadas M4 16 GB RAM 256 GB SSD"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024
+      ],
+      "source_url": "https://support.apple.com/en-ph/121556",
+      "notes": "verifiedImages image file is imac-24in-2024-two-ports-colors.png. Two-port M4 has 8-core CPU/GPU and 16/24 GB RAM, max1 TB. Existing name does not state ports; add explicit qualification. 2 TB requires separate four-port M4 10-core CPU/GPU model.",
+      "identity_evidence": "verifiedImages image filename identifies two-port model",
+      "requires_model_disambiguation": true,
+      "conditional_capacities_GB": [
+        2048
+      ],
+      "conditional_capacity_note": "2 TB only as separately identified iMac M4 four-port configuration.",
+      "additional_source_urls": [
+        "https://support.apple.com/en-ie/121557"
+      ]
+    },
+    {
+      "canonical_model": "Apple TV 4K 2nd generation (2021)",
+      "existing_names": [
+        "Apple TV 4K 2.ª generación"
+      ],
+      "capacities_GB": [
+        32,
+        64
+      ],
+      "source_url": "https://support.apple.com/en-sg/111922",
+      "notes": "Both capacities have Ethernet and Wi-Fi. Existing listing name omits capacity; do not guess which capacity its existing price covers.",
+      "requires_existing_capacity_confirmation": true
+    },
+    {
+      "canonical_model": "Apple TV 4K 3rd generation (2022)",
+      "existing_names": [
+        "Apple TV 4K 3.ª generación"
+      ],
+      "capacities_GB": [
+        64,
+        128
+      ],
+      "source_url": "https://support.apple.com/en-in/111839",
+      "notes": "64 GB is Wi-Fi; 128 GB is Wi-Fi + Ethernet and includes Thread. verifiedImages.sourceModel identifies Wi-Fi, suggesting current row is 64 GB; describe 128 GB as separate Ethernet configuration.",
+      "capacity_variants": {
+        "64": "Wi-Fi",
+        "128": "Wi-Fi + Ethernet + Thread"
+      }
+    },
+    {
+      "canonical_model": "MacBook Air 13-inch M2 (2022)",
+      "existing_names": [],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-us/111867",
+      "notes": "Entire family absent. RAM 8/16/24 GB. Catalog inquiry only; no seller availability or price verified."
+    },
+    {
+      "canonical_model": "MacBook Air 15-inch M2 (2023)",
+      "existing_names": [],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-ie/111346",
+      "notes": "Entire family absent. RAM 8/16/24 GB. Catalog inquiry only; no seller availability or price verified."
+    },
+    {
+      "canonical_model": "MacBook Air 13-inch M3 (2024)",
+      "existing_names": [],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-us/118551",
+      "notes": "Entire family absent. RAM 8/16/24 GB. Catalog inquiry only; no seller availability or price verified."
+    },
+    {
+      "canonical_model": "MacBook Air 15-inch M3 (2024)",
+      "existing_names": [],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-gb/118552",
+      "notes": "Entire family absent. RAM 8/16/24 GB. Catalog inquiry only; no seller availability or price verified."
+    },
+    {
+      "canonical_model": "MacBook Air 15-inch M4 (2025)",
+      "existing_names": [],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-gb/122210",
+      "notes": "Entire size absent. RAM16/24/32 GB. Catalog inquiry only."
+    },
+    {
+      "canonical_model": "Mac mini M6 (2026)",
+      "existing_names": [],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://www.apple.com/mac-mini/specs/",
+      "notes": "Current official model absent; RAM16/24/32 GB. Announced September2026. Catalog inquiry only."
+    },
+    {
+      "canonical_model": "Mac mini M5 Pro (2026)",
+      "existing_names": [],
+      "capacities_GB": [
+        512,
+        1024,
+        2048,
+        4096,
+        8192
+      ],
+      "source_url": "https://www.apple.com/mac-mini/specs/",
+      "notes": "Current official model absent; RAM24/48/64 GB. Announced September2026. Catalog inquiry only."
+    },
+    {
+      "canonical_model": "Mac mini M4 Pro (2024)",
+      "existing_names": [],
+      "capacities_GB": [
+        512,
+        1024,
+        2048,
+        4096,
+        8192
+      ],
+      "source_url": "https://support.apple.com/en-mt/121555",
+      "notes": "Chip family absent; RAM24/48/64 GB. Catalog inquiry only."
+    },
+    {
+      "canonical_model": "iMac 24-inch M4 (2024, four ports)",
+      "existing_names": [],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-ie/121557",
+      "notes": "Distinct 10-core CPU/GPU model; RAM16/24/32 GB; do not reuse two-port image or stock assertion."
+    },
+    {
+      "canonical_model": "iMac 24-inch M1 (2021, four ports)",
+      "existing_names": [
+        "iMac 24 pulgadas M1 256 GB"
+      ],
+      "capacities_GB": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "source_url": "https://support.apple.com/en-gb/111895",
+      "notes": "verifiedImages sourceImageUrl id-imac-24-2021.png is explicitly the four-port iMac M1 in Apple identification page: alt says two Thunderbolt / USB 4 ports and two USB 3 ports. Thus identify catalog as four-port / 8-core GPU and include2 TB. RAM8/16 GB. No assumption of seller stock.",
+      "additional_source_urls": [
+        "https://support.apple.com/en-al/109513",
+        "https://support.apple.com/en-us/108054"
+      ],
+      "identity_evidence": "https://support.apple.com/en-us/108054 exact image alt, checked 2026-10-25"
+    }
+  ]
+}
