@@ -95,3 +95,9 @@ Referencias de implementación: [navegación con disclosure (W3C)](https://www.w
 `scripts/complete-apple-storage.mjs` aplica la ampliación autorizada y conserva los precios existentes. Las nuevas referencias llevan precios comerciales calculados desde las referencias FOX GAMER, con método y anclas en `pricingCalculation`, y disponibilidad `inquiry`. No se ejecuta como parte del build. `reports/apple-storage-additions.json` registra las 741 ofertas añadidas (247 combinaciones por tres condiciones). Las fotografías oficiales nuevas están documentadas en `data/apple-storage-assets.json`; las imágenes compartidas entre modelos cuentan con evidencia del mismo archivo publicado por Apple.
 
 Para actualizar capacidades, revisar primero la fuente oficial y los límites por chip, RAM y conectividad. Ejecutar la auditoría de imágenes, build y pruebas después de cualquier cambio; no convertir una referencia en existencia confirmada por añadir su capacidad al catálogo.
+
+## Selector de RAM MacBook
+
+Las fichas con varias configuraciones de RAM muestran un selector con el precio de cada una y un acceso desde el catálogo. Cada opción abre la ficha exacta, por lo que el precio, carrito, WhatsApp y financiación usan la misma configuración. Se conservan `appleModel`, `storageGB` y condición; el selector de almacenamiento sigue conservando la RAM.
+
+`scripts/macbook-memory.mjs` utiliza únicamente memoria explícita en `ramGB` o en el nombre (`16 GB RAM`). No deduce RAM a partir del SSD ni del mínimo del modelo, y no crea precios. El catálogo actual permite elegir 16 o 24 GB en la MacBook Air M5 de 15 pulgadas, con cuatro capacidades SSD y tres condiciones. Para ampliar opciones, registrar primero las ofertas y precios por RAM en `data/store.json`.

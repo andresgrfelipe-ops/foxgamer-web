@@ -1,6 +1,7 @@
 import {escapeHTML as e, priceLabel, whatsappURL, CONDITIONS} from './catalog.mjs';
 import {gameDirectory} from './games-directory.mjs';
 import {storageChoices, storageLabel} from './apple-storage.mjs';
+import {memoryGB, memoryChoices} from './macbook-memory.mjs';
 
 export const jsonLD = data => '<script type="application/ld+json">' + JSON.stringify(data).replace(/</g, '\\u003c') + '</script>';
 const icon = name => '<svg aria-hidden="true"><use href="/assets/icons.svg#' + name + '"></use></svg>';
@@ -49,11 +50,12 @@ export function createStorefront(store) {
       + icon('arrow') + '</a>' : '';
   };
   function card(p) {
+    const memories = memoryChoices(store.products, p);
     return `<article class="product-card" data-product data-title="${e(displayName(p))}" data-name="${e([p.name,p.brand,p.category].join(' '))}" data-category="${p.category}" data-condition="${e(p.condition)}" data-availability="${p.availability}" data-price="${p.price ?? ''}">
       <a href="/productos/${p.slug}/"><div class="product-image${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(displayName(p))}" width="640" height="480" loading="lazy" decoding="async">` : placeholder}${badge(p.condition)}</div>
       ${officialImage(p) ? '<span class="reference-caption">Imagen de referencia · '+e(officialManufacturer(p))+'</span>' : referenceImage(p) ? '<span class="reference-caption">'+(p.classicGame?'Portada de referencia':'Fotografía de referencia del modelo')+'</span>' : illustration(p) ? '<span class="reference-caption">Imagen referencial · confirma el modelo</span>' : ''}
       <div class="product-info"><span class="eyebrow">${e(p.brand || p.category)}</span><h3>${e(displayName(p))}</h3><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p><strong class="card-price">${priceLabel(p)}</strong><span class="detail-link">Ver detalles ${icon('arrow')}</span></div></a>
-      ${productContact(p, 'Realizar compra', 'button secondary card-contact')}</article>`;
+      ${memories.length > 1 ? `<a class="card-ram-link" href="/productos/${p.slug}/#memoria-ram" aria-label="Elegir memoria RAM de ${e(displayName(p))}, ${e(p.condition)}">Elegir RAM <span>${memories.map(v => memoryGB(v)).join(' / ')} GB</span></a>` : ''}${productContact(p, 'Realizar compra', 'button secondary card-contact')}</article>`;
   }
   function catalog(category) {
     if(category === 'videojuegos') return gameDirectory(store);
@@ -89,6 +91,8 @@ export function createStorefront(store) {
     const c = store.categories.find(c => c.slug === p.category);
     const variants = store.products.filter(v => v.name === p.name && v.category === p.category && v.brand === p.brand);
     const capacities = storageChoices(store.products, p);
+    const memories = memoryChoices(store.products, p);
+    const memoryNav = memories.length > 1 ? `<nav id="memoria-ram" class="variant-picker ram-picker" aria-label="Memoria RAM de ${e(p.appleModelLabel || displayName(p))}"><p>Elige la memoria RAM</p><div>${memories.map(v => `<a href="/productos/${v.slug}/#memoria-ram"${p.slug === v.slug ? ' aria-current="page"' : ''}><span>${memoryGB(v)} GB RAM</span><small>${priceLabel(v)}</small>${v.availability === 'soldout' ? '<small>Agotado</small>' : ''}</a>`).join('')}</div><p class="small ram-selection-note">${storageLabel(p.storageGB)} SSD · ${e(p.condition)}. El precio corresponde a la RAM que elijas.</p></nav>` : '';
     const storageNav = capacities.length > 1 ? `<nav class="variant-picker storage-picker" aria-label="Almacenamiento de ${e(p.appleModelLabel || displayName(p))}"><p>Elige el almacenamiento</p><div>${capacities.map(v => `<a href="/productos/${v.slug}/"${p.slug === v.slug ? ' aria-current="page"' : ''}><span>${storageLabel(v.storageGB)}</span><small>${priceLabel(v)}</small></a>`).join('')}</div></nav>` : '';
     const variantNav = variants.length > 1 ? `<nav class="variant-picker" aria-label="Condición de ${e(displayName(p))}"><p>Elige la condición</p><div>${variants.sort((a,b) => CONDITIONS.indexOf(a.condition) - CONDITIONS.indexOf(b.condition)).map(v => `<a href="/productos/${v.slug}/"${p.slug === v.slug ? ' aria-current="page"' : ''}><span>${e(v.condition)}</span><small>${priceLabel(v)}</small><small>${availability[v.availability]}</small></a>`).join('')}</div></nav>` : '';
     const schema = {'@context': 'https://schema.org', '@type': 'Product', name: displayName(p), description: p.description,
@@ -100,7 +104,7 @@ export function createStorefront(store) {
     const body = `<section class="wrap section product-section"><nav class="breadcrumbs" aria-label="Ruta de navegación"><a href="/">Inicio</a><span aria-hidden="true">/</span><a href="/categorias/${c.slug}/">${e(c.name)}</a><span aria-hidden="true">/</span><span aria-current="page">${e(displayName(p))} · ${e(p.condition)}</span></nav>
       <div class="product-detail"><div class="product-media"><div class="product-visual${imageClass(p)}">${p.image ? `<img src="${e(p.image)}" alt="${e(displayName(p))}" width="800" height="600" fetchpriority="high" decoding="async">` : placeholder}</div><p class="small photo-disclaimer">${p.classicGame ? 'Portada de referencia del juego. Solicita fotografías reales de la unidad y confirma región, idioma, edición, discos y estado antes de comprar.' : officialImage(p) ? 'Imagen de referencia del fabricante. Confirma color, accesorios y fotografías del estado de la unidad que vas a comprar.' : referenceImage(p) ? 'Fotografía de referencia del modelo. Confirma fotografías reales, accesorios y estado de la unidad antes de comprar.' : illustration(p) ? 'Imagen ilustrativa, no corresponde a una unidad específica. Confirma por WhatsApp el modelo exacto, color, accesorios y fotografías reales antes de comprar.' : p.image ? 'Fotografía del modelo. Confirma las fotos, accesorios y estado de la unidad que vas a comprar.' : 'Esta referencia aún no tiene una fotografía verificada. Solicítala antes de comprar.'}</p></div>
       <div class="product-summary">${badge(p.condition)}<p class="eyebrow">${e(p.brand || c.name)}</p><h1>${e(displayName(p))}</h1><p class="product-description">${e(p.description.replace(p.name,displayName(p)))}</p>
-      ${storageNav}${variantNav}<div class="purchase-panel"><p class="product-price">${priceLabel(p)}</p><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p>${p.availability === 'soldout' ? '<p>Esta unidad no está disponible para compra.</p>' : productContact(p, 'Realizar compra')}
+      ${memoryNav}${storageNav}${variantNav}<div class="purchase-panel"><p class="product-price">${priceLabel(p)}</p><p class="availability" data-availability="${p.availability}">${availability[p.availability]}</p>${p.availability === 'soldout' ? '<p>Esta unidad no está disponible para compra.</p>' : productContact(p, 'Realizar compra')}
       ${p.availability === 'soldout' ? '' : '<div class="financing-options" aria-label="Opciones de pago y financiación"><p>Elige cómo quieres continuar</p>' + nequiContact(p) + financingContact(p, 'Addi') + financingContact(p, 'Sistecrédito') + '</div>'}
       <p class="small">Confirma el precio final, la garantía, el envío y los datos oficiales antes de pagar por Nequi. Addi y Sistecrédito están sujetos a estudio y aprobación; abrir WhatsApp no garantiza el crédito ni realiza un cobro.</p></div>
       <dl class="product-facts">${p.compatibility ? '<div><dt>Compatibilidad</dt><dd>'+e(p.compatibility)+'</dd></div>' : ''}<div><dt>Estado de la unidad</dt><dd>${e(p.conditionNotes)}</dd></div><div><dt>Incluye</dt><dd>${e(included(p))}</dd></div><div><dt>Garantía</dt><dd>${e(warranty(p))}</dd></div></dl><p class="small"><a href="/garantia/">Garantía y atención posventa</a> · <a href="/cambios-devoluciones/">Cambios y devoluciones</a></p>
