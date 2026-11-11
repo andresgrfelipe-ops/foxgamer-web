@@ -1,9 +1,20 @@
 import {storageStem, validateAppleStorage} from './apple-storage.mjs';
+import {validateMacbookMemory} from './macbook-memory.mjs';
 export const CONDITIONS = ['Nuevo', 'Usado', 'Exhibición'];
 export const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 // Storage and refurbishment labels do not change an iPhone's exterior model.
 // Only official, explicitly matched iPhone references may share a model image.
 export function imageIdentity(proof) {
+  if (proof.memoryReference) {
+    const withoutRAM = name => name.replace(/\d+ GB RAM\s*/, '');
+    if (proof.kind !== 'manufacturer' || !/^MacBook\b/.test(proof.name)
+      || proof.sourceModel !== proof.memorySourceModel
+      || storageStem(withoutRAM(proof.name)) !== storageStem(withoutRAM(proof.memoryReference))) {
+      throw new Error('Modelo oficial no coincide: ' + proof.name);
+    }
+    const {memoryReference,memorySourceModel,...reference} = proof;
+    return imageIdentity({...reference,name:memoryReference});
+  }
   const mini = proof.name.match(/^Mac mini (M4 Pro|M4|M5 Pro|M6) \d+ (GB|TB)$/);
   if (proof.kind === 'manufacturer' && mini) {
     const expected = {'M4':'Mac mini (2024)', 'M4 Pro':'Mac mini (2024)', 'M5 Pro':'Mac mini (M5 Pro)', 'M6':'Mac mini (M6)'}[mini[1]];
@@ -70,6 +81,7 @@ export function imageIdentity(proof) {
 }
 export function validateStore(store) {
   validateAppleStorage(store);
+  validateMacbookMemory(store);
   if (store.url !== 'https://foxgamer.co') throw new Error('El dominio canónico debe conservarse.');
   if (store.whatsapp && !/^[1-9]\d{7,14}$/.test(store.whatsapp)) throw new Error('WhatsApp debe usar formato internacional, solo dígitos.');
   const imageNames = new Map();

@@ -16,3 +16,17 @@ export function memoryChoices(products, product) {
   return [...new Map(choices.map(candidate => [memoryGB(candidate), candidate])).values()]
     .sort((a, b) => memoryGB(a) - memoryGB(b));
 }
+
+export function validateMacbookMemory(store) {
+  const models = new Map((store.appleMemoryModels || []).map(m=>[m.id,m]));
+  for (const p of store.products) {
+    if (!p.appleModel?.startsWith('macbook') || !models.size) continue;
+    const model = models.get(p.appleModel);
+    const ram = memoryGB(p);
+    if (!model || !/^https:\/\/(?:support|www)\.apple\.com\//.test(model.sourceUrl)
+      || !model.ramGB.includes(ram)) throw new Error('RAM incompatible con el modelo Apple: '+p.slug);
+    const named = p.name.match(/\b(\d+) GB RAM\b/);
+    if (named && Number(named[1])!==ram) throw new Error('RAM no coincide con el nombre: '+p.slug);
+    if (p.appleModel==='macbook-air-m1-2020' && p.storageGB===128 && ram!==8) throw new Error('Configuración educativa sin verificar: '+p.slug);
+  }
+}

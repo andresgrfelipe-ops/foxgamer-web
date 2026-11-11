@@ -13,7 +13,9 @@ test('cada grupo conserva condición, RAM y conectividad con todas sus capacidad
   const groups = new Map(store.products.filter(p => p.appleStorageGroup).map(p => [p.appleStorageGroup+'|'+p.condition,p]));
   for (const p of groups.values()) {
     const choices = storageChoices(store.products,p);
-    assert.deepEqual(choices.map(c => c.storageGB),models.get(p.appleModel).capacitiesGB,p.name+' '+p.condition);
+    const memoryModel = store.appleMemoryModels?.find(m=>m.id===p.appleModel);
+    const capacities = memoryModel?.capacitiesByRAM?.[p.ramGB] || models.get(p.appleModel).capacitiesGB;
+    assert.deepEqual(choices.map(c => c.storageGB),capacities,p.name+' '+p.condition);
     assert.ok(choices.every(c => c.condition === p.condition && c.appleStorageGroup === p.appleStorageGroup));
   }
   const mac = find('MacBook Air M5 15 pulgadas · 24 GB RAM · SSD 1 TB','Usado');

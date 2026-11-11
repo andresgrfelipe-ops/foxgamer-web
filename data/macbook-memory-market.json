@@ -1,0 +1,2835 @@
+{
+  "checkedAt": "2026-11-11",
+  "currency": "COP",
+  "country": "Colombia",
+  "policy": {
+    "discountPercent": 15,
+    "roundDownCOP": 1000,
+    "missingRAMFactorPerDoubling": 1.2,
+    "missingSSDFactorPerDoubling": 1.15,
+    "estimatedPriceNote": "Precio comercial calculado. Sin oferta exacta verificada para esta configuración.",
+    "unknownConditionRule": "Excluir como ancla de una condición concreta.",
+    "baselineRule": "Sin oferta de condición exacta: conservar base comercial FOX GAMER documentada, sin afirmar precio de mercado; variantes se calculan. No aplicar nuevamente15% a precios FOX existentes."
+  },
+  "models": [
+    {
+      "id": "macbook-air-13-inch-m5-2026",
+      "ramGB": [
+        16,
+        24,
+        32
+      ],
+      "sourceUrl": "https://support.apple.com/es-es/126320",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 16,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-air-m5-13-512gb-nuevo",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 4050000
+        },
+        {
+          "slug": "macbook-air-m5-13-512gb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 3442000
+        },
+        {
+          "slug": "macbook-air-m5-13-512gb-usado",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 2835000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m5-1-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 4657000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m5-1-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 3957000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m5-1-tb-usado",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 3259000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m5-2-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 5356000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m5-2-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 4551000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m5-2-tb-usado",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 3749000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m5-4-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Nuevo",
+          "priceCOP": 6159000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m5-4-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Exhibición",
+          "priceCOP": 5234000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m5-4-tb-usado",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Usado",
+          "priceCOP": 4311000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-air-15-inch-m5-2026",
+      "ramGB": [
+        16,
+        24,
+        32
+      ],
+      "sourceUrl": "https://www.apple.com/macbook-air/specs/",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 16,
+      "catalogueBaselines": [
+        {
+          "slug": "apple-family-324-nuevo",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 5200000
+        },
+        {
+          "slug": "apple-family-325-exhibicion",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 4700000
+        },
+        {
+          "slug": "apple-family-326-usado",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 4200000
+        },
+        {
+          "slug": "macbook-air-m5-15-24gb-1tb-nuevo",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 6390000
+        },
+        {
+          "slug": "macbook-air-m5-15-24gb-1tb-exhibicion",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 5750000
+        },
+        {
+          "slug": "macbook-air-m5-15-24gb-1tb-usado",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 5110000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-1-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 5980000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-1-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 5405000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-1-tb-usado",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 4830000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-2-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 6876000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-2-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 6214000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-2-tb-usado",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 5553000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-4-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Nuevo",
+          "priceCOP": 7908000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-4-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Exhibición",
+          "priceCOP": 7147000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-16-gb-ram-ssd-4-tb-usado",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Usado",
+          "priceCOP": 6387000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-512-gb-nuevo",
+          "ramGB": 24,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 5556000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-512-gb-exhibicion",
+          "ramGB": 24,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 4999000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-512-gb-usado",
+          "ramGB": 24,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 4443000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-2-tb-nuevo",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 7348000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-2-tb-exhibicion",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 6612000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-2-tb-usado",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 5876000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-4-tb-nuevo",
+          "ramGB": 24,
+          "storageGB": 4096,
+          "condition": "Nuevo",
+          "priceCOP": 8450000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-4-tb-exhibicion",
+          "ramGB": 24,
+          "storageGB": 4096,
+          "condition": "Exhibición",
+          "priceCOP": 7603000
+        },
+        {
+          "slug": "macbook-air-m5-15-pulgadas-24-gb-ram-ssd-4-tb-usado",
+          "ramGB": 24,
+          "storageGB": 4096,
+          "condition": "Usado",
+          "priceCOP": 6757000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-air-13-inch-m4-2025",
+      "ramGB": [
+        16,
+        24,
+        32
+      ],
+      "sourceUrl": "https://support.apple.com/en-sg/122209",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 16,
+      "catalogueBaselines": [
+        {
+          "slug": "apple-family-321-nuevo",
+          "ramGB": 16,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 3330000
+        },
+        {
+          "slug": "apple-family-322-exhibicion",
+          "ramGB": 16,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 2830000
+        },
+        {
+          "slug": "apple-family-323-usado",
+          "ramGB": 16,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 2331000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m4-512-gb-nuevo",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 3829000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m4-512-gb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 3254000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m4-512-gb-usado",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 2680000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m4-1-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 4403000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m4-1-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 3741000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m4-1-tb-usado",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 3082000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m4-2-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 5064000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m4-2-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 4303000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m4-2-tb-usado",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 3544000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-air-m1-2020",
+      "ramGB": [
+        8,
+        16
+      ],
+      "sourceUrl": "https://support.apple.com/es-es/111883",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 8,
+      "catalogueBaselines": [
+        {
+          "slug": "apple-ref-112-nuevo",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 2340000
+        },
+        {
+          "slug": "apple-ref-113-exhibicion",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 1989000
+        },
+        {
+          "slug": "apple-ref-114-usado",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 1638000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-128-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 128,
+          "condition": "Nuevo",
+          "priceCOP": 2034000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-128-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 128,
+          "condition": "Exhibición",
+          "priceCOP": 1728000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-128-gb-usado",
+          "ramGB": 8,
+          "storageGB": 128,
+          "condition": "Usado",
+          "priceCOP": 1423000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-512-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 2691000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-512-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 2287000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-512-gb-usado",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 1883000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-1-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 3094000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-1-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 2629000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-1-tb-usado",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 2165000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-2-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 3558000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-2-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 3024000
+        },
+        {
+          "slug": "macbook-air-m1-13-pulgadas-2-tb-usado",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 2490000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-air-retina-13-inch-intel-2020",
+      "ramGB": [
+        8,
+        16
+      ],
+      "sourceUrl": "https://support.apple.com/es-co/111991",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 8,
+      "catalogueBaselines": [
+        {
+          "slug": "apple-legacy-436-nuevo",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 1800000
+        },
+        {
+          "slug": "apple-legacy-437-exhibicion",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 1530000
+        },
+        {
+          "slug": "apple-legacy-438-usado",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 1260000
+        },
+        {
+          "slug": "macbook-air-intel-13-pulgadas-512-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 2069000
+        },
+        {
+          "slug": "macbook-air-intel-13-pulgadas-512-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 1758000
+        },
+        {
+          "slug": "macbook-air-intel-13-pulgadas-512-gb-usado",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 1448000
+        },
+        {
+          "slug": "macbook-air-intel-13-pulgadas-1-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 2380000
+        },
+        {
+          "slug": "macbook-air-intel-13-pulgadas-1-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 2023000
+        },
+        {
+          "slug": "macbook-air-intel-13-pulgadas-1-tb-usado",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 1666000
+        },
+        {
+          "slug": "macbook-air-intel-13-pulgadas-2-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 2737000
+        },
+        {
+          "slug": "macbook-air-intel-13-pulgadas-2-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 2326000
+        },
+        {
+          "slug": "macbook-air-intel-13-pulgadas-2-tb-usado",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 1915000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-neo-a18-pro-2026",
+      "ramGB": [
+        8
+      ],
+      "sourceUrl": "https://www.apple.com/macbook-neo/specs/",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 8,
+      "catalogueBaselines": [
+        {
+          "slug": "apple-mercado-206-nuevo",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 2655000
+        },
+        {
+          "slug": "apple-mercado-207-exhibicion",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 2256000
+        },
+        {
+          "slug": "apple-mercado-208-usado",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 1858000
+        },
+        {
+          "slug": "macbook-neo-a18-pro-8-gb-256-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 2308000
+        },
+        {
+          "slug": "macbook-neo-a18-pro-8-gb-256-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 1961000
+        },
+        {
+          "slug": "macbook-neo-a18-pro-8-gb-256-gb-usado",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 1615000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-pro-14-inch-m5-2025",
+      "ramGB": [
+        16,
+        24,
+        32
+      ],
+      "sourceUrl": "https://support.apple.com/en-us/125405",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 16,
+      "catalogueBaselines": [
+        {
+          "slug": "apple-ref-16-nuevo",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 6119000
+        },
+        {
+          "slug": "apple-ref-17-exhibicion",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 5201000
+        },
+        {
+          "slug": "apple-ref-18-usado",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 4283000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-512-gb-nuevo",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 5320000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-512-gb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 4521000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-512-gb-usado",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 3723000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-2-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 7036000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-2-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 5980000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-2-tb-usado",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 4924000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-4-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Nuevo",
+          "priceCOP": 8092000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-4-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Exhibición",
+          "priceCOP": 6878000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-4-tb-usado",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Usado",
+          "priceCOP": 5664000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-pro-14-inch-m5-pro-2026",
+      "ramGB": [
+        24,
+        48,
+        64
+      ],
+      "sourceUrl": "https://support.apple.com/en-gb/126318",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 24,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-pro-14-m5-pro-24gb-1tb-nuevo",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 8500000
+        },
+        {
+          "slug": "macbook-pro-14-m5-pro-24gb-1tb-exhibicion",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 7200000
+        },
+        {
+          "slug": "macbook-pro-14-m5-pro-24gb-1tb-usado",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 5950000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-nuevo",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 9775000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-exhibicion",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 8280000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-usado",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 6842000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-nuevo",
+          "ramGB": 24,
+          "storageGB": 4096,
+          "condition": "Nuevo",
+          "priceCOP": 11241000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-exhibicion",
+          "ramGB": 24,
+          "storageGB": 4096,
+          "condition": "Exhibición",
+          "priceCOP": 9521000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-usado",
+          "ramGB": 24,
+          "storageGB": 4096,
+          "condition": "Usado",
+          "priceCOP": 7868000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-pro-14-inch-m5-max-2026",
+      "ramGB": [
+        36,
+        48,
+        64,
+        128
+      ],
+      "sourceUrl": "https://support.apple.com/en-gb/126318",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 36,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-pro-14-m5-max-36gb-2tb-nuevo",
+          "ramGB": 36,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 16050000
+        },
+        {
+          "slug": "macbook-pro-14-m5-max-36gb-2tb-exhibicion",
+          "ramGB": 36,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 13600000
+        },
+        {
+          "slug": "macbook-pro-14-m5-max-36gb-2tb-usado",
+          "ramGB": 36,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 11200000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-4-tb-ssd-nuevo",
+          "ramGB": 36,
+          "storageGB": 4096,
+          "condition": "Nuevo",
+          "priceCOP": 18457000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-4-tb-ssd-exhibicion",
+          "ramGB": 36,
+          "storageGB": 4096,
+          "condition": "Exhibición",
+          "priceCOP": 15639000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-4-tb-ssd-usado",
+          "ramGB": 36,
+          "storageGB": 4096,
+          "condition": "Usado",
+          "priceCOP": 12879000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-8-tb-ssd-nuevo",
+          "ramGB": 36,
+          "storageGB": 8192,
+          "condition": "Nuevo",
+          "priceCOP": 21226000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-8-tb-ssd-exhibicion",
+          "ramGB": 36,
+          "storageGB": 8192,
+          "condition": "Exhibición",
+          "priceCOP": 17985000
+        },
+        {
+          "slug": "macbook-pro-14-pulgadas-m5-max-36-gb-ram-8-tb-ssd-usado",
+          "ramGB": 36,
+          "storageGB": 8192,
+          "condition": "Usado",
+          "priceCOP": 14811000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-pro-16-inch-m5-pro-2026",
+      "ramGB": [
+        24,
+        48,
+        64
+      ],
+      "sourceUrl": "https://support.apple.com/en-gb/126319",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 24,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-pro-16-m5-pro-24gb-1tb-nuevo",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 10800000
+        },
+        {
+          "slug": "macbook-pro-16-m5-pro-24gb-1tb-exhibicion",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 9150000
+        },
+        {
+          "slug": "macbook-pro-16-m5-pro-24gb-1tb-usado",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 7550000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-nuevo",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 12419000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-exhibicion",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 10521000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-2-tb-ssd-usado",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 8681000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-nuevo",
+          "ramGB": 24,
+          "storageGB": 4096,
+          "condition": "Nuevo",
+          "priceCOP": 14282000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-exhibicion",
+          "ramGB": 24,
+          "storageGB": 4096,
+          "condition": "Exhibición",
+          "priceCOP": 12100000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-pro-24-gb-ram-4-tb-ssd-usado",
+          "ramGB": 24,
+          "storageGB": 4096,
+          "condition": "Usado",
+          "priceCOP": 9984000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-pro-16-inch-m5-max-2026",
+      "ramGB": [
+        36,
+        48,
+        64,
+        128
+      ],
+      "sourceUrl": "https://support.apple.com/en-gb/126319",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 36,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-pro-16-m5-max-36gb-2tb-nuevo",
+          "ramGB": 36,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 19550000
+        },
+        {
+          "slug": "macbook-pro-16-m5-max-36gb-2tb-exhibicion",
+          "ramGB": 36,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 16600000
+        },
+        {
+          "slug": "macbook-pro-16-m5-max-36gb-2tb-usado",
+          "ramGB": 36,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 13650000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-4-tb-ssd-nuevo",
+          "ramGB": 36,
+          "storageGB": 4096,
+          "condition": "Nuevo",
+          "priceCOP": 22482000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-4-tb-ssd-exhibicion",
+          "ramGB": 36,
+          "storageGB": 4096,
+          "condition": "Exhibición",
+          "priceCOP": 19089000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-4-tb-ssd-usado",
+          "ramGB": 36,
+          "storageGB": 4096,
+          "condition": "Usado",
+          "priceCOP": 15697000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-8-tb-ssd-nuevo",
+          "ramGB": 36,
+          "storageGB": 8192,
+          "condition": "Nuevo",
+          "priceCOP": 25854000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-8-tb-ssd-exhibicion",
+          "ramGB": 36,
+          "storageGB": 8192,
+          "condition": "Exhibición",
+          "priceCOP": 21952000
+        },
+        {
+          "slug": "macbook-pro-16-pulgadas-m5-max-36-gb-ram-8-tb-ssd-usado",
+          "ramGB": 36,
+          "storageGB": 8192,
+          "condition": "Usado",
+          "priceCOP": 18051000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-pro-13-inch-intel-2020-two-thunderbolt-3-ports",
+      "ramGB": [
+        8,
+        16
+      ],
+      "sourceUrl": "https://support.apple.com/es-co/111981",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 8,
+      "catalogueBaselines": [
+        {
+          "slug": "apple-legacy-439-nuevo",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 2442000
+        },
+        {
+          "slug": "apple-legacy-440-exhibicion",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 2076000
+        },
+        {
+          "slug": "apple-legacy-441-usado",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 1710000
+        },
+        {
+          "slug": "macbook-pro-intel-13-pulgadas-512-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 2808000
+        },
+        {
+          "slug": "macbook-pro-intel-13-pulgadas-512-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 2387000
+        },
+        {
+          "slug": "macbook-pro-intel-13-pulgadas-512-gb-usado",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 1966000
+        },
+        {
+          "slug": "macbook-pro-intel-13-pulgadas-1-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 3229000
+        },
+        {
+          "slug": "macbook-pro-intel-13-pulgadas-1-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 2745000
+        },
+        {
+          "slug": "macbook-pro-intel-13-pulgadas-1-tb-usado",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 2261000
+        },
+        {
+          "slug": "macbook-pro-intel-13-pulgadas-2-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 3713000
+        },
+        {
+          "slug": "macbook-pro-intel-13-pulgadas-2-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 3156000
+        },
+        {
+          "slug": "macbook-pro-intel-13-pulgadas-2-tb-usado",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 2600000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-pro-14-inch-m1-pro-2021",
+      "ramGB": [
+        16,
+        32
+      ],
+      "sourceUrl": "https://support.apple.com/en-us/111902",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 16,
+      "catalogueBaselines": [
+        {
+          "slug": "apple-legacy-442-nuevo",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 4500000
+        },
+        {
+          "slug": "apple-legacy-443-exhibicion",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 3825000
+        },
+        {
+          "slug": "apple-legacy-444-usado",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 3150000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-1-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 5175000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-1-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 4398000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-1-tb-usado",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 3622000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-2-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 5951000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-2-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 5058000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-2-tb-usado",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 4165000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-4-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Nuevo",
+          "priceCOP": 6843000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-4-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Exhibición",
+          "priceCOP": 5816000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-4-tb-usado",
+          "ramGB": 16,
+          "storageGB": 4096,
+          "condition": "Usado",
+          "priceCOP": 4790000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-8-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 8192,
+          "condition": "Nuevo",
+          "priceCOP": 7870000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-8-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 8192,
+          "condition": "Exhibición",
+          "priceCOP": 6689000
+        },
+        {
+          "slug": "macbook-pro-m1-pro-14-pulgadas-8-tb-usado",
+          "ramGB": 16,
+          "storageGB": 8192,
+          "condition": "Usado",
+          "priceCOP": 5509000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-air-13-inch-m2-2022",
+      "ramGB": [
+        8,
+        16,
+        24
+      ],
+      "sourceUrl": "https://support.apple.com/es-co/111867",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 8,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-air-13-pulgadas-m2-256-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 2697000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-256-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 2292000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-256-gb-usado",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 1887000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-512-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 3101000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-512-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 2635000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-512-gb-usado",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 2170000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-1-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 3566000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-1-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 3030000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-1-tb-usado",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 2496000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-2-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 4101000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-2-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 3485000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m2-2-tb-usado",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 2870000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-air-15-inch-m2-2023",
+      "ramGB": [
+        8,
+        16,
+        24
+      ],
+      "sourceUrl": "https://support.apple.com/es-cl/111346",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 8,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-air-15-pulgadas-m2-256-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 3295000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-256-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 2978000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-256-gb-usado",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 2661000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-512-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 3790000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-512-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 3425000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-512-gb-usado",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 3061000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-1-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 4359000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-1-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 3939000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-1-tb-usado",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 3520000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-2-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 5012000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-2-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 4530000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m2-2-tb-usado",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 4048000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-air-13-inch-m3-2024",
+      "ramGB": [
+        8,
+        16,
+        24
+      ],
+      "sourceUrl": "https://support.apple.com/es-co/118551",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 8,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-air-13-pulgadas-m3-256-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 2997000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-256-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 2547000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-256-gb-usado",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 2097000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-512-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 3446000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-512-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 2928000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-512-gb-usado",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 2412000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-1-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 3962000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-1-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 3367000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-1-tb-usado",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 2773000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-2-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 4557000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-2-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 3872000
+        },
+        {
+          "slug": "macbook-air-13-pulgadas-m3-2-tb-usado",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 3189000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-air-15-inch-m3-2024",
+      "ramGB": [
+        8,
+        16,
+        24
+      ],
+      "sourceUrl": "https://support.apple.com/en-gb/118552",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 8,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-air-15-pulgadas-m3-256-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 3662000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-256-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 3309000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-256-gb-usado",
+          "ramGB": 8,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 2957000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-512-gb-nuevo",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 4212000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-512-gb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 3807000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-512-gb-usado",
+          "ramGB": 8,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 3402000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-1-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 4843000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-1-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 4377000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-1-tb-usado",
+          "ramGB": 8,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 3911000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-2-tb-nuevo",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 5569000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-2-tb-exhibicion",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 5033000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m3-2-tb-usado",
+          "ramGB": 8,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 4498000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    },
+    {
+      "id": "macbook-air-15-inch-m4-2025",
+      "ramGB": [
+        16,
+        24,
+        32
+      ],
+      "sourceUrl": "https://support.apple.com/en-gb/122210",
+      "reviewedAt": "2026-11-11",
+      "baselineRAM": 16,
+      "catalogueBaselines": [
+        {
+          "slug": "macbook-air-15-pulgadas-m4-256-gb-nuevo",
+          "ramGB": 16,
+          "storageGB": 256,
+          "condition": "Nuevo",
+          "priceCOP": 4068000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-256-gb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 256,
+          "condition": "Exhibición",
+          "priceCOP": 3676000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-256-gb-usado",
+          "ramGB": 16,
+          "storageGB": 256,
+          "condition": "Usado",
+          "priceCOP": 3285000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-512-gb-nuevo",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Nuevo",
+          "priceCOP": 4680000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-512-gb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Exhibición",
+          "priceCOP": 4230000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-512-gb-usado",
+          "ramGB": 16,
+          "storageGB": 512,
+          "condition": "Usado",
+          "priceCOP": 3780000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-1-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Nuevo",
+          "priceCOP": 5382000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-1-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Exhibición",
+          "priceCOP": 4864000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-1-tb-usado",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "condition": "Usado",
+          "priceCOP": 4347000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-2-tb-nuevo",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Nuevo",
+          "priceCOP": 6188000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-2-tb-exhibicion",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Exhibición",
+          "priceCOP": 5593000
+        },
+        {
+          "slug": "macbook-air-15-pulgadas-m4-2-tb-usado",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "condition": "Usado",
+          "priceCOP": 4998000
+        }
+      ],
+      "baselineNote": "Base comercial asignada a una configuración del catálogo; no identificación de RAM de unidades físicas. No acredita existencias."
+    }
+  ],
+  "offers": [
+    {
+      "modelId": "macbook-pro-14-inch-m5-2025",
+      "ramGB": 16,
+      "storageGB": 512,
+      "priceCOP": 6999990,
+      "condition": "Nuevo",
+      "seller": "i-Store Colombia",
+      "url": "https://www.i-storecolombia.com/macbook-pro-14-chip-m5-16gb-512ssd",
+      "availability": "1 available",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "evidence": "product_page",
+      "id": "macbook-market-20261111-01"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m5-2025",
+      "ramGB": 16,
+      "storageGB": 1024,
+      "priceCOP": 7799990,
+      "condition": "Nuevo",
+      "seller": "i-Store Colombia",
+      "url": "https://www.i-storecolombia.com/macbook-pro-14-m5-16gb-ram-1tb-ssd",
+      "availability": "1 available",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "evidence": "product_page",
+      "id": "macbook-market-20261111-02"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m5-2025",
+      "ramGB": 24,
+      "storageGB": 1024,
+      "priceCOP": 9199990,
+      "condition": "Nuevo",
+      "seller": "i-Store Colombia",
+      "url": "https://www.i-storecolombia.com/macbook-pro-14-chip-m5-24gb-ram-1tb-ssd",
+      "availability": "2 available",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "evidence": "product_page",
+      "id": "macbook-market-20261111-03"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m5-2025",
+      "ramGB": 16,
+      "storageGB": 1024,
+      "priceCOP": 7799990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5/",
+      "availability": "in stock",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "evidence": "live_public_html_variation_31228",
+      "id": "macbook-market-20261111-04"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m5-2025",
+      "ramGB": 24,
+      "storageGB": 1024,
+      "priceCOP": 8399990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5/",
+      "availability": "dispatch in 10 business days",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "evidence": "live_public_html_variation_31229",
+      "id": "macbook-market-20261111-05"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m5-2025",
+      "ramGB": 32,
+      "storageGB": 1024,
+      "priceCOP": 9999990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5/",
+      "availability": "in stock",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "evidence": "live_public_html_variation_32027",
+      "id": "macbook-market-20261111-06"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m5-pro-2026",
+      "ramGB": 24,
+      "storageGB": 1024,
+      "priceCOP": 9599990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5-pro-2026/",
+      "availability": "dispatch in 10 business days",
+      "cpuCores": 15,
+      "gpuCores": 16,
+      "evidence": "live_public_html_variation_31238",
+      "id": "macbook-market-20261111-07"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m5-pro-2026",
+      "ramGB": 24,
+      "storageGB": 2048,
+      "priceCOP": 10899990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5-pro-2026/",
+      "availability": "dispatch in 10 business days",
+      "cpuCores": 15,
+      "gpuCores": 16,
+      "evidence": "live_public_html_variation_31239",
+      "id": "macbook-market-20261111-08"
+    },
+    {
+      "modelId": "macbook-pro-16-inch-m5-pro-2026",
+      "ramGB": 24,
+      "storageGB": 1024,
+      "priceCOP": 10999990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5-pro-16-pulgadas/",
+      "availability": "in stock",
+      "cpuCores": 18,
+      "gpuCores": 20,
+      "evidence": "live_public_html_variation_31210",
+      "id": "macbook-market-20261111-09"
+    },
+    {
+      "modelId": "macbook-pro-16-inch-m5-pro-2026",
+      "ramGB": 48,
+      "storageGB": 1024,
+      "priceCOP": 12999990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5-pro-16-pulgadas/",
+      "availability": "in stock",
+      "cpuCores": 18,
+      "gpuCores": 20,
+      "evidence": "live_public_html_variation_31211",
+      "id": "macbook-market-20261111-10"
+    },
+    {
+      "modelId": "macbook-pro-16-inch-m5-pro-2026",
+      "ramGB": 48,
+      "storageGB": 1024,
+      "priceCOP": 14499990,
+      "condition": "Nuevo",
+      "seller": "i-Store Colombia",
+      "url": "https://www.i-storecolombia.com/macbook-pro-16-m5-pro-48gb-1tb-ssd",
+      "availability": "2 available",
+      "cpuCores": 18,
+      "gpuCores": 20,
+      "evidence": "product_page",
+      "id": "macbook-market-20261111-11"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m5-max-2026",
+      "ramGB": 36,
+      "storageGB": 2048,
+      "priceCOP": 13999990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5-max/",
+      "availability": "in stock",
+      "cpuCores": 18,
+      "gpuCores": 32,
+      "evidence": "live_public_html_variation_31245",
+      "id": "macbook-market-20261111-12"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m5-max-2026",
+      "ramGB": 36,
+      "storageGB": 2048,
+      "priceCOP": 16899990,
+      "condition": "Nuevo",
+      "seller": "i-Store Colombia",
+      "url": "https://www.i-storecolombia.com/macbook-pro-14-m5-max-36gb-2tb-ssd",
+      "availability": "1 available",
+      "cpuCores": 18,
+      "gpuCores": 32,
+      "evidence": "product_page",
+      "id": "macbook-market-20261111-13"
+    },
+    {
+      "modelId": "macbook-pro-16-inch-m5-max-2026",
+      "ramGB": 36,
+      "storageGB": 2048,
+      "priceCOP": 16699990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5-max-16-pulgadas/",
+      "availability": "in stock",
+      "cpuCores": 18,
+      "gpuCores": 32,
+      "evidence": "live_public_html_variation_31222",
+      "id": "macbook-market-20261111-14"
+    },
+    {
+      "modelId": "macbook-pro-16-inch-m5-max-2026",
+      "ramGB": 48,
+      "storageGB": 2048,
+      "priceCOP": 19699990,
+      "condition": "Nuevo",
+      "seller": "EasyMac Colombia",
+      "url": "https://easymac.co/macbook-pro-m5-max-16-pulgadas/",
+      "availability": "dispatch in 10 business days",
+      "cpuCores": 18,
+      "gpuCores": 40,
+      "evidence": "live_public_html_variation_31223",
+      "id": "macbook-market-20261111-15"
+    },
+    {
+      "modelId": "macbook-air-m1-2020",
+      "ramGB": 16,
+      "storageGB": 2048,
+      "priceCOP": 2657000,
+      "condition": "Usado",
+      "seller": "MacPlanet",
+      "url": "https://macplanet.com.co/producto/exelente-apple-macbook-air-2020-13-a2337-16gb-ram-2tb-ssd/",
+      "availability": "Añadir al carrito; cantidad no indicada",
+      "evidence": "Promoción Black Friday. 158 ciclos batería. No mezclar referencia usada con nuevos.",
+      "id": "macbook-market-20261111-16"
+    },
+    {
+      "modelId": "macbook-air-13-inch-m3-2024",
+      "ramGB": 16,
+      "storageGB": 256,
+      "priceCOP": 4499990,
+      "condition": "Nuevo",
+      "seller": "Pedidos.co",
+      "url": "https://pedidos.co/tienda/producto/macbook-air-m3-13-16gb-256gb-2024-colombia-bogota/",
+      "availability": "1 disponible; entrega inmediata Bogotá",
+      "evidence": "Nuevo explícito. Oferta sale desde5999990.",
+      "id": "macbook-market-20261111-17"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m1-pro-2021",
+      "ramGB": 16,
+      "storageGB": 512,
+      "priceCOP": 3313000,
+      "condition": "Usado",
+      "seller": "MacPlanet",
+      "url": "https://macplanet.com.co/producto/macbook-pro-14-apple-chip-m1-pro-16gb-512-ssd/",
+      "availability": "Añadir al carrito; cantidad no indicada",
+      "evidence": "BlackFriday;691ciclos86% batería;SKU R4795. No igualar a nueva.",
+      "id": "macbook-market-20261111-18"
+    },
+    {
+      "modelId": "macbook-pro-14-inch-m1-pro-2021",
+      "ramGB": 32,
+      "storageGB": 1024,
+      "priceCOP": 4257000,
+      "condition": "Usado",
+      "seller": "MacPlanet",
+      "url": "https://macplanet.com.co/producto/macbook-pro-14-apple-chip-m1-pro-32gb-1tb-ssd/",
+      "availability": "Añadir al carrito; cantidad no indicada",
+      "evidence": "BlackFriday;178ciclos86% batería;SKU R5207. No igualar a nueva.",
+      "id": "macbook-market-20261111-19"
+    },
+    {
+      "modelId": "macbook-air-13-inch-m5-2026",
+      "ramGB": 16,
+      "storageGB": 512,
+      "priceCOP": 4549990,
+      "condition": "Nuevo",
+      "seller": "Celudmovil",
+      "url": "https://www.celudmovil.com.co/products/macbook-air-m5-13-256gb-nueva-16ram-preventa",
+      "availability": "published listing",
+      "evidence": "Título512GB; precio general4549990, no promoción contado4449990. URL histórica256GB.",
+      "id": "macbook-market-20261111-20"
+    },
+    {
+      "modelId": "macbook-air-13-inch-m5-2026",
+      "ramGB": 16,
+      "storageGB": 1024,
+      "priceCOP": 5299990,
+      "condition": "Nuevo",
+      "seller": "Celudmovil",
+      "url": "https://www.celudmovil.com.co/collections/coleccion-de-apple/products/macbook-air-m5-13-1-tera-nueva-16-ram",
+      "availability": "published listing",
+      "evidence": "Oferta publicada; la existencia del proveedor no acredita inventario FOX GAMER.",
+      "id": "macbook-market-20261111-21"
+    },
+    {
+      "modelId": "macbook-air-13-inch-m5-2026",
+      "ramGB": 24,
+      "storageGB": 1024,
+      "priceCOP": 7199990,
+      "condition": "Nuevo",
+      "seller": "i-Store Colombia",
+      "url": "https://www.i-storecolombia.com/macbook-air-de-13-chip-m5-24gb-1tb-ssd",
+      "availability": "published listing",
+      "evidence": "Oferta publicada; la existencia del proveedor no acredita inventario FOX GAMER.",
+      "id": "macbook-market-20261111-22"
+    },
+    {
+      "modelId": "macbook-air-13-inch-m5-2026",
+      "ramGB": 32,
+      "storageGB": 1024,
+      "priceCOP": 9423900,
+      "condition": "Nuevo",
+      "seller": "OJALU",
+      "url": "https://ojalu.co/products/apple-13-macbook-air-m5-32gb-ram-1tb-ssd-pantalla-liquid-retina",
+      "availability": "published listing",
+      "evidence": "Precio actual página9423900IVAincluido; no usar snippet obsoleto8879900.",
+      "id": "macbook-market-20261111-23"
+    },
+    {
+      "modelId": "macbook-air-15-inch-m5-2026",
+      "ramGB": 16,
+      "storageGB": 512,
+      "priceCOP": 5499990,
+      "condition": "Nuevo",
+      "seller": "Celudmovil",
+      "url": "https://www.celudmovil.com.co/products/macbook-air-m5-15-512gb-nueva-16-ram",
+      "availability": "published listing",
+      "evidence": "Oferta publicada; la existencia del proveedor no acredita inventario FOX GAMER.",
+      "id": "macbook-market-20261111-24"
+    },
+    {
+      "modelId": "macbook-air-15-inch-m5-2026",
+      "ramGB": 24,
+      "storageGB": 1024,
+      "priceCOP": 5999990,
+      "condition": "Nuevo",
+      "seller": "Celudmovil",
+      "url": "https://www.celudmovil.com.co/collections/coleccion-de-apple/products/macbook-air-m5-15-1-tera-nueva-24-ram",
+      "availability": "published listing",
+      "evidence": "Oferta publicada; la existencia del proveedor no acredita inventario FOX GAMER.",
+      "id": "macbook-market-20261111-25"
+    },
+    {
+      "modelId": "macbook-air-15-inch-m4-2025",
+      "ramGB": 16,
+      "storageGB": 256,
+      "priceCOP": 5699000,
+      "condition": "Nuevo",
+      "seller": "The Phone Market",
+      "url": "https://thephonemarket.com.co/mac.html",
+      "availability": "published listing",
+      "evidence": "TablaMac:Air15M4,16GB,256GB,NuevoDisponible5699000.",
+      "id": "macbook-market-20261111-26"
+    }
+  ],
+  "research": {
+    "pro": {
+      "checkedAt": "2026-11-11",
+      "currency": "COP",
+      "retailMarket": "Colombia",
+      "discountRule": "User authorized 15% below verified market; final quote must distinguish estimated combinations.",
+      "scope": "Existing Liquid Retina XDR MacBook Pro; exclude newer PROLED XDR listings.",
+      "sources": [
+        {
+          "url": "https://support.apple.com/en-us/125405",
+          "ref": "turn2view0",
+          "models": [
+            "mbp14-m5"
+          ],
+          "supportedRAM": [
+            16,
+            24,
+            32
+          ],
+          "cpuCores": 10,
+          "gpuCores": 10,
+          "storageGB": [
+            512,
+            1024,
+            2048,
+            4096
+          ]
+        },
+        {
+          "url": "https://support.apple.com/en-gb/126318",
+          "ref": "turn2view1",
+          "models": [
+            "mbp14-m5pro",
+            "mbp14-m5max"
+          ],
+          "note": "Pro 15CPU16GPU or18CPU20GPU;24/48GB supported,64GB requires20GPU. Max18CPU:36GB requires32GPU;48/64/128 requires40GPU. ProSSD1/2/4TB;MaxSSD2/4/8TB."
+        },
+        {
+          "url": "https://www.apple.com/co/macbook-pro/specs/",
+          "ref": "turn9search7",
+          "models": [
+            "mbp16-m5pro",
+            "mbp16-m5max"
+          ],
+          "note": "16 ProCPU18GPU20 RAM24/48/64. MaxCPU18GPU32 RAM36;GPU40 RAM48/64/128. Support126319 returned429."
+        }
+      ],
+      "records": [
+        {
+          "modelId": "mbp14-m5",
+          "ramGB": 16,
+          "storageGB": 512,
+          "cpuCores": 10,
+          "gpuCores": 10,
+          "marketPriceCOP": 6999990,
+          "condition": "new_sealed",
+          "seller": "i-Store Colombia",
+          "url": "https://www.i-storecolombia.com/macbook-pro-14-chip-m5-16gb-512ssd",
+          "ref": "turn35view0",
+          "stock": "1 available",
+          "proof": "product_page"
+        },
+        {
+          "modelId": "mbp14-m5",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "cpuCores": 10,
+          "gpuCores": 10,
+          "marketPriceCOP": 7799990,
+          "condition": "new_sealed",
+          "seller": "i-Store Colombia",
+          "url": "https://www.i-storecolombia.com/macbook-pro-14-m5-16gb-ram-1tb-ssd",
+          "ref": "turn35view1",
+          "stock": "1 available",
+          "proof": "product_page"
+        },
+        {
+          "modelId": "mbp14-m5",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "cpuCores": 10,
+          "gpuCores": 10,
+          "marketPriceCOP": 9199990,
+          "condition": "new_sealed",
+          "seller": "i-Store Colombia",
+          "url": "https://www.i-storecolombia.com/macbook-pro-14-chip-m5-24gb-ram-1tb-ssd",
+          "ref": "turn6view0",
+          "stock": "2 available",
+          "proof": "product_page"
+        },
+        {
+          "modelId": "mbp14-m5",
+          "ramGB": 32,
+          "storageGB": 1024,
+          "cpuCores": 10,
+          "gpuCores": 10,
+          "marketPriceCOP": 9999990,
+          "condition": "new_sealed",
+          "seller": "i-Store Colombia",
+          "url": "https://www.i-storecolombia.com/macbook-pro-14-m5-32gb-ram-1tb-ssd",
+          "ref": "turn6view1",
+          "stock": "sold out",
+          "proof": "product_page"
+        },
+        {
+          "modelId": "mbp14-m5",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "cpuCores": 10,
+          "gpuCores": 10,
+          "marketPriceCOP": 7799990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5/",
+          "ref": "turn31view1",
+          "stock": "in stock",
+          "proof": "live_public_html_variation_31228"
+        },
+        {
+          "modelId": "mbp14-m5",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "cpuCores": 10,
+          "gpuCores": 10,
+          "marketPriceCOP": 8399990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5/",
+          "ref": "turn31view1",
+          "stock": "dispatch in 10 business days",
+          "proof": "live_public_html_variation_31229"
+        },
+        {
+          "modelId": "mbp14-m5",
+          "ramGB": 32,
+          "storageGB": 1024,
+          "cpuCores": 10,
+          "gpuCores": 10,
+          "marketPriceCOP": 9999990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5/",
+          "ref": "turn31view1",
+          "stock": "in stock",
+          "proof": "live_public_html_variation_32027"
+        },
+        {
+          "modelId": "mbp14-m5pro",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "cpuCores": 15,
+          "gpuCores": 16,
+          "marketPriceCOP": 9599990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5-pro-2026/",
+          "ref": "turn18view2",
+          "stock": "dispatch in 10 business days",
+          "proof": "live_public_html_variation_31238"
+        },
+        {
+          "modelId": "mbp14-m5pro",
+          "ramGB": 24,
+          "storageGB": 2048,
+          "cpuCores": 15,
+          "gpuCores": 16,
+          "marketPriceCOP": 10899990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5-pro-2026/",
+          "ref": "turn18view2",
+          "stock": "dispatch in 10 business days",
+          "proof": "live_public_html_variation_31239"
+        },
+        {
+          "modelId": "mbp16-m5pro",
+          "ramGB": 24,
+          "storageGB": 1024,
+          "cpuCores": 18,
+          "gpuCores": 20,
+          "marketPriceCOP": 10999990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5-pro-16-pulgadas/",
+          "ref": "turn31view0",
+          "stock": "in stock",
+          "proof": "live_public_html_variation_31210"
+        },
+        {
+          "modelId": "mbp16-m5pro",
+          "ramGB": 48,
+          "storageGB": 1024,
+          "cpuCores": 18,
+          "gpuCores": 20,
+          "marketPriceCOP": 12999990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5-pro-16-pulgadas/",
+          "ref": "turn31view0",
+          "stock": "in stock",
+          "proof": "live_public_html_variation_31211"
+        },
+        {
+          "modelId": "mbp16-m5pro",
+          "ramGB": 48,
+          "storageGB": 1024,
+          "cpuCores": 18,
+          "gpuCores": 20,
+          "marketPriceCOP": 14499990,
+          "condition": "new_sealed",
+          "seller": "i-Store Colombia",
+          "url": "https://www.i-storecolombia.com/macbook-pro-16-m5-pro-48gb-1tb-ssd",
+          "ref": "turn6view2",
+          "stock": "2 available",
+          "proof": "product_page"
+        },
+        {
+          "modelId": "mbp14-m5max",
+          "ramGB": 36,
+          "storageGB": 2048,
+          "cpuCores": 18,
+          "gpuCores": 32,
+          "marketPriceCOP": 13999990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5-max/",
+          "ref": "turn28view1",
+          "stock": "in stock",
+          "proof": "live_public_html_variation_31245",
+          "note": "US keyboard without Ñ"
+        },
+        {
+          "modelId": "mbp14-m5max",
+          "ramGB": 36,
+          "storageGB": 2048,
+          "cpuCores": 18,
+          "gpuCores": 32,
+          "marketPriceCOP": 16899990,
+          "condition": "new_sealed",
+          "seller": "i-Store Colombia",
+          "url": "https://www.i-storecolombia.com/macbook-pro-14-m5-max-36gb-2tb-ssd",
+          "ref": "turn29view0",
+          "stock": "1 available",
+          "proof": "product_page",
+          "note": "Spanish keyboard"
+        },
+        {
+          "modelId": "mbp16-m5max",
+          "ramGB": 36,
+          "storageGB": 2048,
+          "cpuCores": 18,
+          "gpuCores": 32,
+          "marketPriceCOP": 16699990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5-max-16-pulgadas/",
+          "ref": "turn18view0",
+          "stock": "in stock",
+          "proof": "live_public_html_variation_31222"
+        },
+        {
+          "modelId": "mbp16-m5max",
+          "ramGB": 48,
+          "storageGB": 2048,
+          "cpuCores": 18,
+          "gpuCores": 40,
+          "marketPriceCOP": 19699990,
+          "condition": "new_sealed",
+          "seller": "EasyMac Colombia",
+          "url": "https://easymac.co/macbook-pro-m5-max-16-pulgadas/",
+          "ref": "turn18view0",
+          "stock": "dispatch in 10 business days",
+          "proof": "live_public_html_variation_31223"
+        }
+      ],
+      "missingVerifiedDomesticPrices": [
+        "mbp14-m5pro RAM48 and64",
+        "mbp16-m5pro RAM64",
+        "mbp14-m5max RAM48,64,128",
+        "mbp16-m5max RAM64,128",
+        "All higher-SSD combinations except listed anchors"
+      ],
+      "exclusions": [
+        "i-Store16M5Max48GB1TB $17,999,990 contradicts Apple2TBminimum; do not use.",
+        "MacCenter16Max36/2TB $22,139,000 verified through live Shopify public product JSON, unavailable; not competitive anchor.",
+        "Sigma listings have COP conversion but import/domestic conditions not confirmed.",
+        "New PROLED XDR models are distinct from existing Liquid Retina XDR."
+      ],
+      "implementationNotes": [
+        "Do not call extrapolated RAM/SSD prices verified market prices. Mark as estimates.",
+        "Increasing RAM36->48 on Max changes GPU32->40, so describe selected GPU accurately.",
+        "Increasing RAM to64 on14M5Pro requires upgraded18CPU20GPU.",
+        "EasyMac observed SKU reuse (sameMRW43E/A for16Max variants); trust explicit product title, selectedRAM/SSD, chip description, not its inconsistent SKU.",
+        "EasyMac supplies US keyboards. i-Store14Max explicitly Spanish keyboard. Do not imply all quotes have identical keyboard."
+      ]
+    },
+    "legacy": {
+      "checkedAt": "2026-11-11",
+      "currency": "COP",
+      "market": "Colombia",
+      "records": [
+        {
+          "modelId": "air-m1-13",
+          "ramGB": 8,
+          "storageGB": 256,
+          "COPprice": 3200000,
+          "condition": "no declarada explícitamente",
+          "conditionVerified": false,
+          "year": 2020,
+          "screen": 13.3,
+          "chip": "M1",
+          "cpuCores": 8,
+          "gpuCores": 7,
+          "seller": "Computronic",
+          "stock": "Agregar al carrito; cantidad no indicada",
+          "url": "https://www.computronic.store/product-page/port%C3%A1til-macbook-air-de-13-3-chip-m1-8gb-ssd256-gb-gris-espacial-mgn63ll-a",
+          "ref": "turn17view1",
+          "notes": "Oferta retail con garantía fabricante 1 año; no afirmar nuevo hasta confirmar."
+        },
+        {
+          "modelId": "air-m1-13",
+          "ramGB": 16,
+          "storageGB": 2048,
+          "COPprice": 2657000,
+          "condition": "usado",
+          "conditionVerified": true,
+          "year": 2020,
+          "screen": 13.3,
+          "chip": "M1",
+          "cpuCores": null,
+          "gpuCores": null,
+          "seller": "MacPlanet",
+          "stock": "Añadir al carrito; cantidad no indicada",
+          "url": "https://macplanet.com.co/producto/exelente-apple-macbook-air-2020-13-a2337-16gb-ram-2tb-ssd/",
+          "ref": "turn24view0",
+          "notes": "Promoción Black Friday. 158 ciclos batería. No mezclar referencia usada con nuevos."
+        },
+        {
+          "modelId": "air-m2-13",
+          "ramGB": 8,
+          "storageGB": 256,
+          "COPprice": 4300000,
+          "condition": "no declarada explícitamente",
+          "conditionVerified": false,
+          "year": 2022,
+          "screen": 13.6,
+          "chip": "M2",
+          "cpuCores": 8,
+          "gpuCores": 8,
+          "seller": "Computronic",
+          "stock": "Agregar al carrito; cantidad no indicada",
+          "url": "https://www.computronic.store/product-page/macbook-air-de-13-6-chip-m2-8gb-ssd256-gb-medianoche-mly33ll-a",
+          "ref": "turn32view1",
+          "notes": "Oferta retail con garantía fabricante 1 año. Más caro que oferta 16GB del mismo vendedor: no derivar delta RAM negativo."
+        },
+        {
+          "modelId": "air-m2-13",
+          "ramGB": 16,
+          "storageGB": 256,
+          "COPprice": 4099999,
+          "condition": "no declarada explícitamente",
+          "conditionVerified": false,
+          "year": 2022,
+          "screen": 13.6,
+          "chip": "M2",
+          "cpuCores": 8,
+          "gpuCores": 8,
+          "seller": "Computronic",
+          "stock": "Agregar al carrito; últimas unidades",
+          "url": "https://www.computronic.store/product-page/macbook-air-13-chip-m2-16-ram-256-ssd-midnight",
+          "ref": "turn17view0",
+          "notes": "MC7X4LL/A. Oferta retail con garantía fabricante 1 año."
+        },
+        {
+          "modelId": "air-m2-15",
+          "ramGB": 8,
+          "storageGB": 256,
+          "COPprice": 4500000,
+          "condition": "no declarada explícitamente",
+          "conditionVerified": false,
+          "year": 2023,
+          "screen": 15.3,
+          "chip": "M2",
+          "cpuCores": 8,
+          "gpuCores": 10,
+          "seller": "Computronic",
+          "stock": "Agregar al carrito; cantidad no indicada",
+          "url": "https://www.computronic.store/product-page/macbook-air-de-15-chip-m2-de-8-gb-256-gb-2023-space-gray-mqkp3ll-a",
+          "ref": "turn22view5",
+          "notes": "Título Space Gray, ficha Midnight; RAMSSDchip coincide."
+        },
+        {
+          "modelId": "air-m2-15",
+          "ramGB": 16,
+          "storageGB": 1024,
+          "COPprice": 7000000,
+          "condition": "no declarada explícitamente",
+          "conditionVerified": false,
+          "year": 2023,
+          "screen": 15.3,
+          "chip": "M2",
+          "cpuCores": 8,
+          "gpuCores": 10,
+          "seller": "Computronic",
+          "stock": "Agregar al carrito; cantidad no indicada",
+          "url": "https://www.computronic.store/product-page/macbook-air-m2-2023-15-3-16-gb-1-tb-space-gray-z18u1tb",
+          "ref": "turn33view0",
+          "notes": "RAM16SSD1TB coherentes en título y tabla; título Space Gray pero prose Midnight."
+        },
+        {
+          "modelId": "air-m3-13",
+          "ramGB": 8,
+          "storageGB": 256,
+          "COPprice": 4200000,
+          "condition": "no declarada explícitamente",
+          "conditionVerified": false,
+          "year": 2024,
+          "screen": 13.6,
+          "chip": "M3",
+          "cpuCores": 8,
+          "gpuCores": 8,
+          "seller": "Computronic",
+          "stock": "Agregar al carrito; cantidad no indicada",
+          "url": "https://www.computronic.store/product-page/macbook-air-13-chip-m3-8gb-ram-256gb-ssd-midnight",
+          "ref": "turn30view2",
+          "notes": "MRXV3LL/A; garantía fabricante Apple1año."
+        },
+        {
+          "modelId": "air-m3-13",
+          "ramGB": 16,
+          "storageGB": 256,
+          "COPprice": 4499990,
+          "condition": "nuevo",
+          "conditionVerified": true,
+          "year": 2024,
+          "screen": 13.6,
+          "chip": "M3",
+          "cpuCores": 8,
+          "gpuCores": 10,
+          "seller": "Pedidos.co",
+          "stock": "1 disponible; entrega inmediata Bogotá",
+          "url": "https://pedidos.co/tienda/producto/macbook-air-m3-13-16gb-256gb-2024-colombia-bogota/",
+          "ref": "turn8view2",
+          "notes": "Nuevo explícito. Oferta sale desde5999990."
+        },
+        {
+          "modelId": "air-m3-15",
+          "ramGB": 8,
+          "storageGB": 512,
+          "COPprice": 5499999,
+          "condition": "no declarada explícitamente",
+          "conditionVerified": false,
+          "year": 2024,
+          "screen": 15.3,
+          "chip": "M3",
+          "cpuCores": 8,
+          "gpuCores": 10,
+          "seller": "Computronic",
+          "stock": "Agregar al carrito; cantidad no indicada",
+          "url": "https://www.computronic.store/product-page/macbook-air-15-chip-m3-8-ram-512-ssd-midnight",
+          "ref": "turn30view3",
+          "notes": "MRYV3LL/A; garantíaApple1año."
+        },
+        {
+          "modelId": "air-m3-15",
+          "ramGB": 16,
+          "storageGB": 512,
+          "COPprice": 6849990,
+          "condition": "no declarada explícitamente",
+          "conditionVerified": false,
+          "year": 2024,
+          "screen": 15.3,
+          "chip": "M3",
+          "cpuCores": 8,
+          "gpuCores": 10,
+          "seller": "Computronic tienda legacy",
+          "stock": "Agregar al carrito; cantidad no indicada",
+          "url": "https://computronicstore32.wixsite.com/tiendamac/macbook-air-de-15-chip-m3-16gb-512gb-ssd",
+          "ref": "turn22view4",
+          "notes": "Sitio legado, no dominio actual; título y tabla16/512 consistentes, garantíaApple al activar."
+        },
+        {
+          "modelId": "pro-m1pro-14",
+          "ramGB": 16,
+          "storageGB": 512,
+          "COPprice": 3313000,
+          "condition": "seminuevo",
+          "conditionVerified": true,
+          "year": 2021,
+          "screen": 14.2,
+          "chip": "M1 Pro",
+          "cpuCores": null,
+          "gpuCores": 14,
+          "seller": "MacPlanet",
+          "stock": "Añadir al carrito; cantidad no indicada",
+          "url": "https://macplanet.com.co/producto/macbook-pro-14-apple-chip-m1-pro-16gb-512-ssd/",
+          "ref": "turn24view1",
+          "notes": "BlackFriday;691ciclos86% batería;SKU R4795. No igualar a nueva."
+        },
+        {
+          "modelId": "pro-m1pro-14",
+          "ramGB": 32,
+          "storageGB": 1024,
+          "COPprice": 4257000,
+          "condition": "seminuevo",
+          "conditionVerified": true,
+          "year": 2021,
+          "screen": 14.2,
+          "chip": "M1 Pro",
+          "cpuCores": null,
+          "gpuCores": 16,
+          "seller": "MacPlanet",
+          "stock": "Añadir al carrito; cantidad no indicada",
+          "url": "https://macplanet.com.co/producto/macbook-pro-14-apple-chip-m1-pro-32gb-1tb-ssd/",
+          "ref": "turn30view0",
+          "notes": "BlackFriday;178ciclos86% batería;SKU R5207. No igualar a nueva."
+        }
+      ],
+      "specs": [
+        {
+          "modelId": "air-m1-13",
+          "ramGB": [
+            8,
+            16
+          ],
+          "storageGB": [
+            256,
+            512,
+            1024,
+            2048
+          ],
+          "url": "https://support.apple.com/es-es/111883",
+          "ref": "turn32search0"
+        },
+        {
+          "modelId": "air-m2-13",
+          "ramGB": [
+            8,
+            16,
+            24
+          ],
+          "storageGB": [
+            256,
+            512,
+            1024,
+            2048
+          ],
+          "url": "https://support.apple.com/es-co/111867",
+          "ref": "turn3search0"
+        },
+        {
+          "modelId": "air-m2-15",
+          "ramGB": [
+            8,
+            16,
+            24
+          ],
+          "storageGB": [
+            256,
+            512,
+            1024,
+            2048
+          ],
+          "url": "https://support.apple.com/es-cl/111346",
+          "ref": "turn32search1",
+          "gpuCores": 10
+        },
+        {
+          "modelId": "air-m3-13",
+          "ramGB": [
+            8,
+            16,
+            24
+          ],
+          "storageGB": [
+            256,
+            512,
+            1024,
+            2048
+          ],
+          "url": "https://support.apple.com/es-co/118551",
+          "ref": "turn13view3"
+        },
+        {
+          "modelId": "air-m3-15",
+          "ramGB": [
+            8,
+            16,
+            24
+          ],
+          "storageGB": [
+            256,
+            512,
+            1024,
+            2048
+          ],
+          "url": "https://support.apple.com/en-gb/118552",
+          "ref": "turn33search1",
+          "gpuCores": 10
+        },
+        {
+          "modelId": "pro-m1pro-14",
+          "ramGB": [
+            16,
+            32
+          ],
+          "storageGB": [
+            512,
+            1024,
+            2048,
+            4096,
+            8192
+          ],
+          "url": "https://support.apple.com/en-us/111902",
+          "ref": "turn32search2",
+          "notes": "64GB requiere M1Max, NO M1Pro."
+        },
+        {
+          "modelId": "air-intel-2020-13",
+          "ramGB": [
+            8,
+            16
+          ],
+          "storageGB": [
+            256,
+            512,
+            1024,
+            2048
+          ],
+          "url": "https://support.apple.com/es-co/111991",
+          "ref": "turn13view6",
+          "notes": "Intel i3 dual1.1, i5quad1.1, i7quad1.2."
+        },
+        {
+          "modelId": "pro-intel-2020-13-2ports",
+          "ramGB": [
+            8,
+            16
+          ],
+          "storageGB": [
+            256,
+            512,
+            1024,
+            2048
+          ],
+          "url": "https://support.apple.com/es-co/111981",
+          "ref": "turn13view7",
+          "notes": "2Thunderbolt; Intel8thgen i5quad1.4 or i7quad1.7. No mezclar con4ports10thgen."
+        },
+        {
+          "modelId": "neo-a18pro-13",
+          "ramGB": [
+            8
+          ],
+          "storageGB": [
+            256,
+            512
+          ],
+          "url": "https://www.apple.com/macbook-neo/specs/",
+          "ref": "turn33search0",
+          "notes": "RAM8 fija ambas capacidades. CPU6GPU5."
+        }
+      ],
+      "excluded": [
+        {
+          "modelId": "air-m2-13",
+          "ramGB": 24,
+          "storageGB": 512,
+          "COPprice": 4999900,
+          "url": "https://www.compudemano.com/producto/apple-macbook-air-13%E2%80%B3-512-gb-24-gb-ram-m2-2022-media-noche/",
+          "ref": "turn23search0",
+          "reason": "Agotado;searchtext solamente, open botprotection;cash/PSE4999900 u otrosmedios5159900."
+        },
+        {
+          "modelId": "air-m3-15",
+          "ramGB": 24,
+          "storageGB": 512,
+          "COPprice": 7799990,
+          "url": "https://computronicstore32.wixsite.com/tiendamac/macbook-air-de-15-chip-m3-24gb-512gb-ssd",
+          "ref": "turn22view3",
+          "reason": "Contradictorio: título/prose24GB,tabla16GB."
+        },
+        {
+          "modelId": "air-m3-13",
+          "ramGB": 24,
+          "storageGB": 512,
+          "COPprice": 6849990,
+          "url": "https://computronicstore32.wixsite.com/tiendamac/macbook-air-13-chip-m3-24gb-512gb-ssd",
+          "ref": "turn24view2",
+          "reason": "Contradictorio: título/tabla24GBGPU10,prose16GBGPU8."
+        },
+        {
+          "modelId": "pro-intel-2020-13-2ports",
+          "ramGB": 8,
+          "storageGB": 256,
+          "COPprice": 3099900,
+          "url": "https://refurbi.com.co/products/macbook-pro-13-2020-thunderbold3-core-i5-8gb-ram-256gb-ssd-reacondicionado",
+          "ref": "turn32view2",
+          "reason": "FICHAOTROMODELO: dice4puertos i5gen10 2.0GHz y8GB contradictorio. No usar para2ports."
+        }
+      ],
+      "missing": [
+        "No oferta exacta fiable Intel2020Air8/16 ni Pro13twoports8/16",
+        "No24GBAirM2/M3 con condición y disponibilidad verificadas",
+        "No AirM1 16GB nuevo;solo usadoSSD2TB",
+        "Computronic condición no explícita: precios observados NO confirmar como nuevos/usar automáticamente para una condición diferente"
+      ],
+      "usage": "Condiciones desconocidas se mantienen desconocidas. No promediar nuevo/usado. Si se derivan precios para otros SSD/RAM/condiciones deben etiquetarse estimaciones comerciales, no precios observados. ModelId conceptual; adaptar al repositorio."
+    }
+  },
+  "exclusions": [
+    "Enjoy M4: especificaciones internas contradictorias; rango por color sin SKU seleccionado.",
+    "EasyMac AirM4 32/512 usado agotado no prueba precio nuevo.",
+    "i-StoreM4 página antigua redirige;no confirmar vigencia."
+  ]
+}

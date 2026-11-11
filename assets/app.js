@@ -151,9 +151,12 @@ document.querySelectorAll('.product-image img,.product-visual img').forEach(img 
     document.head.append(link);
   }
   if (!document.querySelector('script[src="/assets/cart.js"]')) {
+    const prices = document.createElement('script');
+    prices.src = '/assets/cart-prices.js';
     const script = document.createElement('script');
     script.src = '/assets/cart.js';
     script.defer = true;
-    document.head.append(script);
+    prices.onload = () => document.head.append(script);
+    document.head.append(prices);
   }
 })();

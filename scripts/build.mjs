@@ -21,6 +21,7 @@ const written=[];
 
 
 async function save(path, content){await mkdir(path.includes('/')?path.slice(0,path.lastIndexOf('/')):'.',{recursive:true});await writeFile(path,content);written.push(path);}
+await save('assets/macbook-cart-prices.json',JSON.stringify(Object.fromEntries(store.products.filter(p=>p.appleModel?.startsWith('macbook')).map(p=>[p.name+'|'+p.condition,p.price])))+'\n');
 const icon=(type,cls='')=>'<svg class="'+cls+'" aria-hidden="true"><use href="/assets/icons.svg#'+type+'"></use></svg>';
 const wa=message=>whatsappURL(store.whatsapp,message);
 const contact=(label='Realizar compra',message='Hola FOX GAMER, quiero información sobre productos, pagos y envíos.',cls='button')=>wa(message)?'<a class="'+cls+'" href="'+e(wa(message))+'" target="_blank" rel="noopener noreferrer" aria-label="'+e(label)+' (abre WhatsApp en otra pestaña)">'+icon('chat')+e(label)+'</a>':'<a class="'+cls+'" href="/#contacto">'+icon('chat')+'Información de contacto</a>';

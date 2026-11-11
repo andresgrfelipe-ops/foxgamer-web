@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 
 const cart=await readFile('assets/cart.js','utf8');
+await import('../assets/cart-prices.js');
 
 test('cart checkout keeps reference lookup after checkout element lookup',()=>{
   const checkout=cart.indexOf("const checkout=document.querySelector('#fox-cart-checkout')");
@@ -39,3 +40,15 @@ test('order reference resets whenever the order changes',()=>{
 });
 
 test('cart JavaScript compiles before it is published',()=>{assert.doesNotThrow(()=>new Script(cart));});
+
+test('saved MacBook carts refresh prices without losing quantities or merging different RAM',()=>{
+  const old=[{id:'old',name:'MacBook Air16GB',condition:'Nuevo',price:6000000,qty:2},
+    {id:'new',name:'MacBook Air16GB',condition:'Nuevo',price:5000000,qty:1},
+    {id:'otherRAM',name:'MacBook Air24GB',condition:'Nuevo',price:6500000,qty:1},
+    {id:'legacy',name:'MacBook sin RAM',condition:'Usado',price:2000000,qty:1}];
+  const result=globalThis.FoxCartPrices.repriceMacbooks(old,{'MacBook Air16GB|Nuevo':5000000,'MacBook Air24GB|Nuevo':5500000});
+  assert.equal(result.length,3);assert.equal(result[0].qty,3);assert.equal(result[0].price,5000000);
+  assert.equal(result[1].qty,1);assert.equal(result[1].price,5500000);assert.equal(result[1].priceVerified,true);
+  assert.equal(result[2].priceVerified,false);assert.equal(result[2].qty,1);
+  assert.equal(old[0].price,6000000);
+});

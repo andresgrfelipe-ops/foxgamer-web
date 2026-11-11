@@ -3,6 +3,8 @@
   const money=n=>new Intl.NumberFormat('es-CO',{style:'currency',currency:'COP',maximumFractionDigits:0}).format(n);
   const orderId=()=>{const d=new Date(),p=n=>String(n).padStart(2,'0');return 'FG-'+d.getFullYear()+p(d.getMonth()+1)+p(d.getDate())+'-'+p(d.getHours())+p(d.getMinutes())+p(d.getSeconds())};
   let cart=[]; try{cart=JSON.parse(localStorage.getItem(KEY)||'[]');if(!Array.isArray(cart))cart=[];cart=cart.filter(x=>x&&typeof x.name==='string'&&Number.isFinite(x.price)&&x.price>0&&Number.isInteger(x.qty)&&x.qty>0)}catch{}
+  let macPrices=null;
+  cart.forEach(item=>{if(/^MacBook\b/.test(item.name))item.priceVerified=false});
   let customer={}; try{localStorage.removeItem(CUSTOMER_KEY)}catch{}
   const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(cart))}catch{}render()};
   const idFor=c=>[c.dataset.title,c.dataset.condition,c.dataset.price].join('|');
@@ -11,6 +13,7 @@
     const price=Number(card.dataset.price); if(!price) return;
     const id=idFor(card), found=cart.find(x=>x.id===id);
     if(found) found.qty++; else cart.push({id,name:card.dataset.title,condition:card.dataset.condition,price,qty:1});
+    if(macPrices)cart=window.FoxCartPrices.repriceMacbooks(cart,macPrices);
     resetReference(); save(); showCartNotice(`${card.dataset.title} añadido al carrito`); openCart();
   };
   let noticeTimer;
@@ -66,7 +69,7 @@
     cart.forEach(item=>{
       const row=document.createElement('div'); row.className='fox-cart-item';
       row.innerHTML='<div><strong></strong><small></small><span></span></div><div class="fox-cart-qty"><button type="button" data-minus>−</button><b></b><button type="button" data-plus>+</button><button type="button" data-remove aria-label="Eliminar">×</button></div>';
-      row.querySelector('strong').textContent=item.name; row.querySelector('small').textContent=item.condition; row.querySelector('span').textContent=money(item.price); row.querySelector('b').textContent=item.qty;
+      row.querySelector('strong').textContent=item.name; row.querySelector('small').textContent=item.condition; row.querySelector('span').textContent=/^MacBook\b/.test(item.name)&&!item.priceVerified?'Revisa la RAM y el precio en la ficha':money(item.price); row.querySelector('b').textContent=item.qty;
       row.querySelector('[data-minus]').onclick=()=>{resetReference();item.qty--;if(item.qty<1)cart=cart.filter(x=>x.id!==item.id);save()};
       row.querySelector('[data-plus]').onclick=()=>{resetReference();item.qty++;save()}; row.querySelector('[data-remove]').onclick=()=>{resetReference();cart=cart.filter(x=>x.id!==item.id);save()}; box.append(row);
     });
@@ -99,12 +102,14 @@ ${lines}
 • Pago preferido: ${payment}
 
 Quiero continuar con el pago. Indiquen el costo de envío, total final y los datos oficiales. Entiendo que no manejan contraentrega.`;
-    checkout.href='https://wa.me/573237267448?text='+encodeURIComponent(msg); checkout.classList.toggle('is-disabled',!cart.length); checkout.setAttribute('aria-disabled',String(!cart.length));
+    const needsReview=cart.some(x=>/^MacBook\b/.test(x.name)&&!x.priceVerified);
+    checkout.href='https://wa.me/573237267448?text='+encodeURIComponent(msg); checkout.classList.toggle('is-disabled',!cart.length||needsReview); checkout.setAttribute('aria-disabled',String(!cart.length||needsReview));
   }
   const syncDeliveryFields=()=>{const home=document.querySelector('#fox-order-delivery')?.value==='Envío a domicilio';const wrap=document.querySelector('#fox-order-address-wrap');if(wrap)wrap.hidden=!home;};
   document.querySelectorAll('#fox-order-name,#fox-order-phone,#fox-order-city,#fox-order-address,#fox-order-delivery,#fox-order-payment').forEach(el=>el.addEventListener('input',()=>{resetReference();saveCustomer();syncDeliveryFields();render()}));
   document.querySelector('#fox-cart-checkout').addEventListener('click',e=>{
     if(!cart.length){e.preventDefault();return;}
+    if(cart.some(x=>/^MacBook\b/.test(x.name)&&!x.priceVerified)){e.preventDefault();alert('Revisa la configuración de RAM y el precio de tu MacBook en su ficha y vuelve a agregarla al carrito.');return;}
     const checkout=e.currentTarget; if(!checkout.dataset.orderId)checkout.dataset.orderId=orderId(); const ref=document.querySelector('#fox-cart-reference'); if(ref){ref.textContent='Referencia: '+checkout.dataset.orderId;ref.hidden=false;}
     const required=['#fox-order-name','#fox-order-phone','#fox-order-city'];
     if(document.querySelector('#fox-order-delivery')?.value==='Envío a domicilio')required.push('#fox-order-address');
@@ -117,4 +122,7 @@ Quiero continuar con el pago. Indiquen el costo de envío, total final y los dat
   });
   syncDeliveryFields();
   render();
+  fetch('/assets/macbook-cart-prices.json',{cache:'no-store'}).then(response=>{
+    if(!response.ok)throw new Error('Precios no disponibles');return response.json();
+  }).then(prices=>{macPrices=prices;cart=window.FoxCartPrices.repriceMacbooks(cart,prices);resetReference();save()}).catch(()=>{});
 })();
